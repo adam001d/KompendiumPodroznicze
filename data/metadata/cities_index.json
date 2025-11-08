@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "updated": "2025-01-15T10:00:00Z",
+  "items": [
+    {
+      "id": "rzym",
+      "name": "Rzym",
+      "alternativeNames": ["Rome", "Roma", "Wieczne Miasto"],
+      "description": "Stolica Włoch, Wieczne Miasto pełne historii",
+      "thumbnail": "https://example.com/thumbnails/rome.jpg",
+      "country": "Włochy",
+      "countryId": "wlochy",
+      "unesco": true,
+      "popularity": 98
+    }
+  ]
+}

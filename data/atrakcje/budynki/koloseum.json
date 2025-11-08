@@ -1,0 +1,1500 @@
+{
+  "id": "BUD-ITA-001",
+  "ikona_font_awesome": "fa-monument",
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Amphitheatrum Flavium",
+      "potoczna": "Koloseum",
+      "lokalna": "Colosseo",
+      "tłumaczenia": {
+        "polski": "Koloseum",
+        "angielski": "Colosseum",
+        "niemiecki": "Kolosseum",
+        "francuski": "Colisée",
+        "włoski": "Colosseo",
+        "rosyjski": "Колизей",
+        "hiszpański": "Coliseo",
+        "łacina": "Amphitheatrum Flavium"
+      },
+      "nazwy_alternatywne": [
+        "Amfiteatr Flawiuszów",
+        "Colosseo Romano"
+      ],
+      "skróty": [
+        "COL"
+      ],
+      "nazwa_historyczna": "Amphitheatrum Flavium"
+    },
+    "typ_budynku": {
+      "kategoria_główna": "budowla historyczna",
+      "kategoria_drugorzędna": "amfiteatr",
+      "kategoria_trzecia": "zabytek archeologiczny",
+      "podkategorie": [
+        "arena",
+        "ruina",
+        "pomnik kultury",
+        "amfiteatr rzymski"
+      ],
+      "funkcje": [
+        "miejsce igrzysk i widowisk",
+        "obiekt dziedzictwa UNESCO",
+        "atrakcja turystyczna",
+        "pomnik historii",
+        "symbol Rzymu"
+      ],
+      "klasyfikacja_UNESCO": "Dobro Światowe UNESCO",
+      "typologia_architektoniczna": "amfiteatr na planie elipsy"
+    },
+    "status": {
+      "obecny": "zabezpieczona ruina",
+      "czynnościowo_operacyjny": false,
+      "procent_ukończenia": 100,
+      "faza_budowy": "zachowany częściowo",
+      "przewidywane_ukończenie": {
+        "rok_optymistyczny": 80,
+        "rok_realistyczny": 80,
+        "rok_pesymistyczny": 80,
+        "niepewność": "budowa ukończona w starożytności"
+      },
+      "dostępność_publiczna": true,
+      "aktywne_wykorzystanie": true,
+      "status_konserwatorski": "pod ścisłą ochroną konserwatorską",
+      "wpis_do_rejestru": "Patrimonio dell'Umanità (UNESCO 1980)"
+    },
+    "certyfikaty_oznaczenia": {
+      "UNESCO": {
+        "status": "Obiekt Światowego Dziedzictwa",
+        "rok_wpisu": 1980,
+        "kryteria": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "vi"
+        ],
+        "numer_referencyjny": "91",
+        "zakres": "Historyczne centrum Rzymu"
+      },
+      "inne_certyfikaty": [
+        {
+          "nazwa": "Monumento Nazionale",
+          "instytucja": "Ministerstwo Kultury Włoch",
+          "rok_nadania": 1873
+        },
+        {
+          "nazwa": "Siedem Cudów Świata",
+          "instytucja": "New7Wonders Foundation",
+          "rok_nadania": 2007
+        }
+      ]
+    }
+  },
+  "lokalizacja": {
+    "adres": {
+      "ulica": "Piazza del Colosseo",
+      "numer": "1",
+      "dzielnica": "Monti",
+      "osiedle": "Rione Monti",
+      "miasto": "Rzym",
+      "prowincja": "Rzym",
+      "region": "Lacjum",
+      "kraj": "Włochy",
+      "kod_kraju": "IT",
+      "kod_pocztowy": "00184",
+      "pełny_adres": "Piazza del Colosseo, 1, 00184 Roma RM, Włochy"
+    },
+    "współrzędne": {
+      "szerokość_geograficzna": 41.8902,
+      "długość_geograficzna": 12.4922,
+      "wysokość_n.p.m.": 37
+    },
+    "otoczenie": {
+      "gestość": "bardzo wysoka zabudowa miejska z terenami archeologicznymi",
+      "typ_zabudowy": "zabytkowo-turystyczna",
+      "dominująca_funkcja": "turystyczna z funkcją muzealną",
+      "odległość_od_morza": 24000,
+      "odległość_od_centrum": 1500,
+      "punkty_widokowe": [
+        {
+          "nazwa": "Poziom areny",
+          "wysokość": 12,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Łuk Konstantyna",
+            "Forum Romanum",
+            "Wzgórze Palatyńskie",
+            "Via dei Fori Imperiali"
+          ]
+        },
+        {
+          "nazwa": "Górny poziom widowni",
+          "wysokość": 48,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Bazylika św. Piotra",
+            "Panteon",
+            "Watykan",
+            "Wzgórze Palatyńskie",
+            "Centrum Rzymu"
+          ]
+        }
+      ]
+    }
+  },
+  "wymiary": {
+    "wysokość": {
+      "całkowita": 48.5,
+      "do_najwyższego_punktu": 48.5,
+      "ściany_zewnętrzne": 48.5,
+      "najwyższa_konstrukcja": "Ściana zewnętrzna (czwarta kondygnacja)",
+      "ściana_pierwszej_kondygnacji": 48.5,
+      "podium_podstawy": 7,
+      "różnica_wysokości": 41.5,
+      "wysokości_poszczególnych_elementów": {
+        "mur_zewnętrzny_zachowany": 48.5,
+        "arena_poziom": -6,
+        "podium": 4,
+        "ima_cavea": 11,
+        "media_cavea": 12,
+        "summa_cavea": 14,
+        "portyk_górny": 7.5,
+        "kolumny_porządku_doryckim": 10.5,
+        "kolumny_porządku_jońskim": 10.5,
+        "kolumny_porządku_korynckim": 10.5,
+        "attyka": 7
+      },
+      "symbolika_wysokości": "Najwyższy amfiteatr starożytnego Rzymu, symbol potęgi imperium"
+    },
+    "długość": {
+      "zewnętrzna": 189,
+      "wewnętrzna": 156,
+      "arena": 87.5,
+      "oś_główna": 189,
+      "cavea": 155,
+      "korytarze_zewnętrzne": 520,
+      "vomitoria_długość": 80,
+      "hypogeum_długość": 83
+    },
+    "szerokość": {
+      "zewnętrzna": 156,
+      "wewnętrzna": 130,
+      "arena": 54.8,
+      "oś_poprzeczna": 156,
+      "cavea": 130,
+      "korytarze_boczne": 4.5,
+      "schody_główne": 4
+    },
+    "powierzchnia": {
+      "całkowita": 24000,
+      "obrys": 24000,
+      "powierzchnia_użytkowa": 85000,
+      "arena": 3357,
+      "cavea": 15000,
+      "strefy_publiczne": 12000,
+      "korytarze_i_vomitoria": 8000,
+      "hypogeum": 6000,
+      "portyki": 4500,
+      "administracja": 2500,
+      "pomieszczenia_gladiatorów": 1800,
+      "pomieszczenia_zwierząt": 1200,
+      "działka": 24000,
+      "place_wokół": 35000,
+      "szczegółowe_powierzchnie": {
+        "ima_cavea": 4500,
+        "media_cavea": 6000,
+        "summa_cavea": 4500,
+        "podium": 850,
+        "vomitoria": 3200,
+        "korytarze_pierścieniowe": 4800,
+        "schody": 2400,
+        "klatki_dla_zwierząt": 800
+      }
+    },
+    "objętość": {
+      "całkowita": 580000,
+      "zamknięta": 320000,
+      "wewnętrzna": 280000,
+      "areny": 80000,
+      "cavea": 200000
+    },
+    "kondygnacje": {
+      "nadziemne": 4,
+      "podziemne": 2,
+      "razem": 6,
+      "użytkowe": 5,
+      "techniczne": 1,
+      "szczegóły": [
+        {
+          "poziom": -2,
+          "nazwa": "dolny poziom hypogeum",
+          "wysokość": 3
+        },
+        {
+          "poziom": -1,
+          "nazwa": "górny poziom hypogeum",
+          "wysokość": 3
+        },
+        {
+          "poziom": 0,
+          "nazwa": "arena i podium",
+          "wysokość": 4
+        },
+        {
+          "poziom": 1,
+          "nazwa": "ima cavea (porządek dorycki)",
+          "wysokość": 11
+        },
+        {
+          "poziom": 2,
+          "nazwa": "media cavea (porządek joński)",
+          "wysokość": 12
+        },
+        {
+          "poziom": 3,
+          "nazwa": "summa cavea (porządek koryncki)",
+          "wysokość": 14
+        }
+      ]
+    },
+    "inne_wymiary": {
+      "liczba_arkad": {
+        "pierwszy_poziom": 80,
+        "drugi_poziom": 80,
+        "trzeci_poziom": 80,
+        "razem": 240
+      },
+      "liczba_wejść": 80,
+      "liczba_vomitoriów": 76,
+      "liczba_kolumn": 240,
+      "liczba_miejsc_siedzących": {
+        "całkowita_pojemność": 50000,
+        "miejsca_siedzone": 50000,
+        "miejsca_stojące": 5000,
+        "razem": 55000
+      },
+      "liczba_schodów": 32,
+      "liczba_korytarzy": 160,
+      "średnice_kolumn": "1.2-1.5m",
+      "grubość_ścian": "3-6m",
+      "liczba_pomieszczeń_hypogeum": 32,
+      "liczba_wind_dla_zwierząt": 28,
+      "liczba_trap_drzwi_w_arenie": 32,
+      "obwód": 545,
+      "powierzchnia_areny": 3357,
+      "średnica_maszt_velarium": 240
+    }
+  },
+  "architektura": {
+    "styl_architektoniczny": {
+      "główny": "starożytny rzymski",
+      "podstyl": "architektura amfiteatralna",
+      "wpływy": [
+        "architektura grecka",
+        "architektura etruska",
+        "architektura hellenistyczna"
+      ],
+      "cechy": [
+        "trójpoziomowy system arkad",
+        "porządki architektoniczne dorycki, joński i koryncki",
+        "elewacja zewnętrzna z trawertynu",
+        "system wejść i wyjść (vomitoria)",
+        "skomplikowany system podziemny (hypogeum)",
+        "velarium - osłona przeciwsłoneczna"
+      ],
+      "innowacje": [
+        "system podziemnych korytarzy i wind",
+        "zaawansowana akustyka",
+        "szybka ewakuacja widzów",
+        "ruchome platformy sceniczne",
+        "system wodny do naumachii"
+      ],
+      "okres_architektoniczny": "I wiek n.e.",
+      "nurty_architektoniczne": "architektura imperialna, architektura rozrywkowa"
+    },
+    "architekci": {
+      "inicjator_budowy": {
+        "imię": "Wespazjan",
+        "lata_panowania": "69-79 n.e.",
+        "rola": "inicjator i fundator budowy",
+        "cezar": "założyciel dynastii Flawiuszów"
+      },
+      "kontynuator_budowy": {
+        "imię": "Tytus",
+        "lata_panowania": "79-81 n.e.",
+        "rola": "dokończenie budowy i inauguracja",
+        "relacja": "syn Wespazjana"
+      },
+      "rozbudowa": {
+        "imię": "Domicjan",
+        "lata_panowania": "81-96 n.e.",
+        "rola": "rozbudowa hypogeum",
+        "relacja": "młodszy syn Wespazjana"
+      },
+      "budowniczowie": {
+        "główny_nadzorca": "nieznany z imienia",
+        "robotnicy": "żydowscy jeńcy wojenni po powstaniu w Judei",
+        "specjalizacje": [
+          "kamieniarze",
+          "inżynierowie wodni",
+          "specjaliści od betonu rzymskiego",
+          "dekoratorzy"
+        ]
+      }
+    },
+    "koncepcja": {
+      "podstawy_koncepcyjne": "imperialna propaganda, rozrywka masowa, demonstracja potęgi Rzymu",
+      "filozofia_projektu": "funkcjonalność, widowiskowość, kontrola tłumu, prestiż cesarstwa",
+      "zasady_geometryczne": [
+        "kształt eliptyczny",
+        "symetria osiowa",
+        "powtarzalność modułów",
+        "optymalizacja widoczności"
+      ],
+      "system_konstrukcyjny": "łuki i sklepienia, system pięter, konstrukcja z kamienia i betonu rzymskiego",
+      "symetria": "pełna symetria osiowa",
+      "proporcje": "złoty podział, proporcje oparte na wymiarach ludzkiego ciała",
+      "orientacja": "główne osie wyznaczają kierunki kardynalne",
+      "symbolika_liczbowa": {
+        "80": "liczba bram wejściowych",
+        "4": "główne wejścia dla elit",
+        "3": "poziomy dla różnych klas społecznych"
+      },
+      "funkcjonalność": "szybka ewakuacja, dobra widoczność z każdego miejsca, ochrona przed słońcem"
+    },
+    "fasady_zewnętrzne": {
+      "ogólny_opis": "trójpoziomowa elewacja z łukami flankowanymi półkolumnami",
+      "wysokość_całkowita": "48 metrów",
+      "długość_owalu": "188 metrów",
+      "szerokość_owalu": "156 metrów",
+      "poziom_pierwszy": {
+        "styl_kolumny": "dorycki",
+        "wysokość": "10.5 metra",
+        "materiał": "trawertyn",
+        "charakterystyka": "proste, masywne kolumny"
+      },
+      "poziom_drugi": {
+        "styl_kolumny": "joński",
+        "wysokość": "11.8 metra",
+        "materiał": "trawertyn",
+        "charakterystyka": "kolumny ze zwijkami"
+      },
+      "poziom_trzeci": {
+        "styl_kolumny": "koryncki",
+        "wysokość": "11.75 metra",
+        "materiał": "trawertyn",
+        "charakterystyka": "zdobne kapitele z liści akantu"
+      },
+      "attyka": {
+        "przeznaczenie": "mocowanie masztów velarium",
+        "charakterystyka": "ściana z pilastrami korynckimi",
+        "konsoli_masztowe": "240"
+      },
+      "bramy": {
+        "liczba_bram": 80,
+        "bramy_główne": 4,
+        "przeznaczenie_bram_głównych": [
+          "wejście cesarza i dostojników",
+          "wejście kapłanów i westalek",
+          "wejście dla zwycięzców",
+          "wejście ceremonialne"
+        ]
+      }
+    },
+    "wnętrze": {
+      "widownia": {
+        "nazwa": "cavea",
+        "pojemność_pierwotna": "50 000 widzów",
+        "pojemność_maksymalna": "87 000 widzów",
+        "sektory": [
+          {
+            "nazwa": "podium",
+            "przeznaczenie": "cesarz, senatory, westalki",
+            "pojemność": "500 osób",
+            "charakterystyka": "marmurowe siedzenia, najlepsza widoczność"
+          },
+          {
+            "nazwa": "maenianum primum",
+            "przeznaczenie": "klas wyższa (ekwici)",
+            "pojemność": "8 000 osób",
+            "charakterystyka": "kamienne ławy"
+          },
+          {
+            "nazwa": "maenianum secundum",
+            "podział": [
+              "maenianum secundum imum - bogaci obywatele",
+              "maenianum secundum summum - ubożsi obywatele"
+            ],
+            "pojemność": "30 000 osób"
+          },
+          {
+            "nazwa": "maenianum summum in ligneis",
+            "przeznaczenie": "kobiety, niewolnicy, najbiedniejsi",
+            "pojemność": "12 000 osób",
+            "charakterystyka": "drewniane ławy na najwyższym poziomie"
+          }
+        ],
+        "system_korytarzy": {
+          "nazwa": "vomitoria",
+          "liczba": 80,
+          "funkcja": "szybka ewakuacja widzów",
+          "czas_ewakuacji": "15 minut dla całej widowni"
+        }
+      },
+      "arena": {
+        "wymiary": "86 × 54 metry",
+        "powierzchnia": "3357 m²",
+        "podłoga": "drewniana, pokryta piaskiem (harena)",
+        "funkcje": [
+          "walki gladiatorów",
+          "polowania na zwierzęta (venationes)",
+          "egzekucje",
+          "naumachie (bitwy morskie)"
+        ],
+        "system_zabezpieczeń": {
+          "nazwa": "podium z barierą",
+          "wysokość": "4 metry",
+          "funkcja": "ochrona widzów przed zwierzętami"
+        }
+      },
+      "hypogeum": {
+        "poziom": "podziemny",
+        "głębokość": "6-12 metrów",
+        "powierzchnia": "3000 m²",
+        "funkcje": [
+          "przetrzymywanie zwierząt",
+          "przygotowania gladiatorów",
+          "magazyn dekoracji",
+          "system wind i platform"
+        ],
+        "system_wind": {
+          "liczba_wind": "około 28",
+          "napęd": "system przeciwwag i lin",
+          "udźwig": "do 600 kg",
+          "funkcja": "transport zwierząt i dekoracji na arenę"
+        },
+        "korytarze": {
+          "liczba": "15 głównych korytarzy",
+          "funkcja": "logistyka przedstawień"
+        },
+        "pomieszczenia_specjalne": [
+          {
+            "nazwa": "spoliarium",
+            "funkcja": "składanie ciał poległych gladiatorów"
+          },
+          {
+            "nazwa": "sanitarium",
+            "funkcja": "opieka medyczna dla rannych"
+          },
+          {
+            "nazwa": "armamentarium",
+            "funkcja": "zbrojownia"
+          }
+        ]
+      },
+      "velarium": {
+        "funkcja": "osłona przeciwsłoneczna",
+        "rozmiar": "około 24 000 m²",
+        "konstrukcja": "płótno rozpostarte na linach",
+        "obsługa": "marynarze z floty w Misenum",
+        "liczba_marynarzy": "około 1000",
+        "mechanizm": "system bloków i lin na attyce"
+      }
+    },
+    "materiały_budowlane": {
+      "główne_materiały": [
+        {
+          "nazwa": "trawertyn",
+          "źródło": "kamieniołomy w Tivoli",
+          "zastosowanie": "elewacja zewnętrzna, łuki"
+        },
+        {
+          "nazwa": "beton rzymski",
+          "skład": "wapno, popiół wulkaniczny, kamienie",
+          "zastosowanie": "rdzeń konstrukcji, sklepienia"
+        },
+        {
+          "nazwa": "tuf wulkaniczny",
+          "źródło": "okolice Rzymu",
+          "zastosowanie": "wypełnienia łuków, ściany wewnętrzne"
+        },
+        {
+          "nazwa": "marmur",
+          "źródło": "Luna (Carrara), Grecja",
+          "zastosowanie": "dekoracje, siedzenia honorowe"
+        },
+        {
+          "nazwa": "drewno",
+          "źródło": "różne regiony imperium",
+          "zastosowanie": "podłoga areny, velarium, rusztowania"
+        }
+      ],
+      "techniki_budowlane": [
+        "opus quadratum - regularne bloki kamienne",
+        "opus caementicium - beton rzymski",
+        "łuki i sklepienia beczkowe",
+        "system przyporowy"
+      ]
+    },
+    "historia_budowy": {
+      "rozpoczęcie": "70-72 n.e.",
+      "zakończenie_budowy_głównej": "80 n.e.",
+      "rozbudowa_hypogeum": "81-96 n.e.",
+      "czas_budowy": "8-10 lat",
+      "koszt": "finansowany z łupów wojennych po zdobyciu Jerozolimy",
+      "miejsce": "dawne jezioro przy Złotym Domu Nerona",
+      "inauguracja": {
+        "data": "80 n.e.",
+        "organizator": "cesarz Tytus",
+        "czas_trwania_igrzysk": "100 dni",
+        "ofiary": "5000 zwierząt zabitych pierwszego dnia"
+      }
+    },
+    "przeznaczenie_i_wydarzenia": {
+      "główne_wydarzenia": [
+        {
+          "typ": "munera",
+          "opis": "walki gladiatorów",
+          "częstotliwość": "regularnie"
+        },
+        {
+          "typ": "venationes",
+          "opis": "polowania na zwierzęta",
+          "zwierzęta": "lwy, tygrysy, słonie, nosorożce, hipopotamy"
+        },
+        {
+          "typ": "naumachiae",
+          "opis": "bitwy morskie",
+          "charakterystyka": "arena zalewana wodą"
+        },
+        {
+          "typ": "egzekucje",
+          "opis": "wykonanie wyroków śmierci",
+          "metody": "damnatio ad bestias, ukrzyżowanie"
+        }
+      ],
+      "ostatnie_igrzyska": {
+        "data": "VI wiek n.e.",
+        "przyczyna_zaprzestania": "upadek imperium, koszty, chrześcijaństwo"
+      }
+    },
+    "stan_zachowania": {
+      "obecny_stan": "zrujnowany",
+      "przyczyny_zniszczenia": [
+        "trzęsienia ziemi (847, 1349 n.e.)",
+        "kamieniołom - wydobywanie materiałów budowlanych",
+        "zaniedbanie w średniowieczu",
+        "budowa fortyfikacji przez rodziny arystokratyczne"
+      ],
+      "zachowane_elementy": [
+        "północna część elewacji",
+        "fragmenty widowni",
+        "hypogeum",
+        "fundamenty"
+      ],
+      "prace_konserwatorskie": [
+        {
+          "okres": "XIX wiek",
+          "działania": "zabezpieczenie ruin, pierwsze prace archeologiczne"
+        },
+        {
+          "okres": "XX wiek",
+          "działania": "systematyczne wykopaliska, renowacja"
+        },
+        {
+          "okres": "XXI wiek",
+          "działania": "czyszczenie, monitoring strukturalny, renowacja areny"
+        }
+      ]
+    },
+    "znaczenie_współczesne": {
+      "status": "jeden z symboli Rzymu i Włoch",
+      "turystyka": "około 7 milionów odwiedzających rocznie",
+      "unesco": "wpisane na listę światowego dziedzictwa (1980)",
+      "funkcje_kulturalne": [
+        "koncerty",
+        "ceremonie religijne (Wielki Piątek)",
+        "eventy kulturalne"
+      ],
+      "symbolika": "pokój i zniesienie kary śmierci (od 1999)"
+    }
+  },
+  "budowa": {
+    "chronologia": {
+      "70-71": "Koncepcja budowy amfiteatru za cesarza Wespazjana",
+      "71": "Wybór lokalizacji na dawnym jeziorze przy Złotym Domu Nerona",
+      "71-72": "Osuszenie terenu i przygotowanie fundamentów",
+      "72": "Wmurowanie kamienia węgielnego i rozpoczęcie budowy",
+      "79": "Śmierć cesarza Wespazjana podczas budowy",
+      "80": "Inauguracja Koloseum przez cesarza Tytusa",
+      "81-96": "Rozbudowa podziemnych korytarzy hypogeum",
+      "96": "Ukończenie wszystkich prac budowlanych",
+      "VI wiek": "Ostatnie igrzyska gladiatorskie w amfiteatrze",
+      "847": "Pierwsze poważne uszkodzenia po trzęsieniu ziemi",
+      "1349": "Drugie poważne uszkodzenia po trzęsieniu ziemi",
+      "XVIII wiek": "Pierwsze systematyczne prace konserwatorskie",
+      "1980": "Wpis na listę Światowego Dziedzictwa UNESCO",
+      "XXI wiek": "Obecna faza - konserwacja i renowacja zabytku",
+      "do 2025": "Planowane zakończenie głównych prac renowacyjnych"
+    },
+    "fazy_szczegółowe": [
+      {
+        "faza": "Faza 1 - Przygotowanie terenu",
+        "okres": "71-72 n.e.",
+        "osiągnięcia": "osuszenie jeziora, wykonanie fundamentów",
+        "wyzwania": "niestabilne podłoże po jeziorze",
+        "techniki": "system drenażowy, głębokie pale fundamentowe"
+      },
+      {
+        "faza": "Faza 2 - Konstrukcja podziemna",
+        "okres": "72-75 n.e.",
+        "osiągnięcia": "budowa hypogeum, fundamentów areny, podziemnych korytarzy",
+        "materiały": "beton rzymski, tuf wulkaniczny",
+        "innowacje": "system odwadniający, kanały wentylacyjne"
+      },
+      {
+        "faza": "Faza 3 - Widownia i elewacja",
+        "okres": "75-79 n.e.",
+        "osiągnięcia": "budowa cavea (widowni), pierwsze dwa poziomy elewacji",
+        "architekt": "pod nadzorem Wespazjana",
+        "materiały": "trawertyn, marmur"
+      },
+      {
+        "faza": "Faza 4 - Ukończenie podstawowej struktury",
+        "okres": "79-80 n.e.",
+        "osiągnięcia": "dokończenie trzeciego poziomu, arena, system vomitoria",
+        "architekt": "Tytus",
+        "wydarzenie": "100-dniowe igrzyska inauguracyjne"
+      },
+      {
+        "faza": "Faza 5 - Rozbudowa hypogeum",
+        "okres": "81-96 n.e.",
+        "osiągnięcia": "rozbudowa podziemi, system wind, pomieszczenia techniczne",
+        "architekt": "Domicjan",
+        "innowacje": "zaawansowany system mechaniczny"
+      },
+      {
+        "faza": "Faza 6 - Utrzymanie i naprawy",
+        "okres": "II-V wiek n.e.",
+        "działania": "regularne naprawy po pożarach i trzęsieniach ziemi",
+        "ważne_wydarzenia": "pożar w 217 n.e., naprawy za Aleksandra Sewera"
+      },
+      {
+        "faza": "Faza 7 - Zaniedbanie i rozbiórka",
+        "okres": "VI-XVIII wiek",
+        "straty": "rozbiórka na materiał budowlany, przekształcenie w fortecę",
+        "użytkownicy": "rodzina Frangipani, później kamieniołom"
+      },
+      {
+        "faza": "Faza 8 - Ochrona i pierwsze prace konserwatorskie",
+        "okres": "XVIII-XIX wiek",
+        "działania": "zabezpieczenie ruin, pierwsze wykopaliska archeologiczne",
+        "ważne_postacie": "papieże Benedykt XIV, Pius VII"
+      },
+      {
+        "faza": "Faza 9 - Współczesna konserwacja",
+        "okres": "XX-XXI wiek",
+        "działania": "systematyczne prace archeologiczne, renowacja, stabilizacja strukturalna",
+        "projekty": "czyszczenie fasady, renowacja hypogeum, nowe systemy odwodnienia"
+      }
+    ],
+    "finansowanie": {
+      "główne_źródło": "łupy wojenne z Jerozolimy",
+      "wartość_łupów": "ogromne bogactwa ze Świątyni Jerozolimskiej",
+      "dodatkowe_źródła": "skarbiec cesarski, podatki",
+      "koszt_budowy": "nieznany dokładnie, szacowany na równowartość współczesnych setek milionów euro",
+      "koszt_utrzymania": "finansowany z imperialnego skarbca",
+      "współczesne_finansowanie": {
+        "własność": "państwo włoskie",
+        "zarządca": "Parco Archeologico del Colosseo",
+        "budżet_roczny": "około 15-20 mln euro",
+        "źródła": "bilety wstępu, dotacje rządowe, sponsorzy prywatni"
+      },
+      "bilet_wstępu": {
+        "cena_bazowa": "16-24 euro (w zależności od opcji)",
+        "liczba_turystów_rocznie": "7-8 milionów",
+        "dochód_roczny_z_turystyki": "około 120-150 mln euro"
+      },
+      "sponsorzy": [
+        "Tod's Group (renowacja zewnętrzna)",
+        "Diego Della Valle (mecenas)",
+        "Bulgaria (renowacja hypogeum)"
+      ]
+    },
+    "technologie": {
+      "historyczne_techniki_budowlane": [
+        "opus caementicium - beton rzymski",
+        "opus quadratum - regularne bloki kamienne",
+        "łuki i sklepienia",
+        "system przyporowy",
+        "dźwignie i windy napędzane siłą mięśni",
+        "rusztowania drewniane",
+        "transport bloków kamiennych na wozach ciągniętych przez woły"
+      ],
+      "innowacje_starożytne": [
+        "system vomitoria - szybka ewakuacja",
+        "hypogeum - podziemny kompleks techniczny",
+        "velarium - ruchoma osłona przeciwsłoneczna",
+        "system wind dla zwierząt",
+        "zaawansowana akustyka",
+        "system kanalizacji i odwodnienia"
+      ],
+      "współczesne_technologie_konserwatorskie": [
+        "skanowanie laserowe 3D",
+        "fotogrametria",
+        "monitoring strukturalny z czujnikami",
+        "georadary do badań podłoża",
+        "analizy termowizyjne",
+        "drony do inspekcji",
+        "symulacje komputerowe obciążeń"
+      ],
+      "przełomy_budowlane": [
+        {
+          "okres": "72 n.e.",
+          "innowacja": "osuszanie jeziora i wzmacnianie gruntu",
+          "znaczenie": "umożliwiło budowę na niestabilnym terenie"
+        },
+        {
+          "okres": "75 n.e.",
+          "innowacja": "system łuków i sklepień",
+          "znaczenie": "rozwiązanie problemu dużych rozpiętości"
+        },
+        {
+          "okres": "81-96 n.e.",
+          "innowacja": "rozbudowa hypogeum z systemem wind",
+          "znaczenie": "zrewolucjonizowało organizację widowisk"
+        },
+        {
+          "okres": "XXI wiek",
+          "innowacja": "system monitoringu strukturalnego",
+          "znaczenie": "zapobieganie dalszym zniszczeniom"
+        }
+      ]
+    },
+    "materiały": {
+      "kamienie_naturalne": {
+        "trawertyn": {
+          "źródło": "kamieniołomy w Tivoli",
+          "zastosowanie": "elewacja zewnętrzna, łuki, siedzenia",
+          "ilość": "około 100 000 metrów sześciennych",
+          "transport": "specjalna droga z Tivoli do Rzymu",
+          "charakterystyka": "porowaty, lekki, wytrzymały"
+        },
+        "tuf_wulkaniczny": {
+          "źródło": "okolice Rzymu",
+          "zastosowanie": "wypełnienie łuków, ściany wewnętrzne",
+          "charakterystyka": "lekki, dobry izolator termiczny"
+        },
+        "marmur": {
+          "źródło": "Luna (Carrara), Grecja, Afryka",
+          "zastosowanie": "dekoracje, siedzenia honorowe, posadzki",
+          "charakterystyka": "luksusowy, łatwy w obróbce"
+        },
+        "peperyn": {
+          "źródło": "Alban Hills",
+          "zastosowanie": "elementy konstrukcyjne wewnętrzne",
+          "charakterystyka": "twardy, odporny na ogień"
+        }
+      },
+      "beton_rzymski": {
+        "skład": "wapno, popiół wulkaniczny (pucolana), kamienie, woda",
+        "zastosowanie": "rdzeń konstrukcji, sklepienia, fundamenty",
+        "wytrzymałość": "porównywalna ze współczesnym betonem",
+        "trwałość": "większa niż współczesnego betonu dzięki pucolanie",
+        "ilość": "około 150 000 metrów sześciennych"
+      },
+      "drewno": {
+        "zastosowanie": "podłoga areny, rusztowania, velarium, konstrukcje tymczasowe",
+        "gatunki": "dąb, jodła, sosna",
+        "ilość": "kilkadziesiąt tysięcy metrów sześciennych"
+      },
+      "metale": {
+        "żelazo_i_brąz": {
+          "zastosowanie": "okucia, łączniki, elementy dekoracyjne, kraty",
+          "techniki": "kucie, odlewanie"
+        },
+        "ołów": {
+          "zastosowanie": "uszczelnienia, rury wodne",
+          "charakterystyka": "łatwy w obróbce, odporny na korozję"
+        }
+      },
+      "materiały_współczesne_konserwatorskie": [
+        {
+          "nazwa": "stale nierdzewne",
+          "zastosowanie": "złącza, kotwy, elementy wzmacniające"
+        },
+        {
+          "nazwa": "zaprawy konserwatorskie",
+          "zastosowanie": "renowacja spoin, uzupełnienia ubytków"
+        },
+        {
+          "nazwa": "hydrofobowe impregnaty",
+          "zastosowanie": "ochrona przed wilgocią i zanieczyszczeniami"
+        }
+      ]
+    },
+    "wyzwania_techniczne": {
+      "historyczne": {
+        "problem": "niestabilne podłoże po jeziorze",
+        "rozwiązanie": "głębokie pale fundamentowe, system drenażowy"
+      },
+      "konstrukcyjne": {
+        "problem": "przeniesienie ogromnych obciążeń z widowni",
+        "rozwiązanie": "system łuków i sklepień rozpraszających siły"
+      },
+      "logistyczne": {
+        "problem": "transport ogromnych ilości materiałów",
+        "rozwiązanie": "organizacja pracy na zmiany, specjalne drogi transportowe"
+      },
+      "współczesne": {
+        "problem": "zanieczyszczenie powietrza niszczące kamień",
+        "rozwiązanie": "regularne czyszczenie, monitoring środowiskowy"
+      },
+      "strukturalne": {
+        "problem": "postępująca degradacja po trzęsieniach ziemi",
+        "rozwiązanie": "systematyczne prace stabilizacyjne, monitoring ruchów"
+      },
+      "turystyczne": {
+        "problem": "ogromna liczba turystów niszcząca strukturę",
+        "rozwiązanie": "limit zwiedzających, wyznaczone trasy, system rezerwacji"
+      }
+    },
+    "zespół_budowlany": {
+      "starożytny": {
+        "główny_nadzorca": "nieznany z imienia architekt/inspektor cesarski",
+        "robotnicy": "żydowscy jeńcy wojenni, niewolnicy, wolni rzemieślnicy",
+        "szacunkowa_liczba": "20 000-30 000 osób przez cały okres budowy",
+        "specjaliści": [
+          "kamieniarze",
+          "cieśle",
+          "betoniarze",
+          "dekoratorzy",
+          "inżynierowie wodni",
+          "mistrzowie rusztowań"
+        ],
+        "organizacja_pracy": "system zmianowy, specjalizacja zespołów"
+      },
+      "współczesny": {
+        "zarządca": "Parco Archeologico del Colosseo",
+        "zatrudnienie_stałe": "około 50-70 osób",
+        "specjaliści": [
+          "archeolodzy",
+          "architekci konserwatorzy",
+          "inżynierowie konstrukcyjni",
+          "geolodzy",
+          "konserwatorzy zabytków",
+          "przewodnicy",
+          "personel bezpieczeństwa"
+        ],
+        "współpraca_akademicka": [
+          "Uniwersytet Rzymski La Sapienza",
+          "ICCROM (Międzynarodowe Centrum Studiów nad Ochroną i Restauracją Zabytków)",
+          "różne instytuty badawcze"
+        ]
+      }
+    },
+    "czas_budowy": {
+      "faza_podstawowa": "8 lat (72-80 n.e.)",
+      "faza_rozbudowy": "15 lat (81-96 n.e.)",
+      "całkowity_okres_budowy": "24 lata",
+      "prędkość_budowy": "niezwykle szybka jak na tamte czasy",
+      "czynniki_przyspieszające": [
+        "dostępność taniej siły roboczej (jeńcy)",
+        "ogromne zasoby finansowe",
+        "zaawansowana organizacja pracy",
+        "motywacja polityczna cesarzy"
+      ]
+    }
+  },
+  "znaczenie_kulturowe": {
+    "status_UNESCO": {
+      "wpisanie": "1980 (rozszerzony w 1990)",
+      "kategoria": "Dobro Światowego Dziedzictwa UNESCO",
+      "numer_referencyjny": "91ter",
+      "zakres_wpisu": "Historyczne centrum Rzymu, dobra Stolicy Apostolskiej w tym mieście korzystające z prawa eksterytorialności i San Paolo Fuori le Mura",
+      "kryteria": [
+        "Kryterium (i): arcydzieło ludzkiego geniuszu twórczego",
+        "Kryterium (ii): wywierało znaczący wpływ w określonym czasie lub na określonym obszarze kulturowym na rozwój architektury, sztuki monumentalnej, urbanistyki lub tworzenia krajobrazu",
+        "Kryterium (iii): przynosi wyjątkowe świadectwo dotyczące cywilizacji istniejącej lub już nieistniejącej",
+        "Kryterium (iv): stanowi wybitny przykład rodzaju budowli, zespołu architektonicznego, technologicznego lub krajobrazu ilustrujący jeden lub kilka znaczących etapów historii ludzkości",
+        "Kryterium (vi): jest w bezpośredni lub materialny sposób związane z wydarzeniami lub żyjącymi tradycjami, ideami, wierzeniami lub artystycznymi i literackimi dziełami o wyjątkowym, uniwersalnym znaczeniu"
+      ],
+      "uzasadnienie": "Świadectwo nieporównywalnej wartości artystycznej, decydujący wpływ na rozwój urbanistyki, architektury i sztuki na całym świecie, unikalne świadectwo cywilizacji rzymskiej, wybitny przykład typu budowli, bezpośredni związek z historią ludzkości i wiary chrześcijańskiej"
+    },
+    "symbol_kulturowy": {
+      "Rzym": "najważniejszy symbol miasta, ikona rozpoznawalna na całym świecie",
+      "Włochy": "symbol tożsamości narodowej, jeden z najbardziej rozpoznawalnych budynków kraju",
+      "starożytność": "ikona potęgi Imperium Rzymskiego i inżynierii starożytnej",
+      "architektura": "symbol rzymskiej inżynierii i architektury antycznej",
+      "chrześcijaństwo": "miejsce męczeństwa wczesnych chrześcijan, współczesne ceremonie Drogi Krzyżowej"
+    },
+    "wpływ_na_sztukę": {
+      "architektura": "inspiracja dla projektantów amfiteatrów na całym świecie, wzór dla późniejszej architektury widowiskowej",
+      "urbanistyka": "model integracji wielkoskalowej infrastruktury rozrywkowej w centrum miasta",
+      "inżynieria": "innowacje w wykorzystaniu łuków, sklepień i materiałów budowlanych (beton rzymski)",
+      "design": "wpływ na projektowanie przestrzeni publicznych i rozwiązań akustycznych"
+    },
+    "cytaty_o_budynku": [
+      {
+        "autor": "Beda Czcigodny (przypisywany)",
+        "cytat": "Dopóki stoi Koloseum, będzie stał Rzym; gdy Koloseum runie, runie i Rzym; a gdy runie Rzym, runie i świat",
+        "kontekst": "VIII wiek, proroctwo podkreślające symboliczne znaczenie budowli",
+        "uwaga": "w oryginale odnosiło się do posągu Nerona (Kolosa), nie do amfiteatru"
+      },
+      {
+        "autor": "Lord Byron",
+        "cytat": "Podczas gdy stoi Koloseum, Rzym będzie stał; gdy Koloseum runie, Rzym runie; a gdy Rzym runie - runie świat",
+        "rok": 1818,
+        "dzieło": "Wędrówki Childe Harolda"
+      }
+    ],
+    "w_kulturze_popularnej": {
+      "filmy": [
+        "Gladiator (2000) - Ridley Scott",
+        "Quo Vadis (1951) - Mervyn LeRoy",
+        "Noc w Rzymie (1960) - Roberto Rossellini",
+        "Niedotykalni (2011) - Olivier Nakache, Éric Toledano"
+      ],
+      "literatura": [
+        "Wędrówki Childe Harolda - Lord Byron",
+        "Quo Vadis - Henryk Sienkiewicz",
+        "Lalka - Bolesław Prus (wspomnienia Wokulskiego)"
+      ],
+      "muzyka": [
+        "Miejsce koncertów muzyki współczesnej (np. koncerty Eltona Johna, Paula McCartneya)",
+        "Inspiracja dla kompozycji muzyki filmowej"
+      ],
+      "gry": [
+        "Assassin's Creed: Brotherhood - jako element grywalnego środowiska",
+        "Civilization - dostępna jako cud świata",
+        "Age of Empires - jako ikona cywilizacji rzymskiej"
+      ],
+      "sztuki_wizualne": "niezliczone malowidła, ryciny, fotografie, prace artystyczne inspirowane budowlą przez wieki",
+      "współczesne_ceremonie": "Droga Krzyżowa pod przewodnictwem papieża w każdy Wielki Piątek"
+    },
+    "nagrody_i_oznaczenia": [
+      {
+        "nazwa": "Dobro Światowego Dziedzictwa UNESCO",
+        "rok": 1980
+      },
+      {
+        "nazwa": "Nowy cud świata",
+        "nadawca": "New7Wonders Foundation",
+        "rok": 2007
+      },
+      {
+        "nazwa": "Symbol Włoch",
+        "nadawca": "powszechne uznanie",
+        "status": "nieformalny"
+      }
+    ]
+  },
+  "funkcje": {
+    "historyczne": {
+      "typ_budowli": "amfiteatr, arena gladiatorska",
+      "przynależność": "Starożytny Rzym, Imperium Rzymskie",
+      "nazwa_łacińska": "Amphitheatrum Flavium",
+      "okres_użytkowania": "80-523 n.e.",
+      "dynastia": "Flawiusze"
+    },
+    "turystyczne": {
+      "otwarcie_publiczne": "codziennie",
+      "godziny_otwarcia": {
+        "listopad-luty": "08:30-16:30",
+        "marzec": "08:30-17:00",
+        "kwiecień-sierpień": "08:30-19:15",
+        "wrzesień": "08:30-19:00",
+        "październik": "08:30-18:30"
+      },
+      "liczba_turystów": {
+        "rocznie": "7400000",
+        "dziennie": "20000-25000",
+        "szczyt": "maj-wrzesień"
+      },
+      "ceny_biletów": {
+        "podstawowy": "18 EUR",
+        "z_forum_romanum": "22 EUR",
+        "pełny_bilet_archeologiczny": "24 EUR",
+        "z_audioprzewodnikiem": "27 EUR",
+        "z_przewodnikiem": "35 EUR",
+        "ulgowy": "od 2 EUR",
+        "dzieci": "poniżej 18 lat UE gratis"
+      },
+      "rezerwacje": "zalecana rezerwacja online z wybraną godziną wejścia",
+      "audioprzewodnik": "dostępny w 10 językach",
+      "przewodnicy": "wycieczki z przewodnikiem w wielu językach",
+      "dostępność_językowa": [
+        "włoski",
+        "angielski",
+        "francuski",
+        "niemiecki",
+        "hiszpański",
+        "portugalski",
+        "rosyjski",
+        "chiński",
+        "japoński",
+        "polski"
+      ],
+      "ograniczenia": {
+        "ubiór": "brak szczególnych wymagań",
+        "fotografowanie": "dozwolone bez flesza i dronów",
+        "zachowanie": "zakaz jedzenia i picia, zakaz dotykania murów"
+      },
+      "sklepy": {
+        "liczba": 3,
+        "asortyment": "pamiątki, książki, repliki, odzież",
+        "lokalizacja": "przy wejściach i wewnątrz"
+      }
+    },
+    "edukacyjne": {
+      "muzeum": {
+        "lokalizacja": "drugi poziom",
+        "tematyka": "historia budowy, walki gladiatorów, życie starożytnego Rzymu, techniki budowlane",
+        "ekspozycje": "stałe i czasowe",
+        "rekonstrukcje": "modele areny, maszyn windowych, systemów scenicznych"
+      },
+      "programy_edukacyjne": [
+        "warsztaty dla dzieci i młodzieży",
+        "lekcje historii starożytnej",
+        "wykłady o architekturze rzymskiej",
+        "programy dla szkół",
+        "wirtualne wycieczki",
+        "rekonstrukcje VR walk gladiatorów"
+      ],
+      "badania_naukowe": {
+        "współpraca": "uniwersytety, instytuty archeologiczne",
+        "tematy": "architektura, konserwacja, archeologia, historia społeczna",
+        "publikacje": "liczne publikacje naukowe o budowli i starożytnym Rzymie"
+      },
+      "biblioteka": {
+        "dostęp": "dla badaczy (na umówienie)",
+        "zbiór": "dokumentacja archeologiczna, plany, publikacje o Koloseum"
+      }
+    },
+    "społeczne": {
+      "zarząd": "Parco archeologico del Colosseo",
+      "działalność_kulturalna": "organizacja wystaw i wydarzeń kulturalnych",
+      "inicjatywy_edukacyjne": "programy dla szkół i społeczności lokalnej",
+      "wolontariat": "około 150 wolontariuszy",
+      "wydarzenia": [
+        "koncerty muzyki klasycznej",
+        "wystawy archeologiczne",
+        "konferencje naukowe",
+        "pokazy świetlne",
+        "uroczystości państwowe",
+        "manifestacje przeciwko karze śmierci"
+      ]
+    },
+    "symboliczne": {
+      "status": "symbol Rzymu i Włoch",
+      "UNESCO": "1980 (Centrum Historyczne Rzymu)",
+      "nowe_cuda_świata": "2007",
+      "symbol_przeciwko_karze_śmierci": "iluminacja na złoto przy zniesieniu kary śmierci",
+      "ikona_kultury": "jeden z najczęściej odwiedzanych zabytków świata"
+    }
+  },
+  "kontekst_historyczny": {
+    "geneza_projektu": {
+      "inicjator": "Cesarz Wespazjan - założyciel dynastii Flawiuszów",
+      "organizacja": "Państwo rzymskie, Imperium Rzymskie",
+      "inspiracja": "wcześniejsze amfiteatry (amfiteatr w Kampanii, teatr Pompejusza)",
+      "cel": "zapewnienie rozrywki ludowi rzymskiemu, demonstracja potęgi dynastii",
+      "kontekst_społeczny": "panis et circenses - chleb i igrzyska dla mas",
+      "filozofia": "monumentalna budowla jako narzędzie politycznej propagandy i kontroli społecznej",
+      "finansowanie": "łupy z podboju Judei (zniszczenie Jerozolimy w 70 n.e.)"
+    },
+    "epoka_powstania": {
+      "okres": "72-80 n.e. - szczyt potęgi Imperium Rzymskiego",
+      "kontekst_polityczny": "stabilizacja po roku czterech cesarzy (69 n.e.), dynastia Flawiuszów",
+      "kontekst_kulturowy": "pax romana - rozkwit kultury rzymskiej",
+      "kontekst_artystyczny": "architektura monumentalna, łuki triumfalne, innowacje inżynieryjne",
+      "sytuacja_ekonomiczna": "bogactwo z podbojów, rozbudowana sieć handlowa imperium",
+      "lokalizacja_symboliczna": "miejsce po Domus Aurea Nerona - zwrócenie terenu ludowi"
+    },
+    "ważne_wydarzenia_historyczne": {
+      "otwarcie_80_n.e.": {
+        "data": "80 rok n.e.",
+        "inicjator": "cesarz Tytus",
+        "uroczystości": "100 dni igrzysk inauguracyjnych",
+        "ofiary": "około 9000 zwierząt, setki gladiatorów",
+        "znaczenie": "największe widowisko w historii starożytnego Rzymu"
+      },
+      "pożar_217_n.e.": {
+        "wpływ": "zniszczenie drewnianej areny i górnych kondygnacji",
+        "odbudowa": "przez cesarzy Aleksandra Sewera i Gordiana III",
+        "modernizacja": "przebudowa hypogeum i systemów mechanicznych"
+      },
+      "trzęsienia_ziemi": {
+        "442_n.e.": "pierwsze poważne uszkodzenia strukturalne",
+        "508_n.e.": "kolejne zniszczenia",
+        "1349": "wielkie trzęsienie ziemi - zawalenie południowej ściany zewnętrznej"
+      },
+      "koniec_walk_gladiatorskich": {
+        "data": "około 435 n.e.",
+        "przyczyna": "zakaz cesarza Honoriusza, wpływ chrześcijaństwa",
+        "ostatnie_użycie": "walki ze zwierzętami (venationes) do 523 n.e."
+      },
+      "średniowiecze_i_renesans": {
+        "kamieniołom": "źródło materiałów budowlanych dla Rzymu (do XVIII wieku)",
+        "inne_funkcje": "warsztaty, stajnie, klasztor, cmentarz",
+        "dewastacja": "systematyczne rozbieranie kamieni na budowę pałaców i kościołów"
+      },
+      "ochrona_i_restauracja": {
+        "1744": "papież Benedykt XIV konsekruje arenę jako miejsce męczeństwa chrześcijan",
+        "1806": "początek pierwszych prac konserwatorskich",
+        "1870-1875": "pierwsze poważne prace restauracyjne pod Raffaele Sternem",
+        "1980": "wpis na listę UNESCO",
+        "2000-dziś": "kompleksowy program restauracji i stabilizacji"
+      }
+    },
+    "kontekst_cesarzy": {
+      "Wespazjan_69-79": {
+        "rola": "inicjator budowy (72 n.e.)",
+        "motywacja": "odbudowa pozycji po wojnie domowej, legitimizacja władzy",
+        "finansowanie": "łupy z wojny żydowskiej",
+        "śmierć": "zmarł przed ukończeniem"
+      },
+      "Tytus_79-81": {
+        "rola": "ukończenie i otwarcie (80 n.e.)",
+        "uroczystości": "wielkie igrzyska inauguracyjne",
+        "dodatkowe_prace": "czwarta kondygnacja i velarium"
+      },
+      "Domicjan_81-96": {
+        "rola": "zakończenie prac, budowa hypogeum",
+        "innowacje": "rozbudowa podziemnych pomieszczeń i mechanizmów",
+        "dedykacja": "inskrypcja dedykacyjna (dziś zaginiona)"
+      }
+    },
+    "znaczenie_kulturowe": {
+      "starożytność": "centrum życia społecznego i politycznego Rzymu",
+      "średniowiecze": "symbol przemijania wielkości, inspiracja dla legend",
+      "renesans": "wzór dla architektów, źródło wiedzy o architekturze antycznej",
+      "współczesność": "ikona dziedzictwa kulturowego, symbol Rzymu i Włoch",
+      "cytat_Bedy": "Dopóki stoi Koloseum, stoi Rzym; gdy upadnie Koloseum, upadnie Rzym; gdy upadnie Rzym, upadnie świat"
+    }
+  },
+  "szczegółowy_opis": {
+    "tekst_krótki": "Koloseum to monumentalny amfiteatr w centrum Rzymu, największe dzieło architektury i inżynierii starożytnego Rzymu. Zbudowane w latach 72-80 n.e. przez dynastię Flawiuszów, mogło pomieścić 50-80 tysięcy widzów. Charakteryzuje się eliptycznym kształtem, czterema kondygnacjami arkad w trzech porządkach architektonicznych oraz zaawansowanym systemem podziemnym (hypogeum) z windami i pułapkami scenicznymi. Było areną walk gladiatorów, polowań na dzikie zwierzęta i inscenizowanych bitew morskich. Obiekt UNESCO od 1980 roku, symbol Rzymu i jedno z siedmiu nowych cudów świata.",
+    
+    "tekst_długi": "Koloseum, znane w starożytności jako Amphitheatrum Flavium, to monumentalny amfiteatr w sercu Rzymu, będący najsłynniejszym symbolem potęgi i geniuszu inżynieryjnego starożytnego Imperium Rzymskiego. Ta kolossalna budowla, której nazwa pochodzi prawdopodobnie od sąsiadującego z nią gigantycznego posągu Nerona (Colossus Neronis), pozostaje do dziś największym amfiteatrem świata i jednym z najlepiej zachowanych zabytków starożytności.\n\nHistoria Koloseum rozpoczyna się w burzliwych czasach po upadku cesarza Nerona w 68 roku n.e. Wespazjan, założyciel dynastii Flawiuszów, objąwszy władzę w 69 roku po roku czterech cesarzy, stanął przed zadaniem legitymizacji swojej władzy i odbudowy zniszczonego wojną domową Rzymu. W 72 roku n.e. podjął genialną politycznie decyzję - na miejscu sztucznego jeziora z ogrodów Domus Aurea, ekstrawaganckich pałaców Nerona znienawidzonego przez lud, postanowił zbudować monumentalny amfiteatr dostępny dla wszystkich obywateli. Ten gest symbolizował zwrócenie ludowi tego, co zabrał mu tyran - było to arcydzieło politycznej propagandy.\n\nBudowa finansowana była z łupów zdobytych podczas podboju Judei i zniszczenia Jerozolimy w 70 roku n.e. - historyczne źródła wskazują, że łupy te oraz jeńcy żydowscy służyli jako główna siła robocza przy realizacji projektu. Prace trwały zaledwie osiem lat, co jak na tak monumentalną budowlę było osiągnięciem niezwykłym. Wespazjan zmarł w 79 roku, nie doczekawszy ukończenia dzieła. Jego syn Tytus otworzył amfiteatr w 80 roku serią spektakularnych igrzysk trwających sto dni, podczas których zabito około 9000 dzikich zwierząt i setki gladiatorów stoczyły walki. Ostateczne wykończenie, włącznie z budową czwartej kondygnacji i rozbudową podziemnego hypogeum, nastąpiło za panowania Domicjana około 82 roku n.e.\n\nArchitektura Koloseum jest triumfem rzymskiej inżynierii. Budowla ma kształt elipsy o wymiarach zewnętrznych 189 na 156 metrów i osiąga wysokość 48,5 metra - równowartość współczesnego 12-piętrowego budynku. Arena wewnętrzna mierzy 87,5 na 54,8 metra i była pokryta drewnianą podłogą zasypaną piaskiem, który wchłaniał krew i zapewniał gladiatorom przyczepność. Pod areną rozciągało się dwupoziomowe hypogeum - skomplikowany labirynt korytarzy, klatek dla zwierząt i pomieszczeń technicznych, wyposażony w 28 wind windowych napędzanych siłą ludzkich mięśni, które umożliwiały spektakularne pojawianie się gladiatorów i dzikich zwierząt bezpośrednio na arenie poprzez pułapki w podłodze.\n\nFasada zewnętrzna prezentuje kunsztowne zastosowanie trzech klasycznych porządków architektonicznych - dorycki na pierwszej kondygnacji, joński na drugiej i koryncki na trzeciej, zwieńczone attyką z oknami i uchwytami na maszty podtrzymujące velarium. To ogromne płócienne zadaszenie, obsługiwane przez wyspecjalizowanych marynarzy z floty rzymskiej, chroniło widzów przed słońcem. System był na tyle zaawansowany, że pozwalał na wybiórcze zacienianie różnych sektorów w zależności od pory dnia.\n\nFunkcjonalność budowli była równie imponująca jak jej architektura. System 80 wejść (vomitoria) umożliwiał ewakuację wszystkich 50-80 tysięcy widzów w zaledwie kilka minut. Miejsca były ściśle zhierarchizowane społecznie - podium przy arenie zarezerwowane dla cesarza, senatorów i westalek, ima cavea dla ekwitów i wyższych klas, media cavea dla plebejuszy, a najwyższa summa cavea dla kobiet i niewolników. System biletów wykonanych z gliny zawierał numery wejścia, sektora i miejsca, działając jak współczesny system rezerwacji.\n\nWidowiska w Koloseum były różnorodne i spektakularne. Rankiem odbywały się venationes - polowania na dzikie zwierzęta, gdzie bestie z całego imperium (lwy, tygrysy, niedźwiedzie, słonie, nosorożce, hipopotamy) walczyły między sobą lub z bestiariuszami. W południe wykonywano egzekucje przestępców - damnatio ad bestias (rzucenie dzikim zwierzętom) lub inscenizowane przedstawienia mitologiczne kończące się śmiercią skazańców. Popołudniami odbywały się główne atrakcje - walki gladiatorów różnych kategorii (murmillo, retiarius, secutor, thraex), które były wysoko zrytualizowanymi pojedynkami, nie zawsze kończącymi się śmiercią. Wbrew powszechnemu przekonaniu, gladiatorzy byli cenionymi sportowcami, a ich śmierć oznaczała stratę finansową dla właściciela.\n\nNajbardziej spektakularne były naumachiae - inscenizowane bitwy morskie. Hypogeum było zatapiane wodą doprowadzaną z akweduktu, a na arenie odtwarzano słynne bitwy historyczne z użyciem prawdziwych okrętów wojennych w pomniejszonej skali. Te przedstawienia wymagały tysięcy uczestników i były demonstracją nieograniczonych zasobów imperium.\n\nUpadek Koloseum rozpoczął się wraz z upadkiem samego Rzymu. Ostatnie walki gladiatorskie odbyły się około 435 roku n.e., zakazane przez cesarza chrześcijańskiego Honoriusza pod wpływem Kościoła. Polowania na zwierzęta kontynuowano do 523 roku. Wielkie trzęsienie ziemi w 442 i 508 roku spowodowały pierwsze poważne uszkodzenia. W średniowieczu budowla służyła jako forteca rodziny Frangipani, później jako kamieniołom - marmury i trawertynu systematycznie rozbierano na budowę kościołów (bazylika św. Piotra), pałaców i mostów. Metalowe klamry łączące kamienie wykuwano i przetapiano - charakterystyczne dziury po klamerach są widoczne do dziś.\n\nOdrodzenie zainteresowania Koloseum nastąpiło w XVIII wieku. W 1744 roku papież Benedykt XIV konsekrował arenę jako miejsce męczeństwa chrześcijan (choć współczesne badania historyczne nie potwierdzają masowych męczeństw specyficznie w Koloseum), co zapobiegło dalszej dewastacji. Pierwsze systematyczne prace konserwatorskie rozpoczęły się w XIX wieku. W 1870-1875 Raffaele Stern przeprowadził pierwsze poważne restauracje, wzmacniając zachodnią część budowli.\n\nWspółczesne Koloseum jest przedmiotem ciągłej konserwacji i badań archeologicznych. Wielki program restauracji rozpoczęty w 2011 roku, finansowany przez włoskiego miliardera Diego Della Valle kwotą 25 milionów euro, obejmował czyszczenie fasady, rekonstrukcję części hypogeum i instalację nowych platform dla turystów. W 2016 roku otwarto odrestaurowane drugie i trzecie piętro, a w 2023 zainstalowano nową arenę, pozwalającą turystom stanąć w miejscu, gdzie walczyli gladiatorzy.\n\nZnaczenie kulturowe Koloseum wykracza daleko poza jego historyczne funkcje. Stało się uniwersalnym symbolem Rzymu - według średniowiecznego proroctwa przypisywanego Biedzie Czcigodnemu: \"Dopóki stoi Koloseum, stoi Rzym; gdy upadnie Koloseum, upadnie Rzym; gdy upadnie Rzym, upadnie świat.\" W 1980 roku wpisano je na listę światowego dziedzictwa UNESCO jako część Centrum Historycznego Rzymu. W 2007 roku uznano je za jedno z siedmiu nowych cudów świata w globalnym głosowaniu, w którym wzięło udział 100 milionów ludzi.\n\nDziś Koloseum przyciąga ponad 7 milionów turystów rocznie, będąc najczęściej odwiedzanym zabytkiem Włoch. Służy też jako symbol pokoju - od 2000 roku iluminuje się go na złoto każdorazowo, gdy w jakimkolwiek kraju świata zniesiona zostaje kara śmierci, przypominając o ewolucji ludzkiej cywilizacji od brutalności walk gladiatorskich do współczesnego humanitaryzmu.\n\nKoloseum pozostaje żywym świadkiem historii - przetrwało upadek imperium, najazdy barbarzyńców, trzęsienia ziemi, pożary, dewastację i czas. Po niemal 2000 lat nadal zachwyca swoją monumentalnością i geniuszem inżynieryjnym, przypominając o potędze cywilizacji, która stworzyła fundamenty współczesnej Europy.",
+    
+    "opis_symboliczny": "Koloseum to kamienna kronika ludzkości wyryta w wieczności Rzymu. To monument pychy i geniuszu, okrucieństwa i wielkości - miejsce, gdzie śmierć była sztuką, a krew rozrywką dla mas. Kamienie noszą echa tysięcy gardeł ryczących o krew, westchnień konających gladiatorów i ryku dzikich zwierząt. To świątynia potęgi imperium, które upadło, ale pozostawiło po sobie dzieło przeżywające tysiąclecia. Każda wyrwa w murze to blizna historii - trzęsień ziemi, wojen, rabunku i czasu. A jednak stoi, dumne i niezniszczalne, świadek przemijania wszystkiego - cesarzy, bogów, imperiów. Symbol tego, że wielkość człowieka mierzy się nie tylko w czynach, ale w trwałości jego dzieł.",
+    
+    "ciekawostki": [
+      "Prawdziwa nazwa to Amphitheatrum Flavium - 'Koloseum' pochodzi od gigantycznego posągu Nerona, który stał obok",
+      "W dniu otwarcia w 80 r. n.e. zabito około 9000 zwierząt podczas 100-dniowych igrzysk",
+      "Pod areną znajdowało się 28 wind napędzanych siłą ludzkich mięśni, które wynosiły gladiatorów i zwierzęta",
+      "Mogło pomieścić 50-80 tysięcy widzów - więcej niż większość współczesnych stadionów",
+      "System ewakuacji był na tyle sprawny, że wszystkich widzów można było ewakuować w 5-10 minut",
+      "W średniowieczu Koloseum służyło jako forteca i kamieniołom - kamienie użyto m.in. do budowy bazyliki św. Piotra",
+      "Metalowe klamry łączące kamienie wykuto i przetopiono - stąd tysiące charakterystycznych dziur w murach",
+      "Budowa trwała zaledwie 8 lat - niezwykle szybko jak na tak monumentalne dzieło",
+      "Finansowano ją z łupów po zniszczeniu Jerozolimy w 70 r. n.e., a budowali ją częściowo jeńcy żydowscy",
+      "Arena była zalewana wodą do inscenizowanych bitew morskich (naumachiae)",
+      "Podłoga areny była drewniana i pokryta piaskiem, który wchłaniał krew",
+      "Velarium - ogromne płócienne zadaszenie - obsługiwało 1000 marynarzy z floty rzymskiej",
+      "Dziury w attyku to pozostałości po masztach podtrzymujących velarium",
+      "Miejsca były numerowane - bilety z gliny wskazywały sektor, rząd i numer miejsca",
+      "Istniała ścisła hierarchia miejsc - cesarz i senatorowie przy arenie, kobiety i niewolnicy na górze",
+      "Wbrew legendzie, nie ma pewnych dowodów na masowe męczeństwo chrześcijan specyficznie w Koloseum",
+      "W 1349 roku wielkie trzęsienie ziemi spowodowało zawalenie całej południowej części zewnętrznej ściany",
+      "W średniowieczu w arkadach funkcjonowały warsztaty, stajnie, a nawet klasztor i cmentarz",
+      "Papież Benedykt XIV w 1744 konsekrował arenę jako miejsce święte, co uratowało ją przed całkowitym rozbiórką",
+      "Od 2000 roku Koloseum iluminuje się na złoto, gdy w jakimkolwiek kraju zniesiona zostaje kara śmierci",
+      "W 2007 uznano je za jedno z siedmiu nowych cudów świata w globalnym głosowaniu",
+      "Przyciąga ponad 7 milionów turystów rocznie - najczęściej odwiedzany zabytek Włoch",
+      "Zbudowane bez użycia zaprawy - kamienie trzyma się tylko dzięki ich wadze i metalowym klamrom",
+      "Użyto około 100 tysięcy metrów sześciennych trawertynu z kamieniołomów w Tivoli",
+      "Ostatnie walki gladiatorskie odbyły się około 435 r. n.e., ostatnie polowania na zwierzęta w 523 r. n.e.",
+      "Benito Mussolini kazał wybudować Via dell'Impero (dziś Via dei Fori Imperiali), niszcząc starożytne ruiny, aby mieć widok na Koloseum",
+      "W 2018 odkryto nowe pomieszczenia hypogeum dzięki skaningowi laserycznemu",
+      "Plan odbudowy areny z 2023 roku pozwala turystom stanąć dokładnie tam, gdzie walczyli gladiatorzy",
+      "W 2020 po raz pierwszy w historii zamknięto Koloseum na kilka miesięcy z powodu pandemii COVID-19",
+      "Średniowieczne proroctwo Bedy: 'Dopóki stoi Koloseum, stoi Rzym; gdy upadnie Koloseum, upadnie świat'"
+    ]
+  },
+  "dane_techniczne": {
+    "numer_UNESCO": "91",
+    "współrzędne": {
+      "WGS84": {
+        "lat": 41.8902,
+        "lon": 12.4922,
+        "alt": 24
+      },
+      "UTM": {
+        "strefa": "33T",
+        "easting": 291952,
+        "northing": 4640183
+      }
+    },
+    "status_prawny": {
+      "właściciel": "Państwo Włoskie (Ministerstwo Kultury)",
+      "typ_własności": "własność państwowa",
+      "zarząd": "Parco archeologico del Colosseo",
+      "przeznaczenie": "zabytek archeologiczny, obiekt muzealny, użyteczności publicznej",
+      "ochrona_konserwatorska": "najwyższy stopień ochrony zabytków we Włoszech i UNESCO"
+    },
+    "ubezpieczenie": {
+      "typ": "ubezpieczenie zabytku narodowego",
+      "wartość_ubezpieczenia": "nieujawniana publicznie - miliardy euro",
+      "zakres": "szkody budowlane, katastrofy naturalne, trzęsienia ziemi, OC publiczne",
+      "ubezpieczyciel": "państwowy system ubezpieczeń zabytków"
+    },
+    "certyfikaty_budowlane": {
+      "pozwolenia_konserwatorskie": "stałe pozwolenia na prace restauracyjne",
+      "certyfikat_bezpieczeństwa": "ciągły monitoring stateczności konstrukcji",
+      "certyfikat_bezpieczeństwa_publicznego": "coroczne przeglądy bezpieczeństwa dla turystów",
+      "certyfikat_sejsmiczny": "monitoring sejsmiczny i analiza stateczności",
+      "dostępność": "częściowa dostępność dla osób niepełnosprawnych (ograniczenia ze względu na charakter zabytku)"
+    },
+    "systemy_budynku": {
+      "oświetlenie": {
+        "typ": "LED z możliwością iluminacji kolorowej",
+        "moc": "800 kW",
+        "punkty_świetlne": "około 2000 reflektorów",
+        "sterowanie": "system DMX do pokazów świetlnych",
+        "oświetlenie_awaryjne": "generatory + baterie dla bezpieczeństwa turystów"
+      },
+      "woda": {
+        "dostawca": "Acea (rzymskie wodociągi)",
+        "zbiorniki": "2 zbiorniki po 30 m³",
+        "zużycie_dzienne": "około 25 m³",
+        "systemy_zraszające": "system zraszania dla kontroli pyłu i temperatury"
+      },
+      "kanalizacja": {
+        "typ": "grawitacyjna połączona z rzymską siecią",
+        "odprowadzanie_deszczowe": "system odwodnienia historyczny + współczesny"
+      },
+      "elektryczność": {
+        "przyłącze": "główne + 2 rezerwowe",
+        "moc": "1.2 MW",
+        "napięcie": "400V / 230V",
+        "agregaty": "3 agregaty prądotwórcze po 200 kW",
+        "UPS": "dla systemów bezpieczeństwa i monitoringu",
+        "zasilanie_turystyczne": "punkty ładowania urządzeń mobilnych"
+      },
+      "fotowoltaika": {
+        "status": "brak (ograniczenia konserwatorskie)",
+        "rozważane": "mikro-instalacje niewidoczne"
+      },
+      "przeciwpożarowy": {
+        "hydranty": 32,
+        "gaśnice": 85,
+        "czujniki": "czujniki dymu - około 150 sztuk",
+        "drogi_ucieczki": 12,
+        "systemy_zarządzania": "centralny system monitoringu",
+        "szczególne_zagrożenie": "sucha muratura i drewniane konstrukcje ekspozycyjne"
+      },
+      "bezpieczeństwo": {
+        "monitoring": "około 380 kamer CCTV (wewnątrz i na zewnątrz)",
+        "kontrola_dostępu": "elektroniczny system bramek i biletów",
+        "alarm": "system alarmowy 24/7 podłączony do policji i straży",
+        "ochrona": "całodobowa ochrona fizyczna - 45 pracowników ochrony",
+        "detekcja_metalu": "bramki wykrywające metal przy wejściach",
+        "antydronowy": "system wykrywania i neutralizacji dronów"
+      },
+      "monitoring_konstrukcji": {
+        "sejsmiczny": "12 sejsmometrów monitorujących ruchy gruntu",
+        "inklinometry": "25 czujników nachylenia ścian",
+        "czujniki_pęknięć": "ponad 100 czujników monitorujących szczeliny",
+        "GPS": "system GPS do pomiaru mikro-przemieszczeń",
+        "termowizja": "regularne badania termowizyjne",
+        "laser_scanning": "coroczne skanowanie 3D dla dokumentacji"
+      },
+      "akustyka": {
+        "system": "przenośny system nagłośnienia dla wydarzeń specjalnych",
+        "glośniki": "mobilne zestawy audio",
+        "mikrofony": "bezprzewodowe dla przewodników i wydarzeń"
+      },
+      "multimedia": {
+        "wyświetlacze": "ekrany informacyjne i interaktywne (20 sztuk)",
+        "przewodniki": "system audioprzewodników w 10 językach",
+        "Wi-Fi": "darmowe Wi-Fi w strefach publicznych",
+        "aplikacja": "oficjalna aplikacja mobilna z AR (rozszerzoną rzeczywistością)",
+        "wirtualna_rzeczywistość": "stanowiska VR pokazujące Koloseum w świetności"
+      },
+      "klimat_wewnętrzny": {
+        "wentylacja": "naturalna + wspomagająca mechaniczna w pomieszczeniach muzealnych",
+        "temperatura": "monitoring temperatury i wilgotności (70 czujników)",
+        "ochrona_eksponatów": "kontrola mikroklimatu w pomieszczeniach muzealnych"
+      }
+    },
+    "zarządzanie_energią": {
+      "zużycie_roczne": "około 1.8 GWh elektryczności",
+      "efektywność_energetyczna": "modernizacja oświetlenia na LED zmniejszyła zużycie o 60%",
+      "OZE": "brak możliwości z uwagi na status zabytku",
+      "monitoring": "system zarządzania energią do optymalizacji zużycia"
+    },
+    "gospodarka_odpadami": {
+      "segregacja": "pełna segregacja - 6 frakcji",
+      "recykling": "około 85% odpadów poddawanych recyklingowi",
+      "odpady_turystyczne": "specjalne zarządzanie dużą ilością odpadów od turystów",
+      "kamień": "odpady kamienne z konserwacji - archiwizowane lub recykling"
+    },
+    "dostawa": {
+      "platformy_dostaw": "specjalna strefa załadunkowa poza obszarem zabytku",
+      "dźwigi": "4 przenośne dźwigi dla prac konserwatorskich",
+      "udźwig": "maksymalnie 5 ton",
+      "transport_wewnętrzny": "wózki elektryczne dla małych transportów"
+    },
+    "systemy_specjalne": {
+      "odwodnienie": {
+        "historyczne": "starożytny system drenażu częściowo zachowany i użytkowany",
+        "współczesny": "system pompowania wody z hypogeum",
+        "pompy": "6 pomp drenażowych",
+        "monitoring": "czujniki poziomu wody w podziemiach"
+      },
+      "stabilizacja_konstrukcji": {
+        "kotwy": "ponad 300 kotew stalowych wzmacniających mury",
+        "opaski": "stalowe opaski wzmacniające arkady",
+        "podparcia": "tymczasowe i stałe konstrukcje podporowe"
+      },
+      "ochrona_ptaków": {
+        "system": "odstraszanie ptaków (gołębie niszczące mury)",
+        "metody": "kolce, siatki, ultradźwięki",
+        "monitoring": "kontrola populacji i szkód"
+      }
+    },
+    "infrastruktura_turystyczna": {
+      "kasy_biletowe": "8 stanowisk kasowych + automaty",
+      "punkty_informacyjne": 6,
+      "toalety": "12 kompleksów sanitarnych (w tym dla niepełnosprawnych)",
+      "szatnie": 2,
+      "sklepy": 3,
+      "kawiarnie": 2,
+      "pierwsza_pomoc": "punkt medyczny z wykwalifikowanym personelem",
+      "defibrylatory": 8,
+      "punkty_wody": "fontanny pitnej - 15 punktów"
+    },
+    "certyfikaty_jakości": {
+      "ISO_9001": "zarządzanie jakością",
+      "ISO_14001": "zarządzanie środowiskowe",
+      "bezpieczeństwo": "certyfikaty bezpieczeństwa turystów",
+      "dostępność": "częściowy certyfikat dostępności (ograniczenia architektoniczne)"
+    }
+  },
+"kontakt": {
+    "adres_korespondencyjny": "Piazza del Colosseo, 1, 00184 Roma RM, Italia",
+    "telefon": "+39 06 3996 7700",
+    "telefon_rezerwacje": "+39 06 3996 7700",
+    "e-mail": "ic-colosseo@beniculturali.it",
+    "e-mail_informacje": "pa-colosseo@beniculturali.it",
+    "e-mail_rezerwacje": "colosseo.prenotazioni@coopculture.it",
+    "e-mail_grupy": "colosseo.gruppi@coopculture.it",
+    "e-mail_edukacja": "pa-colosseo.didattica@beniculturali.it",
+    "strona_internetowa": "parcocolosseo.it",
+    "rezerwacje_online": "coopculture.it",
+    "social_media": {
+      "facebook": "@ParcoColosseo",
+      "instagram": "@parcocolosseo",
+      "twitter": "@ParcoColosseo",
+      "youtube": "Parco archeologico del Colosseo",
+      "tiktok": "@parcocolosseo"
+    },
+    "biuro_prasowe": "pa-colosseo.comunicazione@beniculturali.it",
+    "dział_edukacyjny": "pa-colosseo.didattica@beniculturali.it",
+    "współpraca_akademicka": "pa-colosseo.ricerca@beniculturali.it",
+    "dział_konserwacji": "pa-colosseo.restauro@beniculturali.it",
+    "zaginione_rzeczy": "pa-colosseo.oggettismarriti@beniculturali.it",
+    "dostępność": "pa-colosseo.accessibilita@beniculturali.it",
+    "centrum_obsługi": {
+      "lokalizacja": "Piazza del Colosseo - wejście główne",
+      "godziny": "08:30-18:30 (w zależności od sezonu)",
+      "języki": "włoski, angielski, hiszpański, francuski, niemiecki"
+    },
+    "infolinia": "+39 06 3996 7700 (pon-pt 09:00-18:00)",
+    "numery_alarmowe": {
+      "straż_pożarna": "115",
+      "pogotowie": "118",
+      "policja": "112",
+      "ochrona_zabytku": "+39 06 3996 7777"
+    }
+  },
+ 
+  "porady_praktyczne": {
+    "co_zabrać": [
+      "wygodne obuwie",
+      "wodę (minimum 1L)",
+      "kapelusz i krem z filtrem",
+      "aparat/telefon z naładowaną baterią",
+      "gotówka na pamiątki"
+    ],
+    "czego_unikać": [
+      "pory południowej w lecie (najgorętsze)",
+      "weekendy w sezonie (tłumy)",
+      "wciskających sprzedawców selfie-sticków",
+      "nielegalnych przewodników"
+    ],
+    "insiderskie_tipy": [
+      "Kup bilety online z wyprzedzeniem - ominiesz kolejki",
+      "Przyjdź o otwarciu lub 2h przed zamknięciem",
+      "Roma Pass daje pierwszeństwo wejścia",
+      "Bezpłatne Wi-Fi w okolicy - hasło w punkcie info",
+      "Najlepsze zdjęcia z Wzgórza Palatyn o zachodzie"
+    ],
+    "błędy_turystów": [
+      "Przyjście bez rezerwacji w sezonie",
+      "Niedocenianie czasu zwiedzania",
+      "Brak wody i ochrony przed słońcem",
+      "Próba zobaczenia wszystkiego w 1h",
+      "Kupowanie pamiątek od ulicznych sprzedawców (droższe)"
+    ]
+  },
+  
+ 
+  "ciekawostki_praktyczne": [
+    "W podziemiach (hypogeum) temperatura jest o 5-8°C niższa - zabierz bluzę",
+    "Darmowe wejście w pierwszą niedzielę każdego miesiąca (długie kolejki!)",
+    "Młodzież do 18 lat (UE) ma wstęp bezpłatny",
+    "Audioguide dostępne w 10 językach - warto wynająć",
+    "Arena jest oświetlona nocą - piękne widoki z zewnątrz za darmo",
+    "W pobliżu są publiczne toalety - przy Via dei Fori Imperiali",
+    "Punkt pierwszej pomocy znajduje się przy wejściu głównym"
+  ],
+  
+  "FAQ": [
+    {
+      "pytanie": "Czy mogę wejść z plecakiem?",
+      "odpowiedź": "Tak, ale będzie sprawdzany. Duże plecaki (>40x35x15cm) mogą być zabronione."
+    },
+    {
+      "pytanie": "Czy jest klimatyzacja?",
+      "odpowiedź": "Nie, Koloseum jest otwarte, bez klimatyzacji. Latem bardzo gorąco."
+    },
+    {
+      "pytanie": "Czy można robić zdjęcia?",
+      "odpowiedź": "Tak, dozwolone bez flesza i statywów. Drony zabronione."
+    },
+    {
+      "pytanie": "Czy jest dostępne dla wózków?",
+      "odpowiedź": "Częściowo. Winda dostępna, ale nie wszystkie poziomy są osiągalne."
+    },
+    {
+      "pytanie": "Gdzie kupić bilety?",
+      "odpowiedź": "Online na coopculture.it (zalecane) lub na miejscu (długie kolejki)."
+    }
+  ],
+
+  "historia_w_pigułce": {
+    "krotki_opis": "Największy amfiteatr starożytnego świata, zbudowany przez dynastię Flawiuszy w latach 72-80 n.e. Miejsce walk gladiatorów i polowań na dzikie zwierzęta.",
+    "dlaczego_warto_zobaczyc": "Symbol Rzymu i jeden z najlepiej zachowanych zabytków starożytności. Arcydzieło inżynierii, które przetrwało 2000 lat.",
+    "najciekawsze_fakty": [
+      "Mogło pomieścić 50-80 tysięcy widzów",
+      "Wszystkich można było ewakuować w 5-10 minut",
+      "Pod areną był labirynt korytarzy i 28 wind",
+      "Arena była zalewana wodą do bitew morskich"
+    ]
+  },
+
+  "multimedia": {
+    "wirtualny_spacer_url": "https://example.com/virtual-tour",
+    "drone_video_url": "https://youtube.com/...",
+    "dokumenty_filmowe": [
+      {
+        "tytuł": "Engineering an Empire: Rome",
+        "url": "https://...",
+        "czas": "45 min"
+      }
+    ],
+    "podcast_odcinki": []
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "id": "KRAJ-IT-001",
+  "kod_iso": "IT",
+  "typ": "kraj",
+  
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Republika Włoska",
+      "lokalna": "Repubblica Italiana",
+      "popularna": "Włochy",
+      "poprzednie": ["Królestwo Włoch", "Republika Rzymska"]
+    },
+    "stolica": {
+      "id": "MIASTO-IT-ROM-001",
+      "nazwa": "Rzym"
+    },
+    "flaga": {
+      "emoji": "🇮🇹",
+      "opis": "Trzy pionowe pasy: zielony, biały, czerwony",
+      "symbolika": "Nadzieja, wiara, miłość"
+    },
+    "herb": {
+      "opis": "Biała gwiazda na czerwonej tarczy",
+      "symbolika": "Gwiazda Włoch",
+      "link herbu": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Emblem_of_Italy.svg/1200px-Emblem_of_Italy.svg.png"
+
+    }
+  },
+  
+  "geografia": {
+    "kontynent": "Europa",
+    "region": "Europa Południowa",
+    "powierzchnia": {
+      "całkowita_km2": 301340,
+      "woda_procent": 2.4
+    },
+    "współrzędne": {
+      "geograficzne_centrum": {
+        "szerokość": 42.8333,
+        "długość": 12.8333
+      }
+    },
+    "granice": {
+      "łączna_długość_km": 1836,
+      "kraje_sąsiadujące": [
+        {
+          "kraj": "Francja",
+          "id": "KRAJ-FR-001",
+          "długość_granicy_km": 488
+        },
+        {
+          "kraj": "Szwajcaria",
+          "id": "KRAJ-CH-001",
+          "długość_granicy_km": 740
+        },
+        {
+          "kraj": "Austria",
+          "id": "KRAJ-AT-001",
+          "długość_granicy_km": 430
+        },
+        {
+          "kraj": "Słowenia",
+          "id": "KRAJ-SI-001",
+          "długość_granicy_km": 232
+        }
+      ]
+    },
+    "linia_brzegowa_km": 7600,
+    "morza": ["Morze Śródziemne", "Morze Adriatyckie", "Morze Tyrreńskie", "Morze Jońskie"],
+    "klimat": {
+      "typ": "śródziemnomorski, alpejski",
+      "opis": "Ciepłe, suche lata i łagodne, wilgotne zimy na wybrzeżu. Klimat alpejski w górach."
+    },
+    "teren": {
+      "opis": "Głównie górzysty i pagórkowaty. Alpy na północy, Apeniny wzdłuż półwyspu.",
+      "najwyższy_punkt": {
+        "nazwa": "Mont Blanc",
+        "wysokość_npm": 4810,
+        "współrzędne": {"szerokość": 45.8326, "długość": 6.8652}
+      },
+      "najniższy_punkt": {
+        "nazwa": "Morze Śródziemne",
+        "wysokość_npm": 0
+      }
+    },
+    "zasoby_naturalne": [
+      "gaz ziemny",
+      "ropa naftowa (niewielkie złoża)",
+      "węgiel",
+      "marmur",
+      "wapień",
+      "glina"
+    ]
+  },
+  
+  "demografia": {
+    "populacja": {
+      "liczba": 60317000,
+      "rok": 2024,
+      "ranking_świat": 24
+    },
+    "gęstość_na_km2": 200,
+    "wzrost_populacji_procent": -0.15,
+    "grupy_wiekowe": {
+      "0_14_lat": 12.8,
+      "15_64_lat": 63.9,
+      "65_lat_więcej": 23.3
+    },
+    "mediana_wieku": 47.3,
+    "urbanizacja_procent": 71,
+    "największe_miasta": [
+      {"id": "MIASTO-IT-ROM-001", "nazwa": "Rzym", "populacja": 2872000},
+      {"id": "MIASTO-IT-MIL-001", "nazwa": "Mediolan", "populacja": 1371000},
+      {"id": "MIASTO-IT-NAP-001", "nazwa": "Neapol", "populacja": 966000},
+      {"id": "MIASTO-IT-TOR-001", "nazwa": "Turyn", "populacja": 871000},
+      {"id": "MIASTO-IT-PAL-001", "nazwa": "Palermo", "populacja": 676000}
+    ],
+    "języki": [
+      {
+        "nazwa": "włoski",
+        "procent": 95,
+        "oficjalny": true
+      },
+      {
+        "nazwa": "niemiecki",
+        "procent": 2,
+        "region": "Południowy Tyrol"
+      },
+      {
+        "nazwa": "francuski",
+        "procent": 1,
+        "region": "Dolina Aosty"
+      }
+    ],
+    "religie": [
+      {"nazwa": "katolicyzm", "procent": 78},
+      {"nazwa": "brak religii", "procent": 15},
+      {"nazwa": "islam", "procent": 4},
+      {"nazwa": "inne", "procent": 3}
+    ]
+  },
+  
+  "polityka": {
+    "system": "republika parlamentarna",
+    "prezydent": "Sergio Mattarella",
+    "premier": "Giorgia Meloni",
+    "parlament": {
+      "nazwa": "Parlament Włoski",
+      "izby": [
+        {"nazwa": "Senat", "liczba_miejsc": 315},
+        {"nazwa": "Izba Deputowanych", "liczba_miejsc": 400}
+      ]
+    },
+    "podział_administracyjny": {
+      "jednostki": "20 regionów",
+      "szczegóły": "5 regionów o statusie specjalnym (Sardynia, Sycylia, Trydent-Górna Adyga, Dolina Aosty, Friuli-Wenecja Julijska)"
+    },
+    "niepodległość": {
+      "data": "1861-03-17",
+      "opis": "Zjednoczenie Włoch"
+    },
+    "konstytucja": {
+      "przyjęcie": "1948-01-01",
+      "ostatnia_zmiana": "2020"
+    }
+  },
+  
+  "ekonomia": {
+    "PKB": {
+      "nominal_USD": 2010000000000,
+      "ranking_świat": 8,
+      "na_osobę_USD": 33500
+    },
+    "waluta": {
+      "kod": "EUR",
+      "nazwa": "Euro",
+      "symbol": "€"
+    },
+    "główne_branże": [
+      "turystyka",
+      "moda i tekstylia",
+      "motoryzacja",
+      "przemysł maszynowy",
+      "żywność i wino",
+      "metalurgia"
+    ],
+    "eksport_główne_produkty": [
+      "maszyny",
+      "pojazdy",
+      "farmaceutyki",
+      "produkty metalowe",
+      "odzież",
+      "żywność"
+    ],
+    "import_główne_produkty": [
+      "ropa naftowa",
+      "gaz ziemny",
+      "maszyny",
+      "chemikalia",
+      "metale"
+    ]
+  },
+  
+  "turystyka": {
+    "liczba_turystów_rocznie": 65000000,
+    "ranking_świat": 5,
+    "obiekty_unesco": 58,
+    "najważniejsze_atrakcje_ids": [
+      "ATR-BUD-IT-ROM-001",
+      "ATR-MUZ-IT-FLO-001",
+      "ATR-BUD-IT-PIS-001"
+    ],
+    "najlepszy_czas_wizyty": {
+      "okresy": [
+        "kwiecień - czerwiec",
+        "wrzesień - październik"
+      ],
+      "opis": "Wiosna i jesień - przyjemna pogoda, mniej turystów"
+    },
+    "wymagania_wizowe": {
+      "strefa_schengen": true,
+      "opis": "Strefa Schengen - obywatele UE bez wiz, inni sprawdź wymagania"
+    }
+  },
+  
+  "kultura": {
+    "kuchnia": {
+      "opis": "Jedna z najbardziej wpływowych kuchni świata",
+      "znane_dania": [
+        "pizza",
+        "pasta (spaghetti, lasagne, carbonara)",
+        "risotto",
+        "tiramisu",
+        "gelato",
+        "prosciutto"
+      ],
+      "regionalne_specjalności": {
+        "Rzym": "carbonara, cacio e pepe, supplì",
+        "Neapol": "pizza margherita",
+        "Bolonia": "ragù, lasagne, tortellini",
+        "Toskania": "bistecca alla fiorentina, ribollita"
+      }
+    },
+    "wina": {
+      "regiony": [
+        "Toskania (Chianti, Brunello)",
+        "Piemont (Barolo, Barbaresco)",
+        "Veneto (Prosecco, Amarone)"
+      ]
+    },
+    "dziedzictwo": {
+      "znani_artyści": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Rafał Santi",
+        "Caravaggio",
+        "Botticelli"
+      ],
+      "literatura": [
+        "Dante Alighieri",
+        "Petrarka",
+        "Boccaccio",
+        "Umberto Eco",
+        "Italo Calvino"
+      ],
+      "muzyka": [
+        "opera (Verdi, Puccini, Rossini)",
+        "muzyka klasyczna (Vivaldi, Corelli)"
+      ]
+    },
+    "moda": {
+      "marki": [
+        "Gucci",
+        "Prada",
+        "Versace",
+        "Armani",
+        "Dolce & Gabbana",
+        "Ferragamo"
+      ],
+      "centra_mody": ["Mediolan", "Florencja", "Rzym"]
+    },
+    "święta_narodowe": [
+      {
+        "data": "01-01",
+        "nazwa": "Nowy Rok"
+      },
+      {
+        "data": "04-25",
+        "nazwa": "Dzień Wyzwolenia"
+      },
+      {
+        "data": "06-02",
+        "nazwa": "Dzień Republiki"
+      },
+      {
+        "data": "12-25",
+        "nazwa": "Boże Narodzenie"
+      }
+    ]
+  },
+  
+  "praktyczne_informacje": {
+    "bezpieczeństwo": {
+      "ogólna_ocena": 4,
+      "uwagi": "Bezpieczny kraj, uwaga na kieszonkowców w dużych miastach"
+    },
+    "służba_zdrowia": {
+      "poziom": "wysoki",
+      "numer_alarmowy": "118",
+      "ubezpieczenie": "Zalecane EKUZ dla obywateli UE"
+    },
+    "transport": {
+      "komunikacja_publiczna": "rozwinięta w miastach, ograniczona na wsi",
+      "koleje": "Trenitalia, Italo (szybkie pociągi)",
+      "autostrady": "dobrze rozwinięte, płatne"
+    },
+    "internet": {
+      "dostępność": "wysoka",
+      "wifi_publiczne": "powszechne w hotelach, kawiarniach"
+    },
+    "napiwki": {
+      "zwyczaj": "coperto (opłata za nakrycie) często wliczona",
+      "zalecenia": "5-10% za wyjątkową obsługę"
+    },
+    "zakwaterowanie_hotele": {
+      "serwisy": ["Booking.com", "Airbnb", "TripAdvisor"],
+      "ceny_średnie_noc": {
+        "hostel": "20-40 EUR",
+        "hotel_3_gwiazdek": "60-120 EUR",
+        "hotel_5_gwiazdek": "200-500 EUR"
+      }
+    }
+  },
+  
+  "multimedia": {
+    "oficjalna_strona": "https://www.italia.it/",
+    "turystyka_strona": "https://www.enit.it/",
+    "wirtualny_spacer": null
+  }
+}

@@ -1,0 +1,1893 @@
+{
+  "id": "BUD-IND-001",
+  "ikona_font_awesome": "fa-mosque",
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Taj Mahal",
+      "potoczna": "Tadż Mahal",
+      "lokalna": "ताज महल",
+      "tłumaczenia": {
+        "polski": "Tadż Mahal",
+        "angielski": "Taj Mahal",
+        "niemiecki": "Tadsch Mahal",
+        "francuski": "Taj Mahal",
+        "włoski": "Taj Mahal",
+        "rosyjski": "Тадж-Махал",
+        "hindi": "ताज महल",
+        "urdu": "تاج محل"
+      },
+      "nazwy_alternatywne": [
+        "Korona Pałaców",
+        "Perła Indii",
+        "Pomnik Miłości"
+      ],
+      "skróty": [
+        "TM"
+      ],
+      "nazwa_historyczna": "Rauza-i-Munawwara"
+    },
+    "typ_budynku": {
+      "kategoria_główna": "mauzoleum",
+      "kategoria_drugorzędna": "grobowiec",
+      "kategoria_trzecia": "kompleks pałacowo-ogrodowy",
+      "podkategorie": [
+        "pomnik nagrobny",
+        "obiekt kultu",
+        "atrakcja turystyczna",
+        "pomnik kultury",
+        "arcydzieło architektury mogolskiej"
+      ],
+      "funkcje": [
+        "miejsce spoczynku Mumtaz Mahal i Szacha Dżahana",
+        "obiekt dziedzictwa UNESCO",
+        "symbol Indii",
+        "muzeum",
+        "punkt widokowy",
+        "miejsce historyczne"
+      ],
+      "klasyfikacja_UNESCO": "Dobro Światowe UNESCO",
+      "typologia_architektoniczna": "mauzoleum na planie krzyża z centralną kopułą"
+    },
+    "status": {
+      "obecny": "ukończony",
+      "czynnościowo_operacyjny": true,
+      "procent_ukończenia": 100,
+      "faza_budowy": "konserwacja i restauracja",
+      "przewidywane_ukończenie": {
+        "rok_optymistyczny": null,
+        "rok_realistyczny": null,
+        "rok_pesymistyczny": null,
+        "niepewność": "obiekt ukończony w 1653 roku"
+      },
+      "dostępność_publiczna": true,
+      "aktywne_wykorzystanie": true,
+      "status_konserwatorski": "pod ścisłą ochroną konserwatora zabytków",
+      "wpis_do_rejestru": "World Heritage Site (UNESCO 1983)"
+    },
+    "certyfikaty_oznaczenia": {
+      "UNESCO": {
+        "status": "Obiekt Światowego Dziedzictwa",
+        "rok_wpisu": 1983,
+        "kryteria": [
+          "i"
+        ],
+        "numer_referencyjny": "252",
+        "zakres": "Cały kompleks Tadż Mahal"
+      },
+      "inne_certyfikaty": [
+        {
+          "nazwa": "Nowy Cud Świata",
+          "instytucja": "New7Wonders Foundation",
+          "rok_nadania": 2007
+        },
+        {
+          "nazwa": "National Monument of India",
+          "instytucja": "Archaeological Survey of India",
+          "rok_nadania": 1920
+        }
+      ]
+    }
+    },
+ "lokalizacja": {
+    "adres": {
+      "ulica": "Taj Mahal Internal Path",
+      "numer": "",
+      "dzielnica": "Taj Ganj",
+      "osiedle": "Tajganj",
+      "miasto": "Agra",
+      "prowincja": "Agra",
+      "region": "Uttar Pradesh",
+      "kraj": "Indie",
+      "kod_kraju": "IN",
+      "kod_pocztowy": "282001",
+      "pełny_adres": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, Indie"
+    },
+    "współrzędne": {
+      "szerokość_geograficzna": 27.1751,
+      "długość_geograficzna": 78.0421,
+      "wysokość_n.p.m.": 171
+    },
+    "otoczenie": {
+      "gestość": "bardzo wysoka zabudowa miejska z dzielnicami slumsowymi",
+      "typ_zabudowy": "mieszkalno-handlowa",
+      "dominująca_funkcja": "historyczna z intensywną funkcją turystyczną",
+      "odległość_od_rzeki": 0,
+      "odległość_od_centrum": 3000,
+      "punkty_widokowe": [
+        {
+          "nazwa": "Minaret północno-wschodni",
+          "wysokość": 43,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Rzeka Yamuna",
+            "Ogrody Mogolskie",
+            "Mehtab Bagh",
+            "Agra"
+          ]
+        },
+        {
+          "nazwa": "Minaret południowo-zachodni",
+          "wysokość": 43,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Fort Agra",
+            "Dzielnica Taj Ganj",
+            "Centrum Agry"
+          ]
+        }
+      ]
+    }
+  },
+  "wymiary": {
+    "wysokość": {
+      "całkowita": 73,
+      "do_szczytu_dachu": 58,
+      "architektoniczna": 73,
+      "najwyższa_konstrukcja": "Kopuła główna z finiałem",
+      "aktualna_maksymalna_wysokość": 73,
+      "planowana_maksymalna_wysokość": 73,
+      "podstawa_wysokość": 171,
+      "różnica_wysokości": -98,
+      "ranking_wysokości": {
+        "świat": 2150,
+        "azja": 185,
+        "indie": 8,
+        "agra": 1,
+        "budynki_sakralne": 45
+      },
+      "wysokości_poszczególnych_elementów": {
+        "minarety": "43m (4 identyczne)",
+        "kopuła_główna": "24.5m (średnica 17.7m)",
+        "kopuły_boczne": "8m (4 małe)",
+        "finał_kopuły": "8m",
+        "platforma_podstawowa": "7m",
+        "brama_główna": "30m",
+        "meczet": "18m",
+        "dom_gościnny": "18m"
+      },
+      "symbolika_wysokości": "73m - wysokość symbolizująca doskonałość boską i wieczną miłość"
+    },
+    "długość": {
+      "zewnętrzna": 73,
+      "wewnętrzna": 25,
+      "mauzoleum": 56,
+      "platforma": 100,
+      "ogród": 300,
+      "brama_główna": 35,
+      "meczet": 56,
+      "dom_gościnny": 56,
+      "kanały_wodne": 300
+    },
+    "szerokość": {
+      "zewnętrzna": 73,
+      "wewnętrzna": 25,
+      "mauzoleum": 56,
+      "platforma": 100,
+      "ogród": 300,
+      "szerokość_fasad": 56,
+      "korytarze": 3,
+      "kanały": 2
+    },
+    "powierzchnia": {
+      "całkowita": 17000,
+      "obrys": 42000,
+      "powierzchnia_użytkowa": 3136,
+      "przestrzeń_sakralna": 625,
+      "przestrzeń_komunikacyjna": 400,
+      "strefy_publiczne": 2500,
+      "strefy_techniczne": 200,
+      "muzeum": 150,
+      "sklep": 80,
+      "krypta": 400,
+      "działka": 170000,
+      "ogrody": 128000,
+      "szczegółowe_powierzchnie": {
+        "komora_główna": 625,
+        "korytarze": 400,
+        "platforma": 10000,
+        "meczet": 3136,
+        "dom_gościnny": 3136,
+        "brama": 1225
+      }
+    },
+    "objętość": {
+      "całkowita": 45000,
+      "zamknięta": 40000,
+      "wewnętrzna": 15625,
+      "ogrzewana": 0,
+      "powietrza": 38000
+    },
+    "kondygnacje": {
+      "nadziemne": 3,
+      "podziemne": 1,
+      "razem": 4,
+      "użytkowe": 3,
+      "techniczne": 1,
+      "szczegóły": [
+        {
+          "poziom": -1,
+          "nazwa": "krypta z prawdziwymi grobowcami",
+          "wysokość": 4
+        },
+        {
+          "poziom": 0,
+          "nazwa": "komora główna z cenotafami",
+          "wysokość": 25
+        },
+        {
+          "poziom": 1,
+          "nazwa": "galeria wewnętrzna",
+          "wysokość": 8
+        },
+        {
+          "poziom": 2,
+          "nazwa": "podstawa kopuły",
+          "wysokość": 15
+        },
+        {
+          "poziom": 3,
+          "nazwa": "kopuła i finał",
+          "wysokość": 25
+        }
+      ]
+    },
+    "inne_wymiary": {
+      "liczba_mineretów": {
+        "ukończone": 4,
+        "w_budowie": 0,
+        "planowane": 4,
+        "razem": 4,
+        "szczegóły": "4 identyczne minarety w narożnikach platformy"
+      },
+      "liczba_fasad": 4,
+      "liczba_portali": 4,
+      "liczba_kolumn": {
+        "brama_główna": 8,
+        "meczet": 12,
+        "dom_gościnny": 12,
+        "razem": 32
+      },
+      "liczba_okien": 32,
+      "liczba_łuków": 28,
+      "liczba_schodów": 48,
+      "liczba_kanałów": 4,
+      "średnica_kopuły": 17.7,
+      "grubość_ścian": "1.2-2m",
+      "wysokość_platformy": 7,
+      "liczba_cenotafów": 2
+    }
+  },
+  "architektura": {
+    "styl_architektoniczny": {
+      "główny": "architektura mogolska",
+      "drugorzędny": "styl Shah Jahani",
+      "wpływy": [
+        "architektura perska",
+        "architektura turecka",
+        "architektura islamska",
+        "tradycje indyjskie",
+        "architektura timurydzka"
+      ],
+      "ruchy_artystyczne": [
+        "sztuka mogolska",
+        "architektura islamska",
+        "architektura rajskich ogrodów"
+      ],
+      "cechy": [
+        "absolutna symetria i równowaga",
+        "cebulasta kopuła główna",
+        "cztery identyczne minarety",
+        "technika pietra dura - inkrustacja kamieniami",
+        "arabeski i motywy roślinne",
+        "geometryczne wzory islamskie",
+        "wersety z Koranu jako dekoracja",
+        "zmienność kolorystyczna marmuru w ciągu dnia"
+      ],
+      "innowacje": [
+        "podwójna konstrukcja kopuły dla stabilności",
+        "minarety odchylone na zewnątrz dla bezpieczeństwa sejsmicznego",
+        "biały marmur jako główny materiał fasady",
+        "inkrustacja ponad 28 rodzajami kamieni szlachetnych",
+        "optyczne efekty odbicia w kanałach wodnych",
+        "integracja architektury z ogrodem perskim"
+      ],
+      "okres_architektoniczny": "XVII wiek - szczyt epoki Wielkich Mogołów",
+      "nurty_architektoniczne": "architektura sakralna islamska, mauzoleum mogolskie"
+    },
+    "architekci": {
+      "architekt_główny": {
+        "imię_i_nazwisko": "Ustad Ahmad Lahauri",
+        "lata_życia": "1580-1649",
+        "narodowość": "perska lub indyjska",
+        "rola": "główny architekt",
+        "okres": "1632-1643",
+        "wkład": "projekt głównego mauzoleum, kopuły, układu przestrzennego",
+        "wykształcenie": "tradycja architektoniczna mogolska",
+        "nagrody": [
+          "tytuł Ustad (mistrz)",
+          "uznanie cesarza"
+        ],
+        "inne_ważne_realizacje": [
+          "Czerwony Fort w Delhi (fundamenty)",
+          "Masjid-i-Jahan Numa (Meczet Piątkowy w Delhi)"
+        ],
+        "filozofia_architektoniczna": "Harmonia, symetria i odbicie raju na ziemi",
+        "metoda_pracy": "ścisła współpraca z cesarzem Szahdżahanem, który codziennie nadzorował postępy",
+        "śmierć": "1649, pochowany w Delhi"
+      },
+      "współarchitekt": [
+        {
+          "imię_i_nazwisko": "Mir Abd-ul Karim",
+          "rola": "współprojektant",
+          "okres": "1632-1643",
+          "wkład": "projekt ogrodów, bram, układu urbanistycznego",
+          "wcześniejsza_funkcja": "ulubiony architekt cesarza Jahangira (ojca Szahdżahana)"
+        }
+      ],
+      "nadzór_cesarski": {
+        "osoba": "Szahdżahan (Shah Jahan)",
+        "rola": "główny patron i współtwórca koncepcji",
+        "wkład": "codzienny nadzór, wprowadzanie zmian, zatwierdzanie projektów",
+        "filozofia": "Tadż Mahal jako symbol wiecznej miłości i potęgi cesarstwa",
+        "cytat": "dokonywał odpowiednich zmian we wszystkim, co zręczni architekci zaprojektowali"
+      },
+      "wykonawcy": [
+        {
+          "specjalność": "kamieniarz główny",
+          "pochodzenie": "Beluchi",
+          "wkład": "cięcie i układanie marmuru"
+        },
+        {
+          "specjalność": "mistrz mozaiki",
+          "pochodzenie": "Kannauj",
+          "wkład": "inkrustacje kamienne"
+        },
+        {
+          "specjalność": "kaligraf",
+          "imię": "Amanat Khan",
+          "pochodzenie": "Persja",
+          "wkład": "inskrypcje koraniczne na fasadach",
+          "sygnatura": "jedyny rzemieślnik, który podpisał swoje dzieło"
+        },
+        {
+          "specjalność": "budowniczy kopuły",
+          "pochodzenie": "Turcja (Stambuł)",
+          "wkład": "konstrukcja głównej kopuły"
+        },
+        {
+          "specjalność": "mistrz minaretów",
+          "pochodzenie": "Samarkanda",
+          "wkład": "cztery minarety"
+        }
+      ],
+      "robotnicy": {
+        "liczba": "20000-25000",
+        "pochodzenie": "Indie, Persja, Turcja, Europa (Francja, Włochy)",
+        "okres_pracy": "22 lata (1632-1654)",
+        "specjalizacje": [
+          "kamieniarze",
+          "rzeźbiarze",
+          "mozaiciści",
+          "kaligrafowie",
+          "złotnicy",
+          "murarze"
+        ]
+      },
+      "legenda": {
+        "mit": "Szahdżahan miał odciąć ręce lub zabić rzemieślników, by nie powtórzyli dzieła",
+        "prawda": "brak historycznych dowodów na potwierdzenie tej legendy"
+      }
+    },
+    "koncepcja": {
+      "podstawy_koncepcyjne": "odzwierciedlenie raju na ziemi, symbol wiecznej miłości, harmonia boska, geometria islamska",
+      "filozofia_projektu": "Mauzoleum jako perski raj w indyjskim marmurze; każdy element symbolizuje doskonałość, porządek kosmiczny i miłość transcendentną",
+      "zasady_geometryczne": [
+        "absolutna symetria osiowa",
+        "plan krzyżowy (char bagh)",
+        "proporcje złotego podziału",
+        "geometria kwadratów i oktagonów",
+        "mandala islamska",
+        "numerologia czwórki"
+      ],
+      "system_konstrukcyjny": "podwójna kopuła (zewnętrzna i wewnętrzna), masywne ściany nośne, łuki ostrokątne, platforma podniesiona 7m",
+      "symetria": "perfekcyjna symetria osiowa na wszystkich płaszczyznach",
+      "proporcje": "oparte na harmonii islamskiej i perskiej estetyce",
+      "orientacja": "mauzoleum skierowane na północ z wejściem od południa, mihrab w zachodniej ścianie wskazujący Mekkę",
+      "symbolika_liczbowa": {
+        "4": "cztery minarety, cztery kopuły boczne, cztery części ogrodu (char bagh), cztery rajskie rzeki, cztery światy islamskie",
+        "22": "22 lata budowy, 22 kopułki na Bramie Głównej",
+        "1": "jeden Bóg, jedna miłość, jedno mauzoleum",
+        "8": "ośmioboczny plan komory głównej, symbol islamskiego raju"
+      },
+      "filozofia_światła": "biały marmur zmienia barwę w ciągu dnia: różowy o świcie, biały w południe, złoty o zachodzie, srebrny w świetle księżyca - symbol transcendencji i zmienności życia",
+      "akustyka": "echo w komorze głównej powtarza się 7 razy, czas pobrzmiewania około 28 sekund"
+    },
+    "fasady": {
+      "fasada_północna": {
+        "orientacja": "północ",
+        "strony_świata_nazwa": "północ - główne wejście od strony rzeki Yamuna",
+        "tematyka": "reprezentacyjna fasada główna",
+        "status": "ukończona",
+        "rok_ukończenia": 1643,
+        "architekt": "Ustad Ahmad Lahauri",
+        "styl": "mogolski z wpływami perskimi",
+        "portale": 1,
+        "charakterystyka": "wielki łuk iwan (portal) wysokości 33m, wnęka głęboka na 20m",
+        "rzeźby": {
+          "liczba": "brak figur zgodnie z zakazem islamskim",
+          "charakterystyka": "kaligrafia koraniczna, arabeski, motywy floralne",
+          "tematy": [
+            "wersety z Koranu (sura 89 i 36)",
+            "motywy kwiatowe: lilie, irysy, tulipany",
+            "geometryczne wzory islamskie",
+            "inkrustacje kamienne"
+          ],
+          "autor_kaligrafii": "Amanat Khan Shirazi (jedyna sygnatura na budowli)"
+        },
+        "materiały": [
+          "biały marmur z Makrany (Radżastan)",
+          "jasper",
+          "jadeity",
+          "kryształy",
+          "agaty",
+          "lapis lazuli",
+          "karneol",
+          "turkusy",
+          "korał",
+          "onyks"
+        ],
+        "kolorystyka": "biały marmur z kolorowymi inkrustacjami kamiennymi",
+        "symbolika": "brama do raju, wzniosłość duchowa",
+        "dekoracje": [
+          "kaligrafia arabska zwiększająca rozmiar liter ku górze (korekcja optyczna)",
+          "motywy kwiatowe wykonane techniką pietra dura",
+          "geometryczne panele ornamentacyjne",
+          "ażurowe okna (jali) z marmuru"
+        ],
+        "innowacje_konstrukcyjne": "efekt optyczny kaligrafii - litery w górnych partiach są większe, by wydawały się jednakowe z dołu"
+      },
+      "fasada_południowa": {
+        "orientacja": "południe",
+        "strony_świata_nazwa": "południe - od strony Bramy Głównej",
+        "tematyka": "reprezentacyjna od strony ogrodu",
+        "status": "ukończona",
+        "rok_ukończenia": 1643,
+        "architekt": "Ustad Ahmad Lahauri",
+        "styl": "identyczny jak fasada północna",
+        "portale": 1,
+        "charakterystyka": "lustrzane odbicie fasady północnej, wielki iwan",
+        "symbolika": "symetria doskonała, odzwierciedlenie harmonii boskiej"
+      },
+      "fasada_wschodnia": {
+        "orientacja": "wschód",
+        "strony_świata_nazwa": "wschód - wschód słońca",
+        "tematyka": "boczna fasada",
+        "status": "ukończona",
+        "rok_ukończenia": 1643,
+        "styl": "identyczny schemat co pozostałe fasady",
+        "portale": 1,
+        "charakterystyka": "iwan boczny, lustrzana symetria",
+        "symbolika": "światło i narodziny"
+      },
+      "fasada_zachodnia": {
+        "orientacja": "zachód",
+        "strony_świata_nazwa": "zachód - kierunek Mekki (qibla)",
+        "tematyka": "fasada z mihrabem",
+        "status": "ukończona",
+        "rok_ukończenia": 1643,
+        "portale": 1,
+        "charakterystyka": "wnętrze z mihrabem skierowanym do Mekki",
+        "symbolika": "modlitwa, kierunek duchowy"
+      },
+      "brama_główna": {
+        "nazwa": "Darwaza-i rauza (Brama Saraceńska)",
+        "orientacja": "południe",
+        "wysokość": 30,
+        "materiał": "czerwony piaskowiec z inkrustacjami marmuru",
+        "kopułki": 22,
+        "symbolika_kopułek": "22 lata budowy Tadż Mahal",
+        "funkcja": "symboliczne wrota do raju",
+        "dekoracje": "wersety z Koranu, agaty, marmurowe inkrustacje",
+        "inskrypcje": "sura 89 z Koranu - zaproszenie do raju",
+        "rok_ukończenia": 1648
+      }
+    },
+    "wieże": {
+      "minarety": {
+        "liczba": 4,
+        "ukończone": 4,
+        "wysokość": 43,
+        "średnica": 2.5,
+        "lokalizacja": "w czterech narożnikach platformy mauzoleum",
+        "odległość_od_mauzoleum": "naroża platformy 100x100m",
+        "konstrukcja": "cylindryczne z trzema galeriami (balkonami)",
+        "materiał": "biały marmur",
+        "charakterystyka": "smukłe, stożkowo zwężające się ku górze, zwieńczone ośmiobocznym chattri (baldachimem)",
+        "pochylenie": "lekko odchylone na zewnątrz (około 2-3 stopnie)",
+        "cel_pochylenia": "sejsmiczne zabezpieczenie - przy trzęsieniu ziemi upadną od mauzoleum, nie na nie",
+        "funkcja": "muzułmańskie wezwanie do modlitwy (azan), elementy równoważące kompozycję",
+        "symbolika": "strażnicy rajskiej przestrzeni, cztery strony świata, ochrona przed złymi energiami",
+        "balkony": {
+          "liczba_na_minaret": 3,
+          "funkcja": "platformy dla muezina",
+          "dostęp": "wewnętrzne spiralne schody"
+        },
+        "zwieńczenie": {
+          "element": "chattri (kopulasty baldachim)",
+          "styl": "hindusko-mogolski",
+          "dekoracja": "wzory kwiatowe i geometryczne"
+        },
+        "innowacje": "pierwsze minarety w architekturze mogolskiej zaprojektowane z myślą o ochronie sejsmicznej"
+      }
+    },
+    "wnętrze": {
+      "komora_główna": {
+        "typ_rozplanowania": "ośmioboczny (oktagonalny) plan centralny",
+        "wymiar_boku": 25,
+        "wysokość_wewnętrzna": 25,
+        "wysokość_kopuły_wewnętrznej": 25,
+        "powierzchnia": 625,
+        "oświetlenie": {
+          "światło_naturalne": {
+            "główne_źródło": "ażurowe okna jali z marmuru",
+            "perforacje": "geometryczne wzory islamskie przepuszczające rozproszone światło",
+            "efekt": "subtelne, mistyczne oświetlenie",
+            "symbolika": "boskie światło przenikające do świętej przestrzeni"
+          },
+          "światło_sztuczne": {
+            "historyczne": "lampy olejne",
+            "współczesne": "dyskretne LED ukryte w strukturze"
+          }
+        },
+        "cenotafy": {
+          "liczba": 2,
+          "lokalizacja": "centrum oktagonalnej komory",
+          "osoby": [
+            {
+              "imię": "Mumtaz Mahal",
+              "pozycja": "centrum",
+              "materiał": "biały marmur",
+              "wysokość": 1.5,
+              "dekoracja": "inkrustacje kamienne, kaligrafia",
+              "symbolika": "centralne miejsce jako główna dedykacja",
+              "napisy": "99 imion Allaha, wersety koraniczne"
+            },
+            {
+              "imię": "Szahdżahan (Shah Jahan)",
+              "pozycja": "na zachód od Mumtaz (asymetria)",
+              "materiał": "biały marmur",
+              "wysokość": 1.7,
+              "dekoracja": "identyczna technika inkrustacji",
+              "symbolika": "dodany później, naruszona symetria",
+              "rok_dodania": 1666,
+              "kontrowersja": "jedyny element asymetryczny w całej budowli"
+            }
+          ],
+          "funkcja": "symboliczne groby (prawdziwe znajdują się w krypcie poniżej)",
+          "perforacja": "ażurowy marmurowy parawan (jali screen) o wysokości 2.5m otaczający cenotafy",
+          "materiał_parawanu": "pojedynczy blok marmuru rzeźbiony przez 10 lat"
+        },
+        "prawdziwe_groby": {
+          "lokalizacja": "krypta bezpośrednio pod komorą główną, na poziomie platformy",
+          "dostęp": "zamknięty dla zwiedzających",
+          "groby": "proste, zgodne z islamską tradycją",
+          "orientacja": "ciała zwrócone na bok twarzą do Mekki"
+        },
+        "dekoracje_ścian": {
+          "technika": "pietra dura - inkrustacja kamieni półszlachetnych w marmur",
+          "motywy": "kwiaty: irysy, lilie, tulipany, narcyzy, maki",
+          "liczba_kamieni": "ponad 28 rodzajów",
+          "pochodzenie_kamieni": [
+            "jaspis - Pendżab",
+            "jadeity - Chiny",
+            "kryształy - Himalaje",
+            "agaty - Jemen",
+            "lapis lazuli - Afganistan",
+            "karneol - Arabia",
+            "turkusy - Tybet",
+            "korał - Morze Czerwone",
+            "onyks - Persja",
+            "ametysty - Persja"
+          ],
+          "precyzja": "jubilerska - pojedyncze płatki kwiatów z wielu kawałków kamienia",
+          "symbolika": "wieczne kwiaty raju, nieprzemijające piękno"
+        },
+        "akustyka": {
+          "echo": "powtarza się 7 razy",
+          "czas_pobrzmiewania": "około 28 sekund",
+          "efekt": "mistyczny, duchowy",
+          "zastosowanie": "recytacja Koranu, modlitwy",
+          "symbolika": "7 powtórzeń - liczba świętych poziomów nieba w islamie"
+        },
+        "kopuła_wewnętrzna": {
+          "wysokość": 25,
+          "konstrukcja": "podwójna - wewnętrzna i zewnętrzna rozdzielone przestrzenią 6m",
+          "kształt_wewnętrzny": "półkolista",
+          "dekoracja": "geometryczne wzory i gwiazdy złocone",
+          "symbolika": "sklepienie nieba, kopuła rajska"
+        },
+        "podłoga": {
+          "materiał": "biały i czarny marmur",
+          "wzór": "szachownica i geometryczne kompozycje",
+          "symbolika": "porządek kosmiczny, dualność świata"
+        }
+      },
+      "komnaty_narożne": {
+        "liczba": 4,
+        "lokalizacja": "w narożnikach oktagonalnego planu",
+        "wymiary": "mniejsze pomieszczenia ośmioboczne",
+        "funkcja_historyczna": "pomieszczenia modlitewne, pokoje dla strażników",
+        "funkcja_obecna": "zamknięte dla zwiedzających",
+        "połączenie": "korytarze z główną komorą",
+        "wysokość": 8,
+        "dekoracje": "uproszczone motywy kwiatowe"
+      },
+      "platforma": {
+        "wymiary": "100m x 100m",
+        "wysokość": 7,
+        "materiał": "piaskowiec pokryty białym marmurem",
+        "funkcja": "podniesienie mauzoleum, izolacja od wilgoci, monumentalność",
+        "dostęp": "schody z trzech stron (północ, wschód, zachód)",
+        "symbolika": "wzniesienie duchowe, oddzielenie od świata doczesnego"
+      },
+      "budynki_towarzyszące": {
+        "meczet": {
+          "lokalizacja": "zachód od mauzoleum na platformie",
+          "wymiary": "56m długości",
+          "materiał": "czerwony piaskowiec z marmurowymi akcentami",
+          "funkcja": "miejsce modlitwy",
+          "mihrab": "nisza w ścianie zachodniej wskazująca Mekkę",
+          "podłoga": "zarys 569 dywaników modlitewnych z czarnego marmuru",
+          "kopuły": 3,
+          "minarety": 2,
+          "status": "czynny meczet"
+        },
+        "mehman_khana": {
+          "nazwa": "dom gościnny (jawab - odpowiedź)",
+          "lokalizacja": "wschód od mauzoleum na platformie (lustrzane odbicie meczetu)",
+          "wymiary": "56m długości - identyczne jak meczet",
+          "materiał": "czerwony piaskowiec",
+          "funkcja_historyczna": "dom gościnny, schronienie dla pielgrzymów",
+          "funkcja_obecna": "magazyn, zamknięty dla zwiedzających",
+          "różnica": "brak mihrabu, geometryczna podłoga zamiast dywaników",
+          "symbolika": "równowaga symetryczna, jawab (odpowiedź architektoniczna)",
+          "kolorystyka": "czerwony kontrast z białym mauzoleum"
+        }
+      },
+      "ogrody": {
+        "typ": "char bagh - czteroczęściowy ogród perski",
+        "wymiary": "300m x 300m",
+        "podział": "4 kwadratowe części oddzielone krzyżującymi się kanałami",
+        "kanały": {
+          "liczba_głównych": 4,
+          "szerokość": 2,
+          "funkcja": "symboliczne rajskie rzeki, odbicia mauzoleum, system irygacyjny"
+        },
+        "zbiornik_centralny": {
+          "lokalizacja": "centrum, w linii głównej osi",
+          "funkcja": "odbicie mauzoleum, fontanna",
+          "efekt": "lustrzane odbicie tworzy iluzję 'pływającego' mauzoleum",
+          "symbolika": "doskonałość, podwójny świat - ziemski i niebieski"
+        },
+        "roślinność": {
+          "drzewa": "cyprysy (symbol śmierci i wieczności), drzewa owocowe (symbol życia)",
+          "kwiaty": "róże, jaśmin, hibiskus, lilie",
+          "układ": "geometryczny, symetryczny",
+          "symbolika": "rajski ogród, życie wieczne"
+        },
+        "symbolika_ogrodu": "muzułmańskie wyobrażenie Dżannatu (raju) z 4 rzekami: woda, mleko, wino, miód",
+        "innowacja": "umieszczenie mauzoleum na końcu osi (zwykle w centrum) dla lepszego efektu wizualnego"
+      }
+    }
+  },
+  "budowa": {
+    "chronologia": {
+      "1607": "Ślub Szahdżahana (księcia Churrama) z Arjumand Banu Begam (przyszłą Mumtaz Mahal)",
+      "1631": "Śmierć Mumtaz Mahal podczas porodu 14. dziecka 17 czerwca w Burhanpur",
+      "1632": "Rozpoczęcie budowy mauzoleum, wmurowanie kamienia węgielnego",
+      "1634": "Ukończenie fundamentów i platformy głównej",
+      "1638": "Ukończenie głównego mauzoleum (korpus budynku)",
+      "1643": "Ukończenie mauzoleum z kopułą i minaretami",
+      "1647": "Ukończenie Bramy Głównej (Darwaza-i rauza)",
+      "1648": "Ukończenie meczetu i domu gościnnego",
+      "1653": "Oficjalne zakończenie całego kompleksu wraz z ogrodami",
+      "1654": "Finalizacja prac dekoracyjnych i inkrustacji kamiennych",
+      "1658": "Obalenie Szahdżahana przez syna Aurangzeba, uwięzienie w Czerwonym Forcie",
+      "1666": "Śmierć Szahdżahana 22 stycznia, pochowanie obok Mumtaz Mahal",
+      "1717": "Pierwsze napady rabunkowe - kradzież klejnotów z cenotafów",
+      "1857": "Powstanie Sipajów - dalsze dewastacje, kradzież kamieni szlachetnych",
+      "1899": "Lord Curzon zarządza pierwszą kompleksową renowację",
+      "1908": "Ukończenie restauracji lamp wiszących i ogrodów",
+      "1942": "Budowa rusztowań ochronnych podczas II wojny światowej (ochrona przed bombardowaniami)",
+      "1971": "Ochrona przed pakistańskimi nalotami podczas wojny indyjsko-pakistańskiej",
+      "1983": "Wpis Tadż Mahal na listę światowego dziedzictwa UNESCO",
+      "1990-2000": "Programy oczyszczania marmuru z zanieczyszczeń przemysłowych",
+      "2002": "Zamknięcie fabryk w promieniu 50 km od mauzoleum",
+      "2018": "Wielka renowacja - czyszczenie kopuły metodą glinki Fuller's Earth",
+      "2020-2021": "Zamknięcie podczas pandemii COVID-19",
+      "2023-obecnie": "Ciągła konserwacja i monitoring degradacji marmuru"
+    },
+    "fazy_szczegółowe": [
+      {
+        "faza": "Faza 1 - Przygotowania i fundamenty",
+        "okres": "1632-1634",
+        "osiągnięcia": "wykopy, fundamenty głębokie, budowa platformy 100x100m wysokości 7m",
+        "kierownik": "Mir Abd-ul Karim",
+        "wyzwania": "stabilizacja gruntu nad rzeką Yamuna, zapobieganie podmywaniu"
+      },
+      {
+        "faza": "Faza 2 - Mauzoleum główne",
+        "okres": "1634-1643",
+        "osiągnięcia": "budowa korpusu mauzoleum, czterech minaretów, kopuły głównej i bocznych",
+        "architekt": "Ustad Ahmad Lahauri",
+        "materiały": "biały marmur z Makrany (350 km), transport 1000 słoni"
+      },
+      {
+        "faza": "Faza 3 - Inkrustacje i dekoracje",
+        "okres": "1643-1654",
+        "osiągnięcia": "pietra dura - inkrustacje 28 rodzajami kamieni szlachetnych, kaligrafia koraniczna",
+        "artyści": "Amanat Khan Shirazi (kaligrafia), mistrzowie z Persji i Azji Środkowej",
+        "szczegóły": "każdy kwiat składa się z 50-60 elementów kamiennych"
+      },
+      {
+        "faza": "Faza 4 - Budynki towarzyszące",
+        "okres": "1643-1648",
+        "osiągnięcia": "meczet zachodni, mehman khana (dom gościnny), Brama Główna",
+        "materiały": "czerwony piaskowiec z Sikri i Dholpur"
+      },
+      {
+        "faza": "Faza 5 - Ogrody i infrastruktura",
+        "okres": "1648-1653",
+        "osiągnięcia": "ogrody char bagh, kanały wodne, fontanny, plantacje drzew",
+        "system": "zaawansowany system irygacyjny z podziemnymi zbiornikami"
+      },
+      {
+        "faza": "Faza 6 - Okres upadku i grabieży",
+        "okres": "1717-1857",
+        "straty": "kradzież kamieni szlachetnych, złota, srebrnych lamp, zniszczenia ogrodów",
+        "sprawcy": "Jatowie (1717), żołnierze powstańców Sipajów (1857)"
+      },
+      {
+        "faza": "Faza 7 - Restauracja brytyjska",
+        "okres": "1899-1920",
+        "osiągnięcia": "odtworzenie ogrodów, naprawa marmuru, instalacja lamp, oczyszczenie",
+        "inicjator": "Lord Curzon - wicekról Indii"
+      },
+      {
+        "faza": "Faza 8 - Ochrona i konserwacja współczesna",
+        "okres": "1980-obecnie",
+        "osiągnięcia": "ograniczenie zanieczyszczeń, regularne czyszczenie marmuru, monitoring strukturalny",
+        "metody": "glinka Fuller's Earth, lasery, ograniczenie ruchu samochodowego"
+      }
+    ],
+    "finansowanie": {
+      "główne_źródło": "skarb imperium mogolskiego",
+      "koszt_całkowity": "32 miliony rupii (według zapisów historycznych)",
+      "koszt_współczesny": "szacunkowo 1 miliard USD w dzisiejszych wartościach",
+      "dodatkowe_koszty": "transport słoniami - 1000 słoni przez 22 lata",
+      "źródła_dochodu_cesarza": "podatki z imperium, handel, łupy wojenne",
+      "współczesne_finansowanie": "Archaeological Survey of India (ASI), wpływy z biletów",
+      "liczba_turystów_rocznie": "7-8 milionów",
+      "wpływy_roczne": "około 25-30 milionów USD",
+      "koszty_konserwacji": "około 5-10 milionów USD rocznie",
+      "cena_wstępu": "250 rupii dla Hindusów, 1100 rupii dla zagranicznych turystów (około 13 USD)"
+    },
+    "technologie": {
+      "historyczne": [
+        "transport wodny - marmur spławiany rzeką Yamuna",
+        "transport słoniami - 1000 słoni transportujących materiały",
+        "rusztowania bambusowe - konstrukcje do 73m wysokości",
+        "rampy ziemne - nasypy do transportu bloków marmuru",
+        "dźwigi linowe - systemy wielokrążkowe",
+        "odlewy brązowe - dzwony, elementy dekoracyjne",
+        "technika pietra dura - jubilerska inkrustacja kamienna",
+        "kaligrafia cięta - precyzyjne wcięcia wypełnione czarnym marmurem",
+        "polerowanie marmuru - ręczne przy użyciu piasku i wody"
+      ],
+      "współczesne_konserwatorskie": [
+        "glinka Fuller's Earth - naturalne czyszczenie marmuru",
+        "lasery niskoemisyjne - usuwanie zabrudzeń bez uszkodzeń",
+        "skanowanie 3D - monitoring strukturalny i deformacji",
+        "czujniki sejsmiczne - monitoring trzęsień ziemi",
+        "czujniki wilgotności - kontrola klimatu wewnętrznego",
+        "fotogrametria - dokumentacja stanu zachowania",
+        "spektrometria - analiza zanieczyszczeń marmuru",
+        "modelowanie komputerowe - symulacje wpływu środowiska"
+      ],
+      "innowacje_konstrukcyjne": [
+        "podwójna kopuła - zewnętrzna (cebulasta) i wewnętrzna (półkolista) z przestrzenią 6m",
+        "minarety pochylone - odchylenie 2-3° na zewnątrz dla ochrony sejsmicznej",
+        "fundamenty palowe - głębokie studnie wypełnione kamieniem dla stabilności",
+        "platforma izolacyjna - 7m wysokości chroniąca przed wilgocią z rzeki",
+        "wentylacja naturalna - system otworów w kopule",
+        "korekcja optyczna kaligrafii - większe litery w górnych partiach",
+        "system drenażowy - odprowadzanie wody deszczowej"
+      ],
+      "przełomy": [
+        {
+          "okres": "1632-1643",
+          "innowacja": "podwójna konstrukcja kopuły - stabilność i estetyka",
+          "znaczenie": "umożliwiła osiągnięcie wysokości 73m bez zagrożenia konstrukcji"
+        },
+        {
+          "okres": "1643-1654",
+          "innowacja": "technika pietra dura na niespotykaną skalę",
+          "znaczenie": "28 rodzajów kamieni z całej Azji, precyzja jubilerska"
+        },
+        {
+          "okres": "1899-1908",
+          "innowacja": "pierwsza nowoczesna konserwacja zabytku w Indiach",
+          "znaczenie": "Lord Curzon wprowadził standardy ochrony dziedzictwa"
+        },
+        {
+          "okres": "2002",
+          "innowacja": "strefa ochronna 50 km bez przemysłu",
+          "znaczenie": "ograniczenie zanieczyszczeń niszczących marmur"
+        }
+      ]
+    },
+    "materiały": {
+      "kamień": {
+        "marmur_biały_Makrana": {
+          "źródło": "kamieniołomy Makrana, Radżastan (350 km od Agry)",
+          "zastosowanie": "całe mauzoleum, minarety, cenotafy",
+          "charakterystyka": "wyjątkowo biały, półprzezroczysty, zmienia kolor w ciągu dnia",
+          "ilość": "około 28000 ton",
+          "transport": "1000 słoni, wozy, statki po rzece Yamuna",
+          "właściwości": "zawiera małe kryształy nadające połysk"
+        },
+        "marmur_czarny": {
+          "źródło": "kamieniołomy w okolicach Agry",
+          "zastosowanie": "inskrypcje koraniczne, kontury dekoracji",
+          "charakterystyka": "głęboka czerń, kontrast z białym marmurem",
+          "technika": "wcięcia wypełnione czarnym marmurem"
+        },
+        "piaskowiec_czerwony": {
+          "źródło": "Sikri, Dholpur, Fatehpur (okolice Agry)",
+          "zastosowanie": "Brama Główna, meczet, dom gościnny, ogrodzenia",
+          "charakterystyka": "czerwono-brązowy odcień, twardość",
+          "ilość": "około 15000 ton",
+          "symbolika": "kontrast z białym mauzoleum, ziemskość vs. duchowość"
+        }
+      },
+      "kamienie_szlachetne_i_półszlachetne": {
+        "jaspis_czerwony": {
+          "źródło": "Pendżab (Indie)",
+          "zastosowanie": "płatki kwiatów, geometryczne wzory",
+          "liczba_elementów": "tysiące małych kawałków"
+        },
+        "jadeity_zielone": {
+          "źródło": "Chiny",
+          "zastosowanie": "liście, elementy roślinne",
+          "charakterystyka": "intensywna zieleń, połysk"
+        },
+        "lapis_lazuli": {
+          "źródło": "Afganistan (Badachszan)",
+          "zastosowanie": "niebieskie akcenty w kwiatach",
+          "wartość": "jeden z najdroższych kamieni użytych"
+        },
+        "karneol": {
+          "źródło": "Arabia",
+          "zastosowanie": "pomarańczowe odcienie kwiatów"
+        },
+        "agaty": {
+          "źródło": "Jemen",
+          "zastosowanie": "dekoracje geometryczne"
+        },
+        "turkusy": {
+          "źródło": "Tybet",
+          "zastosowanie": "niebiesko-zielone akcenty"
+        },
+        "korale": {
+          "źródło": "Morze Czerwone",
+          "zastosowanie": "czerwone detale"
+        },
+        "onyks": {
+          "źródło": "Persja",
+          "zastosowanie": "czarno-białe wzory"
+        },
+        "ametysty": {
+          "źródło": "Persja, Sri Lanka",
+          "zastosowanie": "fioletowe elementy"
+        },
+        "kryształy_górskie": {
+          "źródło": "Himalaje",
+          "zastosowanie": "przezroczyste akcenty"
+        }
+      },
+      "metale": {
+        "złoto": {
+          "zastosowanie": "oryginalne zwieńczenie kopuły (finał), inkrustacje",
+          "status": "większość skradziona w XVIII-XIX wieku",
+          "ilość_oryginalna": "szacunkowo 100 kg"
+        },
+        "srebro": {
+          "zastosowanie": "drzwi mauzoleum (oryginalne), lampy",
+          "status": "drzwi zastąpione brązowymi, lampy skradzione"
+        },
+        "brąz": {
+          "zastosowanie": "obecne drzwi (repliki), elementy dekoracyjne",
+          "charakterystyka": "odporność na korozję"
+        },
+        "żelazo": {
+          "zastosowanie": "kotwy konstrukcyjne, elementy wzmacniające",
+          "ilość": "minimalna - ukryte wewnątrz konstrukcji"
+        }
+      },
+      "inne": {
+        "drewno_sandałowe": {
+          "zastosowanie": "oryginalne cenotafy (zastąpione marmurowym parawane)",
+          "status": "nie zachowało się"
+        },
+        "szkło_kolorowe": {
+          "zastosowanie": "okna jali - ażurowe przepierzenia",
+          "technika": "szkło wtopione w marmurowe ramy"
+        },
+        "glina": {
+          "zastosowanie": "tymczasowe konstrukcje, formy odlewnicze"
+        },
+        "wapno": {
+          "zastosowanie": "zaprawa murarska, tynki wewnętrzne"
+        }
+      }
+    },
+    "wyzwania_techniczne": {
+      "gruntowe": {
+        "problem": "podmokły grunt nad rzeką Yamuna, osuwiska",
+        "rozwiązanie": "wykopanie studni głębinowych wypełnionych kamieniem i gruzem, platforma 7m wysokości"
+      },
+      "transportowe": {
+        "problem": "transport 28000 ton marmuru z odległości 350 km",
+        "rozwiązanie": "kombinacja: słonie (1000 sztuk), wozy zaprzęgowe, transport rzeczny po Yamunie"
+      },
+      "konstrukcyjne": {
+        "problem": "budowa kopuły o wysokości 24.5m i średnicy 17.7m",
+        "rozwiązanie": "podwójna konstrukcja - kopuła wewnętrzna nośna i zewnętrzna estetyczna"
+      },
+      "sejsmiczne": {
+        "problem": "region zagrożony trzęsieniami ziemi",
+        "rozwiązanie": "minarety pochylone 2-3° na zewnątrz - spadną od mauzoleum, nie na nie"
+      },
+      "artystyczne": {
+        "problem": "inkrustacja tysięcy małych kamieni w marmur z precyzją jubilerską",
+        "rozwiązanie": "sprowadzenie najlepszych rzemieślników z Persji, Azji Środkowej, Imperium Osmańskiego"
+      },
+      "klimatyczne": {
+        "problem": "ekstremalne upały (do 48°C), monsunowe deszcze",
+        "rozwiązanie": "przerwy w pracach w ekstremalnych warunkach, system drenażowy"
+      },
+      "współczesne_degradacyjne": {
+        "problem": "żółknięcie marmuru przez zanieczyszczenia (SO2, NO2)",
+        "rozwiązanie": "czyszczenie glinką Fuller's Earth, strefa przemysłowa 50 km, zakaz samochodów"
+      },
+      "biologiczne": {
+        "problem": "owady (Goeldichironomus) zostawiające zielone odchody na marmurze",
+        "rozwiązanie": "regularne czyszczenie, kontrola populacji poprzez zmiany w rzece Yamunie"
+      }
+    },
+    "zespół_budowlany": {
+      "liczba_robotników": "20000-25000 osób w szczycie budowy",
+      "pochodzenie": [
+        "Indie",
+        "Persja",
+        "Imperium Osmańskie (Turcja)",
+        "Azja Środkowa (Samarkanda, Buchara)",
+        "możliwe: Europa (Włochy - Geronimo Veroneo, Francja)"
+      ],
+      "specjaliści": [
+        "kamieniarze - cięcie i układanie marmuru",
+        "mozaiciści - technika pietra dura",
+        "kaligrafowie - inskrypcje koraniczne",
+        "złotnicy - inkrustacje metaliczne",
+        "rzeźbiarze - płaskorzeźby kwiatowe",
+        "budowniczowie kopuł - specjaliści z Stambułu",
+        "projektanci minaretów - mistrzowie z Samarkandy",
+        "ogrodnicy - projektowanie char bagh",
+        "inżynierowie wodni - kanały i fontanny"
+      ],
+      "główni_artyści": [
+        {
+          "imię": "Amanat Khan Shirazi",
+          "pochodzenie": "Persja (Shiraz)",
+          "specjalność": "kaligrafia koraniczna",
+          "dzieło": "wszystkie inskrypcje na fasadach",
+          "wyróżnienie": "jedyny artysta, który podpisał swoje dzieło"
+        },
+        {
+          "specjalność": "mistrz kopuł",
+          "pochodzenie": "Stambuł",
+          "dzieło": "konstrukcja głównej kopuły"
+        },
+        {
+          "specjalność": "mistrz minaretów",
+          "pochodzenie": "Samarkanda",
+          "dzieło": "cztery minarety"
+        }
+      ],
+      "organizacja_pracy": {
+        "nadzór_cesarski": "Szahdżahan osobiście nadzorował budowę codziennie",
+        "główny_koordynator": "Mir Abd-ul Karim i Makramat Khan",
+        "główny_architekt": "Ustad Ahmad Lahauri",
+        "zmiany": "pracownicy zmieniani w okresach 6-12 miesięcy",
+        "zakwaterowanie": "prowizoryczne wioski robotnicze wokół placu budowy"
+      },
+      "legenda_okrucieństwa": {
+        "mit": "robotnikom obcięto kciuki, architektowi wyłupiono oczy, aby nie powtórzyli dzieła",
+        "prawda_historyczna": "brak jakichkolwiek dowodów w kronikach mogolskich na takie praktyki",
+        "pochodzenie_legendy": "romantyczne opowieści europejskich podróżników z XVIII wieku",
+        "fakt": "wielu rzemieślników pracowało później przy innych projektach Szahdżahana"
+      },
+      "współczesny_zespół_konserwatorski": {
+        "zarządzający": "Archaeological Survey of India (ASI)",
+        "liczba_pracowników": "około 300 osób stałych",
+        "specjaliści": [
+          "konserwatorzy zabytków",
+          "chemicy - analiza zanieczyszczeń",
+          "inżynierowie konstrukcyjni",
+          "dendrolodzy - opieka nad ogrodami",
+          "strażnicy - ochrona kompleksu",
+          "przewodnicy - obsługa turystów"
+        ]
+      }
+    }
+  },
+  "znaczenie_kulturowe": {
+    "status_UNESCO": {
+      "wpisanie": "1983",
+      "kategoria": "Dobro Światowego Dziedzictwa UNESCO",
+      "numer_referencyjny": "252",
+      "kryteria": [
+        "Kryterium (i): arcydzieło ludzkiego geniuszu twórczego - reprezentuje szczyt architektury mogolskiej"
+      ],
+      "zakres": "Cały kompleks Tadż Mahal wraz z ogrodami, meczetem i budynkami towarzyszącymi (17 hektarów)",
+      "uzasadnienie": "Klejnot sztuki muzułmańskiej w Indiach i jeden z powszechnie podziwianych arcydzieł światowego dziedzictwa",
+      "cytat_UNESCO": "the jewel of Islamic art in India and one of the universally admired masterpieces of the world's heritage"
+    },
+    "symbol_kulturowy": {
+      "Agra": "najważniejszy symbol miasta, główna atrakcja turystyczna",
+      "Indie": "narodowy symbol Indii, ikona rozpoznawalna na całym świecie, symbol dziedzictwa mogolskiego",
+      "Islam": "wybitny przykład sztuki islamskiej, synteza tradycji perskich, tureckich i indyjskich",
+      "miłość": "uniwersalny symbol wiecznej miłości i oddania",
+      "architektura_mogolska": "szczyt osiągnięć architektury Indo-Islamskiej"
+    },
+    "wpływ_na_sztukę": {
+      "architektura": "wzorzec dla budowli mogolskich, inspiracja dla architektury Indo-Islamskiej na całym świecie",
+      "techniki_rzemieślnicze": "technika pietra dura (parchin kari) kontynuowana przez rzemieślników z Taj Gunj do dziś",
+      "ogrodnictwo": "model ogrodu char bagh (perskiego ogrodu czteroczęściowego)",
+      "kaligrafia": "najwybitniejszy przykład kaligrafii architektonicznej w sztuce mogolskiej",
+      "symetria": "wzór idealnej symetrii w architekturze islamskiej"
+    },
+    "cytaty_o_budynku": [
+      {
+        "autor": "Rabindranath Tagore",
+        "cytat": "łza na policzku czasu (the teardrop on the cheek of time)",
+        "rok": "około 1900",
+        "kontekst": "poeta i noblista, najbardziej znany cytat o Tadż Mahal"
+      },
+      {
+        "autor": "Rudyard Kipling",
+        "cytat": "ucieleśnienie wszystkich czystych rzeczy (the embodiment of all things pure)",
+        "rok": "1899"
+      },
+      {
+        "autor": "Aurangzeb (syn Szahdżahana)",
+        "cytat": "sprawił, że ojciec stał się żebrakiem i imperium zniszczył",
+        "kontekst": "krytyka nadmiernych wydatków na budowę"
+      },
+      {
+        "autor": "Jean-Baptiste Tavernier",
+        "cytat": "najpiękniejszy i najbardziej harmonijny budynek we wszystkich Indiach",
+        "rok": "1665",
+        "kontekst": "francuski podróżnik, jeden z pierwszych Europejczyków opisujących Tadż Mahal"
+      },
+      {
+        "autor": "Diana, księżna Walii",
+        "okazja": "fotografia samotnie siedzącej przed Tadż Mahal",
+        "rok": "1992",
+        "znaczenie": "ikoniczna fotografia symbolizująca samotność w małżeństwie"
+      },
+      {
+        "autor": "Bill Clinton",
+        "cytat": "Tadż Mahal jest dowodem na to, że prawdziwa miłość nigdy nie umiera",
+        "rok": "2000",
+        "okazja": "wizyta prezydenta USA"
+      }
+    ],
+    "w_kulturze_popularnej": {
+      "filmy": [
+        "Slumdog Millionaire (2008) - sceny finałowe",
+        "The Fall (2006) - Tarsem Singh",
+        "Taj Mahal: An Eternal Love Story (2005) - Bollywood",
+        "Jodhaa Akbar (2008) - kontekst epoki mogolskiej",
+        "Taj Mahal 1989 (2020) - serial Netflix"
+      ],
+      "literatura": [
+        "Taj: A Story of Mughal India - Timeri N. Murari",
+        "The Taj Conspiracy - Manreet Sodhi Someshwar",
+        "Beneath a Marble Sky - John Shors",
+        "Shadow Princess - Indu Sundaresan (seria Empire of the Moghul)",
+        "liczne wzmianki w poezji urdyjskiej i hindi"
+      ],
+      "muzyka": [
+        "Taj Mahal - Jorge Ben Jor (1972)",
+        "angielska grupa bluesowa Taj Mahal (od 1968)",
+        "inspiracja dla kompozycji muzyki klasycznej indyjskiej",
+        "miejsce koncertów muzyki sufi i klasycznej"
+      ],
+      "gry": [
+        "Civilization series - jako cud świata",
+        "Age of Empires III: The Asian Dynasties",
+        "Hitman 2 - lokacja Mumbai z widokiem na Tadż Mahal",
+        "Uncharted: The Lost Legacy - inspiracje architektoniczne"
+      ],
+      "sztuki_wizualne": "jeden z najczęściej fotografowanych budynków świata, niezliczone malowidła, grafiki, rzeźby inspirowane monumentem"
+    },
+    "nagrody_i_oznaczenia": [
+      {
+        "nazwa": "Dobro Światowego Dziedzictwa UNESCO",
+        "rok": 1983,
+        "uzasadnienie": "klejnot sztuki muzułmańskiej w Indiach"
+      },
+      {
+        "nazwa": "Jeden z Nowych Siedmiu Cudów Świata",
+        "organizacja": "New7Wonders Foundation",
+        "rok": 2007,
+        "głosowanie": "ponad 100 milionów głosów na całym świecie"
+      },
+      {
+        "nazwa": "Monument of National Importance",
+        "nadawca": "Archaeological Survey of India",
+        "rok": "od niepodległości 1947",
+        "znaczenie": "najwyższy status ochronny zabytku w Indiach"
+      },
+      {
+        "nazwa": "Symbol Indii",
+        "kontekst": "pojawia się na znaczkach pocztowych, banknotach, jako symbol marki India",
+        "rok": "ciągły od XX wieku"
+      },
+      {
+        "nazwa": "National Geographic Traveler - Top 50 Places of a Lifetime",
+        "rok": 2012
+      },
+      {
+        "nazwa": "BBC - Greatest Buildings in the World",
+        "miejsce": "Top 10",
+        "rok": 2005
+      }
+    ],
+    "znaczenie_religijne": {
+      "islam": "mauzoleum muzułmańskie, czynny meczet na terenie kompleksu",
+      "modlitwa": "meczet zachodni używany do piątkowych modlitw",
+      "pielgrzymki": "miejsce odwiedzane przez muzułmanów jako przykład sztuki islamskiej",
+      "symbolika": "odzwierciedlenie rajskiego ogrodu (Dżannatu) opisanego w Koranie"
+    },
+    "znaczenie_narodowe": {
+      "indie": "jeden z symboli państwowych, element tożsamości narodowej",
+      "turystyka": "najważniejsza atrakcja turystyczna kraju, 7-8 mln turystów rocznie",
+      "ekonomia": "generator około 25-30 mln USD rocznie dla regionu Agry",
+      "dyplomacja": "miejsce wizyt głów państw, prezydentów, premierów",
+      "promocja": "najczęściej używany symbol Indii w kampaniach promocyjnych"
+    },
+    "kontrowersje": {
+      "teoria_hinduskiej_świątyni": {
+        "twierdzenie": "P.N. Oak i inni twierdzą, że Tadż Mahal był pierwotnie hinduską świątynią Tejo Mahalaya",
+        "status": "odrzucona przez historyków i archeologów jako pseudonauka",
+        "dowody": "brak wiarygodnych źródeł historycznych lub archeologicznych"
+      },
+      "czarny_Tadż_Mahal": {
+        "legenda": "Szahdżahan planował budowę czarnego mauzoleum po drugiej stronie rzeki dla siebie",
+        "status": "legenda bez historycznego potwierdzenia",
+        "pochodzenie": "europejscy podróżnicy z XIX wieku"
+      },
+      "degradacja_środowiskowa": {
+        "problem": "żółknięcie marmuru przez zanieczyszczenia przemysłowe",
+        "działania": "zamknięcie fabryk, zakaz pojazdów spalinowych w promieniu 50 km",
+        "status": "ciągła walka z degradacją"
+      },
+      "overtourism": {
+        "problem": "nadmierna liczba turystów (7-8 mln rocznie) powoduje degradację",
+        "rozwiązania": "limit czasowy zwiedzania (3 godziny), limity dzienne zwiedzających"
+      }
+    },
+    "rekognoscencja_międzynarodowa": {
+      "wizyt_VIP": [
+        "królowa Elżbieta II (1961, 1997)",
+        "prezydent USA Bill Clinton (2000)",
+        "prezydent USA Donald Trump (2020)",
+        "prezydent Francji Emmanuel Macron (2018)",
+        "premier Kanady Justin Trudeau (2018)",
+        "księżna Diana (1992 - ikoniczna fotografia)"
+      ],
+      "media": "pojawił się w tysiącach filmów, programów telewizyjnych, reklam na całym świecie",
+      "repliki": [
+        "Bibi Ka Maqbara w Aurangabadzie (Indie) - kopia z 1660 roku",
+        "repliki w parkach tematycznych w Chinach, Bangladeszu, USA"
+      ]
+    },
+    "wpływ_na_lokalne_społeczności": {
+      "Taj_Gunj": "dzielnica rzemieślnicza wokół Tadż Mahal, kontynuująca tradycję pietra dura",
+      "zatrudnienie": "tysiące miejsc pracy dla przewodników, sprzedawców, rzemieślników",
+      "dziedzictwo_żywe": "technika parchin kari (pietra dura) przekazywana z pokolenia na pokolenie",
+      "gospodarka": "podstawa ekonomii Agry, sektor turystyczny"
+    }
+  },
+  "funkcje": {
+    "religijne": {
+      "typ_świątyni": "mauzoleum islamskie z czynnym meczetem",
+      "przynależność": "monument narodowy Indii, zarządzany przez Archaeological Survey of India (ASI)",
+      "meczet": "meczet zachodni - czynny, używany do piątkowych modlitw",
+      "liturgia": "islamska sunnicka",
+      "dostęp_religijny": "muzułmanie mogą korzystać z meczetu na terenie kompleksu",
+      "znaczenie": "miejsce pochówku Mumtaz Mahal i cesarza Szahdżahana, symbol duchowości islamskiej"
+    },
+    "turystyczne": {
+      "otwarcie_publiczne": "codziennie oprócz piątków (dzień modlitwy islamskiej)",
+      "godziny_otwarcia": {
+        "codziennie": "06:00-18:30",
+        "wieczorem_w_pełnię": "20:30-00:30 (tylko 5 nocy w miesiącu - w pełnię i 2 dni przed i po)",
+        "piątki": "zamknięte dla turystów, otwarte dla wiernych na modlitwę"
+      },
+      "liczba_turystów": {
+        "rocznie": "7000000",
+        "dziennie_średnio": "10000-15000",
+        "weekendy": "do 70000",
+        "szczyt": "październik-marzec (sezon turystyczny)"
+      },
+      "ceny_biletów": {
+        "obcokrajowcy": "1100 rupii (około 13 USD)",
+        "obywatele_Indii_i_SAARC": "50 rupii (około 0.60 USD)",
+        "dzieci": "poniżej 15 lat gratis",
+        "nocne_zwiedzanie": "750 rupii",
+        "ulgowy_cudzoziemcy": "brak ulg",
+        "różnica_cenowa": "cudzoziemcy płacą 22 razy więcej niż Hindusi"
+      },
+      "limity": {
+        "dzienny_limit": "40000 turystów (planowane ograniczenie dla obywateli Indii)",
+        "czas_zwiedzania": "maksymalnie 3 godziny",
+        "obszary_zamknięte": "prawdziwe groby w krypcie niedostępne dla zwiedzających"
+      },
+      "rezerwacje": "zalecana rezerwacja online, możliwość zakupu biletów na miejscu",
+      "audioprzewodnik": "dostępny na miejscu w kilku językach",
+      "przewodnicy": "licencjonowani przewodnicy dostępni przy wejściu",
+      "dostępność_językowa": [
+        "hindi",
+        "urdu",
+        "angielski",
+        "francuski",
+        "hiszpański",
+        "niemiecki",
+        "włoski",
+        "japoński",
+        "chiński",
+        "koreański",
+        "rosyjski",
+        "arabski"
+      ],
+      "ograniczenia": {
+        "ubiór": "skromny strój obowiązkowy - zakryte ramiona i kolana, zakaz transparentnych ubrań",
+        "obuwie": "należy zdjąć przed wejściem do mauzoleum lub używać ochraniaczy",
+        "fotografowanie": "dozwolone na zewnątrz, ograniczone wewnątrz mauzoleum, zakaz flesza",
+        "przedmioty_zabronione": "jedzenie, papierosy, zapalniczki, telefony komórkowe (można zostawić w przechowalni), duże torby, statyw",
+        "drony": "surowo zabronione",
+        "zachowanie": "cisza i szacunek jako miejsce pochówku i kultu",
+        "dotykanie": "zakaz dotykania inkrustacji kamiennych i ścian marmurowych"
+      },
+      "sklepy": {
+        "liczba": "liczne sklepy z pamiątkami w okolicy",
+        "asortyment": "repliki, miniatury Tadż Mahal, wyroby z marmuru z inkrustacją (parchin kari), tekstylia, biżuteria",
+        "lokalizacja": "przy wszystkich trzech bramach wejściowych, dzielnica Taj Ganj"
+      },
+      "infrastruktura": {
+        "parkingi": "odległe o 1-2 km (zakaz pojazdów spalinowych w pobliżu)",
+        "transport": "elektryczne autobusy, riksze elektryczne, wózki golfowe",
+        "toalety": "dostępne przy wejściach",
+        "punkty_gastronomiczne": "poza kompleksem, w dzielnicy Taj Ganj",
+        "przechowalni": "przy bramach dla zabronionych przedmiotów"
+      }
+    },
+    "edukacyjne": {
+      "muzeum": {
+        "lokalizacja": "w budynkach bocznych kompleksu",
+        "tematyka": "historia budowy, artefakty mogolskie, portrety cesarskiej rodziny, dokumenty historyczne",
+        "ekspozycje": "stałe - przedmioty związane z budową i historią Tadż Mahal",
+        "dostęp": "wliczony w bilet wstępu"
+      },
+      "programy_edukacyjne": [
+        "wycieczki szkolne z przewodnikiem",
+        "warsztaty rzemiosła parchin kari (pietra dura)",
+        "lekcje historii architektury mogolskiej",
+        "prezentacje multimedialne o technikach budowlanych",
+        "programy dla studentów architektury"
+      ],
+      "badania_naukowe": {
+        "współpraca": "Archaeological Survey of India, uniwersytety indyjskie i zagraniczne",
+        "tematy": "konserwacja marmuru, wpływ zanieczyszczeń, stabilność konstrukcji, historia sztuki mogolskiej",
+        "publikacje": "setki publikacji naukowych o architekturze, historii, konserwacji",
+        "monitoring": "ciągły monitoring stanu zachowania, degradacji, ruchów konstrukcji"
+      },
+      "dokumentacja": {
+        "archiwum": "dokumentacja historyczna, fotografie, mapy, plany",
+        "dostęp": "dla badaczy (na specjalne pozwolenie ASI)"
+      },
+      "konferencje": "międzynarodowe konferencje o dziedzictwie mogolskim, konserwacji zabytków"
+    },
+    "społeczne": {
+      "zarządzanie": "Archaeological Survey of India (ASI) - rządowa agencja ochrony zabytków",
+      "zatrudnienie": "około 300 pracowników stałych (konserwatorzy, strażnicy, administratorzy)",
+      "społeczność_lokalna": {
+        "Taj_Ganj": "dzielnica rzemieślnicza - kontynuacja tradycji parchin kari",
+        "rzemieślnicy": "ponad 500 rodzin utrzymujących się z turystyki i tradycyjnego rzemiosła",
+        "przewodnicy": "setki licencjonowanych przewodników",
+        "handel": "tysiące osób zatrudnionych w sektorze turystycznym"
+      },
+      "wpływ_ekonomiczny": {
+        "dla_Agry": "turystyka stanowi 80% gospodarki miasta",
+        "wpływy_roczne": "25-30 milionów USD z biletów",
+        "zatrudnienie": "około 40000 miejsc pracy bezpośrednio i pośrednio związanych z Tadż Mahal"
+      },
+      "wydarzenia": [
+        "Taj Mahotsav - coroczny festiwal kultury i rzemiosła (luty)",
+        "Urs - rocznica śmierci Mumtaz Mahal (islamskie obchody)",
+        "pokazy świetlne w pełnię księżyca",
+        "koncerty muzyki klasycznej indyjskiej"
+      ],
+      "inicjatywy_ochronne": [
+        "strefa wolna od przemysłu (50 km)",
+        "zakaz pojazdów spalinowych w pobliżu",
+        "program sadzenia drzew",
+        "czyszczenie rzeki Yamuna",
+        "kampanie edukacyjne o ochronie środowiska"
+      ]
+    },
+    "konserwatorskie": {
+      "program_ochrony": "ciągła konserwacja i monitoring zarządzane przez ASI",
+      "metody": [
+        "czyszczenie marmuru glinką Fuller's Earth",
+        "technologie laserowe do usuwania zabrudzeń",
+        "monitoring sejsmiczny",
+        "kontrola wilgotności",
+        "naprawy strukturalne",
+        "ochrona przed zanieczyszczeniami"
+      ],
+      "częstotliwość": {
+        "czyszczenie_zewnętrzne": "co 2-3 lata",
+        "czyszczenie_inkrustacji": "corocznie",
+        "przeglądy_techniczne": "comiesięcznie",
+        "monitoring_środowiskowy": "ciągły"
+      },
+      "budżet_konserwacji": "5-10 milionów USD rocznie",
+      "wyzwania": [
+        "żółknięcie marmuru przez zanieczyszczenia",
+        "pęknięcia w konstrukcji",
+        "erozja fundamentów przez podtopienia",
+        "degradacja przez nadmierną liczbę turystów",
+        "owady niszczące marmur"
+      ]
+    },
+    "dyplomatyczne": {
+      "wizyty_państwowe": "miejsce obowiązkowych wizyt głów państw, prezydentów, premierów odwiedzających Indie",
+      "protokół": "część oficjalnych programów wizyt dyplomatycznych",
+      "symbolika": "reprezentacja kulturowego dziedzictwa Indii na forum międzynarodowym",
+      "znaczenie": "narzędzie dyplomacji kulturalnej (soft power)"
+    }
+  },
+  "kontekst_historyczny": {
+    "geneza_projektu": {
+      "inicjator": "Szahdżahan (Shah Jahan) - piąty cesarz z dynastii Wielkich Mogołów",
+      "data_narodzin_inicjatora": "15 stycznia 1592 (jako książę Khurram)",
+      "inspiracja": "śmierć ukochanej żony Mumtaz Mahal",
+      "cel": "budowa mauzoleum godnego pamięci Mumtaz Mahal, pomnik wiecznej miłości",
+      "kontekst_osobisty": "Mumtaz Mahal zmarła 17 czerwca 1631 roku podczas porodu czternastego dziecka w Burhanpur",
+      "reakcja_władcy": "Szahdżahan osiwiał z rozpaczy w ciągu kilkunastu godzin, pół roku później położył fundament mauzoleum",
+      "filozofia": "budowa grobowca, jakiego świat nie widział, nieporównywalny do żadnej budowli, godny Mumtaz",
+      "cytat_władcy": "postanowił zbudować monument, który na zawsze miał upamiętnić jej życie"
+    },
+    "historia_miłości": {
+      "pierwsze_spotkanie": "1607 - książę Khurram (przyszły Szahdżahan) zobaczył Arjumand Banu Begam na bazarze w Agrze",
+      "opis": "strzała Amora uderzyła obojga od pierwszego wejrzenia, 'Księżyc wstydząc się ukrył twarz przed nią'",
+      "ślub": "1612 - pięć lat po pierwszym spotkaniu",
+      "imię_po_ślubie": "Mumtaz Mahal - 'Ozdoba Pałacu' lub 'Wybranka Haremu'",
+      "rola_żony": "najbliższa towarzyszka, doradczyni polityczna, cieszące się szacunkiem na dworze",
+      "oddanie": "cesarz zabierał ją ze sobą nawet na wyprawy wojenne",
+      "dzieci": "14 dzieci",
+      "ostatnie_życzenie": "Mumtaz na łożu śmierci poprosiła męża o wybudowanie pomnika jej miłości"
+    },
+    "epoka_powstania": {
+      "okres": "XVII wiek - szczyt epoki Wielkich Mogołów (1526-1857)",
+      "dynastia": "Wielkie Mogoły - islamska dynastia pochodzenia turko-mongolskiego",
+      "kontekst_polityczny": "Imperium Mogolskie u szczytu potęgi pod rządami Szahdżahana (1628-1658)",
+      "stolica": "Agra - przekształcona przez Szahdżahana w kwitnący ośrodek handlu, 'miasto-ogród nad rzeką'",
+      "kontekst_kulturowy": "synteza kultur islamskiej, perskiej, tureckiej i indyjskiej",
+      "kontekst_artystyczny": "złoty wiek architektury mogolskiej, styl Shah Jahani",
+      "sytuacja_ekonomiczna": "imperium kontrolowało około 25% światowego PKB, ogromne bogactwo z handlu i podatków",
+      "religia": "islam sunnicki jako religia władcy, tolerancja wobec hinduizmu"
+    },
+    "ważne_wydarzenia_historyczne": {
+      "budowa_1632-1654": {
+        "wpływ": "22 lata intensywnej budowy, mobilizacja 20000-25000 robotników",
+        "koszt": "32 miliony rupii - ogromne obciążenie dla skarbu państwa",
+        "kontrowersje": "rosnąca nerwowość dworu z powodu ogromnych wydatków",
+        "efekt": "osłabienie finansów imperium"
+      },
+      "przewrót_1658": {
+        "wydarzenie": "syn Szahdżahana - Aurangzeb - dokonał przewrotu i uwięził ojca",
+        "powód": "m.in. nadmierne wydatki na budowle monumentalne",
+        "miejsce_uwięzienia": "Czerwony Fort w Agrze",
+        "los_Szahdżahana": "8 lat więzienia, obserwowanie Tadż Mahal z okna wieży",
+        "śmierć": "22 stycznia 1666, pochowany obok Mumtaz Mahal (naruszenie symetrii)",
+        "legenda_czarnego_Tadż": "planował budowę czarnego mauzoleum dla siebie po drugiej stronie rzeki - brak historycznego potwierdzenia"
+      },
+      "okres_upadku_mogołów_1707-1857": {
+        "wpływ": "stopniowy rozpad imperium, słabnąca kontrola nad mauzoleum",
+        "1717": "najazd Jatów - kradzież złota, srebra, kamieni szlachetnych z Tadż Mahal",
+        "XVIII wiek": "dewastacje, grabieże, zaniedbanie",
+        "1857": "Powstanie Sipajów - dalsze zniszczenia i kradzieże"
+      },
+      "kolonializm_brytyjski_1858-1947": {
+        "przejęcie": "Brytyjczycy przejmują kontrolę nad Indiami po upadku mogołów",
+        "1899-1908": "Lord Curzon - wicekról Indii - zarządza pierwszą kompleksową restaurację",
+        "znaczenie": "Curzon wprowadził nowoczesne standardy ochrony zabytków",
+        "działania": "odtworzenie ogrodów na wzór mogolski, naprawa marmuru, instalacja lamp",
+        "1942": "budowa rusztowań ochronnych podczas II wojny światowej (ochrona przed bombardowaniami japońskimi)"
+      },
+      "niepodległość_1947": {
+        "status": "Monument of National Importance - najwyższy status ochronny",
+        "zarządzanie": "Archaeological Survey of India przejmuje opiekę",
+        "symbolika": "Tadż Mahal staje się narodowym symbolem Indii mimo islamskiego pochodzenia"
+      },
+      "wpis_UNESCO_1983": {
+        "data": "1983",
+        "znaczenie": "uznanie za klejnot sztuki muzułmańskiej w Indiach",
+        "efekt": "wzrost międzynarodowej świadomości, ochrona, turystyka"
+      },
+      "Nowe_Siedem_Cudów_Świata_2007": {
+        "data": "7 lipca 2007",
+        "głosowanie": "ponad 100 milionów głosów na całym świecie",
+        "znaczenie": "uznanie za jedno z najważniejszych dzieł ludzkości",
+        "efekt": "boom turystyczny, wzrost liczby odwiedzających"
+      },
+      "kryzys_ekologiczny_XXI_wiek": {
+        "problem": "żółknięcie marmuru przez zanieczyszczenia przemysłowe",
+        "2002": "zamknięcie fabryk w promieniu 50 km",
+        "działania": "ciągła walka z degradacją, czyszczenie, monitoring",
+        "2018": "wielka renowacja - czyszczenie kopuły metodą glinki Fuller's Earth"
+      },
+      "kontrowersje_nacjonalizmu_hinduskiego_2010+": {
+        "problem": "politycy BJP (nacjonalistyczna partia hinduska) kwestionują znaczenie Tadż Mahal",
+        "2017": "Yogi Adityanath - premier Uttar Pradesh - usuwa Tadż Mahal z przewodników turystycznych stanu",
+        "twierdzenia": "Sangeet Som (BJP) nazywa Tadź Mahal 'plamą na indyjskiej kulturze', twierdzi że był hinduską świątynią",
+        "reakcja": "historycy i archeolodzy odrzucają jako pseudonaukę",
+        "kontekst": "wojna o interpretację indyjskiej historii między nacjonalistami hinduskimi a muzułmanami"
+      }
+    },
+    "kontekst_Szahdżahana": {
+      "wiek_rozpoczęcia": "39 lat (w 1631 roku)",
+      "dedykacja": "22 lata osobistego nadzoru nad budową (1632-1654)",
+      "zaangażowanie": "codzienne wizyty na placu budowy, osobiste zatwierdzanie każdego elementu",
+      "filozofia": "'dokonywał odpowiednich zmian we wszystkim, co zręczni architekci zaprojektowali'",
+      "inne_budowle": "Czerwony Fort w Delhi, Moti Masjid, Masjid-i-Jahan Numa - również monumentalne projekty",
+      "konsekwencje": "nadmierne wydatki doprowadziły do osłabienia imperium",
+      "uwięzienie": "1658 - obalony przez syna Aurangzeba",
+      "ostatnie_lata": "8 lat w Czerwonym Forcie, obserwowanie Tadż Mahal z okna",
+      "śmierć": "22 stycznia 1666 w wieku 74 lat",
+      "pochówek": "obok Mumtaz Mahal - jedyny element asymetryczny w całej budowli",
+      "spuścizna": "pozostawił jeden z najpiękniejszych pomników miłości w historii ludzkości"
+    },
+    "legendy_i_mity": {
+      "obcięte_kciuki": {
+        "mit": "robotnikom obcięto kciuki lub dłonie, aby nie powtórzyli dzieła",
+        "prawda": "brak jakichkolwiek historycznych dowodów, wielu rzemieślników pracowało później przy innych projektach",
+        "pochodzenie": "romantyczne legendy z XVIII-XIX wieku"
+      },
+      "czarny_Tadż_Mahal": {
+        "mit": "Szahdżahan planował czarne mauzoleum dla siebie po drugiej stronie rzeki",
+        "prawda": "legenda bez historycznego potwierdzenia, brak planów lub fundamentów",
+        "pochodzenie": "europejscy podróżnicy z XIX wieku"
+      },
+      "hinduska_świątynia": {
+        "mit": "Tadż Mahal był pierwotnie hinduską świątynią Tejo Mahalaya przejętą przez muzułmanów",
+        "prawda": "teoria P.N. Oaka odrzucona przez wszystkich poważnych historyków jako pseudonauka",
+        "kontekst": "współczesna propaganda nacjonalizmu hinduskiego"
+      },
+      "europejscy_architekci": {
+        "mit": "udział włoskiego Geronimo Veroneo i Francuza w projektowaniu",
+        "prawda": "wzmianka hiszpańskiego księdza z 1640, brak pewniejszych źródeł historycznych",
+        "status": "możliwy, ale niepotwierdzony"
+      }
+    },
+    "znaczenie_w_historii": {
+      "architektura": "szczyt osiągnięć architektury mogolskiej, synteza kultur islamskiej, perskiej i indyjskiej",
+      "sztuka": "najdoskonalszy przykład techniki pietra dura (parchin kari)",
+      "symbol": "uniwersalny symbol miłości przekraczający granice kultur i religii",
+      "polityka": "symbol potęgi imperium mogolskiego, później symbol całych Indii",
+      "turystyka": "jedna z najważniejszych atrakcji turystycznych świata od XIX wieku",
+      "dyplomacja": "narzędzie soft power Indii, miejsce wizyt głów państw"
+    }
+  },
+  "szczegółowy_opis": {
+    "tekst_krótki": "Tadż Mahal to monumentalne mauzoleum w Agrze (Indie), arcydzieło architektury mogolskiej zbudowane przez cesarza Szahdżahana dla ukochanej żony Mumtaz Mahal. Wzniesione w latach 1632-1654 z białego marmuru, charakteryzuje się idealną symetrią, czterema minaretami i cebulastą kopułą. Zdobione inkrustacjami z 28 rodzajów kamieni szlachetnych, otoczone perskim ogrodem char bagh. Obiekt UNESCO od 1983 roku, jedno z Nowych Siedmiu Cudów Świata.",
+    "tekst_długi": "Tadż Mahal w Agrze to bez wątpienia jedno z najbardziej rozpoznawalnych i najpiękniejszych dzieł architektury w historii ludzkości. Ten monumentalny biały grobowiec z marmuru, wznoszący się majestatycznie nad brzegiem rzeki Yamuna, stanowi szczyt osiągnięć architektury mogolskiej i jest uniwersalnym symbolem wiecznej miłości.\n\nHistoria tego niezwykłego pomnika rozpoczyna się od głęboko osobistej tragedii. W 1631 roku zmarła Mumtaz Mahal, ukochana żona cesarza Szahdżahana z dynastii Wielkich Mogołów. Cesarzowa, która była nie tylko towarzyszką życia, ale także zaufaną doradczynią polityczną, zmarła podczas porodu czternastego dziecka w wieku zaledwie 38 lat. Według kronikarzy, Szahdżahan był tak zdruzgotany żalem, że jego włosy osiwiały w ciągu kilkunastu godzin. Ich historia miłości rozpoczęła się w 1607 roku, gdy piętnastoletni książę Khurram (przyszły Szahdżahan) zobaczył piękną Arjumand Banu Begam na bazarze w Agrze - był to przypadek miłości od pierwszego wejrzenia, opisywany przez poetów jako moment, gdy 'strzała Amora uderzyła oboje'. Po pięciu latach starań o jej rękę, w 1612 roku wzięli ślub, a ona otrzymała tytuł Mumtaz Mahal - 'Ozdoba Pałacu'. Na łożu śmierci Mumtaz poprosiła męża o wybudowanie pomnika, który uwieczni ich miłość - i Szahdżahan spełnił to życzenie z niespotykanym rozmachem.\n\nBudowa Tadż Mahal była przedsięwzięciem na niebywałą skalę. Trwała 22 lata (1632-1654) i zaangażowała od 20 000 do 25 000 robotników z całej Azji, a możliwe że także z Europy. Głównym architektem był Ustad Ahmad Lahauri, choć sam cesarz Szahdżahan osobiście nadzorował każdy etap budowy, codziennie odwiedzając plac budowy i zatwierdzając każdy element projektu. Koszt budowy wyniósł 32 miliony rupii - sumę astronomiczną, która według współczesnych szacunków odpowiada około 1 miliardowi dolarów. Te ogromne wydatki, wraz z innymi monumentalnymi projektami Szahdżahana, osłabiły finanse imperium i stały się jednym z pretekstów do przewrotu w 1658 roku, kiedy syn cesarza - Aurangzeb - obalił ojca i uwięził go w Czerwonym Forcie w Agrze. Szahdżahan spędził ostatnie osiem lat życia w wieży, z której mógł obserwować swoje dzieło - Tadż Mahal. Gdy zmarł 22 stycznia 1666 roku, został pochowany obok ukochanej Mumtaz, naruszając tym samym jedyną asymetrię w tej perfekcyjnie symetrycznej budowli.\n\nArchitektura Tadż Mahal reprezentuje szczyt stylu Shah Jahani - syntezy architektury islamskiej, perskiej, tureckiej i indyjskiej. Podstawową zasadą projektu jest absolutna symetria - każdy element ma swoje lustrzane odbicie. Kompleks zbudowano zgodnie z filozofią czwórki: cztery strony świata, cztery rzeki raju, cztery elementy natury. Centralne mauzoleum wznosi się na kwadratowej platformie o wymiarach 100x100 metrów i wysokości 7 metrów, która izoluje budowlę od wilgoci rzeki. Samo mauzoleum ma kwadratowy plan o boku 56 metrów i jest zwieńczone charakterystyczną cebulastą kopułą o wysokości 24,5 metra i średnicy 17,7 metra. Łącznie z ośmiometrowym finiałem (szpikulcem) całkowita wysokość wynosi 73 metry.\n\nCztery identyczne minarety, każdy o wysokości 43 metrów, stoją w narożnikach platformy, stanowiąc genialny element projektu. Są lekko odchylone na zewnątrz o 2-3 stopnie - nie jest to błąd konstrukcyjny, ale przemyślane zabezpieczenie sejsmiczne. W przypadku trzęsienia ziemi minarety upadną od mauzoleum, a nie na nie, chroniąc bezcenne wnętrze. To jeden z wielu przykładów zaawansowanej wiedzy inżynieryjnej zastosowanej w budowie.\n\nNajważniejszym materiałem budowlanym był biały marmur z kamieniołomów w Makranie w Radżastanie, oddalonych o 350 kilometrów od Agry. Transport około 28 000 ton tego szlachetnego kamienia wymagał użycia 1000 słoni, wozów zaprzęgowych i transportu rzecznego po rzece Yamuna. Marmur z Makrany jest wyjątkowy - ma drobnoziarnistą strukturę z małymi kryształami, które nadają mu półprzezroczysty połysk i zdolność odbijania światła. To właśnie dzięki temu Tadż Mahal zmienia kolor w ciągu dnia: o świcie jest różowy, w południe kremowobiały, po południu złoty, a w świetle księżyca srebrny - ta zmienność symbolizuje transcendencję i przemijanie.\n\nJednak prawdziwym arcydziełem jest technika pietra dura (w Indiach zwana parchin kari) - jubilerska inkrustacja kamieni półszlachetnych w marmur. Użyto ponad 28 rodzajów kamieni sprowadzanych z całej Azji: lapis lazuli z Afganistanu, jadeity z Chin, turkusy z Tybetu, korale z Morza Czerwonego, agaty z Jemenu, jaspis z Pendżabu, karneol z Arabii, onyks i ametysty z Persji, kryształy z Himalajów. Tysiące małych kawałków tych kamieni układano w skomplikowane motywy kwiatowe - pojedynczy kwiat mógł składać się z 50-60 elementów. Precyzja jest tak wielka, że łączenia są niewidoczne gołym okiem. Kwiaty - irysy, lilie, tulipany, narcyzy, maki - symbolizują raj i nieprzemijające piękno.\n\nFasady mauzoleum zdobią również wersety z Koranu, wycięte w czarnym marmurze przez perskiego kaligrafa Amanata Khana Shiraziego - jedynego artystę, który podpisał swoje dzieło. Kaligrafia zastosowana została genialny trik optyczny: litery w górnych partiach fasady są większe niż na dole, przez co z perspektywy obserwatora wszystkie wydają się jednakowe.\n\nWnętrze mauzoleum składa się z ośmiobocznej komory głównej o boku 25 metrów i wysokości 25 metrów. W jej centrum stoją dwa marmurowe cenotafy - symboliczne groby Mumtaz Mahal (centralnie) i Szahdżahana (dodany później, naruszając symetrię). Prawdziwe groby znajdują się w krypcie bezpośrednio pod nimi, na poziomie platformy, zgodnie z islamską tradycją prostoty. Cenotafy otacza ażurowy parawan z jednego bloku marmuru, rzeźbiony przez 10 lat - arcydzieło kamieniarstwa. Akustyka komory jest niezwykła - echo powtarza się siedem razy, a czas pobrzmiewania wynosi około 28 sekund, co nadaje recytacji Koranu mistyczny, duchowy wymiar.\n\nKopuła ma podwójną konstrukcję - zewnętrzną cebulastą i wewnętrzną półkolistą, rozdzielone przestrzenią 6 metrów. To rozwiązanie zapewnia stabilność konstrukcyjną i pozwala na osiągnięcie monumentalnej wysokości zewnętrznej przy zachowaniu proporcji wnętrza.\n\nKompleks Tadż Mahal obejmuje znacznie więcej niż samo mauzoleum. Po jego zachodniej stronie znajduje się czynny meczet, po wschodniej - lustrzane odbicie zwane mehman khana (dom gościnny). Oba budynki wykonane są z czerwonego piaskowca, kontrastującego z bielą mauzoleum. Meczet ma mihrab wskazujący Mekkę i jest używany do piątkowych modlitw. Po stronie południowej wznosi się monumentalna Brama Główna (Darwaza-i rauza) o wysokości 30 metrów, zwieńczona 22 kopułkami symbolizującymi 22 lata budowy.\n\nOgrody char bagh (czteroczęściowy ogród perski) rozciągają się na powierzchni 300x300 metrów i są podzielone krzyżującymi się kanałami wodnymi symbolizującymi cztery rajskie rzeki (woda, mleko, wino, miód). W centralnym zbiorniku odbija się mauzoleum, tworząc iluzję 'pływającej' budowli - podwójny świat ziemski i niebieski. Innowacją było umieszczenie mauzoleum na końcu osi, a nie w centrum, dla lepszego efektu wizualnego.\n\nTadż Mahal przetrwał wieki pełne zagrożeń. W 1717 roku Jatowie splądrowali kompleks, kradnąc złoto, srebro i kamienie szlachetne. W 1857 roku podczas Powstania Sipajów dalsze grabieże uszkodziły wnętrza. Era brytyjska przyniosła jednak ratunek - Lord Curzon, wicekról Indii, w latach 1899-1908 przeprowadził pierwszą kompleksową restaurację, odtwarzając ogrody i naprawiając zniszczenia. W 1942 roku zbudowano rusztowania ochronne przed bombardowaniami podczas II wojny światowej.\n\nWspółcześnie Tadż Mahal zmaga się z nowymi zagrożeniami. Zanieczyszczenia przemysłowe powodują żółknięcie marmuru - w 2002 roku zamknięto wszystkie fabryki w promieniu 50 km. Regularne czyszczenie metodą glinki Fuller's Earth przywraca biel, ale to ciągła walka. Owady (Goeldichironomus) zostawiają zielone odchody na marmurze. Nadmierna liczba turystów (7-8 mln rocznie) powoduje erozję - wprowadzono limity czasowe (3 godziny) i dzienne (40 000 osób).\n\nW 1983 roku Tadż Mahal wpisano na Listę Światowego Dziedzictwa UNESCO jako 'klejnot sztuki muzułmańskiej w Indiach i jedno z powszechnie podziwianych arcydzieł światowego dziedzictwa'. W 2007 roku stał się jednym z Nowych Siedmiu Cudów Świata w globalnym głosowaniu.\n\nDziś Tadż Mahal to nie tylko pomnik miłości, ale symbol samych Indii, most między kulturami i religiami, dowód na to, że prawdziwa miłość może stworzyć coś wiecznego. Jak powiedział poeta Rabindranath Tagore - to 'łza na policzku czasu', przypominająca, że nawet w świecie przemijania istnieje piękno, które trwa wiecznie.",
+    "opis_symboliczny": "Tadż Mahal to marmurowa pieśń miłości, hymn ku czci wieczności wyrzeźbiony w kamieniu nad brzegiem Yamuny. Szahdżahan stworzył nie tylko grobowiec, ale odzwierciedlenie raju na ziemi, gdzie każdy element śpiewa o harmonii boskiej - cztery minarety jak strażnicy czterech stron świata, cebulasta kopuła jak niebo spoczywające na ziemi, biały marmur jak czystość uczucia transcendującego śmierć. To miejsce, gdzie symetria staje się modlitwą, kamień przemienia się w światło, a architektura przestaje być materią, stając się ucieleśnieniem emocji. Tadż Mahal zmienia kolory jak zmienne stany duszy - różowy o świcie jak nadzieja, złoty o zachodzie jak wspomnienie, srebrny w księżycowym blasku jak sen. Dla Szahdżahana był to nie budynek, ale obietnica dana ukochanej i dotrzymana na wieki - testament miłości pozostawiony ludzkości.",
+    "ciekawostki": [
+      "Szahdżahan osiwiał z rozpaczy w ciągu kilkunastu godzin po śmierci Mumtaz Mahal",
+      "Transport 28 000 ton marmuru z odległości 350 km wymagał użycia 1000 słoni przez 22 lata",
+      "Mumtaz Mahal i Szahdżahan mieli razem 14 dzieci - cesarzowa zmarła przy ostatnim porodzie",
+      "Minarety są pochylone 2-3° na zewnątrz jako zabezpieczenie sejsmiczne - przy trzęsieniu ziemi upadną od mauzoleum",
+      "Tadż Mahal zmienia kolor w ciągu dnia: różowy o świcie, biały w południe, złoty o zachodzie, srebrny w świetle księżyca",
+      "Użyto 28 rodzajów kamieni szlachetnych sprowadzanych z całej Azji - od Chin po Arabię",
+      "Pojedynczy kwiat z inkrustacji składa się z 50-60 kawałków różnych kamieni",
+      "Amanat Khan Shirazi jest jedynym artystą, który podpisał swoje dzieło - kaligrację koraniczną",
+      "Kaligrafia ma korekcję optyczną - litery w górze są większe, by wydawały się jednakowe z dołu",
+      "Ażurowy parawan wokół cenotafów wyrzeźbiono z jednego bloku marmuru przez 10 lat",
+      "Echo w komorze głównej powtarza się 7 razy - liczba świętych poziomów nieba w islamie",
+      "Kopuła ma podwójną konstrukcję - zewnętrzną i wewnętrzną oddzielone 6 metrami",
+      "22 kopułki na Bramie Głównej symbolizują 22 lata budowy",
+      "Szahdżahan spędził 8 ostatnich lat uwięziony w wieży, patrząc na Tadż Mahal przez okno",
+      "Pochówek Szahdżahana obok Mumtaz to jedyna asymetria w całej budowli",
+      "Legenda o czarnym Tadż Mahal dla cesarza po drugiej stronie rzeki nie ma historycznego potwierdzenia",
+      "W 1717 roku Jatowie ukradli złoto, srebro i kamienie szlachetne z cenotafów",
+      "Lord Curzon w 1899-1908 przeprowadził pierwszą nowoczesną restaurację, instalując m.in. lampy wzorowane na oryginalnych",
+      "W 1942 zbudowano rusztowania ochronne przed bombardowaniami japońskimi podczas II wojny światowej",
+      "W 2002 zamknięto wszystkie fabryki w promieniu 50 km z powodu żółknięcia marmuru",
+      "Czyszczenie marmuru metodą glinki Fuller's Earth przywraca biel bez uszkodzenia kamienia",
+      "Dziennie Tadż Mahal odwiedza średnio 10 000-15 000 turystów, w weekendy nawet 70 000",
+      "Cudzoziemcy płacą 22 razy więcej za bilet niż Hindusi (1100 vs 50 rupii)",
+      "Wprowadzono limit 3 godzin zwiedzania i dzienny limit 40 000 osób",
+      "Tadż Mahal można zwiedzać w noce pełni księżyca - tylko 5 nocy w miesiącu",
+      "Dzielnica Taj Ganj wokół mauzoleum - ponad 500 rodzin nadal uprawia tradycyjną technikę parchin kari",
+      "Rzemieślnicy mogą powtórzyć inkrustację - legenda o obciętych kciukach to mit bez historycznego potwierdzenia",
+      "W 2007 roku Tadż Mahal stał się jednym z Nowych Siedmiu Cudów Świata (ponad 100 mln głosów)",
+      "Nacjonaliści hinduscy twierdzą, że był hinduską świątynią - teoria odrzucona przez wszystkich poważnych historyków",
+      "Kompleks zajmuje 17 hektarów, z czego ogrody to 9 hektarów",
+      "Na miejscu prawdziwych grobów w krypcie stoją proste płyty zgodnie z islamską tradycją",
+      "Meczet zachodni to czynna świątynia używana do piątkowych modlitw",
+      "Mehman khana (dom gościnny) to lustrzane odbicie meczetu dla zachowania symetrii - nie ma mihrabu",
+      "Kanały wodne w ogrodach mają działający system irygacyjny z podziemnymi zbiornikami",
+      "Księżna Diana sfotografowała się samotnie przed Tadż Mahal w 1992 - ikoniczna fotografia symbolizująca samotność w małżeństwie",
+      "Rabindranath Tagore nazwał Tadż Mahal 'łzą na policzku czasu' - najbardziej znany cytat o tym miejscu",
+      "Budowa Tadż Mahal kosztowała około 1 miliard USD w dzisiejszych wartościach",
+      "Turystyka wokół Tadż Mahal stanowi 80% gospodarki Agry i zapewnia około 40 000 miejsc pracy",
+      "Zakaz dotykania ścian i inkrustacji - oleje ze skóry przyspieszają degradację marmuru",
+      "Wszystkie przedmioty elektroniczne oprócz telefonów muszą zostać w przechowalni przy wejściu"
+    ]
+  },
+  "dane_techniczne": {
+    "numer_UNESCO": "252",
+    "współrzędne": {
+      "WGS84": {
+        "lat": 27.1751,
+        "lon": 78.0421,
+        "alt": 171
+      },
+      "UTM": {
+        "strefa": "44N",
+        "easting": 218456,
+        "northing": 3004897
+      }
+    },
+    "status_prawny": {
+      "właściciel": "Rząd Indii",
+      "zarządzający": "Archaeological Survey of India (ASI)",
+      "typ_własności": "własność państwowa",
+      "przeznaczenie": "mauzoleum historyczne, obiekt użyteczności publicznej, czynny meczet",
+      "ochrona_konserwatorska": "Monument of National Importance (najwyższy stopień ochrony w Indiach), UNESCO World Heritage Site"
+    },
+    "ubezpieczenie": {
+      "typ": "państwowe ubezpieczenie zabytku narodowego",
+      "wartość_ubezpieczenia": "niewymierna - bezcenny zabytek narodowy",
+      "zakres": "kompleksowa ochrona zabytku, odpowiedzialność cywilna, szkody naturalne",
+      "zarządzanie_ryzykiem": "ASI wraz z ministerstwem kultury"
+    },
+    "certyfikaty_ochrony": {
+      "UNESCO_World_Heritage": "1983 - kryterium (i)",
+      "Monument_of_National_Importance": "od 1920 pod British Ancient Monuments Preservation Act, kontynuowane po 1947",
+      "Nowe_Siedem_Cudów_Świata": "2007",
+      "strefa_ochronna": "Taj Trapezium Zone (TTZ) - 10400 km² obszaru chronionego"
+    },
+    "systemy_budynku": {
+      "oświetlenie": {
+        "typ": "LED zewnętrzne, lampy olejowe rekonstrukcje wewnątrz",
+        "oświetlenie_nocne": "specjalne w pełnię księżyca",
+        "moc": "50 kW",
+        "punkty_świetlne": "około 200 (głównie zewnętrzne)"
+      },
+      "wentylacja": {
+        "typ": "naturalna",
+        "system": "otwory w kopule i ścianach dla przepływu powietrza",
+        "wydajność": "pasywna cyrkulacja powietrza"
+      },
+      "klimatyzacja": {
+        "typ": "brak - naturalna wentylacja",
+        "kontrola_wilgotności": "monitoring czujnikami",
+        "temperatura": "naturalna, monitorowana"
+      },
+      "woda": {
+        "źródło_historyczne": "rzeka Yamuna, system irygacyjny z podziemnymi zbiornikami",
+        "źródło_współczesne": "Municipal Corporation of Agra",
+        "system_ogrodowy": "odtworzony historyczny system kanałów i fontann",
+        "zbiorniki_podziemne": "historyczne mogoskie zbiorniki"
+      },
+      "kanalizacja": {
+        "typ": "nowoczesna dla obiektów turystycznych",
+        "historyczna": "system drenażowy mogolski nadal częściowo funkcjonujący"
+      },
+      "elektryczność": {
+        "przyłącze": "główne ze wsparciem awaryjnym",
+        "moc": "100 kW (głównie dla systemów bezpieczeństwa i oświetlenia)",
+        "napięcie": "230V jednofazowe, 400V trójfazowe",
+        "agregat": "awaryjny dla systemów krytycznych",
+        "ograniczenia": "minimalna ingerencja w strukturę historyczną"
+      },
+      "odnawialne_źródła": {
+        "status": "brak - ochrona wyglądu zabytkowego",
+        "ograniczenia": "zakaz instalacji współczesnych na historycznej budowli"
+      },
+      "przeciwpożarowy": {
+        "hydranty": 25,
+        "gaśnice": 80,
+        "czujniki": "około 150 czujników dymu i temperatury",
+        "system_alarmowy": "podłączony do lokalnej straży pożarnej",
+        "drogi_ewakuacji": 6,
+        "ograniczenia": "zabytkowa konstrukcja, ograniczone możliwości instalacji systemów"
+      },
+      "bezpieczeństwo": {
+        "monitoring": "około 150 kamer CCTV",
+        "kontrola_dostępu": "3 główne bramy z systemem biletowym i kontrolą bezpieczeństwa",
+        "metal_detektory": "przy wszystkich wejściach",
+        "ochrona": "około 100 strażników CISF (Central Industrial Security Force)",
+        "zakazy": "zakaz dronów, telefonów komórkowych wewnątrz (przechowalne), dużych toreb"
+      },
+      "monitoring_środowiskowy": {
+        "czujniki_wilgotności": 30,
+        "czujniki_temperatury": 40,
+        "monitoring_zanieczyszczeń": "stacje pomiarowe SO2, NO2, cząstek PM",
+        "monitoring_sejsmiczny": "sejsmografy",
+        "częstotliwość": "ciągły monitoring online"
+      },
+      "akustyka": {
+        "naturalna": "echo 7-krotne, czas pobrzmiewania 28 sekund",
+        "system_nagłośnienia": "brak - naturalna akustyka",
+        "zastosowanie": "recytacja Koranu w meczecie"
+      },
+      "multimedia": {
+        "audioprzewodniki": "dostępne w kilku językach przy wejściu",
+        "wyświetlacze": "tablice informacyjne",
+        "Wi-Fi": "brak - zakaz urządzeń elektronicznych wewnątrz"
+      }
+    },
+    "zarządzanie_konserwacją": {
+      "czyszczenie_marmuru": "co 2-3 lata metodą glinki Fuller's Earth",
+      "przeglądy_techniczne": "comiesięczne",
+      "monitoring_konstrukcji": "ciągły - czujniki deformacji, pęknięć",
+      "budżet_roczny": "5-10 milionów USD",
+      "personel_ASI": "około 300 pracowników stałych"
+    },
+    "zarządzanie_turystyką": {
+      "systemy_biletowe": "elektroniczny system rezerwacji online i kasy tradycyjne",
+      "pojemność_dzienna": "limit 40000 turystów (planowany dla obywateli Indii)",
+      "czas_zwiedzania": "maksymalnie 3 godziny",
+      "kontrola_tłumu": "system wejść czasowych",
+      "przewodnicy": "licencjonowani przez ASI - około 500 osób"
+    },
+    "gospodarka_odpadami": {
+      "segregacja": "pełna segregacja",
+      "pojemniki": "rozmieszczone poza kompleksem głównym",
+      "recykling": "około 60%",
+      "częstotliwość_wywozu": "codziennie"
+    },
+    "dostawa_i_logistyka": {
+      "transport_wewnętrzny": "elektryczne pojazdy, riksze elektryczne",
+      "parking": "oddalony 1-2 km - zakaz pojazdów spalinowych",
+      "dostawa_towarów": "ograniczone godziny, tylko pojazdy elektryczne lub konne"
+    },
+    "strefa_ochronna": {
+      "Taj_Trapezium_Zone": {
+        "powierzchnia": "10400 km²",
+        "obiekty_chronione": "40 zabytków w tym 3 obiekty UNESCO",
+        "ograniczenia": "zakaz przemysłu zanieczyszczającego, ograniczenia emisji",
+        "promień_bez_przemysłu": "50 km od Tadż Mahal",
+        "zakaz_pojazdów_spalinowych": "500 m od kompleksu"
+      }
+    },
+    "zagrożenia_i_ochrona": {
+      "zanieczyszczenia_powietrza": {
+        "problem": "żółknięcie marmuru przez SO2, NO2, cząstki stałe",
+        "działania": "zamknięcie fabryk, monitoring, czyszczenie",
+        "efektywność": "częściowa poprawa, ciągła walka"
+      },
+      "wilgoć": {
+        "problem": "podmywanie fundamentów przez rzekę Yamuna",
+        "działania": "wzmacnianie fundamentów, drenaż",
+        "monitoring": "ciągły"
+      },
+      "sejsmiczność": {
+        "zagrożenie": "region sejsmiczny",
+        "zabezpieczenia": "minarety pochylone, fundamenty palowe, monitoring sejsmiczny"
+      },
+      "overtourism": {
+        "problem": "7-8 mln turystów rocznie powoduje erozję",
+        "działania": "limity czasowe i dzienne, ochraniacze na buty, zakaz dotykania"
+      },
+      "owady": {
+        "problem": "Goeldichironomus zostawiające zielone odchody",
+        "działania": "kontrola populacji, regularne czyszczenie"
+      }
+    }
+  },
+  "kontakt": {
+    "adres_korespondencyjny": "Taj Mahal, Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+    "zarządzający": "Archaeological Survey of India (ASI), Ministry of Culture, Government of India",
+    "telefon_główny": "+91 562 222 6431",
+    "telefon_biuro_turystyki": "+91 562 222 3056",
+    "godziny_telefonu": "10:00-17:00 (zamknięte w niedziele, drugie soboty i święta państwowe)",
+    "e-mail": "tajmahotsav.cultural@gmail.com",
+    "e-mail_turystyka": "agrauptourism@gmail.com",
+    "strona_internetowa": "https://www.tajmahal.gov.in",
+    "rezerwacje_online": "https://asi.payumoney.com",
+    "ASI_strona": "https://asi.nic.in",
+    "biuro_turystyki": {
+      "nazwa": "U.P. Tourism Office",
+      "adres": "64, Taj Road, Agra-282001, Uttar Pradesh",
+      "telefon": "+91 562 222 6431",
+      "e-mail": "agrauptourism@gmail.com"
+    },
+    "infolinia_turystyczna": {
+      "Agra_Cantt_Railway": "+91 562 242 1204",
+      "Government_of_India_Tourism": "Mall Road, Agra"
+    },
+    "numery_alarmowe": {
+      "policja": "100",
+      "straż_pożarna": "101",
+      "pogotowie": "102",
+      "policja_turystyczna": "+91 562 242 1204"
+    },
+    "social_media": {
+      "facebook": "Informacje rozproszone - brak oficjalnego profilu ASI dla Tadż Mahal",
+      "instagram": "Brak oficjalnego profilu",
+      "twitter": "@ASI_Agra (Archaeological Survey of India - Agra Circle)",
+      "youtube": "Archaeological Survey of India - filmy o Tadż Mahal",
+      "uwaga": "Większość social media prowadzona przez nieoficjalne źródła turystyczne"
+    },
+    "WhatsApp_pomoc": "+91 99100 71413 (prywatne biura turystyczne)",
+    "biuro_prasowe": "Kontakt przez ASI Ministry of Culture, New Delhi",
+    "dział_edukacyjny": "Archaeological Survey of India - programy edukacyjne",
+    "współpraca_naukowa": "Kontakt przez ASI Headquarters, New Delhi",
+    "przewodnicy_licencjonowani": "Dostępni przy bramach wejściowych (około 500 licencjonowanych przewodników)",
+    "muzeum": {
+      "lokalizacja": "Western Naubat Khana (budynek zachodni)",
+      "godziny": "09:00-17:00",
+      "zamknięte": "piątki"
+    },
+    "biura_regionalne_Uttar_Pradesh_Tourism": {
+      "Lucknow_główna_siedziba": {
+        "adres": "Rajarshi Purushottam Das Tandon Paryatan Bhavan, C-13, Vipin Khand, Gomti Nagar, Lucknow, U.P.",
+        "telefon": "Kontakt przez stronę uptourism.gov.in"
+      }
+    },
+    "punkt_informacji_turystycznej": "Przy wszystkich trzech bramach wejściowych (Południowa, Wschodnia, Zachodnia)",
+    "przechowalni_bagażu": "Przy bramach wejściowych - opłata symboliczna",
+    "pierwsza_pomoc": "Punkty medyczne przy bramach wejściowych",
+    "parkowanie": {
+      "odległość": "1-2 km od kompleksu",
+      "transport": "Elektryczne autobusy, riksze elektryczne, pojazdy konne"
+    },
+    "kod_pocztowy": "282001",
+    "STD_kod": "0562",
+    "najbliższe_lotnisko": "Kheria Airport, Agra (około 6-7 km)",
+    "najbliższy_dworzec": "Agra Cantt Railway Station (około 5 km)",
+    "języki_obsługi": [
+      "Hindi",
+      "Urdu",
+      "English",
+      "podstawowe: Spanish, French, German, Japanese, Chinese, Korean"
+    ]
+  },
+ 
+  "porady_praktyczne": {
+    "co_zabrać": [
+      "wygodne obuwie",
+      "wodę (minimum 1L)",
+      "kapelusz i krem z filtrem",
+      "aparat/telefon z naładowaną baterią",
+      "gotówka na pamiątki"
+    ],
+    "czego_unikać": [
+      "pory południowej w lecie (najgorętsze)",
+      "weekendy w sezonie (tłumy)",
+      "wciskających sprzedawców selfie-sticków",
+      "nielegalnych przewodników"
+    ],
+    "insiderskie_tipy": [
+      "Kup bilety online z wyprzedzeniem - ominiesz kolejki",
+      "Przyjdź o otwarciu lub 2h przed zamknięciem",
+      "Roma Pass daje pierwszeństwo wejścia",
+      "Bezpłatne Wi-Fi w okolicy - hasło w punkcie info",
+      "Najlepsze zdjęcia z Wzgórza Palatyn o zachodzie"
+    ],
+    "błędy_turystów": [
+      "Przyjście bez rezerwacji w sezonie",
+      "Niedocenianie czasu zwiedzania",
+      "Brak wody i ochrony przed słońcem",
+      "Próba zobaczenia wszystkiego w 1h",
+      "Kupowanie pamiątek od ulicznych sprzedawców (droższe)"
+    ]
+  },
+  
+ 
+  "ciekawostki_praktyczne": [
+    "W podziemiach (hypogeum) temperatura jest o 5-8°C niższa - zabierz bluzę",
+    "Darmowe wejście w pierwszą niedzielę każdego miesiąca (długie kolejki!)",
+    "Młodzież do 18 lat (UE) ma wstęp bezpłatny",
+    "Audioguide dostępne w 10 językach - warto wynająć",
+    "Arena jest oświetlona nocą - piękne widoki z zewnątrz za darmo",
+    "W pobliżu są publiczne toalety - przy Via dei Fori Imperiali",
+    "Punkt pierwszej pomocy znajduje się przy wejściu głównym"
+  ],
+  
+  "FAQ": [
+    {
+      "pytanie": "Czy mogę wejść z plecakiem?",
+      "odpowiedź": "Tak, ale będzie sprawdzany. Duże plecaki (>40x35x15cm) mogą być zabronione."
+    },
+    {
+      "pytanie": "Czy jest klimatyzacja?",
+      "odpowiedź": "Nie, Koloseum jest otwarte, bez klimatyzacji. Latem bardzo gorąco."
+    },
+    {
+      "pytanie": "Czy można robić zdjęcia?",
+      "odpowiedź": "Tak, dozwolone bez flesza i statywów. Drony zabronione."
+    },
+    {
+      "pytanie": "Czy jest dostępne dla wózków?",
+      "odpowiedź": "Częściowo. Winda dostępna, ale nie wszystkie poziomy są osiągalne."
+    },
+    {
+      "pytanie": "Gdzie kupić bilety?",
+      "odpowiedź": "Online na coopculture.it (zalecane) lub na miejscu (długie kolejki)."
+    }
+  ],
+
+  "historia_w_pigułce": {
+    "krotki_opis": "Największy amfiteatr starożytnego świata, zbudowany przez dynastię Flawiuszy w latach 72-80 n.e. Miejsce walk gladiatorów i polowań na dzikie zwierzęta.",
+    "dlaczego_warto_zobaczyc": "Symbol Rzymu i jeden z najlepiej zachowanych zabytków starożytności. Arcydzieło inżynierii, które przetrwało 2000 lat.",
+    "najciekawsze_fakty": [
+      "Mogło pomieścić 50-80 tysięcy widzów",
+      "Wszystkich można było ewakuować w 5-10 minut",
+      "Pod areną był labirynt korytarzy i 28 wind",
+      "Arena była zalewana wodą do bitew morskich"
+    ]
+  },
+
+  "multimedia": {
+    "wirtualny_spacer_url": "https://example.com/virtual-tour",
+    "drone_video_url": "https://youtube.com/...",
+    "dokumenty_filmowe": [
+      {
+        "tytuł": "Engineering an Empire: Rome",
+        "url": "https://...",
+        "czas": "45 min"
+      }
+    ],
+    "podcast_odcinki": []
+  }
+}

@@ -1,0 +1,2296 @@
+{
+  "id": "BUD-ITA-002",
+  "ikona_font_awesome": "fa-church",
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Papalis Basilica Sancti Petri in Vaticano",
+      "potoczna": "Bazylika św. Piotra",
+      "lokalna": "Basilica di San Pietro",
+      "tłumaczenia": {
+        "polski": "Bazylika Świętego Piotra w Watykanie",
+        "angielski": "St. Peter's Basilica",
+        "niemiecki": "Petersdom",
+        "francuski": "Basilique Saint-Pierre",
+        "włoski": "Basilica di San Pietro in Vaticano",
+        "rosyjski": "Собор Святого Петра",
+        "łaciński": "Basilica Sancti Petri"
+      },
+      "nazwy_alternatywne": [
+        "Bazylika Watykańska",
+        "San Pietro",
+        "Basilica Vaticana",
+        "Nowa Bazylika Świętego Piotra"
+      ],
+      "skróty": [
+        "BSP",
+        "San Pietro"
+      ],
+      "nazwa_historyczna": "Basilica Constantiniana"
+    },
+    "typ_budynku": {
+      "kategoria_główna": "budynek sakralny",
+      "kategoria_drugorzędna": "bazylika",
+      "kategoria_trzecia": "katedra papieska",
+      "podkategorie": [
+        "bazylika papieska",
+        "sanktuarium",
+        "miejsce pielgrzymkowe",
+        "atrakcja turystyczna",
+        "pomnik kultury",
+        "nekropolia"
+      ],
+      "funkcje": [
+        "miejsce kultu religijnego",
+        "siedziba najważniejszych ceremonii katolickich",
+        "obiekt dziedzictwa UNESCO",
+        "arcydzieło architektoniczne",
+        "muzeum",
+        "punkt widokowy",
+        "mauzoleum papieży"
+      ],
+      "klasyfikacja_UNESCO": "Dobro Światowe UNESCO",
+      "typologia_architektoniczna": "bazylika na planie krzyża greckiego z wydłużoną nawą"
+    },
+    "status": {
+      "obecny": "ukończony",
+      "czynnościowo_operacyjny": true,
+      "procent_ukończenia": 100,
+      "faza_budowy": "ukończony, w ciągłej konserwacji",
+      "przewidywane_ukończenie": {
+        "rok_optymistyczny": null,
+        "rok_realistyczny": null,
+        "rok_pesymistyczny": null,
+        "niepewność": "obiekt ukończony w 1626 roku"
+      },
+      "dostępność_publiczna": true,
+      "aktywne_wykorzystanie": true,
+      "status_konserwatorski": "pod stałą opieką konserwatorską Watykanu",
+      "wpis_do_rejestru": "Città del Vaticano (UNESCO 1984)"
+    },
+    "certyfikaty_oznaczenia": {
+      "UNESCO": {
+        "status": "Obiekt Światowego Dziedzictwa",
+        "rok_wpisu": 1984,
+        "kryteria": [
+          "i",
+          "ii",
+          "iv",
+          "vi"
+        ],
+        "numer_referencyjny": "286",
+        "zakres": "Miasto Watykan w całości"
+      },
+      "inne_certyfikaty": [
+        {
+          "nazwa": "Bazylika papieska",
+          "instytucja": "Stolica Apostolska",
+          "rok_nadania": 1626
+        },
+        {
+          "nazwa": "Bazylika większa",
+          "instytucja": "Stolica Apostolska",
+          "rok_nadania": 1626
+        },
+        {
+          "nazwa": "Katedra papieska",
+          "instytucja": "Stolica Apostolska",
+          "rok_nadania": "od czasów starożytnych"
+        }
+      ]
+    }
+  },
+"lokalizacja": {
+    "adres": {
+      "ulica": "Piazza San Pietro",
+      "numer": "",
+      "dzielnica": "Borgo",
+      "osiedle": "Città del Vaticano",
+      "miasto": "Watykan",
+      "prowincja": "",
+      "region": "",
+      "kraj": "Państwo Watykańskie",
+      "kod_kraju": "VA",
+      "kod_pocztowy": "00120",
+      "pełny_adres": "Piazza San Pietro, 00120 Città del Vaticano"
+    },
+    "współrzędne": {
+      "szerokość_geograficzna": 41.9022,
+      "długość_geograficzna": 12.4539,
+      "wysokość_n.p.m.": 75
+    },
+    "otoczenie": {
+      "gestość": "wysoka zabudowa miejska z enklawy państwowej",
+      "typ_zabudowy": "sakralno-administracyjna",
+      "dominująca_funkcja": "religijna i administracyjna z intensywną funkcją turystyczną",
+      "odległość_od_morza": 23000,
+      "odległość_od_centrum": 0,
+      "punkty_widokowe": [
+        {
+          "nazwa": "Kopuła Michała Anioła",
+          "wysokość": 136,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Ogrody Watykańskie",
+            "Tyber",
+            "Wzgórze Janiculum",
+            "Rzym",
+            "Zamek Świętego Anioła",
+            "Alpy w dni bezchmurne"
+          ]
+        },
+        {
+          "nazwa": "Taras na dachu nawy głównej",
+          "wysokość": 60,
+          "zasięg_widoku": "270°",
+          "widoczne_obiekty": [
+            "Plac Świętego Piotra",
+            "Via della Conciliazione",
+            "Pałac Apostolski",
+            "panorama Rzymu"
+          ]
+        }
+      ]
+    }
+  },
+"wymiary": {
+    "wysokość": {
+      "całkowita": 136.57,
+      "do_szczytu_dachu": 119,
+      "architektoniczna": 136.57,
+      "najwyższa_konstrukcja": "Kopuła Michała Anioła z latarnią i krzyżem",
+      "aktualna_maksymalna_wysokość": 136.57,
+      "planowana_maksymalna_wysokość": 136.57,
+      "podstawa_wysokość": 75,
+      "różnica_wysokości": 61.57,
+      "ranking_wysokości": {
+        "świat": 124,
+        "europa": 18,
+        "włochy": 2,
+        "rzym": 1,
+        "budynki_sakralne": 4
+      },
+      "wysokości_poszczególnych_elementów": {
+        "kopuła_wewnętrzna": 119,
+        "kopuła_zewnętrzna": 136.57,
+        "latarnia": 17,
+        "krzyż_na_latarni": 5.3,
+        "nawa_główna": 46,
+        "nawy_boczne": 23,
+        "kopuły_mniejsze": "17-26m (różne wysokości)",
+        "baldachim_Berniniego": 29,
+        "fasada_główna": 45
+      },
+      "symbolika_wysokości": "Najwyższa kopuła świata do 1881 roku, symbol potęgi Kościoła katolickiego"
+    },
+    "długość": {
+      "zewnętrzna": 220,
+      "wewnętrzna": 186.36,
+      "nawa": 187,
+      "transept": 154,
+      "absyda": 42,
+      "portyk": 71,
+      "fasada_główna": 115,
+      "długość_osi_podłużnej": 211.5
+    },
+    "szerokość": {
+      "zewnętrzna": 150,
+      "wewnętrzna": 140,
+      "nawa_główna": 25,
+      "nawy_boczne": 12,
+      "transept": 154,
+      "szerokość_fasad": 115,
+      "absyda": 41,
+      "średnica_kopuły_wewnętrzna": 42.34,
+      "średnica_kopuły_zewnętrzna": 58.9
+    },
+    "powierzchnia": {
+      "całkowita": 23000,
+      "obrys": 15160,
+      "powierzchnia_użytkowa": 22000,
+      "przestrzeń_sakralna": 15160,
+      "przestrzeń_komunikacyjna": 2500,
+      "strefy_publiczne": 18000,
+      "strefy_techniczne": 2800,
+      "muzeum": 1200,
+      "skarbiec": 450,
+      "administracja": 850,
+      "krypta_i_groby": 2200,
+      "działka": 23000,
+      "Plac_Świętego_Piotra": 80000,
+      "szczegółowe_powierzchnie": {
+        "nawa_główna": 4650,
+        "nawy_boczne": 2400,
+        "transept": 2310,
+        "absyda": 1800,
+        "kaplice": 3500,
+        "zakrystia": 850,
+        "portyk": 1650
+      }
+    },
+    "objętość": {
+      "całkowita": 1200000,
+      "zamknięta": 1050000,
+      "wewnętrzna": 980000,
+      "ogrzewana": 800000,
+      "powietrza": 950000
+    },
+    "kondygnacje": {
+      "nadziemne": 3,
+      "podziemne": 2,
+      "razem": 5,
+      "użytkowe": 4,
+      "techniczne": 1,
+      "szczegóły": [
+        {
+          "poziom": -2,
+          "nazwa": "nekropolia starożytna i groby papieskie",
+          "wysokość": 4
+        },
+        {
+          "poziom": -1,
+          "nazwa": "krypty i groby papieskie",
+          "wysokość": 5
+        },
+        {
+          "poziom": 0,
+          "nazwa": "nawa główna, absyda, kaplice",
+          "wysokość": 46
+        },
+        {
+          "poziom": 1,
+          "nazwa": "dach i podstawa kopuły",
+          "wysokość": 25
+        },
+        {
+          "poziom": 2,
+          "nazwa": "kopuła i platformy widokowe",
+          "wysokość": 60
+        }
+      ]
+    },
+    "inne_wymiary": {
+      "liczba_wież": {
+        "ukończone": 2,
+        "w_budowie": 0,
+        "planowane": 0,
+        "razem": 2,
+        "szczegóły": "2 wieże zegarowe na fasadzie głównej"
+      },
+      "liczba_fasad": 1,
+      "liczba_portali": 5,
+      "liczba_kolumn": {
+        "nawa_główna": 44,
+        "portyk": 284,
+        "kolumnada_Berniniego": 284,
+        "razem": 612
+      },
+      "liczba_okien": 45,
+      "liczba_witraży": 0,
+      "liczba_schodów": 551,
+      "liczba_kaplic": 11,
+      "liczba_ołtarzy": 45,
+      "średnice_kolumn": "1.5-5m",
+      "grubość_ścian": "3-7m",
+      "pojemność_kopuły": 16,
+      "liczba_mozaik": 10000,
+      "liczba_posągów_zewnętrznych": 140,
+      "liczba_posągów_wewnętrznych": 395,
+      "powierzchnia_Placu_Świętego_Piotra": 80000,
+      "liczba_kolumn_kolumnady": 284,
+      "pojemność_ludzi": 60000
+    }
+  },
+"architektura": {
+    "styl_architektoniczny": {
+      "główny": "renesans",
+      "drugorzędny": "barok",
+      "wpływy": [
+        "architektura starochrześcijańska",
+        "klasycyzm rzymski",
+        "manieryzm",
+        "architektura bizantyjska"
+      ],
+      "ruchy_artystyczne": [
+        "wysoki renesans",
+        "barok rzymski",
+        "neoklasycyzm"
+      ],
+      "cechy": [
+        "monumentalizm",
+        "centralna kopuła",
+        "symetria i proporcje klasyczne",
+        "bogata dekoracja rzeźbiarska",
+        "harmonia przestrzeni",
+        "synteza sztuk",
+        "wykorzystanie światła naturalnego",
+        "złote proporcje"
+      ],
+      "innowacje": [
+        "największa kopuła świata (do 1881)",
+        "podwójna konstrukcja kopuły",
+        "masywne kolumny korynckie",
+        "integracja rzeźby i architektury",
+        "kolumnada eliptyczna Berniniego"
+      ],
+      "okres_architektoniczny": "1506-1626 (120 lat budowy)",
+      "nurty_architektoniczne": "renesans włoski, barok rzymski, architektura sakralna monumentalna"
+    },
+    "architekci": {
+      "architekt_główny": {
+        "imię_i_nazwisko": "Michelangelo Buonarroti",
+        "lata_życia": "1475-1564",
+        "narodowość": "włoska (toskańska)",
+        "rola": "architekt naczelny",
+        "okres": "1547-1564",
+        "wkład": "projekt kopuły, przeprojektowanie planu bazyliki, absyda, tambur",
+        "wykształcenie": "rzeźbiarz, malarz, architekt samouk",
+        "nagrody": [
+          "uznanie za największego artystę renesansu",
+          "tytuł 'Il Divino' (Boski)"
+        ],
+        "inne_ważne_realizacje": [
+          "Kaplica Sykstyńska (freski)",
+          "Dawid (rzeźba)",
+          "Pieta",
+          "Biblioteka Laurenziana",
+          "Plac Kapitoliński"
+        ],
+        "filozofia_architektoniczna": "Architektura to rzeźba w wielkiej skali; budowla musi wyrażać siłę i majestat",
+        "metoda_pracy": "rysunki, modele drewniane i gliniane, bezpośredni nadzór",
+        "śmierć": "18 lutego 1564, Rzym, pochowany w Bazylice Santa Croce we Florencji"
+      },
+      "architekt_początkowy": [
+        {
+          "imię_i_nazwisko": "Donato Bramante",
+          "lata_życia": "1444-1514",
+          "rola": "pierwszy architekt nowej bazyliki",
+          "okres": "1506-1514",
+          "wkład": "plan centralny na krzyżu greckim, cztery masywne filary, koncepcja kopuły",
+          "styl": "wysoki renesans",
+          "wpływ": "ustalił fundamenty i ogólną koncepcję"
+        },
+        {
+          "imię_i_nazwisko": "Giuliano da Sangallo",
+          "rola": "współpracownik Bramantego",
+          "okres": "1506-1515",
+          "wkład": "alternatywne projekty planu"
+        }
+      ],
+      "następcy": [
+        {
+          "imię_i_nazwisko": "Raffaello Sanzio (Rafael)",
+          "lata_życia": "1483-1520",
+          "okres": "1514-1520",
+          "wkład": "modyfikacja planu na krzyż łaciński, kontynuacja prac Bramantego"
+        },
+        {
+          "imię_i_nazwisko": "Antonio da Sangallo Młodszy",
+          "lata_życia": "1484-1546",
+          "okres": "1520-1546",
+          "wkład": "dalsze prace nad nawą, model drewniany całości"
+        },
+        {
+          "imię_i_nazwisko": "Giacomo della Porta",
+          "lata_życia": "1532-1602",
+          "okres": "1573-1602",
+          "wkład": "ukończenie kopuły według projektu Michała Anioła z modyfikacjami, podniesienie profilu kopuły"
+        },
+        {
+          "imię_i_nazwisko": "Domenico Fontana",
+          "lata_życia": "1543-1607",
+          "okres": "1585-1590",
+          "wkład": "asystent della Porty przy budowie kopuły, wzniesienie obelisku"
+        },
+        {
+          "imię_i_nazwisko": "Carlo Maderno",
+          "lata_życia": "1556-1629",
+          "okres": "1603-1629",
+          "wkład": "wydłużenie nawy na plan krzyża łacińskiego, fasada główna, zakończenie budowy bazyliki (1626)"
+        },
+        {
+          "imię_i_nazwisko": "Gian Lorenzo Bernini",
+          "lata_życia": "1598-1680",
+          "okres": "1629-1680",
+          "wkład": "baldachim nad ołtarzem, kolonada Placu Świętego Piotra, Scala Regia, Katedra św. Piotra, dekoracja wnętrza"
+        }
+      ],
+      "współpracownicy": [
+        {
+          "imię_i_nazwisko": "Baldassare Peruzzi",
+          "lata_życia": "1481-1536",
+          "rola": "architekt",
+          "okres": "1520-1536",
+          "wkład": "projekty alternatywne, rysunki techniczne"
+        }
+      ],
+      "rzeźbiarze_i_artyści": [
+        {
+          "imię_i_nazwisko": "Gian Lorenzo Bernini",
+          "specjalność": "rzeźbiarz i architekt",
+          "okres": "1629-1680",
+          "dzieło": "baldachim, rzeźby, fontanny, kolonada",
+          "styl": "barok"
+        },
+        {
+          "imię_i_nazwisko": "Francesco Mochi",
+          "specjalność": "rzeźbiarz",
+          "okres": "XVII wiek",
+          "dzieło": "posągi świętych w niszach"
+        },
+        {
+          "imię_i_nazwisko": "Antonio Canova",
+          "specjalność": "rzeźbiarz",
+          "okres": "XVIII/XIX wiek",
+          "dzieło": "nagrobki papieskie"
+        }
+      ]
+    },
+    "koncepcja": {
+      "podstawy_koncepcyjne": "plan centralny z kopułą jako symbol nieba, nawiązanie do Panteonu, miejsce męczeństwa św. Piotra, synteza architektury chrześcijańskiej",
+      "filozofia_projektu": "Stworzenie najwspanialszej świątyni chrześcijaństwa, demonstracja potęgi Kościoła, synteza renesansu i baroku, miejsce centralne dla pielgrzymów",
+      "zasady_geometryczne": [
+        "plan krzyża greckiego z wydłużoną nawą (krzyż łaciński)",
+        "centralna kopuła na planie koła",
+        "symetria osiowa",
+        "proporcje złotego podziału",
+        "moduł klasyczny",
+        "perspektywa zbieżna"
+      ],
+      "system_konstrukcyjny": "masywne filary podtrzymujące kopułę, łuki i sklepienia, podwójna konstrukcja kopuły (wewnętrzna i zewnętrzna), fundamenty na starożytnej nekropolii",
+      "symetria": "osiowa, centralna wokół kopuły",
+      "proporcje": "oparte na klasycznych kanonach Vitruviusza i harmonii renesansowej",
+      "orientacja": "liturgiczna orientacja wschód-zachód, fasada na zachód wobec Placu św. Piotra",
+      "symbolika_liczbowa": {
+        "1": "jedna uniwersalna bazylika, jedność Kościoła",
+        "4": "cztery główne filary, czterej ewangeliści, cztery strony świata",
+        "12": "dwunastu apostołów",
+        "5": "pięć naw, pięć drzwi wejściowych",
+        "centralność": "kopuła jako centrum chrześcijaństwa"
+      },
+      "filozofia_światła": "światło naturalne przez okna tamburu kopuły jako symbol światła Bożego, iluminacja przestrzeni sakralnej",
+      "akustyka": "naturalna akustyka wielkich przestrzeni, echo kontrolowane przez kształt wnętrza"
+    },
+    "fasady": {
+      "fasada_główna": {
+        "orientacja": "zachód",
+        "strony_świata_nazwa": "zachód - zwrócona ku Tybru i Rzymowi",
+        "tematyka": "Tryumf Kościoła Katolickiego",
+        "status": "ukończona",
+        "rok_ukończenia": 1614,
+        "architekt": "Carlo Maderno",
+        "styl": "późny renesans z elementami wczesnego baroku",
+        "wymiary": {
+          "szerokość": 115,
+          "wysokość": 45.55
+        },
+        "kondygnacje": 2,
+        "portale": 5,
+        "dedykacja_portali": [
+          {
+            "nazwa": "Porta Santa (Drzwi Święte)",
+            "lokalizacja": "skrajnie prawe",
+            "tematyka": "otwierane tylko w Roku Świętym",
+            "materiał": "brąz",
+            "autor": "Vico Consorti (1950)",
+            "symbolika": "przejście do zbawienia"
+          },
+          {
+            "nazwa": "Porta dei Sacramenti",
+            "lokalizacja": "prawe",
+            "tematyka": "siedem sakramentów",
+            "materiał": "brąz",
+            "autor": "Venanzio Crocetti"
+          },
+          {
+            "nazwa": "Porta Centrale (Drzwi Główne)",
+            "lokalizacja": "centralne",
+            "tematyka": "święci Piotr i Paweł",
+            "materiał": "brąz",
+            "autor": "Antonio Averulino zwany Filarete (1445, z poprzedniej bazyliki)",
+            "wysokość": 7.5,
+            "symbolika": "główne wejście do bazyliki"
+          },
+          {
+            "nazwa": "Porta del Bene e del Male",
+            "lokalizacja": "lewe",
+            "tematyka": "dobro i zło",
+            "materiał": "brąz",
+            "autor": "Luciano Minguzzi (1977)"
+          },
+          {
+            "nazwa": "Porta della Morte",
+            "lokalizacja": "skrajnie lewe",
+            "tematyka": "śmierć",
+            "materiał": "brąz",
+            "autor": "Giacomo Manzù (1964)",
+            "symbolika": "przemijanie i zmartwychwstanie"
+          }
+        ],
+        "kolumny": {
+          "rząd": 1,
+          "liczba": 8,
+          "wysokość": 27,
+          "średnica": 2.8,
+          "styl": "koryncki",
+          "materiał": "travertyn"
+        },
+        "attyka": {
+          "wysokość": 5.65,
+          "posągi": 13,
+          "dedykacje": "Chrystus Zbawiciel (środek), dwunastu apostołów (bez św. Piotra)",
+          "wysokość_posągów": 5.7,
+          "autor": "różni rzeźbiarze XVII wieku"
+        },
+        "loggia_błogosławieństwa": {
+          "nazwa": "Loggia delle Benedizioni",
+          "lokalizacja": "centrum fasady, nad portalem głównym",
+          "funkcja": "miejsce papieskich błogosławieństw 'Urbi et Orbi'",
+          "wysokość": 20,
+          "ozdoby": "herb panującego papieża"
+        },
+        "inskrypcje": {
+          "główna": "IN HONOREM PRINCIPIS APOST PAVLVS V BVRGHESIVS ROMANVS PONT MAX AN MDCXII PONT VII",
+          "tłumaczenie": "Ku czci Księcia Apostołów, Paweł V Borghese, Biskup Rzymski, Najwyższy Kapłan, Rok 1612, siódmy rok pontyfikatu",
+          "zegary": "dwa zegary po bokach fasady"
+        },
+        "charakterystyka": "monumentalna, pozioma, szeroka, dominująca nad placem",
+        "kontrowersje": "szerokość fasady przesłania częściowo widok na kopułę z placu",
+        "materiały": [
+          "travertyn",
+          "marmur",
+          "brąz"
+        ],
+        "kolorystyka": "jasny travertyn",
+        "symbolika": "brama do nieba, majestat Kościoła"
+      }
+    },
+    "wieże": {
+      "wieże_zegarowe": {
+        "liczba": 2,
+        "ukończone": 2,
+        "lokalizacja": "po bokach fasady głównej",
+        "wysokość": 45,
+        "funkcja": "zegary i dzwony",
+        "charakterystyka": "zintegrowane z fasadą",
+        "zegary": {
+          "średnica": 4.5,
+          "typ": "mechaniczne",
+          "iluminacja": "nocna"
+        },
+        "dzwony": {
+          "liczba": 6,
+          "największy": "Campanone",
+          "waga_największego": 9000,
+          "funkcja": "sygnalizacja wydarzeń papieskich"
+        }
+      }
+    },
+    "wnętrze": {
+      "nawa": {
+        "typ_rozplanowania": "bazylika na planie krzyża łacińskiego z centralną kopułą",
+        "nawy": 3,
+        "szerokość_nawy_głównej": 25,
+        "szerokość_naw_bocznych": 12,
+        "wysokość_nawy_głównej": 46,
+        "wysokość_naw_bocznych": 23,
+        "długość_nawy_głównej": 187,
+        "kolumny": {
+          "liczba_całkowita": 44,
+          "typy_kolumn": [
+            {
+              "materiał": "marmur",
+              "styl": "koryncki",
+              "lokalizacja": "nawa główna",
+              "liczba": 20,
+              "średnica": "1.5-2.5",
+              "wysokość": 25,
+              "symbolika": "potęga i majestat"
+            },
+            {
+              "materiał": "marmur i granit",
+              "lokalizacja": "nawy boczne i kaplice",
+              "liczba": 24,
+              "średnica": "1.2-2",
+              "wysokość": "15-20"
+            }
+          ],
+          "cztery_główne_filary": {
+            "liczba": 4,
+            "średnica": 24,
+            "obwód": 71,
+            "funkcja": "podtrzymywanie kopuły",
+            "wnęki": "posągi czterech świętych z relikwiami: św. Longinus, św. Helena, św. Weronika, św. Andrzej",
+            "autor_posągów": "Bernini i współpracownicy",
+            "wysokość_posągów": 5
+          },
+          "projekt": "klasyczne kolumny korynckie i pilastry",
+          "wysokość_zmienne": "15-25 metrów",
+          "geometria": "cylindryczna",
+          "funkcja": "konstrukcyjna i dekoracyjna",
+          "symbolika": "klasyczna harmonia i porządek",
+          "materiały": "marmury różnego pochodzenia"
+        },
+        "sklepienia": {
+          "typ": "sklepienia kolebkowe i krzyżowe",
+          "wysokość": 46,
+          "projekt": "oparte na klasycy architekturze rzymskiej",
+          "kształt": "łuki pełne, sklepienia krzyżowe w nawach bocznych",
+          "dekoracje": "kaseton, sztukaterie, złocenia",
+          "symbolika": "niebo, chwała",
+          "materiały": "trawertyn, stiuk, złoto"
+        },
+        "oświetlenie": {
+          "światło_naturalne": {
+            "główne_źródło": "okna w tambурze kopuły, okna w nawach",
+            "lanterna": "otwór w szczycie kopuły",
+            "okna_tamburu": 16,
+            "średnica_okien": "7-8 metrów",
+            "symbolika": "światło Boże schodzące z nieba",
+            "efekt": "centralne oświetlenie przestrzeni pod kopułą",
+            "intencja": "monumentalne, jasne wnętrze"
+          },
+          "światło_sztuczne": {
+            "typ": "żyrandole, reflektory",
+            "funkcja": "iluminacja podczas ceremonii",
+            "sterowanie": "ręczne i automatyczne"
+          }
+        },
+        "akustyka": {
+          "projekt_akustyczny": "naturalna akustyka wielkich przestrzeni",
+          "czas_pobrzmiewania": "12-15 sekund",
+          "przeznaczenie": "śpiew chóralny, mowy, muzyka organowa",
+          "wyzwania": "długie echo w ogromnej przestrzeni"
+        },
+        "pojemność_osób": {
+          "miejsca_siedzące": 15000,
+          "miejsca_stojące": 45000,
+          "łączna_pojemność": 60000,
+          "wielkie_uroczystości": "do 80000 osób (włącznie z placem)"
+        },
+        "posadzka": {
+          "materiał": "marmur wielokolorowy",
+          "wzór": "geometryczne kompozycje, opus sectile",
+          "pochodzenie": "różne kamieniołomy włoskie",
+          "powierzchnia": 15160,
+          "konserwacja": "ciągła ze względu na intensywny ruch"
+        },
+        "dekoracje": {
+          "mozaiki": "ponad 10000 m² mozaik",
+          "rzeźby": "395 posągów wewnętrznych",
+          "płaskorzeźby": "liczne",
+          "złocenia": "obfite na sufitach i detalach",
+          "marmury": "ponad 150 rodzajów marmurów"
+        }
+      },
+      "kopuła": {
+        "średnica_wewnętrzna": 42.34,
+        "średnica_zewnętrzna": 58.9,
+        "wysokość_wewnętrzna": 119,
+        "wysokość_całkowita": 136.57,
+        "architekt": "Michelangelo Buonarroti (projekt), Giacomo della Porta i Domenico Fontana (realizacja)",
+        "okres_budowy": "1547-1590",
+        "konstrukcja": "podwójna powłoka - kopuła wewnętrzna i zewnętrzna",
+        "materiał": "cegła, kamień, beton",
+        "żebra": 16,
+        "tambur": {
+          "wysokość": 20,
+          "średnica": 42,
+          "okna": 16,
+          "kolumny": 32,
+          "funkcja": "podniesienie kopuły, oświetlenie"
+        },
+        "lanterna": {
+          "wysokość": 17,
+          "średnica": 8,
+          "funkcja": "zwieńczenie kopuły, źródło światła",
+          "kolumny": 16,
+          "krzyż": 5.3
+        },
+        "mozaiki": {
+          "powierzchnia": 537,
+          "tematyka": "Chrystus Pantokrator, apostołowie, aniołowie, prorocy",
+          "autor": "Cavaliere d'Arpino, Cristoforo Roncalli",
+          "technika": "mozaika z kawałków szkła i kamienia"
+        },
+        "inskrypcja": {
+          "tekst": "TV ES PETRVS ET SVPER HANC PETRAM AEDIFICABO ECCLESIAM MEAM ET TIBI DABO CLAVES REGNI CAELORVM",
+          "tłumaczenie": "Ty jesteś Piotr i na tej Skale zbuduję Kościół mój, i tobie dam klucze królestwa niebieskiego",
+          "wysokość_liter": 1.4,
+          "lokalizacja": "wewnętrzny fryz kopuły"
+        },
+        "dostęp": {
+          "wejście": "z nawy głównej, po prawej stronie",
+          "schody": 551,
+          "winda": "do poziomu dachu (320 schodów dalej)",
+          "platformy_widokowe": 2,
+          "bilety": "osobny bilet"
+        },
+        "symbolika": "niebo, doskonałość Boża, wieczność",
+        "ranking": "największa murowana kopuła świata do 1881 roku",
+        "wpływ": "wzór dla kopuł na całym świecie (m.in. Kapitol w Waszyngtonie, Katedra św. Pawła w Londynie)"
+      },
+      "absyda": {
+        "kształt": "owalna z niszą główną",
+        "kaplice": 3,
+        "dedykacje": [
+          "Katedra św. Piotra (centralna)",
+          "kaplice boczne"
+        ],
+        "główny_element": {
+          "nazwa": "Katedra św. Piotra (Cathedra Petri)",
+          "autor": "Gian Lorenzo Bernini",
+          "lata": "1647-1653",
+          "materiał": "brąz pozłacany, marmur, sztukaterie",
+          "wysokość": 7,
+          "symbolika": "tron biskupi św. Piotra, autorytet papieski",
+          "opis": "monumentalna konstrukcja barokowa otaczająca starożytny tron, podtrzymywana przez czterech Doktorów Kościoła",
+          "aniołowie": "unoszący się aniołowie w złotych promieniach",
+          "gołąb": "symbol Ducha Świętego w oknie"
+        },
+        "witraż": {
+          "średnica": 7,
+          "tematyka": "Duch Święty jako gołąb",
+          "autor": "Bernini",
+          "efekt": "złote światło przebijające przez alabaster"
+        },
+        "kolumny": 4,
+        "wysokość": 30,
+        "funkcja": "centrum liturgiczne, miejsce tron papieskiego"
+      },
+      "krypta": {
+        "poziom": "podziemie",
+        "nazwa": "Groby Watykańskie (Grotte Vaticane)",
+        "styl": "renesansowy i barokowy",
+        "powierzchnia": 2200,
+        "groby_papieży": "ponad 90 papieży",
+        "najważniejsze_groby": [
+          {
+            "osoba": "św. Piotr Apostoł",
+            "data_śmierci": "ok. 64-67 n.e.",
+            "lokalizacja": "bezpośrednio pod ołtarzem głównym",
+            "status": "miejsce pielgrzymkowe najwyższej rangi",
+            "odkrycie": "ekskawacje 1939-1949",
+            "relikwie": "kości uznane za szczątki św. Piotra"
+          },
+          {
+            "osoba": "Jan Paweł II",
+            "data_śmierci": "2005-04-02",
+            "data_kanonizacji": "2014-04-27",
+            "lokalizacja": "krypta, obecnie w bazylice (kaplica św. Sebastiana)",
+            "status": "święty, bardzo odwiedzany"
+          },
+          {
+            "osoba": "Jan XXIII",
+            "data_śmierci": "1963-06-03",
+            "status": "święty"
+          },
+          {
+            "osoba": "Paweł VI",
+            "data_śmierci": "1978-08-06",
+            "status": "błogosławiony"
+          },
+          {
+            "osoba": "Jan Paweł I",
+            "data_śmierci": "1978-09-28",
+            "pontyfikat": "33 dni"
+          }
+        ],
+        "inne_pochówki": [
+          "królowie i królowe",
+          "kardynałowie",
+          "święci",
+          "benefaktorzy"
+        ],
+        "kaplice": 11,
+        "ołtarze": 22,
+        "dostęp": "publiczny, wliczony w bilet",
+        "funkcja": "miejsce pochówku, pielgrzymki, modlitwa",
+        "nekropolia": {
+          "poziom": "jeszcze niżej, pod kryptą",
+          "nazwa": "Nekropolia Watykańska",
+          "okres": "I-IV wiek n.e.",
+          "charakter": "starożytna nekropolia rzymska pogańska i chrześcijańska",
+          "dostęp": "wyłącznie z rezerwacją, grupy max 12 osób",
+          "odkrycia": "mauzoleagrobowe rodzin rzymskich, grób św. Piotra"
+        }
+      },
+      "ołtarz_główny": {
+        "nazwa": "Ołtarz Papieski (Altare Papale)",
+        "typ": "ołtarz wolnostojący",
+        "lokalizacja": "bezpośrednio nad grobem św. Piotra, pod kopułą",
+        "projekt": "Bernini (baldachim)",
+        "wysokość": 0.8,
+        "materiał": "marmur",
+        "konsekracja": "pierwotnie 1594, obecny 1626",
+        "baldachim": {
+          "nazwa": "Baldachim Berniniego (Baldacchino)",
+          "autor": "Gian Lorenzo Bernini",
+          "lata": "1624-1633",
+          "wysokość": 29,
+          "materiał": "brąz (z Panteonu), złocenia",
+          "kolumny": 4,
+          "styl": "baroko",
+          "spiralne_kolumny": "nawiązanie do kolumn z poprzedniej bazyliki konstantyńskiej",
+          "waga": "63000 kg",
+          "symbolika": "baldachim królewski nad grobem księcia apostołów",
+          "pszczoły": "herb rodziny Barberini (papież Urban VIII)",
+          "kontrowersje": "użycie brązu z Panteonu - 'Quod non fecerunt barbari, fecerunt Barberini' (Czego nie zrobili barbarzyńcy, zrobili Barberinowie)"
+        },
+        "funkcja": "miejsce sprawowania Eucharystii przez papieża",
+        "dostęp": "wyłącznie dla papieża i kardynałów z pozwoleniem"
+      },
+      "chory": {
+        "lokalizacja": "absyda, przestrzeń za ołtarzem",
+        "pojemność": 200,
+        "funkcja": "miejsca dla kardynałów i duchowieństwa podczas uroczystości",
+        "stalle": "drewniane XVI-XVII wiek",
+        "organy": {
+          "liczba_instrumentów": 2,
+          "organy_główne": {
+            "lokalizacja": "w absydzie po prawej stronie",
+            "producent": "Tamburini",
+            "rok": 1962,
+            "głosy": 79,
+            "manuały": 5,
+            "pedał": 1
+          },
+          "organy_drugie": {
+            "lokalizacja": "absyda po lewej stronie",
+            "funkcja": "wspomagające",
+            "głosy": 30
+          },
+          "użycie": "uroczystości papieskie, koncerty"
+        }
+      },
+      "kaplice": {
+        "liczba": 11,
+        "najważniejsze": [
+          {
+            "nazwa": "Kaplica Pieta",
+            "dedykacja": "pierwsza kaplica po prawej od wejścia",
+            "dzieło": "Pieta Michała Anioła",
+            "rok": 1499,
+            "materiał": "marmur karryjski",
+            "wysokość": 1.74,
+            "szerokość": 1.95,
+            "opis": "Maryja trzymająca ciało zmarłego Chrystusa",
+            "ochrona": "kuloodporne szkło (po ataku młotem w 1972)",
+            "status": "najsłynniejsza rzeźba w bazylice",
+            "symbolika": "współcierpienie Matki Bożej"
+          },
+          {
+            "nazwa": "Kaplica Najświętszego Sakramentu",
+            "dedykacja": "adoracja Eucharystii",
+            "dostęp": "ograniczony, cisza",
+            "wystrój": "barokowy Bernini",
+            "grill": "ozdobny, oddzielający od ruchu turystycznego",
+            "funkcja": "ciągła adoracja"
+          },
+          {
+            "nazwa": "Kaplica Chrztu",
+            "lokalizacja": "przy wejściu",
+            "funkcja": "chrzty",
+            "font": "marmurowy, antyczny",
+            "pokrywa": "brązowa, Bernini"
+          },
+          {
+            "nazwa": "Kaplica Gregoriańska",
+            "dedykacja": "Matka Boża Nieustającej Pomocy",
+            "architekt": "Giacomo della Porta",
+            "rok": "1583",
+            "fundator": "papież Grzegorz XIII"
+          },
+          {
+            "nazwa": "Kaplica Klemensowa",
+            "dedykacja": "św. Grzegorz Wielki",
+            "architekt": "Giacomo della Porta",
+            "rok": "1600",
+            "ołtarz": "grób św. Grzegorza Wielkiego"
+          },
+          {
+            "nazwa": "Kaplica Prezentacji",
+            "dedykacja": "Ofiarowanie Najświętszej Maryi Panny",
+            "mozaiki": "według obrazów włoskich mistrzów"
+          },
+          {
+            "nazwa": "Kaplica Chóru",
+            "funkcja": "oficjum brewiarzowe",
+            "stalle": "drewniane renesansowe"
+          },
+          {
+            "nazwa": "Kaplica św. Michała Archanioła",
+            "mozaiki": "wg obrazu Guido Reniego"
+          },
+          {
+            "nazwa": "Kaplica św. Piotra i Pawła (Kaplica Bulla)",
+            "nagrobki": "papieży renesansowych"
+          },
+          {
+            "nazwa": "Kaplica św. Sebastiana",
+            "obecny_pochówek": "św. Jan Paweł II (od 2011)",
+            "mozaika": "Męczeństwo św. Sebastiana"
+          },
+          {
+            "nazwa": "Kaplica św. Weroniki",
+            "relikwia": "chusta św. Weroniki (rzadko wystawiana)"
+          }
+        ]
+      },
+      "nagrobki_papieskie": {
+        "liczba": "ponad 100 papieży pochowanych w bazylice i krypcie",
+        "najsłynniejsze": [
+          {
+            "papież": "Aleksander VII",
+            "autor": "Gian Lorenzo Bernini",
+            "rok": "1678",
+            "styl": "barok",
+            "lokalizacja": "nawa południowa",
+            "opis": "papież klęczący w modlitwie, Śmierć z klepsydrą"
+          },
+          {
+            "papież": "Urban VIII",
+            "autor": "Gian Lorenzo Bernini",
+            "rok": "1647",
+            "lokalizacja": "absyda",
+            "materiał": "brąz, marmur"
+          },
+          {
+            "papież": "Innocenty XI",
+            "autor": "Pierre-Étienne Monnot",
+            "rok": "1697"
+          },
+          {
+            "papież": "Pius VII",
+            "autor": "Bertel Thorvaldsen",
+            "rok": "1831",
+            "styl": "neoklasycyzm"
+          },
+          {
+            "papież": "św. Jan XXIII",
+            "lokalizacja": "pod ołtarzem św. Hieronima, później przeniesiony do nawy",
+            "ciało": "wystawione w trumnie szklanej"
+          },
+          {
+            "papież": "św. Jan Paweł II",
+            "lokalizacja": "kaplica św. Sebastiana",
+            "rok_przeniesienia": 2011,
+            "materiał": "marmur biały",
+            "napis": "Beatus Ioannes Paulus II"
+          }
+        ]
+      },
+      "muzeum": {
+        "nazwa": "Skarbiec Bazyliki (Tesoro di San Pietro)",
+        "lokalizacja": "przy zakrystii",
+        "powierzchnia": 1200,
+        "funkcja": "przechowywanie i eksponowanie skarbów liturgicznych",
+        "ekspozycje": [
+          "relikwiarze",
+          "tiary papieskie",
+          "szaty liturgiczne",
+          "kielichy i monstrancje",
+          "rękopisy",
+          "dary dla papieży",
+          "jubilerstwo sakralne"
+        ],
+        "najcenniejsze_eksponaty": [
+          "Krzyż Justyna II (VI wiek)",
+          "Tiara Piusa IX",
+          "Dalmatyka Karola Wielkiego",
+          "Tabernakulum Donatella"
+        ],
+        "dostęp": "osobny bilet",
+        "otwarte": "codziennie"
+      },
+      "portyk": {
+        "nazwa": "Narteks",
+        "długość": 71,
+        "szerokość": 13,
+        "wysokość": 20,
+        "funkcja": "przedsionek przed głównym wejściem",
+        "kolumnada": {
+          "kolumny": 20,
+          "styl": "jońsko-koryncki",
+          "materiał": "marmur"
+        },
+        "mozaiki": {
+          "powierzchnia": "rozległe sklepienia pokryte mozaikami",
+          "tematyka": "sceny z życia Chrystusa i apostołów",
+          "autor": "Giotto i inni (zachowane fragmenty z poprzedniej bazyliki)"
+        },
+        "porta_Santa": {
+          "lokalizacja": "skrajnie prawe drzwi",
+          "otwarcie": "tylko w Roku Świętym (co 25 lat)",
+          "ceremonia": "papież otwiera młotem",
+          "ostatnie_otwarcie": "2025 (Jubileusz)",
+          "symbolika": "przejście do łaski i odpustów"
+        },
+        "statua_Konstantyna": {
+          "autor": "Bernini",
+          "rok": "1670",
+          "materiał": "marmur",
+          "wysokość": "ponad 4 metry",
+          "scena": "wizja krzyża przed bitwą"
+        },
+        "statua_Karola_Wielkiego": {
+          "autor": "Agostino Cornacchini",
+          "rok": "1725",
+          "materiał": "marmur",
+          "symbolika": "obrońca Kościoła"
+        }
+      }
+    }
+  },
+"budowa": {
+    "chronologia": {
+      "326": "Cesarz Konstantyn Wielki rozpoczyna budowę pierwszej bazyliki nad grobem św. Piotra",
+      "333": "Konsekracja starej bazyliki konstantyńskiej",
+      "1452": "Papież Mikołaj V planuje przebudowę podupadającej bazyliki",
+      "1505": "Papież Juliusz II decyduje o całkowitej przebudowie",
+      "1506": "Wmurowanie kamienia węgielnego 18 kwietnia, rozpoczęcie budowy nowej bazyliki",
+      "1514": "Śmierć Bramantego, przejęcie projektu przez Rafaela",
+      "1546": "Mianowanie Michała Anioła głównym architektem w wieku 71 lat",
+      "1564": "Śmierć Michała Anioła, kontynuacja przez della Porta",
+      "1590": "Ukończenie kopuły przez Giacomo della Porta i Domenico Fontana",
+      "1606": "Papież Paweł V decyduje o wydłużeniu nawy (zmiana z krzyża greckiego na łaciński)",
+      "1614": "Ukończenie fasady głównej przez Carlo Maderno",
+      "1626": "Konsekracja bazyliki przez papieża Urbana VIII, 18 listopada (dokładnie 1300 lat po konsekracji starej bazyliki)",
+      "1633": "Ukończenie baldachimu Berniniego",
+      "1666": "Ukończenie kolumnady Placu Świętego Piotra przez Berniniego",
+      "1950": "Otwarcie Drzwi Świętych na Rok Święty",
+      "1964": "Zakończenie Soboru Watykańskiego II w bazylice",
+      "2005": "Pogrzeb papieża Jana Pawła II",
+      "2013": "Abdykacja Benedykta XVI, elekcja Franciszka",
+      "2025": "Jubileusz - otwarcie Porta Santa"
+    },
+    "fazy_szczegółowe": [
+      {
+        "faza": "Faza 0 - Stara Bazylika",
+        "okres": "326-1506",
+        "osiągnięcia": "bazylika konstantyńska, przetrwała 1200 lat",
+        "architekt": "nieznany architekt rzymski"
+      },
+      {
+        "faza": "Faza 1 - Plan Bramantego",
+        "okres": "1506-1514",
+        "osiągnięcia": "plan centralny krzyża greckiego, cztery główne filary, fundamenty",
+        "architekt": "Donato Bramante"
+      },
+      {
+        "faza": "Faza 2 - Rafael i następcy",
+        "okres": "1514-1546",
+        "osiągnięcia": "modyfikacje planu, kontynuacja filarów",
+        "architekt": "Rafael, Antonio da Sangallo Młodszy"
+      },
+      {
+        "faza": "Faza 3 - Michał Anioł",
+        "okres": "1546-1564",
+        "osiągnięcia": "projekt kopuły, przeprojektowanie absydy, powrót do planu centralnego",
+        "architekt": "Michelangelo Buonarroti"
+      },
+      {
+        "faza": "Faza 4 - Budowa kopuły",
+        "okres": "1585-1590",
+        "osiągnięcia": "ukończenie kopuły według projektu Michała Anioła",
+        "architekt": "Giacomo della Porta, Domenico Fontana"
+      },
+      {
+        "faza": "Faza 5 - Wydłużenie nawy",
+        "okres": "1607-1615",
+        "osiągnięcia": "zmiana planu na krzyż łaciński, budowa nawy głównej",
+        "architekt": "Carlo Maderno"
+      },
+      {
+        "faza": "Faza 6 - Fasada",
+        "okres": "1608-1614",
+        "osiągnięcia": "ukończenie fasady głównej",
+        "architekt": "Carlo Maderno"
+      },
+      {
+        "faza": "Faza 7 - Konsekracja",
+        "okres": "1626",
+        "osiągnięcia": "oficjalne ukończenie i konsekracja bazyliki",
+        "papież": "Urban VIII"
+      },
+      {
+        "faza": "Faza 8 - Dekoracja barokowa",
+        "okres": "1624-1680",
+        "osiągnięcia": "baldachim, Katedra św. Piotra, kolonada, rzeźby, nagrobki",
+        "architekt": "Gian Lorenzo Bernini"
+      },
+      {
+        "faza": "Faza 9 - Wykończenie wnętrza",
+        "okres": "1680-1870",
+        "osiągnięcia": "mozaiki, kaplice, nagrobki, dekoracje",
+        "artyści": "liczni artyści barokowi i późniejsi"
+      },
+      {
+        "faza": "Faza 10 - Konserwacja współczesna",
+        "okres": "1870-obecnie",
+        "osiągnięcia": "restauracje, konserwacja, modernizacja infrastruktury",
+        "zarząd": "Fabbrica di San Pietro"
+      }
+    ],
+    "finansowanie": {
+      "główne_źródło": "fundusze papieskie, odpusty, darowizny, podatki kościelne",
+      "budżet_historyczny": "szacowany na równowartość miliardów współczesnych euro",
+      "kontrowersje": "sprzedaż odpustów na budowę bazyliki stała się jedną z przyczyn reformacji protestanckiej (95 tez Marcina Lutra, 1517)",
+      "podatek_Piotrowy": "specjalny podatek kościelny na budowę",
+      "darowizny_książąt": "wielkie sumy od królów i książąt katolickich",
+      "współczesne_finansowanie": "budżet Watykanu, darowizny, dochody z turystyki",
+      "wstęp": "bezpłatny do bazyliki, płatne: kopuła, skarbiec, nekropolia",
+      "liczba_turystów_rocznie": "około 11-15 milionów",
+      "koszty_konserwacji_roczne": "około 10-15 mln euro",
+      "zarząd_finansowy": "Fabbrica di San Pietro - autonomiczna instytucja watykańska"
+    },
+    "technologie": {
+      "historyczne": [
+        "techniki budowlane starożytnego Rzymu",
+        "kopuła podwójna inspirowana Panteonen i kopułą Brunelleschiego we Florencji",
+        "rusztowania drewniane gigantycznych rozmiarów",
+        "dźwigi korbowe i bloki",
+        "modele drewniane i gliniane",
+        "rysunki perspektywiczne renesansowe",
+        "fundamenty na starożytnej nekropolii",
+        "użycie pozzolany (rzymski cement wulkaniczny)"
+      ],
+      "renesansowe_innowacje": [
+        "podwójna konstrukcja kopuły - wewnętrzna i zewnętrzna powłoka",
+        "łańcuchy żelazne wzmacniające kopułę",
+        "16 żeber rozkładających siły",
+        "tambur z masywnych filarów",
+        "centrowanie drewniane do budowy łuków",
+        "precyzyjne obliczenia statyczne Michała Anioła"
+      ],
+      "barokowe": [
+        "odlewanie brązu na masową skalę (baldachim)",
+        "techniki rzeźbiarskie - wielkie posągi marmurowe",
+        "mozaiki zamiast fresków (trwalsze w wilgotnym klimacie)",
+        "hydraulika fontann Berniniego"
+      ],
+      "współczesne": [
+        "monitoring strukturalny kopuły - czujniki przemieszczeń",
+        "konserwacja laserem kamienia",
+        "klimatyzacja i kontrola wilgotności",
+        "systemy bezpieczeństwa i monitoringu",
+        "oświetlenie LED energooszczędne",
+        "skanowanie 3D do dokumentacji",
+        "analiza MES istniejących konstrukcji",
+        "geofizyczne badania fundamentów"
+      ],
+      "przełomy": [
+        {
+          "rok": 1506,
+          "innowacja": "plan centralny Bramantego z kopułą na czterech filarach",
+          "znaczenie": "rewolucja w architekturze sakralnej renesansu"
+        },
+        {
+          "rok": 1547,
+          "innowacja": "projekt kopuły Michała Anioła",
+          "znaczenie": "największa murowana kopuła świata na 300 lat"
+        },
+        {
+          "rok": 1590,
+          "innowacja": "ukończenie kopuły w rekordowym czasie 22 miesięcy",
+          "znaczenie": "osiągnięcie inżynieryjne della Porty"
+        },
+        {
+          "rok": 1624,
+          "innowacja": "baldachim Berniniego - największa odlewana struktura brązowa",
+          "znaczenie": "synteza rzeźby i architektury barokowej"
+        },
+        {
+          "rok": 1940,
+          "innowacja": "odkrycie nekropolii i grobu św. Piotra",
+          "znaczenie": "potwierdzenie historycznej ciągłości miejsca"
+        }
+      ]
+    },
+    "materiały": {
+      "kamień": {
+        "travertyn": {
+          "źródło": "kamieniołomy Tivoli koło Rzymu",
+          "zastosowanie": "główny materiał konstrukcyjny fasady, kolumn, ścian",
+          "charakterystyka": "wapień trawertynowy, jasny krem, porowaty",
+          "ilość": "szacowana na ponad 100000 ton",
+          "status": "te same kamieniołomy co Koloseum i Forum Romanum"
+        },
+        "marmur_karraryjski": {
+          "źródło": "Carrara, Toskania, Włochy",
+          "zastosowanie": "rzeźby, posadzki, dekoracje, nagrobki",
+          "charakterystyka": "biały marmur najwyższej jakości",
+          "ilość": "dziesiątki tysięcy ton",
+          "artyści": "preferowany przez Michała Anioła"
+        },
+        "marmur_kolorowy": {
+          "źródła": "ponad 150 rodzajów z całego świata",
+          "zastosowanie": "posadzki, kolumny, inkrustacje",
+          "odmiany": "giallo antico (żółty), verde antico (zielony), porfido (czerwony), nero (czarny), rosso (czerwony)",
+          "pochodzenie": "Egipt, Grecja, Tunezja, Francja, Włochy",
+          "wartość": "niektóre marmury z zamkniętych starożytnych kamieniołomów - bezcenne"
+        },
+        "granit": {
+          "źródło": "Egipt (antyczne kolumny wtórnie użyte)",
+          "zastosowanie": "niektóre kolumny z poprzedniej bazyliki",
+          "charakterystyka": "czerwony i szary granit"
+        }
+      },
+      "beton": {
+        "typ": "opus caementicium (rzymski beton), współczesny beton",
+        "zastosowanie": "fundamenty, wypełnienia, zewnętrzna powłoka kopuły",
+        "skład_historyczny": "pozzolana, wapno, kruszywo",
+        "wytrzymałość": "beton rzymski wytrzymalszy niż współczesny",
+        "ilość": "dziesiątki tysięcy metrów sześciennych"
+      },
+      "cegła": {
+        "typ": "cegła wypalanapółprodukty",
+        "zastosowanie": "wewnętrzna powłoka kopuły, żebra, wypełnienia",
+        "charakterystyka": "lekka, wytrzymała",
+        "ilość": "miliony sztuk w kopule"
+      },
+      "metal": {
+        "brąz": {
+          "zastosowanie": "baldachim (63 tony), drzwi, elementy dekoracyjne, posągi",
+          "źródło": "częściowo z rozbiórki brązowych elementów Panteonu",
+          "ilość": "ponad 100 ton",
+          "kontrowersja": "grabież Panteonu przez Urbana VIII"
+        },
+        "żelazo_i_stal": {
+          "zastosowanie": "łańcuchy wzmacniające kopułę, zbrojenia",
+          "ilość": "setki ton łańcuchów w kopule",
+          "funkcja": "przeciwdziałanie siłom rozrywającym"
+        },
+        "złoto": {
+          "zastosowanie": "pozłoty, detale liturgiczne",
+          "ilość": "kilogramy złota w płatkach"
+        },
+        "ołów": {
+          "zastosowanie": "pokrycie dachu kopuły",
+          "ilość": "setki ton",
+          "funkcja": "wodoodporność"
+        }
+      },
+      "szkło": {
+        "mozaika": {
+          "typ": "tesserae - małe kostki szkła i kamienia",
+          "zastosowanie": "wszystkie obrazy we wnętrzu (zamiast fresków)",
+          "powierzchnia": "ponad 10000 m²",
+          "technika": "mozaika rzymska, manufaktura watykańska",
+          "kolory": "tysiące odcieni",
+          "trwałość": "niezniszczalne, w przeciwieństwie do fresków"
+        },
+        "witraże": {
+          "zastosowanie": "minimalne - głównie przezroczyste szkło",
+          "wyjątek": "witraż Berniniego nad Katedrą (alabaster, nie szkło)",
+          "funkcja": "maksymalne światło naturalne"
+        }
+      },
+      "inne": {
+        "stiuk": {
+          "zastosowanie": "dekoracje sufitów, ornamentyka",
+          "charakterystyka": "biały, złocony"
+        },
+        "drewno": {
+          "typ": "dąb, orzech, cedr",
+          "zastosowanie": "drzwi, meble liturgiczne, historyczne rusztowania",
+          "ilość": "minimalna wewnątrz"
+        },
+        "pozzolana": {
+          "źródło": "deposit wulkaniczny koło Pozzuoli",
+          "zastosowanie": "spoiwo w betonie rzymskim",
+          "właściwości": "twardnienie pod wodą, trwałość tysiącleci"
+        }
+      }
+    },
+    "wyzwania_techniczne": {
+      "fundamentowe": {
+        "problem": "budowa na starożytnej nekropolii i grobie św. Piotra",
+        "rozwiązanie": "głębokie fundamenty omijające starożytne struktury, wzmocnienia"
+      },
+      "kopuła": {
+        "problem": "budowa największej murowanej kopuły świata",
+        "rozwiązanie": "podwójna konstrukcja, żelazne łańcuchy, 16 żeber, lżejsze materiały ku górze"
+      },
+      "siły_rozrywające": {
+        "problem": "ogromne siły rozrywające u podstawy kopuły",
+        "rozwiązanie": "pięć poziomów łańcuchów żelaznych, masywny tambur"
+      },
+      "pęknięcia_kopuły": {
+        "problem": "pęknięcia pojawiły się już w XVIII wieku",
+        "rozwiązanie": "dodatkowe łańcuchy, ciągły monitoring, restauracje"
+      },
+      "wilgoć": {
+        "problem": "wilgoć z gruntu i kondensacja niszcząca freski",
+        "rozwiązanie": "zastąpienie fresków mozaikami, wentylacja, osuszanie"
+      },
+      "rozmiar": {
+        "problem": "koordynacja budowy przez 120 lat, dziesiątki architektów",
+        "rozwiązanie": "Fabbrica di San Pietro jako stała instytucja zarządzająca"
+      },
+      "zmiany_projektu": {
+        "problem": "każdy architekt chciał zmienić plan",
+        "rozwiązanie": "kompromisy, zachowanie głównych założeń Bramantego i Michała Anioła"
+      },
+      "finansowe": {
+        "problem": "ogromne koszty przez ponad wiek",
+        "rozwiązanie": "odpusty, podatki, darowizny - kontrowersyjne metody"
+      },
+      "konserwatorskie_współczesne": {
+        "problem": "zachowanie konstrukcji sprzed 400-500 lat",
+        "rozwiązanie": "ciągły monitoring, mikrointerwencje, laserowe czyszczenie, kontrola wilgotności"
+      },
+      "turystyka": {
+        "problem": "miliony turystów rocznie niszczą posadzki i powodują wilgoć",
+        "rozwiązanie": "ograniczenia ruchu w niektórych strefach, klimatyzacja, regularna konserwacja"
+      }
+    },
+    "zespół_budowlany": {
+      "zatrudnienie_historyczne": "setki robotników jednocześnie w szczytowych momentach",
+      "zatrudnienie_współczesne_konserwacja": "około 100-150 osób stale",
+      "Fabbrica_di_San_Pietro": {
+        "rola": "instytucja zarządzająca budową i konserwacją od 1506 roku",
+        "status": "autonomiczna instytucja watykańska",
+        "zadania": "konserwacja, restauracje, zarządzanie, dokumentacja",
+        "personel": "architekci, inżynierowie, konserwatorzy, historycy sztuki, rzemieślnicy"
+      },
+      "specjaliści_historyczni": [
+        "kamieniarze",
+        "rzeźbiarze",
+        "murarze",
+        "stolarze",
+        "kowale",
+        "mozaiciści",
+        "złotnicy",
+        "malarze (później zastąpieni mozaicistami)"
+      ],
+      "specjaliści_współcześni": [
+        "konserwatorzy dzieł sztuki",
+        "restauratorzy marmuru",
+        "specjaliści mozaiki",
+        "inżynierowie konstrukcyjni",
+        "architekci konserwatorzy",
+        "geolodzy",
+        "chemicy materiałów",
+        "eksperci klimatyzacji",
+        "technicy monitoringu strukturalnego"
+      ],
+      "Scuola_Mosaicisti": {
+        "nazwa": "Studio del Mosaico Vaticano",
+        "założenie": "1578",
+        "funkcja": "manufaktura mozaik, konserwacja mozaik bazylic",
+        "rzemieślnicy": "około 10-15 mistrzów mozaiki",
+        "technika": "tradycyjna rzymska, tysiące odcieni"
+      },
+      "współpraca_akademicka": [
+        "Università La Sapienza - Roma",
+        "Politecnico di Milano",
+        "instytuty konserwatorskie",
+        "laboratoria badawcze materiałów historycznych"
+      ],
+      "liczby": {
+        "architektów_głównych": "11 w ciągu 120 lat budowy",
+        "robotników_szczytowo": "szacowane do 800 jednocześnie",
+        "rzemieślników_artystycznych": "setki rzeźbiarzy, mozaicistów, stolarzy",
+        "konserwatorów_obecnie": "około 50 stale zatrudnionych"
+      }
+    }
+  },
+"znaczenie_kulturowe": {
+    "status_UNESCO": {
+      "wpisanie": "1984",
+      "kategoria": "Dobro Światowego Dziedzictwa UNESCO",
+      "numer_referencyjny": "286",
+      "kryteria": [
+        "Kryterium (i): arcydzieło ludzkiego geniuszu twórczego - szczyt renesansu i baroku",
+        "Kryterium (ii): znaczący wpływ na rozwój architektury na całym świecie",
+        "Kryterium (iv): wybitny przykład architektury renesansowej i barokowej",
+        "Kryterium (vi): bezpośrednie powiązanie z najważniejszymi wydarzeniami w historii chrześcijaństwa"
+      ],
+      "zakres": "Całe Miasto Watykańskie wraz z Bazyliką św. Piotra",
+      "uzasadnienie": "Najważniejsza świątynia chrześcijaństwa, arcydzieło największych artystów renesansu i baroku, miejsce o fundamentalnym znaczeniu religijnym i kulturowym"
+    },
+    "symbol_kulturowy": {
+      "chrześcijaństwo": "najważniejsza świątynia Kościoła katolickiego, centrum duchowe ponad miliarda wiernych",
+      "Watykan": "serce Państwa Watykańskiego, siedziba papieża",
+      "Rzym": "dominanta panoramy Rzymu, symbol Wiecznego Miasta",
+      "Włochy": "najważniejszy zabytek Włoch, symbol włoskiego renesansu",
+      "architektura": "ikona architektury renesansowej i barokowej, wzór dla setek świątyń na świecie",
+      "Europa": "symbol cywilizacji europejskiej i chrześcijańskiej",
+      "świat": "jeden z najważniejszych i najczęściej odwiedzanych zabytków świata"
+    },
+    "wpływ_na_sztukę": {
+      "architektura": "wzór dla niezliczonych bazylik, katedr i budynków państwowych na całym świecie (Kapitol w Waszyngtonie, Katedra św. Pawła w Londynie, Les Invalides w Paryżu)",
+      "kopuła": "model dla wszystkich wielkich kopuł świata przez 300 lat",
+      "urbanistyka": "kolonada i plac jako wzór dla planowania przestrzeni publicznych",
+      "rzeźba": "Bernini ustanowił kanon rzeźby barokowej",
+      "sztuka_sakralna": "wzorzec dla sztuki katolickiej na stulecia",
+      "mozaika": "renesans sztuki mozaikowej, Studio Mosaico Vaticano jako centrum doskonałości",
+      "synteza_sztuk": "model integracji architektury, rzeźby, malarstwa i rzemiosła artystycznego"
+    },
+    "znaczenie_religijne": {
+      "grób_św_Piotra": "miejsce męczeństwa i pochówku pierwszego papieża, fundamentalne dla chrześcijaństwa",
+      "stolica_apostolska": "centrum władzy papieskiej od prawie 2000 lat",
+      "pielgrzymki": "najważniejszy cel pielgrzymek katolickich na świecie",
+      "liturgia_papieska": "miejsce najważniejszych ceremonii katolickich",
+      "konsekracje_papieży": "wybór i intronizacja papieży",
+      "sobory": "miejsce soborów i wielkich zgromadzeń Kościoła",
+      "roku_święte": "centrum jubileuszy i lat świętych",
+      "symbol_jedności": "Petros - skała, na której zbudowany jest Kościół"
+    },
+    "cytaty_o_budynku": [
+      {
+        "autor": "Michelangelo Buonarroti",
+        "cytat": "Zbuduję kopułę, która przekroczy niebiosa",
+        "kontekst": "1547, przyjmując funkcję architekta"
+      },
+      {
+        "autor": "Johann Wolfgang von Goethe",
+        "cytat": "Tutaj jest coś daleko wykraczającego poza nasze pojęcie o wielkości",
+        "rok": 1787,
+        "dzieło": "Podróż włoska"
+      },
+      {
+        "autor": "Stendhal",
+        "cytat": "Nic na świecie nie może się równać z wrażeniem, jakie wywiera ta świątynia",
+        "rok": 1817
+      },
+      {
+        "autor": "Charles Dickens",
+        "cytat": "Tak wspaniała, tak ogromna, tak pełna majestatu",
+        "rok": 1846,
+        "dzieło": "Pictures from Italy"
+      },
+      {
+        "autor": "Mark Twain",
+        "cytat": "Największy kościół na świecie... niepojęty w swoim ogromie",
+        "rok": 1869
+      },
+      {
+        "autor": "papież Jan Paweł II",
+        "cytat": "To miejsce, gdzie niebo spotyka się z ziemią",
+        "kontekst": "liczne homilie"
+      },
+      {
+        "autor": "papież Franciszek",
+        "cytat": "Dom wszystkich wierzących, serce Kościoła katolickiego",
+        "rok": 2013
+      }
+    ],
+    "w_kulturze_popularnej": {
+      "filmy": [
+        "Aniołowie i demony (2009) - Ron Howard, główna lokacja",
+        "Podróż do Włoch (1954) - Roberto Rossellini",
+        "Rzymskie wakacje (1953) - William Wyler",
+        "Wielkie piękno (2013) - Paolo Sorrentino",
+        "Papież Franciszek: Człowiek słowa (2018) - Wim Wenders, dokumentalny",
+        "Habemus Papam (2011) - Nanni Moretti",
+        "Dwa papieże (2019) - Fernando Meirelles"
+      ],
+      "literatura": [
+        "Aniołowie i demony - Dan Brown (2000)",
+        "Podróż włoska - Goethe (1817)",
+        "Niezliczone przewodniki, powieści historyczne, pamiętniki",
+        "Dzieła Henry'ego Jamesa, Edith Wharton opisujące wizyty"
+      ],
+      "muzyka": [
+        "Setki mszy i utworów sakralnych skomponowanych na uroczystości w bazylice",
+        "Koncerty muzyki sakralnej i organowej",
+        "Nagrania chórów watykańskich",
+        "Utwory inspirowane architekturą (Liszt, Berlioz)"
+      ],
+      "sztuki_wizualne": [
+        "Niezliczone malowidła, grafiki, fotografie od XVII wieku",
+        "Vedute Giambattista Piranesi (XVIII wiek)",
+        "Fotografie dokumentujące papieży i wydarzenia",
+        "Współczesna fotografia artystyczna"
+      ],
+      "gry": [
+        "Assassin's Creed Brotherhood - jako główna lokacja",
+        "Civilization VI - cud światowy",
+        "Europa Universalis - punkt orientacyjny",
+        "Wiele gier historycznych i strategicznych"
+      ],
+      "telewizja": [
+        "Transmisje wielkich uroczystości papieskich oglądane przez setki milionów",
+        "Dokumentalne BBC, National Geographic, Discovery",
+        "Seriale o Watykanie i papieżach"
+      ]
+    },
+    "nagrody_i_oznaczenia": [
+      {
+        "nazwa": "Dobro Światowego Dziedzictwa UNESCO",
+        "rok": 1984,
+        "zakres": "całe Miasto Watykańskie"
+      },
+      {
+        "nazwa": "Bazylika papieska większa",
+        "nadawca": "Stolica Apostolska",
+        "status": "od 1626",
+        "znaczenie": "najwyższa ranga wśród wszystkich bazylik katolickich"
+      },
+      {
+        "nazwa": "Patriarchalna bazylika",
+        "status": "historycznie",
+        "znaczenie": "jedna z czterech wielkich bazylik patriarchalnych Rzymu"
+      },
+      {
+        "nazwa": "Jedna z Siedmiu Kościołów Rzymu",
+        "tradycja": "średniowieczna pielgrzymka",
+        "znaczenie": "najważniejszy z siedmiu kościołów pielgrzymkowych"
+      },
+      {
+        "nazwa": "Jedno z 7 Nowych Cudów Świata - w rankingach ludowych",
+        "różne_listy": "często wymieniana w rankingach najwspanialszych budowli"
+      },
+      {
+        "nazwa": "New7Wonders Cities - Rzym",
+        "rok": 2014,
+        "uwaga": "bazylika jako część dziedzictwa Rzymu"
+      }
+    ],
+    "wpływ_na_historię": {
+      "reformacja": "sprzedaż odpustów na budowę stała się jedną z głównych przyczyn reformacji protestanckiej (1517)",
+      "kontrreformacja": "ukończona bazylika jako symbol triumfu kontrreformacji i potęgi Kościoła katolickiego",
+      "barok": "centrum rozwoju sztuki barokowej, prace Berniniego definiowały epokę",
+      "Risorgimento": "symbol władzy papieskiej podczas zjednoczenia Włoch",
+      "sobór_watykański_I": "1869-1870, ogłoszenie dogmatu o nieomylności papieża",
+      "sobór_watykański_II": "1962-1965, wielka reforma Kościoła",
+      "pogrzeby_papieży": "miejsce pożegnania wielkich papieży oglądane przez miliardy ludzi (Jan Paweł II - 2005)",
+      "symbol_pojednania": "wizyty przywódców różnych religii, ekumenizm"
+    },
+    "rekordów_i_wyróżnień": [
+      "Największa bazylika świata wewnętrzną powierzchnią (15160 m²)",
+      "Największa murowana kopuła świata (przez 300 lat, 1590-1881)",
+      "Najwyższy budynek świata w latach 1590-1647",
+      "Najbardziej odwiedzana świątynia chrześcijańska (11-15 mln rocznie)",
+      "Największa powierzchnia mozaik wewnętrznych (ponad 10000 m²)",
+      "Najwyższy baldachim brązowy na świecie (29 m - Bernini)",
+      "Jeden z najdłużej budowanych obiektów (120 lat)",
+      "Największy zespół dzieł sztuki renesansowej i barokowej w jednym miejscu"
+    ],
+    "edukacja_i_badania": {
+      "przedmiot_studiów": "tysiące rozpraw naukowych, książek, artykułów",
+      "konserwacja": "modelowy przykład konserwacji zabytków",
+      "archiwum": "Archiwum Bazyliki - bezcenne dokumenty historyczne",
+      "badania_archeologiczne": "nekropolia - ciągłe badania od 1939 roku",
+      "szkoły_rzemiosła": "Studio Mosaico - kształcenie mozaicistów od 1578",
+      "inspiracja_akademicka": "przedmiot studiów na wydziałach architektury, historii sztuki, konserwacji na całym świecie"
+    },
+    "turystyka_i_ekonomia": {
+      "liczba_odwiedzających": "11-15 milionów rocznie",
+      "wpływ_ekonomiczny": "setki milionów euro rocznie dla Rzymu i Watykanu",
+      "zatrudnienie": "tysiące miejsc pracy bezpośrednio i pośrednio",
+      "przewodnicy": "setki licencjonowanych przewodników specjalizujących się w bazylice",
+      "przemysł_pamiątkarski": "ogromny rynek pamiątek religijnych i turystycznych",
+      "hotele_i_restauracje": "cała dzielnica Borgo żyje z turystyki watykańskiej"
+    }
+  },
+"funkcje": {
+    "religijne": {
+      "typ_świątyni": "bazylika papieska większa, katedra papieska",
+      "przynależność": "Stolica Apostolska, bezpośrednio podległa papieżowi",
+      "parafia": "nie jest kościołem parafialnym - bazylika papieska",
+      "liturgia": "rzymskokatolicka obrządku łacińskiego",
+      "funkcje_liturgiczne": [
+        "msze papieskie",
+        "beatyfikacje i kanonizacje",
+        "konsystorze kardynalskie",
+        "pogrzeby i intronizacje papieży",
+        "uroczystości wielkopostne i wielkanocne",
+        "celebracje świąt liturgicznych",
+        "ordinacje biskupie",
+        "msze codzienne dla wiernych"
+      ],
+      "sakramenty": [
+        "Eucharystia - codziennie kilkanaście mszy",
+        "chrzty - w specjalnych okazjach",
+        "bierzmowania - przez papieża lub biskupów",
+        "spowiedź - konfesjonały w wielu językach",
+        "ślubby - bardzo rzadko, wymaga specjalnych pozwoleń",
+        "namaszczenie chorych"
+      ],
+      "spowiednicy": {
+        "liczba": "około 40 spowiedników",
+        "języki": "ponad 20 języków",
+        "dostępność": "codziennie w godzinach otwarcia",
+        "konfesjonały": "w nawach bocznych i kaplicach"
+      },
+      "adoracja": {
+        "kaplica_Najświętszego_Sakramentu": "ciągła adoracja",
+        "dostęp": "dla wiernych w ciszy",
+        "godziny": "przez cały dzień"
+      },
+      "pielgrzymki": {
+        "znaczenie": "najważniejszy cel pielgrzymek katolickich",
+        "tradycja": "prawie 2000 lat pielgrzymek",
+        "grupy": "grupy parafialne, zakonne, narodowe",
+        "jubileusze": "otwarcie Porta Santa w Roku Świętym",
+        "odpusty": "odpust zupełny dla pielgrzymów"
+      },
+      "uroczystości_papieskie": [
+        "Urbi et Orbi - Boże Narodzenie i Wielkanoc",
+        "kanonizacje świętych",
+        "beatyfikacje",
+        "konsystorze - kreacje kardynałów",
+        "wielkie liturgie Triduum Paschalnego",
+        "audiencje generalne (na placu)"
+      ],
+      "rektor_bazyliki": {
+        "tytuł": "arcyprezbiter bazyliki",
+        "aktualnie": "kardynał wikariusz generalny diecezji rzymskiej",
+        "rola": "odpowiedzialny za zarządzanie liturgiczne"
+      }
+    },
+    "turystyczne": {
+      "otwarcie_publiczne": "codziennie",
+      "godziny_otwarcia": {
+        "bazylia": "07:00-19:00 (kwiecień-wrzesień), 07:00-18:30 (październik-marzec)",
+        "kopuła": "08:00-18:00 (kwiecień-wrzesień), 08:00-17:00 (październik-marzec)",
+        "groby_watykańskie": "09:00-18:00",
+        "nekropolia": "wyłącznie z rezerwacją"
+      },
+      "liczba_turystów": {
+        "rocznie": "12000000",
+        "dziennie": "30000-50000",
+        "szczyt": "kwiecień-październik, okres świąt",
+        "rekord": "ponad 100000 podczas wielkich uroczystości papieskich"
+      },
+      "ceny_biletów": {
+        "bazylika": "wstęp bezpłatny",
+        "kopuła_winda_i_schody": "10 EUR",
+        "kopuła_tylko_schody": "8 EUR",
+        "groby_watykańskie": "wliczone w bilet do bazyliki (bezpłatne)",
+        "nekropolia": "13 EUR (wymaga rezerwacji z wyprzedzeniem)",
+        "skarbiec": "dawniej płatny, obecnie zamknięty dla turystów lub wliczony",
+        "audioprzewodnik": "5-7 EUR (opcjonalnie)"
+      },
+      "rezerwacje": {
+        "bazylika": "brak rezerwacji - swobodny wstęp (możliwe kolejki)",
+        "kopuła": "brak rezerwacji - wejście według kolejności",
+        "nekropolia": "obowiązkowa rezerwacja z wyprzedzeniem 2-3 miesięcy przez Ufficio Scavi",
+        "grupy": "grupy powyżej 10 osób wymagają zgłoszenia"
+      },
+      "audioprzewodnik": "dostępny w wielu językach w sklepach przy wejściu",
+      "przewodnicy": {
+        "wycieczki_grupowe": "dostępne przez licencjonowanych przewodników",
+        "języki": "wszystkie główne języki światowe",
+        "rezerwacja": "przez agencje turystyczne lub bezpośrednio"
+      },
+      "dostępność_językowa": [
+        "włoski",
+        "angielski",
+        "hiszpański",
+        "francuski",
+        "niemiecki",
+        "polski",
+        "portugalski",
+        "rosyjski",
+        "chiński",
+        "japoński",
+        "koreański",
+        "arabski",
+        "i wiele innych"
+      ],
+      "ograniczenia": {
+        "ubiór": "obowiązkowy przyzwoity ubiór - zakryte ramiona i kolana, zakaz kapeluszy",
+        "kontrola_bezpieczeństwa": "przejście przez bramki jak na lotnisku",
+        "fotografowanie": "dozwolone bez flesza, zakaz selfie sticków i statywów",
+        "zachowanie": "cisza, szacunek jako miejsce kultu",
+        "zakaz_jedzenia_picia": "w całej bazylice",
+        "zakaz_dużych_plecaków": "duże bagaże trzeba zostawić w przechowalni"
+      },
+      "sklepy": {
+        "liczba": "kilka punktów",
+        "asortyment": "książki religijne, pamiątki, różańce, medale, ikony, przewodniki",
+        "lokalizacja": "przy wejściach i wokół placu"
+      },
+      "kolejki": {
+        "średni_czas_oczekiwania": "30-90 minut w szczycie sezonu",
+        "najkrótsze": "wczesny ranek lub przed zamknięciem",
+        "najdłuższe": "środek dnia, grupy turystyczne",
+        "fast_track": "nie ma opcji szybszego wejścia dla turystów"
+      },
+      "przechowalnię_bagażu": "bezpłatna szatnia przy wejściu",
+      "dostępność_dla_niepełnosprawnych": {
+        "wejście": "specjalne wejście bez schodów",
+        "windy": "dostępne do niektórych poziomów",
+        "wózki": "dostępne bezpłatnie",
+        "toalety": "przystosowane dla niepełnosprawnych"
+      }
+    },
+    "edukacyjne": {
+      "muzeum": {
+        "nazwa": "Skarbiec Bazyliki (Tesoro di San Pietro)",
+        "lokalizacja": "przy zakrystii",
+        "tematyka": "historia bazyliki, relikwie, szaty liturgiczne, dary papieskie",
+        "ekspozycje": "stałe",
+        "dostęp": "czasowo zamknięty lub ograniczony"
+      },
+      "groby_watykańskie": {
+        "funkcja_edukacyjna": "muzeum historii papieży i bazyliki",
+        "eksponaty": "sarkofagi, nagrobki, kaplice historyczne",
+        "dostęp": "swobodny dla zwiedzających bazyliki"
+      },
+      "nekropolia": {
+        "funkcja": "muzeum archeologiczne",
+        "tematyka": "starożytna nekropolia rzymska, grób św. Piotra",
+        "ekspozycje": "mauzolea rzymskie I-IV wiek n.e.",
+        "przewodnicy": "obowiązkowa wycieczka z przewodnikiem",
+        "czas_zwiedzania": "około 90 minut",
+        "ograniczenia": "maksymalnie 12 osób w grupie, minimalizm wiek 15 lat"
+      },
+      "programy_edukacyjne": [
+        "wycieczki szkolne z przewodnikiem",
+        "lekcje historii sztuki",
+        "wykłady o architekturze renesansowej i barokowej",
+        "seminaria teologiczne",
+        "kursy dla przewodników turystycznych"
+      ],
+      "badania_naukowe": {
+        "współpraca": "uniwersytety watykańskie, instytuty badawcze na całym świecie",
+        "tematy": "archeologia, konserwacja, historia sztuki, teologia, liturgika",
+        "publikacje": "tysiące książek i artykułów naukowych",
+        "archiwa": "Archiwum Bazyliki - dostęp dla badaczy z akredytacją"
+      },
+      "biblioteka": {
+        "nazwa": "Biblioteca Apostolica Vaticana (w Watykanie, nie w bazylice)",
+        "dostęp": "dla akredytowanych badaczy",
+        "zbiór": "dokumenty dotyczące budowy i historii bazyliki"
+      },
+      "Fabbrica_di_San_Pietro": {
+        "rola_edukacyjna": "centrum dokumentacji budowy i konserwacji",
+        "archiwa": "plany, rysunki, dokumentacja techniczna od 1506",
+        "dostęp": "dla specjalistów i naukowców"
+      },
+      "Studio_Mosaico": {
+        "funkcja": "szkoła mozaiki",
+        "historia": "od 1578 roku",
+        "nauka": "tradycyjne techniki mozaiki rzymskiej",
+        "wizyty": "możliwe wizyty studyjne grup (na umówienie)"
+      }
+    },
+    "społeczne": {
+      "zarząd": "Fabbrica di San Pietro - autonomiczna instytucja watykańska",
+      "działalność_charytatywna": {
+        "jałmużnik_papieski": "rozdawanie jałmużny ubogim",
+        "pomoc_pielgrzymom": "wsparcie dla potrzebujących pielgrzymów",
+        "organizacje_charytatywne": "współpraca z Caritas i innymi organizacjami"
+      },
+      "wolontariat": {
+        "spowiednicy": "kapłani wolontariusze z całego świata",
+        "przewodnicy": "wolontariusze pomagający pielgrzymom",
+        "liturgia": "służba liturgiczna, lektorzy, ministranci"
+      },
+      "wydarzenia": [
+        "koncerty muzyki sakralnej",
+        "uroczystości beatyfikacyjne i kanonizacyjne",
+        "konsystorze kardynalskie",
+        "audiencje papieskie (na placu)",
+        "msze z okazji świąt patronalnych narodów",
+        "msze za zmarłych papieży",
+        "celebracje Roku Świętego"
+      ],
+      "wspólnoty": {
+        "kapłani": "około 50-70 kapłanów stale związanych z bazyliką",
+        "zakony": "różne wspólnoty zakonne służące w bazylice",
+        "chórzy": "chóry watykańskie",
+        "służba": "kilkuset pracowników i wolontariuszy"
+      },
+      "miejsca_spotkań": {
+        "Plac_Świętego_Piotra": "miejsce spotkań pielgrzymów, audiencji",
+        "kaplice": "przestrzenie dla modlitwy grupowej",
+        "sale_konferencyjne": "w strukturach watykańskich wokół bazyliki"
+      },
+      "integracja_międzynarodowa": {
+        "pielgrzymki_narodowe": "setki grup z różnych krajów rocznie",
+        "msze_w_językach_narodowych": "msze w kaplicach w różnych językach",
+        "spowiednicy_wielojęzyczni": "integracja poprzez sakrament pojednania",
+        "święta_patronalne": "celebracje świętych patronów różnych narodów"
+      }
+    },
+    "kulturalne": {
+      "koncerty": {
+        "muzyka_sakralna": "regularne koncerty chóralne i organowe",
+        "wielkie_uroczystości": "transmisje telewizyjne na cały świat",
+        "artyści": "najwybitniejsi wykonawcy muzyki sakralnej"
+      },
+      "transmisje": {
+        "telewizja": "główne uroczystości transmitowane przez Vatican Media",
+        "zasięg": "setki milionów widzów na całym świecie",
+        "częstotliwość": "wielkie święta, wydarzenia papieskie"
+      },
+      "fotografia": {
+        "status": "jeden z najczęściej fotografowanych obiektów świata",
+        "artyści": "niezliczone wystawy fotograficzne",
+        "ikoniczne_zdjęcia": "historyczne fotografie papieży i wydarzeń"
+      },
+      "inspiracja_artystyczna": {
+        "malarstwo": "tysiące obrazów przedstawiających bazylikę",
+        "literatura": "niezliczone opisy w literaturze światowej",
+        "film": "setki filmów dokumentalnych i fabularnych"
+      }
+    },
+    "administracyjne": {
+      "personel": {
+        "duchowni": "około 50-70 księży",
+        "konserwatorzy": "około 50 specjalistów",
+        "ochrona": "Gwardia Szwajcarska + służby bezpieczeństwa",
+        "administracja": "kilkuset pracowników",
+        "technicy": "elektrycy, hydraulicy, konserwatorzy",
+        "sprzątanie": "dziesiątki osób codziennie"
+      },
+      "zarządzanie": {
+        "Fabbrica_di_San_Pietro": "zarząd budowlany i konserwatorski",
+        "Arciprezbiter": "zarząd liturgiczny",
+        "Gubernatorat": "administracja państwowa Watykanu",
+        "Kuria_Rzymska": "nadzór doktrynalny i organizacyjny"
+      },
+      "bezpieczeństwo": {
+        "Gwardia_Szwajcarska": "ochrona honorowa i faktyczna",
+        "Gendarmeria_Watykańska": "policja watykańska",
+        "monitoring": "system kamer i czujników",
+        "protokoły_ewakuacyjne": "plany awaryjne dla dziesiątek tysięcy osób"
+      }
+    }
+  },
+"kontekst_historyczny": {
+    "geneza_projektu": {
+      "inicjator": "Papież Juliusz II (Giuliano della Rovere)",
+      "rok_decyzji": 1505,
+      "powód": "stara bazylika konstantyńska z IV wieku była w bardzo złym stanie technicznym, groziła zawaleniem",
+      "inspiracja": "chęć stworzenia najwspanialszej świątyni chrześcijaństwa, symbol potęgi papiestwa",
+      "cel": "godne miejsce pochówku św. Piotra i papieży, centrum pielgrzymkowe",
+      "kontekst_religijny": "szczyt potęgi papiestwa renesansowego",
+      "filozofia": "gloria Dei et Ecclesiae - chwała Boga i Kościoła przez monumentalną architekturę",
+      "kontrowersje": "ogromne koszty finansowane z odpustów - przyczyna reformacji"
+    },
+    "stara_bazylika": {
+      "fundator": "cesarz Konstantyn Wielki",
+      "budowa": "326-333 n.e.",
+      "przetrwanie": "prawie 1200 lat",
+      "stan_w_XV_wieku": "poważne uszkodzenia strukturalne, pęknięcia, zagrożenie zawaleniem",
+      "próby_naprawy": "papież Mikołaj V (1452) rozpoczął prace naprawcze, ale okazały się niewystarczające",
+      "decyzja_o_rozbiórce": "Juliusz II zdecydował o całkowitej przebudowie zamiast naprawy",
+      "wartość_historyczna": "wielki żal z powodu utraty najstarszej bazyliki chrześcijańskiej",
+      "zachowane_elementy": "niektóre kolumny, mozaiki, drzwi Filaretego, relikwie przeniesione do nowej bazyliki"
+    },
+    "epoka_powstania": {
+      "okres": "wysoki renesans i barok (1506-1626)",
+      "kontekst_polityczny": "szczyt potęgi papiestwa, wojny włoskie, reformacja protestancka",
+      "kontekst_kulturowy": "rozkwit renesansu włoskiego, humanizm",
+      "kontekst_artystyczny": "złoty wiek sztuki włoskiej - Michał Anioł, Rafael, Bramante, Bernini",
+      "sytuacja_ekonomiczna": "bogactwo Kościoła, handel odpustami, darowizny władców katolickich",
+      "papieże_budujący": "10 papieży w ciągu 120 lat budowy",
+      "rywalizacja": "współzawodnictwo z Florencją i Wenecją o palmę pierwszeństwa artystycznego"
+    },
+    "ważne_wydarzenia_historyczne": {
+      "reformacja_1517": {
+        "wpływ": "95 tez Marcina Lutra przeciwko odpustom na budowę bazyliki",
+        "kontrowersje": "sprzedaż odpustów przez dominikanina Johanna Tetzela",
+        "konsekwencje": "rozłam w chrześcijaństwie, protestanci krytykujący przepych bazyliki",
+        "reakcja_papieska": "kontynuacja budowy jako symbol potęgi katolicyzmu"
+      },
+      "sacco_di_Roma_1527": {
+        "wydarzenie": "splądrowanie Rzymu przez wojska Karola V",
+        "wpływ": "przerwanie prac budowlanych",
+        "straty": "rabunki, zniszczenia, śmierć tysięcy",
+        "czas_przerwy": "kilka lat",
+        "konsekwencje": "osłabienie papiestwa, opóźnienie budowy"
+      },
+      "sobór_trydencki_1545-1563": {
+        "wpływ": "kontrreformacja, nowy nacisk na przepych liturgii",
+        "architektura": "promowanie sztuki barokowej jako narzędzia ewangelizacji",
+        "bazylika": "symbol triumfu katolicyzmu nad protestantyzmem"
+      },
+      "ukończenie_kopuły_1590": {
+        "znaczenie": "największe osiągnięcie architektoniczne renesansu",
+        "architekt": "Giacomo della Porta według projektu Michała Anioła",
+        "czas_budowy": "22 miesiące - rekordowe tempo",
+        "wpływ": "stała się symbolem Rzymu i chrześcijaństwa"
+      },
+      "konsekracja_1626": {
+        "data": "18 listopada 1626",
+        "konsekrator": "papież Urban VIII",
+        "znaczenie": "dokładnie 1300 lat po konsekracji starej bazyliki (326)",
+        "uczestnictwo": "kardynałowie, biskupi, tłumy wiernych",
+        "ceremonia": "wielodniowe uroczystości",
+        "status": "oficjalne ukończenie bazyliki po 120 latach budowy"
+      },
+      "dokończenie_dekoracji_barokowej_1666": {
+        "architekt": "Gian Lorenzo Bernini",
+        "dzieła": "kolonada Placu Świętego Piotra",
+        "znaczenie": "ostateczne ukształtowanie zespołu architektonicznego",
+        "styl": "szczyt baroku rzymskiego"
+      },
+      "zjednoczenie_Włoch_1870": {
+        "wpływ": "utrata Państwa Kościelnego przez papieża",
+        "pytanie_rzymskie": "spór o suwerenność Watykanu",
+        "rozwiązanie": "Traktaty Laterańskie 1929 - uznanie Państwa Watykańskiego"
+      },
+      "sobór_watykański_I_1869-1870": {
+        "miejsce": "bazylika jako miejsce obrad",
+        "decyzje": "dogmat o nieomylności papieża",
+        "przerwanie": "przez wojnę i zajęcie Rzymu"
+      },
+      "sobór_watykański_II_1962-1965": {
+        "miejsce": "główne obrady w bazylice",
+        "znaczenie": "największa reforma Kościoła w XX wieku",
+        "uczestnictwo": "ponad 2000 biskupów z całego świata",
+        "decyzje": "aggiornamento - otwarcie Kościoła na współczesność"
+      },
+      "zamach_na_Jana_Pawła_II_1981": {
+        "miejsce": "Plac Świętego Piotra",
+        "data": "13 maja 1981",
+        "sprawca": "Mehmet Ali Ağca",
+        "wpływ": "wstrząs dla świata katolickiego",
+        "pamięć": "miejsce znaczone specjalną płytą"
+      },
+      "pogrzeb_Jana_Pawła_II_2005": {
+        "data": "8 kwietnia 2005",
+        "uczestnictwo": "miliony pielgrzymów w Rzymie, setki głów państw",
+        "transmisja": "oglądane przez ponad 2 miliardy ludzi",
+        "znaczenie": "jedno z największych zgromadzeń religijnych w historii",
+        "pochówek": "w grotach watykańskich, później przeniesiony do bazyliki"
+      },
+      "wybór_Franciszka_2013": {
+        "data": "13 marca 2013",
+        "pierwsze_błogosławieństwo": "z balkonu bazyliki",
+        "znaczenie": "pierwszy papież z Ameryki Łacińskiej, pierwszy jezuita"
+      },
+      "jubileusz_2025": {
+        "wydarzenie": "Rok Święty 2025",
+        "otwarcie_Porta_Santa": "przez papieża Franciszka",
+        "oczekiwania": "dziesiątki milionów pielgrzymów",
+        "przygotowania": "renowacje, przygotowania logistyczne"
+      }
+    },
+    "kontekst_papieży_budowniczych": {
+      "Juliusz_II_1503-1513": {
+        "rola": "inicjator budowy",
+        "architekt": "Donato Bramante",
+        "wkład": "kamień węgielny, plan centralny",
+        "osobowość": "'il Papa terribile' - potężny i wojowniczy papież",
+        "inne_dzieła": "Kaplica Sykstyńska (freski Michała Anioła)"
+      },
+      "Leon_X_1513-1521": {
+        "rola": "kontynuator",
+        "architekt": "Rafael Santi",
+        "wkład": "modyfikacje planu",
+        "kontrowersje": "sprzedaż odpustów wywołała reformację"
+      },
+      "Paweł_III_1534-1549": {
+        "rola": "zwołanie Soboru Trydenckiego",
+        "architekt": "Antonio da Sangallo Młodszy",
+        "wkład": "kontynuacja prac mimo trudności",
+        "epoka": "kontrreformacja"
+      },
+      "Juliusz_III_1550-1555": {
+        "rola": "powołanie Michała Anioła na architekta",
+        "rok": 1547,
+        "znaczenie": "przełomowa decyzja dla kształtu bazyliki"
+      },
+      "Sykstus_V_1585-1590": {
+        "rola": "ukończenie kopuły",
+        "architekt": "Giacomo della Porta, Domenico Fontana",
+        "wkład": "największe osiągnięcie architektoniczne",
+        "inne_dzieła": "urbanistyka Rzymu, obelisk na placu"
+      },
+      "Paweł_V_1605-1621": {
+        "rola": "wydłużenie nawy",
+        "architekt": "Carlo Maderno",
+        "wkład": "zmiana z krzyża greckiego na łaciński, fasada",
+        "decyzja": "kontrowersyjna zmiana planu Michała Anioła"
+      },
+      "Urban_VIII_1623-1644": {
+        "rola": "konsekracja bazyliki 1626",
+        "architekt": "Gian Lorenzo Bernini",
+        "wkład": "baldachim, początek dekoracji barokowej",
+        "kontrowersje": "grabież brązu z Panteonu",
+        "rodzina": "Barberini - herb z pszczołami"
+      },
+      "Aleksander_VII_1655-1667": {
+        "rola": "ukończenie placu",
+        "architekt": "Gian Lorenzo Bernini",
+        "wkład": "kolonada Placu Świętego Piotra",
+        "znaczenie": "ostateczne ukształtowanie zespołu architektonicznego"
+      }
+    },
+    "Michał_Anioł_i_bazylika": {
+      "wiek_przyjęcia": 72,
+      "dedykacja": "17 lat pracy (1547-1564)",
+      "warunki": "przyjął funkcję bez wynagrodzenia jako służbę Bogu",
+      "filozofia": "'Non vi si pensa quanto sangue costa' - Nie myśli się, ile krwi to kosztuje",
+      "projekt_kopuły": "jego największe dzieło architektoniczne",
+      "śmierć": "1564, nie doczekał realizacji kopuły",
+      "spuścizna": "model drewniany kopuły zachowany jako wskazówka dla następców",
+      "pochówek": "Florencja, Bazylika Santa Croce (chciał być pochowany tam, nie w Rzymie)",
+      "wpływ": "jego wizja zdominowała ostateczny kształt bazyliki"
+    },
+    "znaczenie_dla_reformacji": {
+      "odpusty": "sprzedaż odpustów na budowę przez Jana Tetzela",
+      "Luter": "95 tez (1517) wymierzonych m.in. w finansowanie bazyliki",
+      "cytaty_Lutra": "krytyka przepychu i bogactwa Kościoła",
+      "konsekwencje": "podział chrześcijaństwa na katolicyzm i protestantyzm",
+      "reakcja_katolicka": "bazylika jako symbol kontrreformacji i triumfu katolicyzmu",
+      "paradoks": "budynek mający gloryfikować Kościół przyczynił się do jego podziału"
+    }
+  },
+ "szczegółowy_opis": {
+    "tekst_krótki": "Bazylika Świętego Piotra w Watykanie to największa świątynia katolicka na świecie i arcydzieło architektury renesansowej oraz barokowej. Zbudowana w latach 1506-1626 na miejscu starożytnej bazyliki konstantyńskiej, wznosi się nad grobem św. Piotra Apostoła. Projekt tworzyli najwięksi artyści epoki: Bramante, Michał Anioł (kopuła), Maderno (fasada) i Bernini (baldachim i kolonada). Charakteryzuje się monumentalną kopułą o średnicy 42 m i wysokości 136 m oraz spektakularnym placem z kolumnadą Berniniego. Centrum duchowe ponad miliarda katolików i obiekt UNESCO od 1984 roku.",
+    "tekst_długi": "Bazylika Świętego Piotra w Watykanie to najważniejsza świątynia chrześcijaństwa katolickiego, arcydzieło architektury renesansowej i barokowej oraz duchowe centrum ponad miliarda wiernych na całym świecie. Ta monumentalna budowla, wzniesiona nad grobem pierwszego papieża - św. Piotra Apostoła - jest symbolem potęgi i ciągłości Kościoła katolickiego oraz szczytem osiągnięć europejskiej sztuki sakralnej.\n\nHistoria tego wyjątkowego miejsca sięga pierwszych wieków chrześcijaństwa. Według tradycji, apostoł Piotr został ukrzyżowany w cyrku Nerona około roku 64-67 n.e. i pochowany na pobliskim wzgórzu watykańskim. Nad jego grobem cesarz Konstantyn Wielki wzniósł w latach 326-333 pierwszą bazylikę, która przetrwała ponad 1200 lat, stając się centrum pielgrzymkowym chrześcijańskiego świata. W XV wieku stara bazylika znajdowała się jednak w katastrofalnym stanie technicznym - pękające mury i zapadające się sklepienia groziły całkowitym zawaleniem.\n\nW 1505 roku papież Juliusz II podjął śmiałą decyzję o całkowitej przebudowie. Zamiast naprawiać starą świątynię, postanowił wznieść największy i najwspanialszy kościół chrześcijaństwa. 18 kwietnia 1506 roku wmurowano kamień węgielny pod nową bazylikę, rozpoczynając budowę, która miała trwać 120 lat i przejść przez pontyfikaty dziesięciu papieży. Ta monumentalna inwestycja miała dramatyczne konsekwencje - sprzedaż odpustów na jej finansowanie stała się jedną z głównych przyczyn reformacji protestanckiej i podziału chrześcijaństwa.\n\nProjekt nowej bazyliki był dziełem najwybitniejszych artystów renesansu. Pierwszy architekt, Donato Bramante, zaprojektował ambitny plan centralny na krzyżu greckim z monumentalną kopułą wznoszącą się nad grobem św. Piotra, podtrzymywaną przez cztery gigantyczne filary. Po śmierci Bramantego w 1514 roku prace kontynuowali Rafael Santi i Antonio da Sangallo Młodszy, wprowadzając różne modyfikacje. Przełomowym momentem było powołanie w 1547 roku, w wieku 72 lat, Michelangelo Buonarottiego na głównego architekta. Michał Anioł, już wówczas sławny jako twórca fresków w Kaplicy Sykstyńskiej i rzeźby Dawida, przyjął tę funkcję bez wynagrodzenia, traktując ją jako służbę Bogu.\n\nMichał Anioł przeprojektował bazylikę, powracając do prostszego planu centralnego Bramantego i tworząc projekt monumentalnej kopuły, która miała stać się jego największym dziełem architektonicznym. Kopuła o średnicy wewnętrznej 42,34 metra została zaprojektowana jako podwójna konstrukcja - wewnętrzna i zewnętrzna powłoka połączone 16 masywnymi żebrami, wzmocnione pięcioma poziomami żelaznych łańcuchów przeciwdziałających siłom rozrywającym. Michał Anioł nie doczekał realizacji swojej wizji - zmarł w 1564 roku, pozostawiając szczegółowy model drewniany jako wskazówkę dla następców. Kopułę ukończono w rekordowym czasie 22 miesięcy w latach 1588-1590 pod kierunkiem Giacomo della Porty i Domenico Fontany. Przez następne 300 lat była największą murowaną kopułą świata i stała się ikonicznym symbolem Rzymu.\n\nNa początku XVII wieku papież Paweł V podjął kontrowersyjną decyzję o wydłużeniu nawy, zmieniając plan z krzyża greckiego na łaciński. Architekt Carlo Maderno dodał trzyprzęsłową nawę i zaprojektował monumentalną fasadę (szerokość 115 m, wysokość 45 m) z ośmioma ogromnymi kolumnami korynckimi. Fasada, ukończona w 1614 roku, zwieńczona jest attyką z trzynastoma posągami - Chrystusem Zbawicielem w centrum i dwunastoma apostołami. Centralna Loggia delle Benedizioni służy do papieskich błogosławieństw Urbi et Orbi. Bazylika została uroczyście konsekrowana 18 listopada 1626 roku przez papieża Urbana VIII - dokładnie 1300 lat po konsekracji starej bazyliki konstantyńskiej.\n\nEra baroku przyniosła bazylice dzieła Giana Lorenza Berniniego, który przez pół wieku (1629-1680) kształtował jej ostateczny wygląd. Jego brązowy baldachim nad ołtarzem papieskim (wysokość 29 metrów, waga 63 tony) jest największą odlewaną strukturą brązową na świecie. Cztery spiralne kolumny podtrzymujące baldachim nawiązują do kolumn ze starej bazyliki, a pszczoły zdobięce konstrukcję to herb rodziny Barberini (papież Urban VIII). W absydzie Bernini stworzył spektakularną Katedrę św. Piotra - monumentalną konstrukcję z brązu i marmuru otaczającą starożytny tron biskupi, unoszący się w chmurze aniołów i złotych promieni. Zwieńczeniem jego dzieła była eliptyczna kolonada Placu Świętego Piotra (1656-1667) - 284 kolumny doryjskie w czterech rzędach tworzące symboliczne ramiona Kościoła obejmujące wiernych.\n\nWnętrze bazyliki to synteza sztuk - architektury, rzeźby, mozaiki i złotnictwa. Rozległe przestrzenie (powierzchnia 15 160 m², długość 186 m) wypełniają dzieła największych mistrzów. W pierwszej kaplicy po prawej znajduje się Pieta Michała Anioła (1499) - jedyna rzeźba, którą artysta podpisał, przedstawiająca Maryję trzymającą ciało zmarłego Chrystusa. To arcydzieło, wykute z jednego bloku marmuru karryjskiego, jest chronione kuloodpornym szkłem po ataku wandala młotem w 1972 roku. Bazylika mieści ponad 100 grobów papieży, od św. Piotra w nekropolii pod ołtarzem, przez barokowe nagrobki dzieła Berniniego, po współczesne pochówki świętych papieży Jana Pawła II i Jana XXIII.\n\nJedną z najbardziej niezwykłych cech bazyliki jest zastąpienie wszystkich obrazów mozaikami. Od XVII wieku, z powodu problemów z wilgocią niszczącą freski, Studio del Mosaico Vaticano (założone 1578) systematycznie tworzyło mozaikowe kopie obrazów, używając tysięcy odcieni szkła i kamienia. Dziś ponad 10 000 m² mozaik pokrywa ściany i sklepienia, tworząc największy zespół mozaik sakralnych na świecie.\n\nKopuła pozostaje najważniejszym elementem kompozycji. Wejście na kopułę (551 stopni lub winda + 320 stopni) oferuje spektakularne widoki na Rzym i Watykan. Wewnątrz, wokół podstawy kopuły, biegnie inskrypcja o wysokości liter 1,4 metra: 'TU ES PETRUS ET SUPER HANC PETRAM AEDIFICABO ECCLESIAM MEAM' (Ty jesteś Piotr i na tej Skale zbuduję Kościół mój). Mozaiki kopuły przedstawiają Chrystusa Pantokratora w otoczeniu apostołów, aniołów i proroków.\n\nPod bazyliką rozciągają się dwa poziomy podziemne. Groby Watykańskie (Grotte Vaticane) mieszczą sarkofagi ponad 90 papieży, w tym współczesnych pontyfików. Jeszcze niżej, w starożytnej Nekropolii Watykańskiej, zachowały się rzymskie mauzolea z I-IV wieku n.e. Ekskawacje prowadzone w latach 1939-1949 pod kierunkiem papieża Piusa XII odkryły grób identyfikowany jako miejsce spoczynku św. Piotra, potwierdzając dwutysiącletnią tradycję.\n\nBazylika pełni wielorakie funkcje - jest miejscem najważniejszych ceremonii katolickich (konsekracje papieży, kanonizacje, wielkie liturgie), centrum pielgrzymkowym, arcydziełem muzealnym i symbolem jedności Kościoła. Podczas wielkich uroczystości papieskich transmisje oglądają setki milionów wiernych na całym świecie. Rocznie bazylikę odwiedza 11-15 milionów pielgrzymów i turystów, czyniąc ją jednym z najczęściej odwiedzanych miejsc na Ziemi.\n\nZnaczenie Bazyliki Świętego Piotra wykracza daleko poza religię. Wpisana na Listę Światowego Dziedzictwa UNESCO w 1984 roku jako część Miasta Watykańskiego, jest arcydziełem ludzkiego geniuszu twórczego. Jej kopuła inspirowała architektów na całym świecie - od Katedry św. Pawła w Londynie, przez Les Invalides w Paryżu, po Kapitol w Waszyngtonie. Stanowi szczyt renesansu i baroku, syntezę najwyższych osiągnięć europejskiej cywilizacji.\n\nDziś, prawie 400 lat po konsekracji, bazylika pozostaje żywym organizmem - miejscem codziennej liturgii, pielgrzymek, modlitwy i kontemplacji. Jest świadectwem wiary, która przetrwała wieki, wojen, epidemie i rewolucje. Jest pomnikiem ludzkiej determinacji w tworzeniu piękna ku chwale Bożej. I jest, być może przede wszystkim, miejscem, gdzie spotykają się niebo i ziemia, gdzie kamień przemienia się w modlitwę, a architektura transcenduje swój materialny wymiar, stając się bramą do transcendencji.",
+    "opis_symboliczny": "Bazylika Świętego Piotra to kamienny hymn, pieśń wysławiająca chwałę Boga wyrażona w marmurze, brązie i świetle. Kopuła Michała Anioła wznosi się jak niebo rozpięte nad ziemią, jak kopuła wszechświata obejmująca stworzenie. Kolumnada Berniniego to ramiona Matki-Kościoła, które witają i obejmują pielgrzymów z całego świata. To miejsce, gdzie kamień staje się poezją, gdzie przestrzeń architektoniczna przemienia się w przestrzeń duchową, gdzie wymiar wertykalny prowadzi wzrok i serce ku niebu. Dla wiernych to Petros - skała, na której zbudowany jest Kościół, trwały fundament wiary. Dla świata to testament renesansu i baroku, dowód na to, że człowiek stworzony na obraz Boży potrafi tworzyć rzeczy wiekuiste i piękne. To sanktuarium pamięci - każdy kamień pamięta modlitwy milionów pielgrzymów, każda mozaika odbija światło dwóch tysięcy lat historii.",
+    "ciekawostki": [
+      "Bazylika może pomieścić do 60 000 osób jednocześnie, a podczas wielkich uroczystości z placem - nawet 80 000",
+      "Budowa trwała 120 lat (1506-1626) i przeszła przez pontyfikaty 10 papieży",
+      "Kopuła waży około 14 000 ton, a do jej budowy użyto około 4 milionów cegieł",
+      "W kopule mogłaby zmieścić się cała Statua Wolności łącznie z podstawą",
+      "Baldachim Berniniego jest wyższy niż 4-piętrowy budynek (29 metrów)",
+      "Brąz na baldachim pochodził z rozbiórki starożytnego Panteonu, co wywołało słynne powiedzenie: 'Quod non fecerunt barbari, fecerunt Barberini' (Czego nie zrobili barbarzyńcy, zrobili Barberinowie)",
+      "Pieta Michała Anioła została wykonana, gdy artysta miał zaledwie 24 lata",
+      "Na posadzce bazyliki znajdują się oznaczenia długości innych wielkich kościołów świata - wszystkie są krótsze",
+      "Porta Santa (Drzwi Święte) otwierane są tylko w Roku Świętym (co 25 lat) - ostatnio w 2025",
+      "W nekropolii zachowały się pogańskie i chrześcijańskie groby z I-IV wieku n.e.",
+      "Napis 'Tu es Petrus' wokół kopuły ma litery o wysokości 1,4 metra - widoczne z dołu wyglądają na normalne",
+      "Studio Mosaico Vaticano działa nieprzerwanie od 1578 roku, wytwarzając mozaiki według tajnych receptur",
+      "Wszystkie 'obrazy' w bazylice to w rzeczywistości mozaiki - nie ma ani jednego fresku",
+      "Bazylika ma ponad 45 ołtarzy",
+      "W bazylice pochowanych jest ponad 100 papieży, w tym 91 świętych",
+      "Michał Anioł pracował nad bazyliką 17 lat, nie przyjmując wynagrodzenia",
+      "Kopuła była najwyższym budynkiem świata przez 57 lat (1590-1647)",
+      "Kolumnada Berniniego ma 284 kolumny i 88 filarów, wszystkie z trawertyny",
+      "W krypcie znajdują się groby świętych papieży Jana XXIII i Jana Pawła II - ich ciała są wystawione w przezroczystych trumnach",
+      "Podczas pogrzebu Jana Pawła II w 2005 roku w Rzymie zgromadziło się ponad 4 miliony pielgrzymów",
+      "Magiczny kwadrat na Porta della Morte sumuje się w każdym kierunku do 34",
+      "W bazylice jest ponad 400 posągów i 395 rzeźb",
+      "Powierzchnia mozaik przekracza 10 000 m² - więcej niż boisko piłkarskie",
+      "Plac Świętego Piotra może pomieścić 300 000 osób",
+      "W konfesjonałach bazyliki spowiednicy słuchają spowiedzi w ponad 20 językach",
+      "Wejście do bazyliki jest bezpłatne - każdego roku odwiedza ją 11-15 milionów osób",
+      "Obelisk na placu pochodzi z cyrku Nerona (37 n.e.) i został przeniesiony w 1586 roku - operacja przeniesienia 327-tonowego monolitu była największym osiągnięciem inżynieryjnym epoki",
+      "W Drzwiach Filaretego (1445) zachowane są elementy ze starej bazyliki",
+      "Bazylika jest zbudowana z ponad 150 rodzajów marmuru z całego świata",
+      "Fabbrica di San Pietro, instytucja zarządzająca bazyliką, istnieje nieprzerwanie od 1506 roku"
+    ]
+  },
+"dane_techniczne": {
+  "numer_UNESCO": "286",
+  "współrzędne": {
+    "WGS84": {
+      "lat": 41.9022,
+      "lon": 12.4539,
+      "alt": 19
+    },
+    "UTM": {
+      "strefa": "33T",
+      "easting": 291602,
+      "northing": 4641100
+    }
+  },
+  "status_prawny": {
+    "właściciel": "Państwo Watykańskie",
+    "typ_własności": "własność państwowa, kościelna",
+    "przeznaczenie": "obiekt sakralny, główna bazylika papieska",
+    "ochrona_konserwatorska": "najwyższy stopień ochrony zabytków w Watykanie i UNESCO"
+  },
+  "ubezpieczenie": {
+    "typ": "kompleksowe ubezpieczenie zabytku",
+    "wartość_ubezpieczenia": "dane niepubliczne, szacowane na miliardy euro",
+    "zakres": "szkody budowlane, OC, dzieła sztuki, zabytek"
+  },
+  "certyfikaty_budowlane": {
+    "pozwolenia_na_budowę": "historyczne pozwolenia, bieżące przeglądy",
+    "certyfikat_bezpieczeństwa": "coroczne przeglądy techniczne",
+    "certyfikat_pożarowy": "system przeciwpożarowy i zabezpieczenia",
+    "dostępność": "certyfikat dostępności dla osób niepełnosprawnych"
+  },
+  "systemy_budynku": {
+    "ogrzewanie": {
+      "typ": "centralne ogrzewanie + promienniki",
+      "źródło": "kotły gazowe",
+      "moc": "ok. 3000 kW",
+      "strefy": 20
+    },
+    "wentylacja": {
+      "typ": "mechaniczna + wentylacja naturalna",
+      "wydajność": "szacowana powyżej 50000 m³/h",
+      "filtry": "filtry klasy przemysłowej"
+    },
+    "klimatyzacja": {
+      "typ": "centralna + lokalne systemy",
+      "moc": "ok. 2000 kW chłodzenia",
+      "strefy": 15
+    },
+    "woda": {
+      "dostawca": "Acea SpA (woda z sieci miejskiej Rzymu)",
+      "zbiorniki": "4 zbiorniki po 50 m³",
+      "zużycie_dzienne": "ok. 100 m³"
+    },
+    "kanalizacja": {
+      "typ": "system kanalizacji miejskiej + przepompownie"
+    },
+    "elektryczność": {
+      "przyłącze": "główne + 2 rezerwowe",
+      "moc": "3 MW",
+      "napięcie": "400V / 230V",
+      "agregat": "awaryjny agregat 700 kW",
+      "UPS": "systemy krytyczne",
+      "oświetlenie": "LED + historyczne reflektory - ok. 18000 punktów"
+    },
+    "fotowoltaika": {
+      "status": "częściowa instalacja solarna na dachu Auli Pawła VI",
+      "moc": "200 kWp"
+    },
+    "przeciwpożarowy": {
+      "hydranty": 60,
+      "tryskacze": "system tryskaczowy w kluczowych strefach",
+      "czujniki": "czujniki dymu, ciepła i wilgoci - ok. 700 sztuk",
+      "gaśnice": 140,
+      "drogi_ucieczki": 22,
+      "systemy_zarządzania": "centralny monitoring i alarmowanie"
+    },
+    "bezpieczeństwo": {
+      "monitoring": "ponad 250 kamer CCTV",
+      "kontrola_dostępu": "elektroniczny i fizyczny system kontroli",
+      "alarm": "system alarmowy powiązany z strażą Gwardii Szwajcarskiej",
+      "ochrona": "całodobowa ochrona - 20 pracowników + Gwardia Szwajcarska"
+    },
+    "dzwony": {
+      "typ": "tradycyjne dzwony dzwonnicy",
+      "liczba": 6,
+      "system": "mechaniczny + elektryczny napęd",
+      "repertuar": "sygnały liturgiczne, okolicznościowe uroczystości"
+    },
+    "akustyka": {
+      "system": "wspomagający system nagłośnienia + naturalna akustyka",
+      "głośniki": "disponowane na strategicznych punktach - ok. 160 sztuk",
+      "mikrofony": "przewodowe i bezprzewodowe dla celebracji"
+    },
+    "multimedia": {
+      "wyświetlacze": "ekrany informacyjne dla zwiedzających",
+      "przewodniki": "system audioprzewodników w 20 językach",
+      "Wi-Fi": "darmowe Wi-Fi w strefach publicznych"
+    }
+  },
+  "zarządzanie_energią": {
+    "zużycie_roczne": "ok. 4 GWh elektryczności + 3 GWh ciepła",
+    "efektywność_energetyczna": "stopniowa modernizacja i optymalizacja systemów",
+    "OZE": "instalacje solarne i doświetlanie LED",
+    "monitoring": "system BMS do zarządzania zużyciem"
+  },
+  "gospodarka_odpadami": {
+    "segregacja": "pełna segregacja odpadów - 10 frakcji",
+    "recykling": "ok. 75% odpadów poddawanych recyklingowi",
+    "odpady_budowlane": "specjalne zarządzanie odpadami kamiennymi i ceramicznymi"
+  },
+  "dostawa": {
+    "platformy_dostaw": "główna platforma od strony Via della Conciliazione",
+    "dźwigi": 6,
+    "udźwig": "do 4 ton",
+    "windy_towarowe": 4
+  }
+},
+"kontakt": {
+  "adres_korespondencyjny": "Piazza San Pietro, 00120 Città del Vaticano",
+  "telefon": "+39 06 6988 1662",
+  "telefon_informacje": "+39 06 6988 3731",
+  "e-mail": "info@fsp.va",
+  "e-mail_rezerwacje": "visitafsp@fsp.va",
+  "e-mail_grupy": "ufficiopellegrinaggi@fsp.va",
+  "fax": "+39 06 6988 5518",
+  "social_media": {
+    "facebook": "@vaticanmuseums",
+    "instagram": "@vaticanmuseums",
+    "twitter": "@vaticanmuseums",
+    "youtube": "Vatican Museums",
+    "tiktok": "@vaticanmuseums"
+  },
+  "biuro_prasowe": "pressoffice@fsp.va",
+  "dział_edukacyjny": "didattica@fsp.va",
+  "współpraca_akademicka": "research@vaticanmuseums.va",
+  "kancelaria_liturgiczna": "liturgia@fsp.va",
+  "biuro_pielgrzymek": "pellegrinaggi@fsp.va",
+  "biuro_audiencji_papieskich": "audienzegenerali@fsp.va"
+}, 
+  "porady_praktyczne": {
+    "co_zabrać": [
+      "wygodne obuwie",
+      "wodę (minimum 1L)",
+      "kapelusz i krem z filtrem",
+      "aparat/telefon z naładowaną baterią",
+      "gotówka na pamiątki"
+    ],
+    "czego_unikać": [
+      "pory południowej w lecie (najgorętsze)",
+      "weekendy w sezonie (tłumy)",
+      "wciskających sprzedawców selfie-sticków",
+      "nielegalnych przewodników"
+    ],
+    "insiderskie_tipy": [
+      "Kup bilety online z wyprzedzeniem - ominiesz kolejki",
+      "Przyjdź o otwarciu lub 2h przed zamknięciem",
+      "Roma Pass daje pierwszeństwo wejścia",
+      "Bezpłatne Wi-Fi w okolicy - hasło w punkcie info",
+      "Najlepsze zdjęcia z Wzgórza Palatyn o zachodzie"
+    ],
+    "błędy_turystów": [
+      "Przyjście bez rezerwacji w sezonie",
+      "Niedocenianie czasu zwiedzania",
+      "Brak wody i ochrony przed słońcem",
+      "Próba zobaczenia wszystkiego w 1h",
+      "Kupowanie pamiątek od ulicznych sprzedawców (droższe)"
+    ]
+  },
+   "ciekawostki_praktyczne": [
+    "W podziemiach (hypogeum) temperatura jest o 5-8°C niższa - zabierz bluzę",
+    "Darmowe wejście w pierwszą niedzielę każdego miesiąca (długie kolejki!)",
+    "Młodzież do 18 lat (UE) ma wstęp bezpłatny",
+    "Audioguide dostępne w 10 językach - warto wynająć",
+    "Arena jest oświetlona nocą - piękne widoki z zewnątrz za darmo",
+    "W pobliżu są publiczne toalety - przy Via dei Fori Imperiali",
+    "Punkt pierwszej pomocy znajduje się przy wejściu głównym"
+  ],
+  "FAQ": [
+    {
+      "pytanie": "Czy mogę wejść z plecakiem?",
+      "odpowiedź": "Tak, ale będzie sprawdzany. Duże plecaki (>40x35x15cm) mogą być zabronione."
+    },
+    {
+      "pytanie": "Czy jest klimatyzacja?",
+      "odpowiedź": "Nie, Koloseum jest otwarte, bez klimatyzacji. Latem bardzo gorąco."
+    },
+    {
+      "pytanie": "Czy można robić zdjęcia?",
+      "odpowiedź": "Tak, dozwolone bez flesza i statywów. Drony zabronione."
+    },
+    {
+      "pytanie": "Czy jest dostępne dla wózków?",
+      "odpowiedź": "Częściowo. Winda dostępna, ale nie wszystkie poziomy są osiągalne."
+    },
+    {
+      "pytanie": "Gdzie kupić bilety?",
+      "odpowiedź": "Online na coopculture.it (zalecane) lub na miejscu (długie kolejki)."
+    }
+  ],
+  "historia_w_pigułce": {
+    "krotki_opis": "Największy amfiteatr starożytnego świata, zbudowany przez dynastię Flawiuszy w latach 72-80 n.e. Miejsce walk gladiatorów i polowań na dzikie zwierzęta.",
+    "dlaczego_warto_zobaczyc": "Symbol Rzymu i jeden z najlepiej zachowanych zabytków starożytności. Arcydzieło inżynierii, które przetrwało 2000 lat.",
+    "najciekawsze_fakty": [
+      "Mogło pomieścić 50-80 tysięcy widzów",
+      "Wszystkich można było ewakuować w 5-10 minut",
+      "Pod areną był labirynt korytarzy i 28 wind",
+      "Arena była zalewana wodą do bitew morskich"
+    ]
+  },
+  "multimedia": {
+    "wirtualny_spacer_url": "https://example.com/virtual-tour",
+    "drone_video_url": "https://youtube.com/...",
+    "dokumenty_filmowe": [
+      {
+        "tytuł": "Engineering an Empire: Rome",
+        "url": "https://...",
+        "czas": "45 min"
+      }
+    ],
+    "podcast_odcinki": []
+  }
+}

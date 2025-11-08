@@ -1,0 +1,303 @@
+{
+  "id": "ATR-MOS-US-SF-001",
+  "typ": "atrakcja",
+  "kategoria": "most",
+  
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Golden Gate Bridge",
+      "tlumaczenia": {
+        "polski": "Most Golden Gate"
+      }
+    },
+    "lokalizacja": {
+      "kraj_id": "KRAJ-US-001",
+      "miasto_id": "MIASTO-US-SF-001",
+"laczy": ["San Francisco", "Marin County"],
+      "nad": "Golden Gate Strait (cieśnina)",
+      "wspolrzedne": {
+        "lat": 37.8199,
+        "lon": -122.4783
+      }
+    },
+    "status": {
+      "aktywny": true,
+      "czynny": true,
+      "typ_uzytkowania": "most drogowy i pieszy"
+    }
+  },
+  
+  "charakterystyka_techniczna": {
+    "typ_mostu": "most wiszący",
+    "dlugosc": {
+      "calkowita_m": 2737,
+      "glowne_przeslo_m": 1280,
+      "ranking_otwarcie": 1,
+      "ranking_obecny": "około 12"
+    },
+    "wysokosc": {
+      "wiezy_m": 227,
+      "nad_woda_m": 67,
+      "przeswit_dla_statkow_m": 67
+    },
+    "szerokosc": {
+      "calkowita_m": 27,
+      "jezdnia_m": 19,
+      "chodniki_m": 3.7
+    },
+    "material": {
+      "konstrukcja": "stal",
+      "wiezy": "stal i beton",
+      "liny_nosne": {
+        "srednica_mm": 920,
+        "liczba_drutow": 27572,
+        "dlugosc_laczna_km": 129000
+      }
+    },
+    "kolor": {
+      "nazwa": "International Orange",
+      "kod": "#C0362C",
+      "powod": "widoczność w mgle, kontrast z otoczeniem"
+    },
+    "waga_t": 887000
+  },
+  
+  "historia": {
+    "projektant": {
+      "inzynier_glowny": "Joseph Strauss",
+      "architekt": "Irving Morrow (design Art Deco)",
+      "inzynier_konstrukcyjny": "Charles Alton Ellis"
+    },
+    "budowa": {
+      "rozpoczecie": "1933-01-05",
+      "zakonczenie": "1937-04-19",
+      "otwarcie": "1937-05-27",
+      "czas_budowy_lata": 4.3,
+      "koszt_mln_usd": 35,
+      "koszt_dzisiejszy_mld_usd": 1.5
+    },
+    "ofiary": {
+      "zgony_podczas_budowy": 11,
+      "siec_bezpieczenstwa": "uratowała 19 pracowników (Halfway to Hell Club)"
+    },
+    "wazne_wydarzenia": [
+      {
+        "rok": 1987,
+        "wydarzenie": "50. rocznica - 300,000 pieszych na moście równocześnie"
+      },
+      {
+        "rok": 2012,
+        "wydarzenie": "75. rocznica - fajerwerki"
+      }
+    ]
+  },
+  
+  "informacje_turystyczne": {
+    "liczba_odwiedzajacych_rocznie": 10000000,
+    "ranking_atrakcji": "top 3 w San Francisco",
+    "dostep": {
+      "dla_pieszych": {
+        "godziny": "05:00 - 21:00 (zima), 05:00 - 18:00 (lato)",
+        "strona": "wschodnia (od strony SF)",
+        "dlugosc_km": 2.7,
+        "czas_przejscia_min": "30-40"
+      },
+      "dla_rowerow": {
+        "godziny": "24/7",
+        "strona_dzien": "wschodnia",
+        "strona_noc": "zachodnia"
+      },
+      "dla_samochodow": {
+        "kierunek_platny": "tylko w stronę SF",
+        "oplata_usd": 9.40,
+        "system": "FasTrak lub Pay-by-Plate",
+        "brak_bramek": true
+      }
+    },
+    "punkty_widokowe": [
+      {
+        "nazwa": "Battery Spencer",
+        "strona": "Marin County (północ)",
+        "dojazd": "samochód, rower, pieszo",
+        "widok": "klasyczny widok z góry na most i SF",
+        "popularnosc": "bardzo wysoka (zdjęcia)"
+      },
+      {
+        "nazwa": "Fort Point",
+        "strona": "San Francisco (południe)",
+        "lokalizacja": "pod mostem",
+        "widok": "z dołu",
+        "unikalne": "historyczny fort"
+      },
+      {
+        "nazwa": "Marin Headlands",
+        "dojazd": "samochód, rower (stromy podjazd)",
+        "widok": "panorama mostu, SF, Oceanu",
+        "czas_wschod_zachod": "idealny na zachód słońca"
+      },
+      {
+        "nazwa": "Crissy Field",
+        "strona": "San Francisco",
+        "widok": "z plaży",
+        "udogodnienia": "parking, toalety, kawiarnie"
+      }
+    ]
+  },
+  
+  "praktyczne_informacje": {
+    "jak_dojechac": {
+      "z_centrum_sf": [
+        {
+          "srodek": "Autobus 28, 29",
+          "czas_min": 30,
+          "koszt_usd": 3
+        },
+        {
+          "srodek": "Rower - wypożyczalnie Fisherman's Wharf",
+          "czas_min": 30,
+          "koszt_usd": "30-50/dzień"
+        },
+        {
+          "srodek": "Samochód",
+          "parking": "limited parking, często pełny",
+          "koszt_parking_h_usd": 3
+        }
+      ]
+    },
+    "co_zabrac": [
+      "kurtkę wiatroszczelną (ZAWSZE wietrznie)",
+      "warstwy ubrań (temperatura zmienia się)",
+      "wygodne buty",
+      "aparat/telefon",
+      "wodę"
+    ],
+    "bezpieczenstwo": {
+      "telefony_kryzysowe": "rozmieszczone co 150m",
+      "patrol": "24/7 Bridge Patrol",
+      "wiatr": "może być bardzo silny - trzymaj się poręczy"
+    },
+    "pogoda": {
+      "mgla": "częsta rano i późnym popołudniem latem",
+      "wiatr": "zawsze, często silny",
+      "temperatura_C": "10-20 (chłodniej niż w SF)",
+      "najlepsze_widoki": "wczesny poranek lub późne popołudnie"
+    }
+  },
+  
+  "porady_zwiedzajacych": {
+    "najlepszy_czas": {
+      "pora_roku": "wrzesień-listopad (mniej mgły)",
+      "pora_dnia": "wczesny poranek (mniej ludzi, lepsze światło)",
+      "zachod_slonca": "spektakularny, ale zatłoczony"
+    },
+    "insider_tips": [
+      "Rano często mniej mgły niż po południu",
+      "Przejdź most w jedną stronę, Uber/taxi z powrotem",
+      "Battery Spencer - najlepsze zdjęcia (przyjedź wcześnie)",
+      "Wypożycz rower na Fisherman's Wharf - przejazd przez most do Sausalito",
+      "Most zmienia kolor w zależności od światła - pomarańczowy, czerwony, różowy",
+      "Bezpłatny prom z Sausalito z powrotem do SF (z rowerem)",
+      "Wieczorem podświetlony - piękny z Crissy Field"
+    ],
+    "bledy_turystow": [
+      "Brak kurtki - zawsze wietrznie i chłodno",
+      "Próba zobaczenia mostu o południu latem - mgła",
+      "Przyjazd samochodem w weekend - brak parkingu",
+      "Niedocenianie dystansu - 2.7 km w jedną stronę",
+      "Zlekceważenie wiatru - może przewrócić"
+    ]
+  },
+  
+  "trasy_rowerowe": {
+    "sf_sausalito": {
+      "dlugosc_km": 13,
+      "trudnosc": "łatwa",
+      "czas_h": "1.5-2",
+      "atrakcje": "Golden Gate Bridge, Sausalito (urokliwe miasteczko)",
+      "powrot": "prom (z rowerem, $13)"
+    },
+    "sf_marin_headlands": {
+      "dlugosc_km": 20,
+      "trudnosc": "trudna (strome podjazdy)",
+      "czas_h": "3-4",
+      "atrakcje": "panorama, Point Bonita Lighthouse"
+    }
+  },
+  
+  "ciekawostki": [
+    "Malowany nieprzerwanie - ekipa malarzy 24/7/365",
+    "Zużywa 38,000 litrów farby rocznie",
+    "Liny nośne mogłyby okrążyć Ziemię 3 razy",
+    "Przejazd autem trwa 6 minut",
+    "Wieże poruszają się o 45cm przy silnym wietrze",
+    "Najbardziej fotografowany most na świecie",
+    "Pierwotnie miał być szaro-czarny - marynarze protestowali",
+    "Około 110,000 aut dziennie",
+    "Miejsce samobójstw - netto bezpieczeństwa instalowane",
+    "W 1987 roku most ugięło się o 3 metry od ciężaru ludzi"
+  ],
+  
+  "w_poblizu": {
+    "atrakcje": [
+      {
+        "nazwa": "Sausalito",
+        "odleglosc_km": 3,
+        "opis": "Urocze nadmorskie miasteczko",
+        "czas_wizyty_h": 2
+      },
+      {
+        "nazwa": "Muir Woods",
+        "odleglosc_km": 19,
+        "opis": "Las sekwoi",
+        "czas_wizyty_h": "2-3"
+      },
+      {
+        "nazwa": "Alcatraz",
+        "widoczny_z_mostu": true,
+        "polaczenie": "prom z SF"
+      }
+    ],
+    "restauracje_kawiarnie": [
+      {
+        "nazwa": "Warming Hut",
+        "lokalizacja": "Crissy Field",
+        "typ": "kawiarnia",
+        "widok": "na most"
+      },
+      {
+        "nazwa": "Round House Café",
+        "lokalizacja": "przy moście (strona SF)",
+        "typ": "kawiarnia, lunch"
+      }
+    ]
+  },
+  
+  "multimedia": {
+    "galeria_ids": ["GAL-MOS-SF-001"],
+    "oficjalna_strona": "https://www.goldengatebridge.org/",
+    "webcams": [
+      {
+        "nazwa": "Live view from toll plaza",
+        "url": "https://goldengatebridge.org/webcam/"
+      }
+    ],
+    "wirtualna_wycieczka": null
+  },
+  
+  "powiazania": {
+    "kraj_id": "KRAJ-US-001",
+    "miasto_id": "MIASTO-US-SF-001",
+    "kategoria": "most",
+    "pobliske_atrakcje_ids": [
+      "ATR-PAR-US-SF-001",
+      "ATR-WYS-US-ALC-001"
+    ]
+  },
+  
+  "metadata": {
+    "utworzono": "2025-01-15T10:00:00Z",
+    "zaktualizowano": "2025-01-15T10:00:00Z",
+    "wersja": "1.0",
+    "zrodla": ["goldengatebridge.org", "NPS"]
+  }
+}

@@ -1,0 +1,1865 @@
+{
+  "id": "BUD-ESP-001",
+  "ikona_font_awesome": "fa-church",
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Basílica i Temple Expiatori de la Sagrada Família",
+      "potoczna": "Sagrada Família",
+      "lokalna": "Sagrada Família",
+      "tłumaczenia": {
+        "polski": "Bazylika Świętej Rodziny",
+        "angielski": "Basilica of the Holy Family",
+        "niemiecki": "Basilika der Heiligen Familie",
+        "francuski": "Basilique de la Sainte Famille",
+        "włoski": "Basilica della Sacra Famiglia",
+        "rosyjski": "Храм Святого Семейства",
+        "kataloński": "Basílica de la Sagrada Família"
+      },
+      "nazwy_alternatywne": [
+        "La Sagrada Familia",
+        "Temple de la Sagrada Família",
+        "Templo Expiatorio"
+      ],
+      "skróty": [
+        "SF",
+        "SGF"
+      ],
+      "nazwa_historyczna": "Temple Expiatori de la Sagrada Família"
+    },
+    "typ_budynku": {
+      "kategoria_główna": "budynek sakralny",
+      "kategoria_drugorzędna": "bazylika",
+      "kategoria_trzecia": "katedra",
+      "podkategorie": [
+        "sanktuarium",
+        "miejsce pielgrzymkowe",
+        "atrakcja turystyczna",
+        "pomnik kultury"
+      ],
+      "funkcje": [
+        "miejsce kultu religijnego",
+        "obiekt dziedzictwa UNESCO",
+        "arcydzieło architektoniczne",
+        "muzeum",
+        "punkt widokowy"
+      ],
+      "klasyfikacja_UNESCO": "Dobro Światowe UNESCO",
+      "typologia_architektoniczna": "bazylika na planie krzyża łacińskiego"
+    },
+    "status": {
+      "obecny": "w budowie",
+      "czynnościowo_operacyjny": true,
+      "procent_ukończenia": 78,
+      "faza_budowy": "budowa wież centralnych i fasady Chwały",
+      "przewidywane_ukończenie": {
+        "rok_optymistyczny": 2026,
+        "rok_realistyczny": 2030,
+        "rok_pesymistyczny": 2035,
+        "niepewność": "zależy od finansowania i technologii"
+      },
+      "dostępność_publiczna": true,
+      "aktywne_wykorzystanie": true,
+      "status_konserwatorski": "pod ochroną konserwatora zabytków",
+      "wpis_do_rejestru": "Patrimonio de la Humanidad (UNESCO 2005)"
+    },
+    "certyfikaty_oznaczenia": {
+      "UNESCO": {
+        "status": "Obiekt Światowego Dziedzictwa",
+        "rok_wpisu": 2005,
+        "kryteria": [
+          "i",
+          "ii",
+          "iv"
+        ],
+        "numer_referencyjny": "320bis",
+        "zakres": "Dzieła Antoniego Gaudíego"
+      },
+      "inne_certyfikaty": [
+        {
+          "nazwa": "Bazylika mniejsza",
+          "instytucja": "Stolica Apostolska",
+          "rok_nadania": 2010
+        },
+        {
+          "nazwa": "Bien de Interés Cultural",
+          "instytucja": "Generalitat de Catalunya",
+          "rok_nadania": 1969
+        }
+      ]
+    }
+  },
+  "lokalizacja": {
+    "adres": {
+      "ulica": "Carrer de Mallorca",
+      "numer": "401",
+      "dzielnica": "Eixample",
+      "osiedle": "Sagrada Família",
+      "miasto": "Barcelona",
+      "prowincja": "Barcelona",
+      "region": "Katalonia",
+      "kraj": "Hiszpania",
+      "kod_kraju": "ES",
+      "kod_pocztowy": "08013",
+      "pełny_adres": "Carrer de Mallorca, 401, 08013 Barcelona, Hiszpania"
+    },
+    "współrzędne": {
+      "szerokość_geograficzna": 41.4036,
+      "długość_geograficzna": 2.1744,
+      "wysokość_n.p.m.": 24
+    },
+    "otoczenie": {
+      "gestość": "bardzo wysoka zabudowa miejska",
+      "typ_zabudowy": "mieszkalno-usługowa",
+      "dominująca_funkcja": "mieszkaniowa z intensywną funkcją turystyczną",
+      "odległość_od_morza": 4200,
+      "odległość_od_centrum": 2100,
+      "punkty_widokowe": [
+        {
+          "nazwa": "Wieża Fasady Narodzenia",
+          "wysokość": 55,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Montjuïc",
+            "Tibidabo",
+            "Morze Śródziemne",
+            "Barcelona"
+          ]
+        },
+        {
+          "nazwa": "Wieża Fasady Męki Pańskiej",
+          "wysokość": 75,
+          "zasięg_widoku": "270°",
+          "widoczne_obiekty": [
+            "Port Barcelona",
+            "Montjuïc",
+            "centrum"
+          ]
+        }
+      ]
+    }
+  },
+  "wymiary": {
+    "wysokość": {
+      "całkowita": 172.5,
+      "do_szczytu_dachu": 138,
+      "architektoniczna": 172.5,
+      "najwyższa_konstrukcja": "Wieża Jezusa Chrystusa (w budowie)",
+      "aktualna_maksymalna_wysokość": 138,
+      "planowana_maksymalna_wysokość": 172.5,
+      "podstawa_wysokość": 24,
+      "różnica_wysokości": 148.5,
+      "ranking_wysokości": {
+        "świat": 458,
+        "europa": 87,
+        "hiszpania": 12,
+        "barcelona": 3,
+        "budynki_sakralne": 15
+      },
+      "wysokości_poszczególnych_elementów": {
+        "wieże_Apostołów": "98.4-117m (różne wysokości)",
+        "wieże_Ewangelistów": "135m (planowane)",
+        "wieża_Marii": "138m (planowana)",
+        "wieża_Jezusa": "172.5m (planowana, z krzyżem)",
+        "krzyż_na_Wieży_Jezusa": 17,
+        "nawa_główna": 45,
+        "nawy_boczne": 30,
+        "kopuły_absydy": 25
+      },
+      "symbolika_wysokości": "172.5m - 1 metr niżej niż wzgórze Montjuïc (Boże dzieło wyżej niż ludzkie)"
+    },
+    "długość": {
+      "zewnętrzna": 90,
+      "wewnętrzna": 85,
+      "nawa": 75,
+      "transept": 60,
+      "absyda": 35,
+      "krużganki": 250,
+      "fasada_Narodzenia": 55,
+      "fasada_Męki": 55,
+      "fasada_Chwały": 65
+    },
+    "szerokość": {
+      "zewnętrzna": 60,
+      "wewnętrzna": 55,
+      "nawa_główna": 15,
+      "nawy_boczne": 7.5,
+      "transept": 60,
+      "szerokość_fasad": 60,
+      "absyda": 30
+    },
+    "powierzchnia": {
+      "całkowita": 4500,
+      "obrys": 4500,
+      "powierzchnia_użytkowa": 8200,
+      "przestrzeń_sakralna": 3500,
+      "przestrzeń_komunikacyjna": 1200,
+      "strefy_publiczne": 2800,
+      "strefy_techniczne": 1700,
+      "muzeum": 800,
+      "sklep": 350,
+      "administracja": 550,
+      "krypta": 600,
+      "chóry": 180,
+      "działka": 12800,
+      "place_wokół": 8300,
+      "szczegółowe_powierzchnie": {
+        "nawa_główna": 1125,
+        "nawy_boczne": 900,
+        "transept": 900,
+        "absyda": 575,
+        "kaplice": 420,
+        "zakrystia": 280,
+        "krużganki": 650,
+        "schody_i_korytarze": 1200
+      }
+    },
+    "objętość": {
+      "całkowita": 85000,
+      "zamknięta": 78000,
+      "wewnętrzna": 72000,
+      "ogrzewana": 68000,
+      "powietrza": 70000
+    },
+    "kondygnacje": {
+      "nadziemne": 5,
+      "podziemne": 2,
+      "razem": 7,
+      "użytkowe": 6,
+      "techniczne": 1,
+      "szczegóły": [
+        {
+          "poziom": -2,
+          "nazwa": "fundament i podziemia techniczne",
+          "wysokość": 3
+        },
+        {
+          "poziom": -1,
+          "nazwa": "krypta",
+          "wysokość": 5
+        },
+        {
+          "poziom": 0,
+          "nazwa": "nawa główna",
+          "wysokość": 45
+        },
+        {
+          "poziom": 1,
+          "nazwa": "galerie i chóry",
+          "wysokość": 8
+        },
+        {
+          "poziom": 2,
+          "nazwa": "dolny poziom wież",
+          "wysokość": 12
+        },
+        {
+          "poziom": 3,
+          "nazwa": "środkowy poziom wież",
+          "wysokość": 15
+        },
+        {
+          "poziom": 4,
+          "nazwa": "górny poziom wież + platformy widokowe",
+          "wysokość": 20
+        }
+      ]
+    },
+    "inne_wymiary": {
+      "liczba_wież": {
+        "ukończone": 8,
+        "w_budowie": 4,
+        "planowane": 18,
+        "razem": 18,
+        "szczegóły": "12 apostołów + 4 ewangelistów + Maria + Jezus"
+      },
+      "liczba_fasad": 3,
+      "liczba_portali": 12,
+      "liczba_kolumn": {
+        "nawa_główna": 36,
+        "absyda": 12,
+        "krużganki": 48,
+        "razem": 96
+      },
+      "liczba_okien": 287,
+      "liczba_witraży": 215,
+      "liczba_schodów": 564,
+      "liczba_kaplic": 12,
+      "liczba_ołtarzy": 15,
+      "średnice_kolumn": "0.9-2.1m",
+      "grubość_ścian": "0.8-1.5m"
+    }
+  },
+  "architektura": {
+    "styl_architektoniczny": {
+      "główny": "modernizm kataloński",
+      "drugorzędny": "secesja",
+      "wpływy": [
+        "neogotyk",
+        "architektura organiczna",
+        "naturalizm",
+        "symbolizm",
+        "art nouveau"
+      ],
+      "ruchy_artystyczne": [
+        "modernisme",
+        "ekspresjonizm",
+        "biomorfizm"
+      ],
+      "cechy": [
+        "biomimikra - naśladowanie form przyrody",
+        "struktury hiperboloidalne",
+        "powierzchnie prostokreślne",
+        "formy organiczne",
+        "geometria naturalna",
+        "symbolika religijna",
+        "światło jako materiał budowlany",
+        "kolorystyka naturalistyczna"
+      ],
+      "innowacje": [
+        "kolumny rozgałęziające się jak drzewa",
+        "sklepienia hiperboloidalne",
+        "wykorzystanie geometrii przestrzeni prostokreślnych",
+        "naturalne oświetlenie przez witraże z gradientem kolorów",
+        "akustyka oparta na kształcie wnętrza"
+      ],
+      "okres_architektoniczny": "koniec XIX - początek XXI wieku",
+      "nurty_architektoniczne": "modernizm organiczny, architektura sakralna współczesna"
+    },
+    "architekci": {
+      "architekt_główny": {
+        "imię_i_nazwisko": "Antoni Gaudí i Cornet",
+        "lata_życia": "1852-1926",
+        "narodowość": "hiszpańska (katalońska)",
+        "rola": "architekt naczelny",
+        "okres": "1883-1926",
+        "wkład": "projekt całości, fasada Narodzenia, krypta, absyda, система kolumn, ogólna koncepcja",
+        "wykształcenie": "Escola Tècnica Superior d'Arquitectura de Barcelona",
+        "nagrody": [
+          "uznanie pośmiertne",
+          "beatyfikacja w toku"
+        ],
+        "inne_ważne_realizacje": [
+          "Park Güell",
+          "Casa Batlló",
+          "Casa Milà",
+          "Palau Güell"
+        ],
+        "filozofia_architektoniczna": "Architektura jest uporządkowaniem światła; rzeźba jest grą światła",
+        "metoda_pracy": "modele przestrzenne, eksperymenty z formą, praca bezpośrednio na placu budowy",
+        "śmierć": "potrącony przez tramwaj, 10 czerwca 1926, pochowany w krypcie Sagrada Família"
+      },
+      "architekt_początkowy": [
+        {
+          "imię_i_nazwisko": "Francisco de Paula del Villar y Lozano",
+          "rola": "pierwszy architekt",
+          "okres": "1882-1883",
+          "wkład": "projekt początkowy w stylu neogotyckim, fundamenty krypty",
+          "przyczyna_odejścia": "konflikt z fundatorem i komisją budowy"
+        }
+      ],
+      "następcy": [
+        {
+          "imię_i_nazwisko": "Domènec Sugrañes i Gras",
+          "okres": "1926-1938",
+          "wkład": "kontynuacja planów Gaudíego, dokończenie wież fasady Narodzenia"
+        },
+        {
+          "imię_i_nazwisko": "Francesc de Paula Quintana i Vidal",
+          "okres": "1939-1966",
+          "wkład": "odbudowa po wojnie domowej, kontynuacja prac"
+        },
+        {
+          "imię_i_nazwisko": "Isidre Puig i Boada",
+          "okres": "1966-1974",
+          "wkład": "prace nad fasadą Męki Pańskiej"
+        },
+        {
+          "imię_i_nazwisko": "Lluís Bonet i Garí",
+          "okres": "1974-1985",
+          "wkład": "dalsza kontynuacja fasady Męki"
+        },
+        {
+          "imię_i_nazwisko": "Jordi Bonet i Armengol",
+          "okres": "1985-2012",
+          "wkład": "modernizacja technik budowlanych, kompletowanie dokumentacji",
+          "relacja": "syn Lluísa Boneta"
+        },
+        {
+          "imię_i_nazwisko": "Jordi Faulí i Oller",
+          "okres": "2012-obecnie",
+          "wkład": "obecny architekt naczelny, faza finalizacji, budowa wież centralnych",
+          "metody": "wykorzystanie technologii CAD, druk 3D, zaawansowane obliczenia strukturalne"
+        }
+      ],
+      "współpracownicy": [
+        {
+          "imię_i_nazwisko": "Josep Maria Jujol",
+          "rola": "rzeźbiarz i pomocnik architekta",
+          "okres": "1906-1926",
+          "wkład": "detale ornamentacyjne, mozaiki"
+        },
+        {
+          "imię_i_nazwisko": "Joan Rubió i Bellver",
+          "rola": "asystent architekta",
+          "okres": "1893-1905",
+          "wkład": "rysunki techniczne, nadzór budowy"
+        },
+        {
+          "imię_i_nazwisko": "César Martinell",
+          "rola": "uczeń Gaudíego",
+          "okres": "1915-1926",
+          "wkład": "dokumentacja, pomiary"
+        },
+        {
+          "imię_i_nazwisko": "Francesc Berenguer",
+          "rola": "współpracownik",
+          "okres": "1883-1914",
+          "wkład": "projekt niektórych elementów"
+        }
+      ],
+      "rzeźbiarze_współcześni": [
+        {
+          "imię_i_nazwisko": "Josep Maria Subirachs",
+          "specjalność": "rzeźbiarz",
+          "okres": "1986-2014",
+          "dzieło": "rzeźby fasady Męki Pańskiej",
+          "styl": "modernistyczny, geometryczny, kontrowersyjny"
+        },
+        {
+          "imię_i_nazwisko": "Etsuro Sotoo",
+          "specjalność": "rzeźbiarz",
+          "narodowość": "japoński",
+          "okres": "1978-obecnie",
+          "dzieło": "rzeźby fasady Narodzenia, elementy dekoracyjne",
+          "filozofia": "studiowanie natury i filozofii Gaudíego"
+        }
+      ]
+    },
+    "koncepcja": {
+      "podstawy_koncepcyjne": "symbolika lasu, narracje biblijne, geometria naturalna, architektura jako synteza sztuk",
+      "filozofia_projektu": "Integracja natury, wiary i geometrii; każdy element ma znaczenie symboliczne; budowla jako Biblia w kamieniu",
+      "zasady_geometryczne": [
+        "paraboloida hiperboliczna",
+        "hiperboloida obrotowa",
+        "helikoida",
+        "łuki katenaryczne",
+        "powierzchnie prostokreślne",
+        "geometria fraktalna"
+      ],
+      "system_konstrukcyjny": "kolumny przypominające drzewa, podpory pochylone, powierzchnie geometryczne prostokreślne, konstrukcja samono samo",
+      "symetria": "asymetryczna z wyważoną kompozycją",
+      "proporcje": "oparte na formach naturalnych i geometrii świętej, ciąg Fibonacciego",
+      "orientacja": "liturgiczna orientacja wschód-zachód z symbolicznym wyrównaniem",
+      "symbolika_liczbowa": {
+        "12": "apostołowie, liczba wież apostolskich",
+        "4": "ewangeliści, punkty kardinalne",
+        "3": "Trójca Święta, trzy fasady",
+        "7": "dni stworzenia, kaplice absydy",
+        "1": "Bóg, wieża Jezusa jako centralne skupienie"
+      },
+      "filozofia_światła": "światło jako główny budulec przestrzeni, gradient barw symbolizujący drogę od narodzin do nieba",
+      "akustyka": "projektkoncert organic space dla muzyki chóralnej i organowej"
+    },
+    "fasady": {
+      "fasada_narodzenia": {
+        "orientacja": "północny-wschód",
+        "strony_świata_nazwa": "wschód - symbol narodzin i nowego życia",
+        "tematyka": "Narodzenie Jezusa Chrystusa",
+        "status": "ukończona",
+        "rok_ukończenia": 1930,
+        "architekt": "Antoni Gaudí",
+        "styl": "organiczny, naturalistyczny, obfitujący w detale",
+        "wieże": 4,
+        "dedykacja_wież": [
+          "św. Barnaba",
+          "św. Szymon",
+          "św. Juda Tadeusz",
+          "św. Maciej"
+        ],
+        "portale": [
+          {
+            "nazwa": "Portal Miłości (Caridad)",
+            "tematyka": "Rodzina Święta, Jezus, Maryja, Józef",
+            "centralny_symbol": "narodziny Jezusa"
+          },
+          {
+            "nazwa": "Portal Wiary (Fe)",
+            "tematyka": "Zwiastowanie, Nawiedzenie, Jezus w świątyni",
+            "położenie": "lewy"
+          },
+          {
+            "nazwa": "Portal Nadziei (Esperanza)",
+            "tematyka": "Ucieczka do Egiptu, rzeź niewiniątek, Józef",
+            "położenie": "prawy"
+          }
+        ],
+        "rzeźby": {
+          "liczba": "ponad 100 figur",
+          "charakterystyka": "naturalistyczne, pełne życia, inspirowane prawdziwymi modelami",
+          "tematy": [
+            "aniołowie",
+            "pasterze",
+            "Trzej Królowie",
+            "muzyczni aniołowie",
+            "zwierzęta",
+            "rośliny"
+          ],
+          "ciekawostki": "Gaudí używał odlewów gipsowych prawdziwych ludzi i zwierząt"
+        },
+        "materiały": [
+          "piaskowiec z Montjuïc",
+          "ceramika",
+          "szkło",
+          "mozaiki"
+        ],
+        "kolorystyka": "naturalne odcienie kamienia, akcenty kolorowe w mozaikach",
+        "symbolika": "radość narodzin, obfitość życia, nadzieja",
+        "dekoracje": [
+          "Drzewo Życia z gołębicami",
+          "Gwiazda Betlejemska",
+          "Kolumna żółwia (symbol trwałości)",
+          "Kolumna kameleona (symbol zmiany)"
+        ],
+        "innowacje_konstrukcyjne": "konsole przypominające gałęzie drzew"
+      },
+      "fasada_Męki_Pańskiej": {
+        "orientacja": "południowy-zachód",
+        "strony_świata_nazwa": "zachód - symbol śmierci i zachódzącego słońca",
+        "tematyka": "Męka, śmierć i ukrzyżowanie Chrystusa",
+        "status": "ukończona",
+        "rok_rozpoczęcia": 1954,
+        "rok_ukończenia": 1976,
+        "architekt": "projekt Gaudíego, realizacja Francesc Quintana i następcy",
+        "główny_rzeźbiarz": "Josep Maria Subirachs (1987-2005)",
+        "styl": "kanciasty, surowy, ascetyczny, modernistyczny, dramatyczny",
+        "wieże": 4,
+        "dedykacja_wież": [
+          "św. Jakub",
+          "św. Bartłomiej",
+          "św. Tomasz",
+          "św. Filip"
+        ],
+        "portale": [
+          {
+            "nazwa": "Portal Biczowania",
+            "tematyka": "biczowanie Chrystusa",
+            "położenie": "lewy"
+          },
+          {
+            "nazwa": "Portal Ukrzyżowania",
+            "tematyka": "ukrzyżowanie, centralna scena",
+            "położenie": "środkowy"
+          },
+          {
+            "nazwa": "Portal Zmartwychwstania",
+            "tematyka": "pogrzeb i zmartwychwstanie",
+            "położenie": "prawy"
+          }
+        ],
+        "rzeźby": {
+          "liczba": "około 60 głównych figur",
+          "charakterystyka": "kanciasty modernizm, dramatyzm, ekspresja bólu",
+          "tematy": [
+            "Ostatnia Wieczerza",
+            "Pocałunek Judasza",
+            "Piotr zapiera się Jezusa",
+            "Piłat myje ręce",
+            "Droga krzyżowa",
+            "Ukrzyżowanie",
+            "Złożenie do grobu",
+            "Zmartwychwstanie",
+            "Wniebowstąpienie"
+          ],
+          "styl": "geometryczny, oszczędny w detale, silne cienie",
+          "kontrowersje": "nowoczesny styl wywołał protesty purystów Gaudíego"
+        },
+        "materiały": [
+          "piaskowiec"
+        ],
+        "kolorystyka": "surowy kamień bez polichromii",
+        "symbolika": "cierpienie, ofiara, śmierć, odkupienie",
+        "elementy": [
+          {
+            "nazwa": "Kolumny kości",
+            "symbolika": "śmierć i zniszczenie"
+          },
+          {
+            "nazwa": "Kwadrat magiczny",
+            "suma": 33,
+            "symbolika": "wiek Chrystusa w momencie śmierci"
+          },
+          {
+            "nazwa": "Kryptogram",
+            "treść": "INRI w kodowanej formie"
+          },
+          {
+            "nazwa": "Brąkowa brama",
+            "wysokość": 15,
+            "materiał": "brąz",
+            "inskrypcje": "fragmenty Biblii w wielu językach"
+          }
+        ],
+        "ciekawostki": "Subirachs nie próbował naśladować stylu Gaudíego, tworząc własną kontrastującą wizję artystyczną"
+      },
+      "fasada_Chwały": {
+        "orientacja": "południowy-wschód",
+        "strony_świata_nazwa": "południe - symbol pełni światła i chwały",
+        "tematyka": "Chwała Jezusa, droga do Boga, Sąd Ostateczny",
+        "status": "w budowie",
+        "rok_rozpoczęcia": 2002,
+        "przewidywane_ukończenie": "2026-2030",
+        "architekt": "zespół pod kierunkiem Jordi Faulí, według szkiców Gaudíego",
+        "styl": "kontynuacja stylu Gaudíego z nowoczesnymi technikami",
+        "wieże": 4,
+        "dedykacja_wież": [
+          "św. Piotr",
+          "św. Paweł",
+          "św. Andrzej",
+          "św. Jakub Starszy"
+        ],
+        "portale": [
+          {
+            "nazwa": "Portal Wiary",
+            "tematyka": "cnoty teologiczne",
+            "status": "w planach"
+          },
+          {
+            "nazwa": "Portal Nadziei",
+            "tematyka": "modlitwa Ojcze Nasz",
+            "status": "w planach"
+          },
+          {
+            "nazwa": "Portal Miłości",
+            "tematyka": "przykazania",
+            "status": "w planach"
+          },
+          {
+            "nazwa": "Portal Sakramentów",
+            "tematyka": "siedem sakramentów",
+            "status": "w planach"
+          }
+        ],
+        "specjalne_elementy": [
+          "główne wejście do świątyni",
+          "największa i najbardziej monumentalna fasada",
+          "symboliczne wrota nieba",
+          "most nad ulicą Carrer de Mallorca"
+        ],
+        "wyzwania_urbanistyczne": {
+          "problem": "wymaga wyburzenia całego kwartału zabudowy miejskiej",
+          "status": "częściowo rozpoczęte wykupy nieruchomości",
+          "kontrowersje": "opór mieszkańców i debata publiczna",
+          "rozwiązania": "stopniowe wykupy, kompensaty, dialog społeczny"
+        },
+        "tematyka_rzeźbiarska": [
+          "Sąd Ostateczny",
+          "Niebo i Piekło",
+          "Siedem grzechów głównych",
+          "Siedem cnót",
+          "Wizja apokaliptyczna"
+        ],
+        "symbolika": "triumf, wieczność, wejście do królestwa niebieskiego, pełnia wiary",
+        "innowacje": "wykorzystanie najnowszych technologii CAD i BIM do realizacji szkiców Gaudíego",
+        "schody": {
+          "wielka_klatka": "monumentalne schody prowadzące do głównego wejścia",
+          "szerokość_planowana": 30,
+          "symbolika": "wstępowanie do nieba"
+        }
+      }
+    },
+    "wieże": {
+      "wieże_Apostołów": {
+        "liczba": 12,
+        "ukończone": 8,
+        "w_budowie": 4,
+        "wysokość": "98.4-117 metrów (różne)",
+        "dedykacje": [
+          {
+            "imię": "św. Barnaba",
+            "fasada": "Narodzenia",
+            "status": "ukończona",
+            "rok": 1925
+          },
+          {
+            "imię": "św. Szymon",
+            "fasada": "Narodzenia",
+            "status": "ukończona",
+            "rok": 1930
+          },
+          {
+            "imię": "św. Juda Tadeusz",
+            "fasada": "Narodzenia",
+            "status": "ukończona",
+            "rok": 1930
+          },
+          {
+            "imię": "św. Maciej",
+            "fasada": "Narodzenia",
+            "status": "ukończona",
+            "rok": 1935
+          },
+          {
+            "imię": "św. Jakub",
+            "fasada": "Męki",
+            "status": "ukończona",
+            "rok": 1977
+          },
+          {
+            "imię": "św. Bartłomiej",
+            "fasada": "Męki",
+            "status": "ukończona",
+            "rok": 1987
+          },
+          {
+            "imię": "św. Tomasz",
+            "fasada": "Męki",
+            "status": "ukończona",
+            "rok": 1992
+          },
+          {
+            "imię": "św. Filip",
+            "fasada": "Męki",
+            "status": "ukończona",
+            "rok": 1999
+          },
+          {
+            "imię": "św. Piotr",
+            "fasada": "Chwały",
+            "status": "w budowie",
+            "rok_planowany": 2026
+          },
+          {
+            "imię": "św. Paweł",
+            "fasada": "Chwały",
+            "status": "w budowie",
+            "rok_planowany": 2026
+          },
+          {
+            "imię": "św. Andrzej",
+            "fasada": "Chwały",
+            "status": "w budowie",
+            "rok_planowany": 2027
+          },
+          {
+            "imię": "św. Jakub Starszy",
+            "fasada": "Chwały",
+            "status": "w budowie",
+            "rok_planowany": 2027
+          }
+        ],
+        "symbolika": "12 apostołów głoszących Ewangelię",
+        "charakterystyka": "smukłe, zwieńczone mozaikową dekoracją, symbole apostolskie",
+        "dekoracje": "mozaiki weneckie z napisami 'Hosanna', 'Excelsis', 'Sanctus'",
+        "konstrukcja": "spiralne schody wewnętrzne, windy w niektórych",
+        "funkcja": "punkty widokowe, dzwonnice",
+        "dzwony": {
+          "typ": "tubularne dzwony harmoniczne",
+          "sterowanie": "komputerowe",
+          "liczba": 84
+        }
+      },
+      "wieże_Ewangelistów": {
+        "liczba": 4,
+        "ukończone": 0,
+        "planowana_wysokość": 135,
+        "lokalizacja": "wokół wieży Jezusa, nad transeptem",
+        "dedykacje": [
+          {
+            "imię": "św. Mateusz",
+            "symbol": "anioł - człowiek skrzydlaty",
+            "ewangelia": "człowieczeństwo Chrystusa",
+            "status": "w budowie",
+            "rok_planowany": 2025
+          },
+          {
+            "imię": "św. Marek",
+            "symbol": "lew",
+            "ewangelia": "królewskość Chrystusa",
+            "status": "w budowie",
+            "rok_planowany": 2025
+          },
+          {
+            "imię": "św. Łukasz",
+            "symbol": "wół (byk)",
+            "ewangelia": "ofiara Chrystusa",
+            "status": "planowana",
+            "rok_planowany": 2026
+          },
+          {
+            "imię": "św. Jan",
+            "symbol": "orzeł",
+            "ewangelia": "boskość Chrystusa",
+            "status": "planowana",
+            "rok_planowany": 2026
+          }
+        ],
+        "symbolika": "czterej ewangeliści autorzy Ewangelii",
+        "charakterystyka": "masywniejsze niż wieże apostołów, zwieńczone symbolami zwierzęcymi",
+        "konstrukcja": "nowoczesne techniki prefabrykacji",
+        "dekoracje": "rzeźby tetramorfów (cztery istoty żywe z wizji Ezechiela)",
+        "materiały": "kamień, beton, mozaiki"
+      },
+      "wieża_Marii": {
+        "liczba": 1,
+        "ukończona": false,
+        "planowana_wysokość": 138,
+        "lokalizacja": "nad absydą",
+        "dedykacja": "Najświętsza Maryja Panna, Matka Boża",
+        "symbolika": "Maryja jako Matka Kościoła i Królowa Nieba",
+        "zwieńczenie": {
+          "element": "Gwiazda",
+          "szczyt": "12-ramienna gwiazda",
+          "średnica": 7.5,
+          "materiał": "szkło i metal",
+          "podświetlenie": "LED",
+          "symbolika": "Stella Maris - Gwiazda Morza, 12 plemion Izraela, 12 apostołów"
+        },
+        "status": "w budowie",
+        "rok_planowany": 2024,
+        "charakterystyka": "smukła, elegancka, błękitna kolorystyka",
+        "funkcja": "symboliczne centrum maryjne budowli",
+        "innowacje": "najnowsze techniki konstrukcji wież"
+      },
+      "wieża_Jezusa": {
+        "liczba": 1,
+        "ukończona": false,
+        "planowana_wysokość": 172.5,
+        "wysokość_samej_wieży": 155.5,
+        "wysokość_krzyża": 17,
+        "lokalizacja": "centralna, nad skrzyżowaniem nawy głównej i transeptu",
+        "dedykacja": "Jezus Chrystus, Zbawiciel",
+        "symbolika": "Chrystus jako centrum stworzenia i zbawienia, najwyższy punkt",
+        "racjonalna_wysokość": "172.5m - dokładnie 1 metr niżej niż szczyt Montjuïc (180m), zgodnie z przekonaniem Gaudíego, że dzieło ludzkie nie może przewyższać dzieła Bożego (góry)",
+        "zwieńczenie": {
+          "element": "krzyż czterorożny",
+          "wysokość": 17,
+          "rozpiętość": 12,
+          "materiał": "ceramika i metal",
+          "podświetlenie": "intensywne oświetlenie LED",
+          "widoczność": "z całej Barcelony i okolic",
+          "symbolika": "krzyż odkupienia, światło świata"
+        },
+        "status": "intensywna budowa",
+        "rok_rozpoczęcia": 2022,
+        "rok_planowany": 2026,
+        "konstrukcja": "prefabrykowane elementy kamienne, stalowa struktura wewnętrzna",
+        "technologie": "druk 3D makiet, zaawansowane obliczenia strukturalne, BIM",
+        "charakterystyka": "masywna podstawa, zwężająca się ku górze",
+        "wnętrze": "kaplica Najświętszego Sakramentu na poziomie środkowym",
+        "funkcja": "duchowe i architektoniczne centrum całej budowli",
+        "ciekawostki": [
+          "będzie najwyższą wieżą kościelną na świecie",
+          "widoczna z odległości ponad 20 km",
+          "konstrukcja rozpoczęta 138 lat po śmierci Gaudíego"
+        ],
+        "wyzwania_techniczne": "przeniesienie ogromnych obciążeń na cztery główne kolumny",
+        "inwestycja": "najbardziej kosztowny element całej budowli"
+      }
+    },
+    "wnętrze": {
+      "nawa": {
+        "typ_rozplanowania": "bazylika o planie krzyża łacińskiego",
+        "nawy": 5,
+        "szerokość_nawy_głównej": 15,
+        "szerokość_naw_bocznych": 7.5,
+        "wysokość_nawy_głównej": 45,
+        "wysokość_naw_bocznych": 30,
+        "długość_nawy_głównej": 75,
+        "kolumny": {
+          "liczba_całkowita": 36,
+          "typy_kolumn": [
+            {
+              "materiał": "porfir",
+              "lokalizacja": "kolumny główne podtrzymujące wieżę Jezusa",
+              "liczba": 4,
+              "średnica": 2.1,
+              "wysokość": 45,
+              "symbolika": "cztery ewangeliści, najtrwalszy materiał"
+            },
+            {
+              "materiał": "bazalt",
+              "lokalizacja": "kolumny nawy głównej",
+              "liczba": 12,
+              "średnica": 1.8,
+              "wysokość": 40,
+              "symbolika": "12 apostołów"
+            },
+            {
+              "materiał": "granit",
+              "lokalizacja": "kolumny naw bocznych i chórów",
+              "liczba": 20,
+              "średnica": "1.2-1.5",
+              "wysokość": "25-35"
+            }
+          ],
+          "projekt": "kolumny rozgałęziające się jak drzewa, system dendryformiczny",
+          "wysokość_i_zmienne": "15-45 metrów w zależności od pozycji",
+          "geometria": "podwójnie skręcone helikoidy",
+          "pochylenie": "niektóre kolumny pochylone pod kątem dla optymalnego przeniesienia sił",
+          "funkcja": "przenoszenie obciążeń pionowych i poziomych",
+          "symbolika": "las kolumn reprezentujący raj, natura jako świątynia Boga",
+          "innowacja": "eliminacja przypór zewnętrznych dzięki pochyleniu kolumn"
+        },
+        "sklepienia": {
+          "typ": "sklepienia hiperboloidalne",
+          "wysokość": 45,
+          "projekt": "sklepienia gwiaździste z geometrycznymi perforacjami",
+          "kształt": "połączenie hiperboloidy, paraboloidy i helikoidy",
+          "funkcja_akustyczna": "zaprojektowane dla muzyki chóralnej",
+          "symbolika": "niebo gwiaździste, wszechświat",
+          "perforacje": "geometryczne otwory wpuszczające światło naturalne",
+          "materiały": "beton, kamień"
+        },
+        "oświetlenie": {
+          "światło_naturalne": {
+            "główne_źródło": "rozległe okna z geometrycznymi witrażami",
+            "szkło_kolorowe": "gradient od ciepłych do chłodnych tonów",
+            "orientacja": {
+              "wschód": "kolory ciepłe (czerwień, pomarańcz, żółć) - narodziny, poranek",
+              "zachód": "kolory chłodne (niebieski, zieleń, fiolet) - śmierć, wieczór"
+            },
+            "studnie_świetlne": "struktury hiperboloidalne przenoszące światło w głąb",
+            "symbolika": "boskie światło przenikające przez las natury",
+            "efekt": "kolorowe plamy światła przemieszczające się wraz z ruchem słońca",
+            "intencja": "stworzenie atmosfery kontemplacji i zachwytu"
+          },
+          "światło_sztuczne": {
+            "typ": "dyskretne LED",
+            "funkcja": "podkreślenie struktury po zmroku",
+            "sterowanie": "system inteligentny dostosowany do pór roku i uroczystości",
+            "kolorystyka": "możliwość zmiany kolorów dla specjalnych okazji"
+          },
+          "godziny_światła": "najpiękniejsze efekty świetlne przed południem i po południu"
+        },
+        "akustyka": {
+          "projekt_akustyczny": "naturalny kształt wnętrza tworzący doskonałą akustykę",
+          "czas_pobrzmiewania": "8-9 sekund",
+          "przeznaczenie": "muzyka chóralna, śpiew gregoriański, organy",
+          "ocena_akustyczna": "jedne z najlepszych parametrów akustycznych wśród kościołów na świecie"
+        },
+        "pojemność_osób": {
+          "miejsca_siedzące": 1500,
+          "miejsca_stojące": 7000,
+          "łączna_pojemność": 8500,
+          "wielkie_uroczystości": "do 9000 osób"
+        }
+      },
+      "absyda": {
+        "kształt": "półokrągła z promieniującymi kaplicami",
+        "kaplice": 7,
+        "dedykacje": [
+          "Matka Boża Bolesna",
+          "św. Józef",
+          "Święta Rodzina",
+          "Najświętszy Sakrament",
+          "Niepokalanego Poczęcia",
+          "Wniebowzięcia NMP",
+          "św. Józef Rzemieślnik"
+        ],
+        "styl": "neogotyk z modyfikacjami Gaudíego",
+        "witraże": "oryginalne projekty Gaudíego",
+        "kolumny": 12,
+        "wysokość": 25,
+        "polichromia": "subtelna kolorystyka",
+        "funkcja": "przestrzeń liturgiczna, adoracja, modlitwa indywidualna"
+      },
+      "krypta": {
+        "poziom": "podziemie",
+        "styl": "neogotyk",
+        "architekt": "Francisco de Paula del Villar, modyfikacje Antoni Gaudí",
+        "rok_budowy": "1882-1889",
+        "groby": [
+          {
+            "osoba": "Antoni Gaudí",
+            "data_śmierci": "1926-06-10",
+            "data_złożenia": "1926-06-12",
+            "lokalizacja": "kaplica Matki Boskiej del Carmen",
+            "pomnik": "płyta z inskrypcją",
+            "status": "miejsce pielgrzymkowe"
+          },
+          {
+            "osoba": "Josep Maria Bocabella",
+            "rola": "fundator świątyni",
+            "data_śmierci": "1892"
+          }
+        ],
+        "kaplice": 5,
+        "ołtarze": 7,
+        "dostęp": "publiczny w określonych godzinach",
+        "msze": "codziennie rano",
+        "funkcja": "przestrzeń liturgiczna, miejsce pochówku, muzeum",
+        "ekspozycja": "maquetes projektowe Gaudíego",
+        "wymiary": {
+          "powierzchnia": 600,
+          "wysokość": 5,
+          "długość": 60,
+          "szerokość": 30
+        }
+      },
+      "ołtarz_główny": {
+        "typ": "ołtarz centralny podwyższony",
+        "baldachim": "wiszący krucyfiks",
+        "projekt": "współczesny, zgodny z zasadami Gaudíego",
+        "materiał": "kamień, brąz",
+        "konsekracja": "7 listopada 2010 przez papieża Benedykta XVI",
+        "wysokość": 3,
+        "symbolika": "centrum liturgii, ofiara Chrystusa",
+        "umiejscowienie": "skrzyżowanie nawy głównej i transeptu pod wieżą Jezusa",
+        "otoczenie": "cztery główne kolumny porfirowe"
+      },
+      "chory": {
+        "lokalizacja": "nad głównym wejściem i w nawach bocznych",
+        "pojemność": 1300,
+        "liczba": 3,
+        "funkcja": "miejsca dla chóru i muzyków",
+        "organy": {
+          "liczba_instrumentów": 3,
+          "projekty": "planowane 5 instrumentów",
+          "głosy": "przewidywane 8000 piszczałek",
+          "rozmieszczenie": "w różnych częściach świątyni dla efektu surround",
+          "status": "w realizacji",
+          "organy_główne": {
+            "lokalizacja": "chór główny nad wejściem fasady Chwały",
+            "głosy": 3000,
+            "status": "planowane"
+          }
+        }
+      },
+      "krużganki": {
+        "długość": 250,
+        "szerokość": 6,
+        "wysokość": 8,
+        "funkcja": "połączenie wszystkich fasad, procesje, izolacja akustyczna",
+        "projekt": "krużganki otaczające całą świątynię",
+        "status": "częściowo ukończone",
+        "charakterystyka": "nakryte sklepieniami, z dostępem do wszystkich portali",
+        "dekoracje": "rozety, motywy roślinne",
+        "symbolika": "medytacyjna droga wokół świątyni"
+      },
+      "zakrystia": {
+        "liczba": 2,
+        "powierzchnia": 140,
+        "funkcja": "przygotowania liturgiczne, przechowywanie szat i naczyń",
+        "wyposazenie": "szafy liturgiczne, umywalnie",
+        "dostęp": "dla duchowieństwa i służby liturgicznej"
+      },
+      "muzeum_podziemne": {
+        "poziom": "podziemie pod Fasadą Męki Pańskiej",
+        "powierzchnia": 800,
+        "funkcja": "muzeum poświęcone historii budowy i życiu Gaudíego",
+        "ekspozycje": [
+          "makiety projektowe Gaudiego",
+          "rysunki i szkice",
+          "modele strukturalne",
+          "fotografie historyczne",
+          "narzędzia budowlane",
+          "warsztat Gaudiego (rekonstrukcja)",
+          "prezentacje multimedialne"
+        ],
+        "dostęp": "wliczony w bilet wstępu",
+        "otwarcie": "1961",
+        "atrakcje": "modele eksperymentalne z łańcuchami (funiculars)",
+        "edukacja": "warsztaty dla dzieci i szkół"
+      },
+      "kaplica_Najświętszego_Sakramentu": {
+        "lokalizacja": "w ścianie nawy północnej",
+        "przeznaczenie": "adoracja Najświętszego Sakramentu",
+        "wystrój": "intymny, spokojny",
+        "pojemność": 80,
+        "dostęp": "dla wiernych w ciszy i skupieniu",
+        "oświetlenie": "przytłumione naturalne światło"
+      }
+    }
+  },
+  "budowa": {
+    "chronologia": {
+      "1866": "Założenie Duchowego Stowarzyszenia Wielbicieli Świętego Józefa",
+      "1874": "Rozpoczęcie kampanii na rzecz budowy świątyni ekspiacyjnej",
+      "1881": "Zakup działki pod budowę kościoła",
+      "1882": "Wmurowanie kamienia węgielnego 19 marca, rozpoczęcie budowy",
+      "1883": "Mianowanie Antonio Gaudiego głównym architektem",
+      "1889": "Ukończenie krypty pod ołtarzem głównym",
+      "1891": "Rozpoczęcie prac przy Fasadzie Narodzenia",
+      "1892": "Położenie fundamentów pod Fasadę Narodzenia",
+      "1914": "Gaudi poświęca się wyłącznie budowie świątyni",
+      "1926": "Śmierć Antonio Gaudiego 10 czerwca",
+      "1930": "Ukończenie Fasady Narodzenia",
+      "1936": "Spalenie warsztatów i zniszczenie dokumentacji podczas wojny domowej",
+      "1939": "Rekonstrukcja projektu przez Francesc de Paula Quintana",
+      "1952": "Wznowienie prac budowlanych",
+      "1961": "Utworzenie muzeum Sagrada Familia",
+      "1978": "Rozpoczęcie budowy fasad naw bocznych",
+      "1998": "Zbudowanie nawy środkowej",
+      "2000": "Zamknięcie sklepienia transeptu",
+      "2005": "Wpis Fasady Narodzenia i krypty na listę UNESCO",
+      "2010": "Konsekracja bazyliki przez papieża Benedykta XVI",
+      "2016": "Rozpoczęcie budowy wież Jezusa, Marii i Ewangelistów",
+      "2021": "Ukończenie wieży św. Marii 8 grudnia",
+      "2026-2030": "Przewidywane ukończenie budowy świątyni"
+    },
+    "fazy_szczegółowe": [
+      {
+        "faza": "Faza 1 - Villar",
+        "okres": "1882-1883",
+        "osiągnięcia": "fundamenty krypty w stylu neogotyckim",
+        "architekt": "Francisco de Paula del Villar"
+      },
+      {
+        "faza": "Faza 2 - Początek Gaudíego",
+        "okres": "1883-1900",
+        "osiagnięcia": "przekształcenie projektu, absyda, krypta, modyfikacja koncepcji",
+        "architekt": "Antoni Gaudí"
+      },
+      {
+        "faza": "Faza 3 - Fasada Narodzenia",
+        "okres": "1900-1926",
+        "osiagnięcia": "budowa fasady Narodzenia, projekt całości, modele",
+        "architekt": "Antoni Gaudí"
+      },
+      {
+        "faza": "Faza 4 - Po śmierci Gaudíego",
+        "okres": "1926-1936",
+        "osiagnięcia": "kontynuacja wież Fasady Narodzenia",
+        "architekt": "Domènec Sugrañes"
+      },
+      {
+        "faza": "Faza 5 - Wojna domowa",
+        "okres": "1936-1939",
+        "osiagnięcia": "zniszczenie warsztatów, spalenie dokumentacji, przerwanie budowy",
+        "straty": "utracone modele, rysunki, narzędzia"
+      },
+      {
+        "faza": "Faza 6 - Rekonstrukcja powojenna",
+        "okres": "1940-1976",
+        "osiagnięcia": "rekonstrukcja modeli, rozpoczęcie Fasady Męki",
+        "architekt": "Francesc Quintana, Isidre Puig Boada"
+      },
+      {
+        "faza": "Faza 7 - Modernizacja",
+        "okres": "1976-2000",
+        "osiagnięcia": "ukończenie wież Fasady Męki, rzeźby Subirachsa, modernizacja technik",
+        "architekt": "Lluís Bonet i Garí, Jordi Bonet"
+      },
+      {
+        "faza": "Faza 8 - Wnętrze",
+        "okres": "2000-2010",
+        "osiagnięcia": "budowa nawy głównej, sklepień, kolumn, konsekracja",
+        "architekt": "Jordi Bonet i Armengol"
+      },
+      {
+        "faza": "Faza 9 - Wieże centralne",
+        "okres": "2010-obecnie",
+        "osiagnięcia": "wieże ewangelistów, wieża Marii, wieża Jezusa, Fasada Chwały",
+        "architekt": "Jordi Faulí i Oller"
+      }
+    ],
+    "finansowanie": {
+      "główne_źródło": "darowizny prywatne i wpływy z biletów",
+      "budżet_roczny": "około 25-30 mln euro",
+      "dotacje_państwowe": "minimalne",
+      "datki": "fundacja Junta Constructora del Templo",
+      "bilet_wstępu": "główne źródło finansowania od lat 90.",
+      "cena_wstępu": "26-33 euro (zależnie od opcji)",
+      "liczba_turystów_rocznie": "około 4.5-5 mln",
+      "dochód_rczny_z_turystyki": "około 90-100 mln euro",
+      "historia_finansowania": "od początku budowa finansowana wyłącznie z darowizn",
+      "filozofia_finansowa": "Świątynia Ekspiacyjna - budowana jako akt pokuty i darowizn"
+    },
+    "technologie": {
+      "historyczne": [
+        "modele gipsowe",
+        "eksperymenty z łańcuchami (funicolare) - wizualizacja sił",
+        "odlewy gipsowe z natury",
+        "rysunki perspektywiczne",
+        "makiety w skali 1:10 i 1:25"
+      ],
+      "współczesne": [
+        "CAD - projektowanie wspomagane komputerowo",
+        "BIM - Building Information Modeling",
+        "druk 3D - makiety i elementy testowe",
+        "fotogrametria - skanowanie 3D istniejących elementów",
+        "symulacje strukturalne - MES (Metoda Elementów Skończonych)",
+        "laserowe cięcie kamienia CNC",
+        "prefabrykacja elementów kamiennych",
+        "drony - monitoring budowy",
+        "rzeczywistość rozszerzona - wizualizacja projektu"
+      ],
+      "innowacje_konstrukcyjne": [
+        "powierzchnie prostokreślne - łatwiejsze w realizacji",
+        "kolumny dendryformiczne - optymalne przeniesienie sił",
+        "eliminacja przypór zewnętrznych",
+        "struktury samonośne",
+        "modularna prefabrykacja",
+        "żelbetowe elementy ze specjalnego betonu wysokowartościowego"
+      ],
+      "przełomy": [
+        {
+          "rok": 1990,
+          "innowacja": "komputerowa analiza szkiców Gaudíego",
+          "znaczenie": "umożliwiła kontynuację budowy bez pełnej dokumentacji"
+        },
+        {
+          "rok": 2001,
+          "innowacja": "fotogrametria i skanowanie 3D pozostałych modeli",
+          "znaczenie": "cyfrowa rekonstrukcja zniszczonych projektów"
+        },
+        {
+          "rok": 2010,
+          "innowacja": "BIM - cyfrowy model całej budowli",
+          "znaczenie": "koordynacja wszystkich prac budowlanych"
+        },
+        {
+          "rok": 2020,
+          "innowacja": "prefabrykacja kamiennych elementów wież w pełni zautomatyzowana",
+          "znaczenie": "przyspieszenie budowy wież centralnych"
+        }
+      ]
+    },
+    "materiały": {
+      "kamień": {
+        "piaskowiec_Montjuic": {
+          "źródło": "kamieniołom Montjuïc, Barcelona",
+          "zastosowanie": "fasada Narodzenia, niektóre rzeźby",
+          "charakterystyka": "miękki, łatwy w obróbce, ciepły odcień",
+          "ilość": "około 15000 ton",
+          "status": "kamieniołom wyczerpany - używany materiał z rozbiórki innych budynków"
+        },
+        "porfir": {
+          "źródło": "Iran",
+          "zastosowanie": "cztery główne kolumny podtrzymujące wieżę Jezusa",
+          "charakterystyka": "bardzo twardy, ciemny, trwały",
+          "symbolika": "trwałość fundamentów wiary"
+        },
+        "bazalt": {
+          "źródło": "kamieniołomy katalońskie",
+          "zastosowanie": "kolumny nawy głównej",
+          "charakterystyka": "twardy, ciemnoszary",
+          "ilość": "około 800 ton"
+        },
+        "granit": {
+          "źródło": "Galicja, północna Hiszpania",
+          "zastosowanie": "kolumny naw bocznych, elementy konstrukcyjne",
+          "charakterystyka": "bardzo twardy, jasny odcień",
+          "ilość": "około 5000 ton"
+        },
+        "marmur_karraryjski": {
+          "źródło": "Włochy",
+          "zastosowanie": "rzeźby, ołtarz",
+          "charakterystyka": "biały, szlachetny"
+        }
+      },
+      "beton": {
+        "typ": "żelbet wysokowartościowy",
+        "zastosowanie": "sklepienia, elementy konstrukcyjne",
+        "wytrzymałość_na_ściskanie": "60-80 MPa",
+        "ilość": "około 35000 m³",
+        "specjalne_właściwości": "odporność na wilgoć i korozję w klimacie śródziemnomorskim"
+      },
+      "szkło": {
+        "witraże_kolorowe": {
+          "typ": "szkło artystyczne katolickie",
+          "producent": "Joan Vila-Grau (główny współczesny artysta witraży)",
+          "powierzchnia": "około 3000 m²",
+          "kolory": "gradient od ciepłych (wschód) do chłodnych (zachód)",
+          "technologia": "tradycyjne techniki witrażownicze + LED",
+          "liczba": 215
+        },
+        "szkło_przezroczyste": {
+          "typ": "szkło bezpieczne laminowane",
+          "zastosowanie": "okna bez witraży, przegrody",
+          "powierzchnia": "około 1200 m²"
+        }
+      },
+      "metal": {
+        "stal": {
+          "zastosowanie": "zbrojenia, konstrukcje wsporcze wież",
+          "typ": "stal nierdzewna, stal konstrukcyjna",
+          "ilość": "około 6000 ton"
+        },
+        "brąz": {
+          "zastosowanie": "drzwi, elementy dekoracyjne, krucyfiksy",
+          "ilość": "około 80 ton"
+        },
+        "żeliwo": {
+          "zastosowanie": "historyczne elementy dekoracyjne",
+          "charakterystyka": "elementy Gaudíego z początku XX wieku"
+        }
+      },
+      "ceramika": {
+        "mozaiki": {
+          "typ": "trencadís - mozaiki z połamanych płytek ceramicznych",
+          "zastosowanie": "dekoracje wież, elementy zewnętrzne",
+          "kolorystyka": "intensywne kolory - verde, azul, amarillo",
+          "powierzchnia": "około 4500 m²",
+          "technika": "tradycyjna katalońska"
+        },
+        "płytki": {
+          "zastosowanie": "pokrycia dachów, elementy dekoracyjne",
+          "typ": "ceramika katalońska"
+        }
+      },
+      "drewno": {
+        "typ": "dąb, sosna",
+        "zastosowanie": "ławki, drzwi, meble liturgiczne, rusztowania historyczne",
+        "obróbka": "naturalne oleje i woski",
+        "ilość": "minimalna - głównie elementy wnętrza"
+      },
+      "inne": {
+        "złoto": {
+          "zastosowanie": "płatki złota na elementach liturgicznych",
+          "ilość": "kilka kilogramów"
+        },
+        "LED": {
+          "zastosowanie": "oświetlenie, podświetlenie wież",
+          "liczba_elementów": "około 15000 punktów świetlnych"
+        }
+      }
+    },
+    "wyzwania_techniczne": {
+      "gruntowe": {
+        "problem": "słabe podłoże gruntowe",
+        "rozwiązanie": "głębokie fundamenty palowe"
+      },
+      "strukturalne": {
+        "problem": "przeniesienie ogromnych obciążeń z wieży Jezusa",
+        "rozwiązanie": "cztery masywne kolumny porfirowe, wzmocnienie fundamentów"
+      },
+      "dokumentacja": {
+        "problem": "spalenie większości planów i modeli w 1936 roku",
+        "rozwiązanie": "rekonstrukcja na podstawie zachowanych fotografii, szkiców i pamięci współpracowników"
+      },
+      "urbanistyczne": {
+        "problem": "budowa Fasady Chwały wymaga wyburzenia kwartału zabudowy",
+        "rozwiązanie": "stopniowy wykup nieruchomości, negocjacje z mieszkańcami"
+      },
+      "finansowe": {
+        "problem": "brak stałego finansowania państwowego",
+        "rozwiązanie": "model biznesowy oparty na turystyce i darowiznach"
+      },
+      "konserwatorskie": {
+        "problem": "kontynuacja wizji Gaudíego bez pełnej dokumentacji",
+        "rozwiązanie": "studiowanie filozofii i metod Gaudíego, konsultacje ze specjalistami"
+      },
+      "środowiskowe": {
+        "problem": "zanieczyszczenie powietrza i wilgoć niszczące kamień",
+        "rozwiązanie": "specjalne impregnaty, regularne czyszczenie, monitoring"
+      }
+    },
+    "zespół_budowlany": {
+      "zatrudnienie_stałe": "około 30-40 osób (architekci, inżynierowie, administratorzy)",
+      "zatrudnienie_kontraktowe": "około 200-300 osób (robotnicy budowlani, rzeźbiarze, rzemieślnicy)",
+      "specjaliści": [
+        "architekci",
+        "inżynierowie konstrukcyjni",
+        "kamieniarze",
+        "rzeźbiarze",
+        "witrażowcy",
+        "mozaiciści",
+        "stolarze",
+        "spawacze",
+        "operatorzy dźwigów",
+        "konserwatorzy zabytków"
+      ],
+      "współpraca_akademicka": [
+        "Universitat Politècnica de Catalunya",
+        "Barcelona Tech",
+        "instytuty badawcze architektury"
+      ],
+      "konsultanci": [
+        "eksperci geometrii",
+        "specjaliści od Gaudíego",
+        "historycy sztuki",
+        "liturgiści"
+      ]
+    }
+  },
+  "znaczenie_kulturowe": {
+    "status_UNESCO": {
+      "wpisanie": "2005",
+      "kategoria": "Dobro Światowego Dziedzictwa UNESCO",
+      "numer_referencyjny": "320bis",
+      "kryteria": [
+        "Kryterium (i): arcydzieło ludzkiego geniuszu twórczego",
+        "Kryterium (ii): istotny wpływ na rozwój architektury i sztuki",
+        "Kryterium (iv): wybitny przykład zespołu architektonicznego"
+      ],
+      "zakres": "Część wpisu 'Dzieła Antoniego Gaudíego'",
+      "uzasadnienie": "Wyjątkowe znaczenie dla rozwoju architektury modernistycznej i twórczego geniuszu Gaudíego"
+    },
+    "symbol_kulturowy": {
+      "Barcelona": "najważniejszy symbol miasta, ikona rozpoznawalna na całym świecie",
+      "Katalonia": "symbol tożsamości katalońskiej, dumy narodowej",
+      "Hiszpania": "jeden z najbardziej rozpoznawalnych budynków kraju",
+      "architektura": "ikona modernizmu i architektury organicznej",
+      "chrześcijaństwo": "symbol wiary katolickiej, nowatorskie podejście do architektury sakralnej"
+    },
+    "wpływ_na_sztukę": {
+      "architektura": "inspiracja dla pokoleń architektów zajmujących się formami organicznymi",
+      "rzeźba": "nowe podejście do rzeźby architektonicznej",
+      "witraże": "innowacyjne wykorzystanie światła i koloru",
+      "design": "wpływ na design organiczny i biomorficzny",
+      "urbanistyka": "przykład integracji obiektu z tkanką miejską"
+    },
+    "cytaty_o_budynku": [
+      {
+        "autor": "George Orwell",
+        "cytat": "Jeden z najbrzydszych budynków na świecie",
+        "kontekst": "1938, przed wizytą we wnętrzu",
+        "uwaga": "opinia kontrowersyjna i nieaktualna"
+      },
+      {
+        "autor": "Salvador Dalí",
+        "cytat": "Przerażająca i zjadliwa piękność",
+        "rok": 1952
+      },
+      {
+        "autor": "papież Benedykt XVI",
+        "cytat": "Kościół, który poprzez swoje piękno mówi o Bogu",
+        "rok": 2010,
+        "okazja": "konsekracja bazyliki"
+      },
+      {
+        "autor": "Le Corbusier",
+        "cytat": "Wspaniały przykład architektury plastycznej",
+        "rok": 1928
+      }
+    ],
+    "w_kulturze_popularnej": {
+      "filmy": [
+        "Vicky Cristina Barcelona (2008) - Woody Allen",
+        "Sagrada: The Mystery of Creation (2012) - dokumentalny",
+        "Gaudi's Sagrada Familia (2012) - BBC"
+      ],
+      "literatura": [
+        "Opisana w dziełach Carlosa Ruiza Zafóna",
+        "Wzmiankowana w przewodnikach i powieściach o Barcelonie"
+      ],
+      "muzyka": [
+        "Inspiracja dla kompozycji muzyki współczesnej",
+        "Miejsce koncertów muzyki sakralnej"
+      ],
+      "gry": [
+        "Assassin's Creed - jako element grywalnego środowiska",
+        "SimCity - dostępna jako unikalna budowla"
+      ],
+      "sztuki_wizualne": "niezliczone malowidła, fotografie, prace artystyczne inspirowane budowlą"
+    },
+    "nagrody_i_oznaczenia": [
+      {
+        "nazwa": "Dobro Światowego Dziedzictwa UNESCO",
+        "rok": 2005
+      },
+      {
+        "nazwa": "Bazylika mniejsza",
+        "nadawca": "Papież Benedykt XVI",
+        "rok": 2010
+      },
+      {
+        "nazwa": "Bien de Interés Cultural",
+        "nadawca": "Generalitat de Catalunya",
+        "rok": 1969
+      },
+      {
+        "nazwa": "100 najważniejszych miejsc na świecie według TIME",
+        "rok": 2019
+      }
+    ]
+  },
+  "funkcje": {
+    "religijne": {
+      "typ_świątyni": "bazylika mniejsza, kościół parafialny",
+      "przynależność": "Archidiecezja Barcelona",
+      "parafia": "Parafia Sagrada Família",
+      "liturgia": "rzymskokatolicka"
+    },
+    "turystyczne": {
+      "otwarcie_publiczne": "codziennie",
+      "godziny_otwarcia": {
+        "listopad-marzec": "09:00-18:00",
+        "kwiecień-wrzesień": "09:00-20:00",
+        "październik": "09:00-19:00"
+      },
+      "liczba_turystów": {
+        "rocznie": "4500000",
+        "dziennie": "15000-20000",
+        "szczyt": "lipiec-sierpień"
+      },
+      "ceny_biletów": {
+        "podstawowy": "26 EUR",
+        "z_audioprzewodnikiem": "33 EUR",
+        "z_wieżami": "36 EUR",
+        "z_przewodnikiem": "40 EUR",
+        "ulgowy": "od 24 EUR",
+        "dzieci": "poniżej 11 lat gratis"
+      },
+      "rezerwacje": "obowiązkowa rezerwacja online z wybraną godziną wejścia",
+      "audioprzewodnik": "dostępny w 16 językach",
+      "przewodnicy": "wycieczki z przewodnikiem w wielu językach",
+      "dostępność_językowa": [
+        "kataloński",
+        "hiszpański",
+        "angielski",
+        "francuski",
+        "niemiecki",
+        "włoski",
+        "portugalski",
+        "rosyjski",
+        "chiński",
+        "japoński",
+        "polski",
+        "koreański",
+        "niderlandzki",
+        "szwedzki",
+        "węgierski",
+        "turecki"
+      ],
+      "ograniczenia": {
+        "ubiór": "zakaz ubrań odsłaniających ramiona i kolana",
+        "fotografowanie": "dozwolone bez flesza i statywów",
+        "zachowanie": "cisza i szacunek jako miejsce kultu"
+      },
+      "sklepy": {
+        "liczba": 2,
+        "asortyment": "pamiątki, książki, repliki, gadżety",
+        "lokalizacja": "przy wejściach"
+      }
+    },
+    "edukacyjne": {
+      "muzeum": {
+        "lokalizacja": "podziemia",
+        "tematyka": "historia budowy, życie i twórczość Gaudíego, techniki budowlane",
+        "ekspozycje": "stałe i czasowe",
+        "warsztaty_Gaudiego": "rekonstrukcja warsztatu projektowego"
+      },
+      "programy_edukacyjne": [
+        "warsztaty dla dzieci i młodzieży",
+        "lekcje architektury",
+        "wykłady o Gaudím i modernizmie",
+        "programy dla szkół",
+        "kursy online"
+      ],
+      "badania_naukowe": {
+        "współpraca": "uniwersytety, instytuty badawcze",
+        "tematy": "geometria, statyka, historia sztuki, konserwacja",
+        "publikacje": "liczne publikacje naukowe o budowli"
+      },
+      "biblioteka": {
+        "dostęp": "dla badaczy i zainteresowanych (na umówienie)",
+        "zbiór": "dokumentacja historyczna, plany, książki o Gaudím"
+      }
+    },
+    "społeczne": {
+      "fundacja": "Fundació Privada Sagrada Família",
+      "działalność_charytatywna": "wsparcie dla potrzebujących",
+      "inicjatywy_społeczne": "programy integracji społecznej",
+      "wolontariat": "około 200 wolontariuszy",
+      "wydarzenia": [
+        "koncerty muzyki sakralnej",
+        "wystawy sztuki",
+        "konferencje",
+        "uroczystości religijne"
+      ]
+    }
+  },
+  "kontekst_historyczny": {
+    "geneza_projektu": {
+      "inicjator": "Josep Maria Bocabella i Verdaguer - księgarz, dewot",
+      "organizacja": "Asociación Espiritual de Devotos de San José (założona 1866)",
+      "inspiracja": "Święty Dom w Loreto (Włochy)",
+      "cel": "budowa świątyni ekspiacyjnej ku czci Świętej Rodziny",
+      "kontekst_społeczny": "reakcja na sekularyzację i industrializację XIX wieku",
+      "filozofia": "temple expiatori - świątynia pokutna finansowana wyłącznie z ofiar wiernych"
+    },
+    "epoka_powstania": {
+      "okres": "przełom XIX i XX wieku - rozkwit modernizmu katalońskiego",
+      "kontekst_polityczny": "Katalonia pod panowaniem hiszpańskim, ruchy niepodległościowe",
+      "kontekst_kulturowy": "Renaixença catalana - odrodzenie kultury katalońskiej",
+      "kontekst_artystyczny": "modernisme - kataloński odpowiednik secesji",
+      "sytuacja_ekonomiczna": "rozwój przemysłowy Barcelony, wzrost bogactwa burżuazji"
+    },
+    "ważne_wydarzenia_historyczne": {
+      "wojna_domowa_1936-1939": {
+        "wpływ": "przerwanie budowy, zniszczenie warsztatów i dokumentacji",
+        "straty": "spalenie modeli, planów, naruszenie krypty",
+        "reakcja": "ochrona budowli przez lokalnych mieszkańców",
+        "czas": "3 lata przerwy"
+      },
+      "okres_Franka_1939-1975": {
+        "wpływ": "utrudnienia, ograniczone finansowanie",
+        "kontynuacja": "powolne prace nad rekonstrukcją i Fasadą Męki",
+        "cenzura": "ograniczenia w używaniu języka katalońskiego"
+      },
+      "transformacja_demokratyczna": {
+        "1975+": "przyspieszenie prac, wzrost zainteresowania turystycznego",
+        "1992": "Igrzyska Olimpijskie w Barcelonie - wzrost rozpoznawalności",
+        "po 2000": "boom turystyczny, znaczny wzrost finansowania"
+      },
+      "konsekracja_2010": {
+        "data": "7 listopada 2010",
+        "konsekrator": "papież Benedykt XVI",
+        "znaczenie": "nadanie statusu bazyliki mniejszej",
+        "uczestnictwo": "około 8000 wiernych wewnątrz + tysiące na zewnątrz",
+        "transmisja": "transmisja telewizyjna na cały świat"
+      }
+    },
+    "kontekst_Gaudiego": {
+      "wiek_przyjęcia": 31,
+      "dedykacja": "ostatnie 15 lat życia poświęcił wyłącznie Sagrada Família",
+      "życie": "mieszkał na placu budowy pod koniec życia",
+      "filozofia": "'Mój klient nie spieszy się' - mówiąc o Bogu jako zleceniodawcy",
+      "śmierć": "potrącenie przez tramwaj, błądzenie po szpitalach jako niepoznany żebrak",
+      "pochówek": "krypta Sagrada Família - honorowy grób"
+    }
+  },
+  "szczegółowy_opis": {
+    "tekst_krótki": "Sagrada Família to monumentalna bazylika w Barcelonie, arcydzieło katalońskiego architekta Antoniego Gaudíego. Budowana od 1882 roku, nadal nie ukończona, stanowi syntezę architektury gotyckiej i form organicznych. Charakteryzuje się trzema fasadami symbolizującymi narodziny, mękę i zmartwychwstanie Chrystusa oraz planowanymi osiemnastoma wieżami. Wnętrze przypomina las z kolumnami stylizowanymi na drzewa. Obiekt UNESCO od 2005 roku.",
+    "tekst_długi": "Bazylika Sagrada Família w Barcelonie to monumentalne dzieło architektury sakralnej, będące najsłynniejszą realizacją katalońskiego architekta Antoniego Gaudíego i symbolem Barcelony rozpoznawalnym na całym świecie. Ta niezwykła świątynia, której budowa trwa nieprzerwanie od 1882 roku, stanowi unikalną syntezę architektury gotyckiej, modernizmu katalońskiego i organicznych form inspirowanych naturą.\n\nHistoria budowy rozpoczęła się w 1866 roku, kiedy Josep Maria Bocabella założył Stowarzyszenie Wielbicieli św. Józefa z zamiarem wzniesienia świątyni ekspiacyjnej. Pierwszy architekt, Francisco de Paula del Villar, rozpoczął budowę w stylu neogotyckim w 1882 roku, jednak już rok później zastąpił go młody Antoni Gaudí, mający wówczas zaledwie 31 lat. Gaudí radykalnie przekształcił projekt, poświęcając tej budowli ostatnie 43 lata swojego życia, z czego ostatnie 15 lat pracował wyłącznie nad Sagrada Família.\n\nArchitektoniczny koncept Gaudíego opiera się na przekonaniu, że architektura powinna być harmonijną syntezą natury i wiary. Każdy element budowli ma głębokie znaczenie symboliczne - świątynia jest pomyślana jako \"Biblia w kamieniu\", opowiadająca historię zbawienia. Gaudí zastosował innowacyjne rozwiązania konstrukcyjne oparte na geometrii powierzchni prostokreślnych (hiperboloidy, paraboloidy, helikoidy), które są jednocześnie piękne i strukturalnie efektywne.\n\nTrzy monumentalne fasady reprezentują różne etapy życia Chrystusa. Fasada Narodzenia (ukończona 1930), jedyna zrealizowana za życia Gaudíego, skierowana na wschód symbolizuje radość narodzin i obfitość życia. Jej naturalistyczny styl, z ponad setką rzeźbionych figur inspirowanych prawdziwymi modelami, przedstawia sceny z dzieciństwa Jezusa. Fasada Męki Pańskiej (1976-2005), zwrócona na zachód, kontrastuje surowym, kanciastym modernizmem rzeźb Josepa Marii Subirachsa, dramatycznie przedstawiając cierpienie i śmierć Chrystusa. Trzecia, monumentalna Fasada Chwały (w budowie), skierowana na południe, będzie głównym wejściem i będzie przedstawiać drogę do Boga oraz Sąd Ostateczny.\n\nSystem wież stanowi jeden z najbardziej spektakularnych elementów projektu. Planowanych jest osiemnaście wież: dwanaście dla apostołów (98-117m), cztery dla ewangelistów (135m), jedna dla Maryi (138m) i centralna dla Jezusa Chrystusa (172,5m). Ta ostatnia, obecnie w budowie, będzie najwyższą wieżą kościelną na świecie, ale zgodnie z filozofią Gaudíego, pozostanie metr niższa od naturalnego wzgórza Montjuïc - \"dzieło człowieka nie może przewyższać dzieła Boga\".\n\nWnętrze bazyliki to prawdziwe arcydzieło architektury organicznej. Kolumny, wykonane z porfiru, bazaltu i granitu, rozgałęziają się ku górze niczym drzewa, tworząc wrażenie lasu. System ten nie tylko estetycznie nawiązuje do natury, ale jest też genialnym rozwiązaniem konstrukcyjnym - pochylone kolumny optymalnie przenoszą obciążenia, eliminując potrzebę zewnętrznych przypór charakterystycznych dla gotyku. Sklepienia hiperboloidalne z geometrycznymi perforacjami wpuszczają naturalne światło, które filtrowane przez kolorowe witraże tworzy magiczną charakterystykę światłocienia. Witraże zaprojektowano według gradientu kolorystycznego - ciepłe czerwienie, pomarańcze i żółcienie po stronie wschódniej symbolizują narodziny i poranek, podczas gdy chłodne błękity, zielenie i fiolety na zachódzie reprezentują śmierć i wieczór.\n\nŚmierć Gaudíego w 1926 roku - tragicznie potrąconego przez tramwaj i nieznanego przez kilka dni błąkającego się po szpitalach jako żebrak - mogła zakończyć projekt. Dodatkowo w 1936 roku podczas hiszpańskiej wojny domowej anarchiści spalili warsztaty Gaudíego, niszcząc większość modeli, planów i dokumentacji. Jednak dzięki determinacji następców, zachowanym fotografiom i częściowej rekonstrukcji planów, budowa była kontynuowana. W drugiej połowie XX wieku, dzięki rozwojowi technologii komputerowych, możliwe stało się odtworzenie wizji Gaudíego na podstawie zachowanych fragmentów dokumentacji i zdjęć.\n\nWspółczesna faza budowy wykorzystuje najnowsze technologie - od modelowania BIM i CAD, przez druk 3D makiet, po laserowe cięcie kamienia i prefabrykację elementów. To połączenie wizji sprzed ponad wieku z XXI-wieczną technologią pozwoliło na spektakularne przyspieszenie prac. Konsekracja przez papieża Benedykta XVI w 2010 roku była kamieniem milowym - świątynia otrzymała status bazyliki mniejszej i stała się w pełni funkcjonującym kościołem parafialnym.\n\nSagrada Família jest unikatowa pod względem finansowania - jako świątynia ekspiacyjna od początku budowana jest wyłącznie z darowizn i ofiar wiernych, bez wsparcia państwa czy Kościoła instytucjonalnego. Współcześnie głównym źródłem finansowania są wpływy z turystyki - około 4,5-5 mln turystów rocznie odwiedzających bazylikę generuje ponad 90 mln euro przychodu, które w całości przeznaczane są na dalszą budowę.\n\nZnaczenie kulturowe Sagrada Família wykracza daleko poza architekturę sakralną. Wpisana na Listę Światowego Dziedzictwa UNESCO w 2005 roku jako część wpisu 'Dzieła Antoniego Gaudíego', jest symbolem Barcelony, Katalonii i całej Hiszpanii. Reprezentuje szczyt modernizmu katalońskiego (modernisme) i jest inspiracją dla pokoleń architektów na całym świecie. Jej wpływ widoczny jest w architekturze organicznej, biomorficznym designie i współczesnym podejściu do integracji natury z budownictwem.\n\nPlanowane ukończenie w okolicach 2026 roku - setnej rocznicy śmierci Gaudíego - będzie symbolicznym zamknięciem najbardziej ambitnego projektu architektonicznego w historii. Po 144 latach budowy Sagrada Família stanie się nie tylko najdłużej budowaną katedrą czasów nowożytnych, ale przede wszystkim żywym dowodem na to, że wielkie wizje mogą przetrwać wieki, wojny, kryzysy i zmiany społeczne, o ile są podtrzymywane przez wiarę, pasję i determinację kolejnych pokoleń.",
+    "opis_symboliczny": "Sagrada Família to kamienna modlitwa, hymn ku czci stworzenia wyrzeźbiony w przestrzeni Barcelony. Gaudí stworzył nie tylko świątynię, ale żywy organizm, który oddycha światłem, wzrasta jak drzewo i opowiada historię zbawienia w języku natury. Każda kolumna to pień drzewa w rajskim lesie, każde sklepienie to gałąź sięgająca nieba, każdy promień światła to boskie tchnienie przenikające materię. To miejsce, gdzie geometria staje się poezją, kamień przemienia się w życie, a architektura transcenduje swój materialny wymiar, stając się medium między ziemskim a niebiańskim. Dla Gaudíego była to nie budowla, ale modlitwa wyrażona w trzech wymiarach, testament wiary pozostawiony następnym pokoleniom.",
+    "ciekawostki": [
+      "Gaudí wiedział, że nie dożyje ukończenia budowy i powiedział: 'Mój klient (Bóg) nie spieszy się'",
+      "Po śmierci w 1926 roku Gaudí został pochowany w krypcie Sagrada Família - jednym z nielicznych miejsc pochówku w sakralnych budynkach Barcelony",
+      "Trwa proces beatyfikacyjny Antoniego Gaudíego - może zostać ogłoszony błogosławionym",
+      "W 1936 roku anarchiści planowali wysadzić świątynię, ale powstrzymali ich lokalni mieszkańcy",
+      "Gaudí używał zwierząt jako modeli - np. osioł pozował do rzeźby osła z ucieczki do Egiptu, a dla anioła muzycznego użył odlewu twarzy dziecka z zespołem Downa",
+      "Na Fasadzie Męki znajduje się 'magiczny kwadrat' - liczby w każdym rzędzie, kolumnie i przekątnej sumują się do 33 (wiek Chrystusa)",
+      "Budowa trwa już 142 lata - dłużej niż budowa piramid egipskich",
+      "Kiedy będzie ukończona, wieża Jezusa będzie widoczna z odległości ponad 20 km",
+      "Gaudí eksperymentował z modelami z łańcuchów zawieszonych do góry nogami - gdy odwrócił zdjęcie, uzyskał idealne kształty łuków",
+      "Świątynia jest całkowicie finansowana ze źródeł prywatnych - nigdy nie otrzymała dotacji państwowej",
+      "W świątyni zaprojektowano akustykę dla chóru liczącego 1500 osób",
+      "Kolumny mają różne kolory kamienia, co nie jest przypadkowe - symbolizują różne poziomy ważności w hierarchii duchowej",
+      "Fasada Chwały wymaga wyburzenia całego kwartału mieszkalnego - proces wykupu trwa od dekad",
+      "Gaudí pracował ostatnie 15 lat życia wyłącznie nad Sagrada Família, mieszkając na placu budowy",
+      "W 2020 roku po raz pierwszy od 1882 roku przerwano prace budowlane (pandemia COVID-19)",
+      "Japoński rzeźbiarz Etsuro Sotoo poświęcił ponad 40 lat życia pracy nad rzeźbami Sagrada Família",
+      "Pierwotnie zakładano ukończenie w 2026, ale realistyczne prognozy mówią o 2030-2035",
+      "Każdego roku Sagrada Família odwiedza więcej turystów niż mieszka stałych mieszkańców Barcelony",
+      "W krypcie oprócz Gaudíego pochowany jest fundator Josep Maria Bocabella",
+      "Świątynia ma własny chór 'Cor de la Sagrada Família' założony w 2003 roku"
+    ]
+  },
+  "dane_techniczne": {
+    "numer_UNESCO": "320bis",
+    "współrzędne": {
+      "WGS84": {
+        "lat": 41.4036,
+        "lon": 2.1744,
+        "alt": 24
+      },
+      "UTM": {
+        "strefa": "31T",
+        "easting": 431234,
+        "northing": 4582156
+      }
+    },
+    "status_prawny": {
+      "właściciel": "Fundació Privada Sagrada Família",
+      "typ_własności": "fundacja prywatna",
+      "przeznaczenie": "obiekt sakralny, użyteczności publicznej",
+      "ochrona_konserwatorska": "najwyższy stopień ochrony zabytków w Hiszpanii i UNESCO"
+    },
+    "ubezpieczenie": {
+      "typ": "kompleksowe ubezpieczenie zabytku",
+      "wartość_ubezpieczenia": "nieujawniana publicznie - miliardy euro",
+      "zakres": "szkody budowlane, OC, zabytek, dzieła sztuki"
+    },
+    "certyfikaty_budowlane": {
+      "pozwolenia_na_budowę": "odnawiane regularnie zgodnie z postępem prac",
+      "certyfikat_bezpieczeństwa": "coroczne przeglądy techniczne",
+      "certyfikat_pożarowy": "system przeciwpożarowy najwyższej klasy",
+      "dostępność": "certyfikat dostępności dla osób niepełnosprawnych"
+    },
+    "systemy_budynku": {
+      "ogrzewanie": {
+        "typ": "centralne ogrzewanie podłogowe + konwektory",
+        "źródło": "pompy ciepła + kotły gazowe (backup)",
+        "moc": "2500 kW",
+        "strefy": 15
+      },
+      "wentylacja": {
+        "typ": "mechaniczna z rekuperacją",
+        "wydajność": "45000 m³/h",
+        "filtry": "HEPA dla czystości powietrza"
+      },
+      "klimatyzacja": {
+        "typ": "centralna",
+        "moc": "1800 kW chłodzenia",
+        "strefy": 12
+      },
+      "woda": {
+        "dostawca": "Aigües de Barcelona",
+        "zbiorniki": "3 zbiorniki po 50 m³",
+        "zużycie_dzienne": "około 80 m³"
+      },
+      "kanalizacja": {
+        "typ": "grawitacyjna + przepompownie",
+        "separator": "separator tłuszczu i osadnika"
+      },
+      "elektryczność": {
+        "przyłącze": "główne + 2 rezerwowe",
+        "moc": "2.5 MW",
+        "napięcie": "400V / 230V",
+        "agregat": "awaryjny agregat prądotwórczy 500 kW",
+        "UPS": "dla systemów krytycznych",
+        "oświetlenie": "LED - około 15000 punktów świetlnych"
+      },
+      "fotowoltaika": {
+        "status": "planowana instalacja",
+        "moc": "do 500 kWp"
+      },
+      "przeciwpożarowy": {
+        "hydranty": 45,
+        "tryskacze": "system tryskaczowy w całym budynku",
+        "czujniki": "czujniki dymu i ciepła - ponad 500 sztuk",
+        "gaśnice": 120,
+        "drogi_ucieczki": 18,
+        "systemy_zarządzania": "centralny system monitoringu i alarmowania"
+      },
+      "bezpieczeństwo": {
+        "monitoring": "około 200 kamer CCTV",
+        "kontrola_dostępu": "elektroniczny system kontroli dostępu",
+        "alarm": "system alarmowy podłączony do straży i policji",
+        "ochrona": "całodobowa ochrona fizyczna - 12 pracowników"
+      },
+      "dzwony": {
+        "typ": "tubularne dzwony harmoniczne sterowane komputerowo",
+        "liczba": 84,
+        "system": "sterowanie MIDI",
+        "repertuar": "zaprogramowane kompozycje liturgiczne"
+      },
+      "akustyka": {
+        "system": "wspomagający system akustyczny dla dużych uroczystości",
+        "glośniki": "dyskretnie wmontowane - około 150 głośników",
+        "mikrofony": "bezprzewodowe dla liturgii"
+      },
+      "multimediа": {
+        "wyświetlacze": "ekrany informacyjne dla turystów",
+        "przewodniki": "system audioprzewodników w 16 językach",
+        "Wi-Fi": "darmowe Wi-Fi w strefach publicznych"
+      }
+    },
+    "zarządzanie_energią": {
+      "zużycie_roczne": "około 3.5 GWh elektryczności + 2.8 GWh ciepła",
+      "efektywność_energetyczna": "modernizacja w kierunku budynku zeroemisyjnego",
+      "OZE": "planowane solary na dachach",
+      "monitoring": "system BMS (Building Management System) do optymalizacji zużycia"
+    },
+    "gospodarka_odpadami": {
+      "segregacja": "pełna segregacja - 8 frakcji",
+      "recykling": "około 70% odpadów poddawanych recyklingowi",
+      "odpady_budowlane": "specjalne zarządzanie odpadami kamiennymi"
+    },
+    "dostawa": {
+      "platformy_dostaw": "platforma załadunkowa na poziomie -1",
+      "dźwigi": 8,
+      "udźwig": "maksymalnie 3 tony",
+      "windy_towarowe": 2
+    }
+  },
+  "kontakt": {
+    "adres_korespondencyjny": "Carrer de Mallorca, 401, 08013 Barcelona, España",
+    "telefon": "+34 932 08 04 14",
+    "e-mail": "info@sagradafamilia.org",
+    "e-mail_rezerwacje": "reserves@sagradafamilia.org",
+    "e-mail_grupy": "grups@sagradafamilia.org",
+    "fax": "+34 932 07 30 31",
+    "social_media": {
+      "facebook": "@sagradafamilia",
+      "instagram": "@sagradafamilia",
+      "twitter": "@sagradafamilia",
+      "youtube": "Sagrada Família",
+      "tiktok": "@sagradafamilia"
+    },
+    "biuro_prasowe": "premsa@sagradafamilia.org",
+    "dział_edukacyjny": "educacio@sagradafamilia.org",
+    "współpraca_akademicka": "research@sagradafamilia.org"
+  },
+ 
+  "porady_praktyczne": {
+    "co_zabrać": [
+      "wygodne obuwie",
+      "wodę (minimum 1L)",
+      "kapelusz i krem z filtrem",
+      "aparat/telefon z naładowaną baterią",
+      "gotówka na pamiątki"
+    ],
+    "czego_unikać": [
+      "pory południowej w lecie (najgorętsze)",
+      "weekendy w sezonie (tłumy)",
+      "wciskających sprzedawców selfie-sticków",
+      "nielegalnych przewodników"
+    ],
+    "insiderskie_tipy": [
+      "Kup bilety online z wyprzedzeniem - ominiesz kolejki",
+      "Przyjdź o otwarciu lub 2h przed zamknięciem",
+      "Roma Pass daje pierwszeństwo wejścia",
+      "Bezpłatne Wi-Fi w okolicy - hasło w punkcie info",
+      "Najlepsze zdjęcia z Wzgórza Palatyn o zachodzie"
+    ],
+    "błędy_turystów": [
+      "Przyjście bez rezerwacji w sezonie",
+      "Niedocenianie czasu zwiedzania",
+      "Brak wody i ochrony przed słońcem",
+      "Próba zobaczenia wszystkiego w 1h",
+      "Kupowanie pamiątek od ulicznych sprzedawców (droższe)"
+    ]
+  },
+  
+ 
+  "ciekawostki_praktyczne": [
+    "W podziemiach (hypogeum) temperatura jest o 5-8°C niższa - zabierz bluzę",
+    "Darmowe wejście w pierwszą niedzielę każdego miesiąca (długie kolejki!)",
+    "Młodzież do 18 lat (UE) ma wstęp bezpłatny",
+    "Audioguide dostępne w 10 językach - warto wynająć",
+    "Arena jest oświetlona nocą - piękne widoki z zewnątrz za darmo",
+    "W pobliżu są publiczne toalety - przy Via dei Fori Imperiali",
+    "Punkt pierwszej pomocy znajduje się przy wejściu głównym"
+  ],
+  
+  "FAQ": [
+    {
+      "pytanie": "Czy mogę wejść z plecakiem?",
+      "odpowiedź": "Tak, ale będzie sprawdzany. Duże plecaki (>40x35x15cm) mogą być zabronione."
+    },
+    {
+      "pytanie": "Czy jest klimatyzacja?",
+      "odpowiedź": "Nie, Koloseum jest otwarte, bez klimatyzacji. Latem bardzo gorąco."
+    },
+    {
+      "pytanie": "Czy można robić zdjęcia?",
+      "odpowiedź": "Tak, dozwolone bez flesza i statywów. Drony zabronione."
+    },
+    {
+      "pytanie": "Czy jest dostępne dla wózków?",
+      "odpowiedź": "Częściowo. Winda dostępna, ale nie wszystkie poziomy są osiągalne."
+    },
+    {
+      "pytanie": "Gdzie kupić bilety?",
+      "odpowiedź": "Online na coopculture.it (zalecane) lub na miejscu (długie kolejki)."
+    }
+  ],
+
+  "historia_w_pigułce": {
+    "krotki_opis": "Największy amfiteatr starożytnego świata, zbudowany przez dynastię Flawiuszy w latach 72-80 n.e. Miejsce walk gladiatorów i polowań na dzikie zwierzęta.",
+    "dlaczego_warto_zobaczyc": "Symbol Rzymu i jeden z najlepiej zachowanych zabytków starożytności. Arcydzieło inżynierii, które przetrwało 2000 lat.",
+    "najciekawsze_fakty": [
+      "Mogło pomieścić 50-80 tysięcy widzów",
+      "Wszystkich można było ewakuować w 5-10 minut",
+      "Pod areną był labirynt korytarzy i 28 wind",
+      "Arena była zalewana wodą do bitew morskich"
+    ]
+  },
+
+  "multimedia": {
+    "wirtualny_spacer_url": "https://example.com/virtual-tour",
+    "drone_video_url": "https://youtube.com/...",
+    "dokumenty_filmowe": [
+      {
+        "tytuł": "Engineering an Empire: Rome",
+        "url": "https://...",
+        "czas": "45 min"
+      }
+    ],
+    "podcast_odcinki": []
+  }
+}

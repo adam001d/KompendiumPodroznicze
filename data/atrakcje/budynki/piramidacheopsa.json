@@ -1,0 +1,1905 @@
+{
+  "id": "EGY-GIZ-001",
+  "ikona_font_awesome": "fa-monument",
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Piramida Chufu",
+      "potoczna": "Piramida Cheopsa",
+      "lokalna": "الهرم الأكبر",
+      "tłumaczenia": {
+        "polski": "Wielka Piramida w Gizie",
+        "angielski": "Great Pyramid of Giza",
+        "niemiecki": "Cheops-Pyramide",
+        "francuski": "Pyramide de Khéops",
+        "włoski": "Piramide di Cheope",
+        "rosyjski": "Пирамида Хеопса",
+        "arabski": "هرم خوفو"
+      },
+      "nazwy_alternatywne": [
+        "Wielka Piramida",
+        "Piramida Chufu",
+        "Horizon Chufu",
+        "Akhet Khufu"
+      ],
+      "skróty": [
+        "GP",
+        "WPG"
+      ],
+      "nazwa_historyczna": "Akhet Khufu (Horyzont Chufu)"
+    },
+    "typ_budynku": {
+      "kategoria_główna": "budowla grobowa",
+      "kategoria_drugorzędna": "piramida",
+      "kategoria_trzecia": "grobowiec królewski",
+      "podkategorie": [
+        "starożytny cud świata",
+        "kompleks pogrzebowy",
+        "atrakcja turystyczna",
+        "pomnik archeologiczny"
+      ],
+      "funkcje": [
+        "grobowiec faraona",
+        "obiekt dziedzictwa UNESCO",
+        "ostatni zachowany cud starożytnego świata",
+        "stanowisko archeologiczne",
+        "punkt widokowy"
+      ],
+      "klasyfikacja_UNESCO": "Dobro Światowe UNESCO",
+      "typologia_architektoniczna": "piramida prawdziwa o gładkich ścianach"
+    },
+    "status": {
+      "obecny": "ukończona",
+      "czynnościowo_operacyjny": false,
+      "procent_ukończenia": 100,
+      "faza_budowy": "zakończona ok. 2560 p.n.e.",
+      "przewidywane_ukończenie": {
+        "rok_optymistyczny": null,
+        "rok_realistyczny": null,
+        "rok_pesymistyczny": null,
+        "niepewność": "budowa zakończona około 4600 lat temu"
+      },
+      "dostępność_publiczna": true,
+      "aktywne_wykorzystanie": false,
+      "status_konserwatorski": "pod ochroną Egyptian Supreme Council of Antiquities",
+      "wpis_do_rejestru": "Memphis and its Necropolis (UNESCO 1979)"
+    },
+    "certyfikaty_oznaczenia": {
+      "UNESCO": {
+        "status": "Obiekt Światowego Dziedzictwa",
+        "rok_wpisu": 1979,
+        "kryteria": [
+          "i",
+          "iii",
+          "vi"
+        ],
+        "numer_referencyjny": "86",
+        "zakres": "Memphis i jego nekropolia - pola piramid od Giza do Dahshur"
+      },
+      "inne_certyfikaty": [
+        {
+          "nazwa": "Siedem Cudów Starożytnego Świata",
+          "instytucja": "Antypater z Sydonu",
+          "rok_nadania": "II wiek p.n.e."
+        },
+        {
+          "nazwa": "Egyptian Antiquities Register",
+          "instytucja": "Ministry of Tourism and Antiquities",
+          "rok_nadania": 1835
+        }
+      ]
+    }
+  },
+"lokalizacja": {
+    "adres": {
+      "ulica": null,
+      "numer": null,
+      "dzielnica": "Nekropolia Giza",
+      "osiedle": "Al Haram",
+      "miasto": "Giza",
+      "prowincja": "Giza",
+      "region": "Kair Wielki",
+      "kraj": "Egipt",
+      "kod_kraju": "EG",
+      "kod_pocztowy": null,
+      "pełny_adres": "Al Haram, Nazlet El-Semman, Al Giza Desert, Giza Governorate, Egipt"
+    },
+    "współrzędne": {
+      "szerokość_geograficzna": 29.9792,
+      "długość_geograficzna": 31.1342,
+      "wysokość_n.p.m.": 60
+    },
+    "otoczenie": {
+      "gestość": "niska zabudowa na granicy pustyni",
+      "typ_zabudowy": "archeologiczno-turystyczna",
+      "dominująca_funkcja": "archeologiczna z intensywną funkcją turystyczną",
+      "odległość_od_morza": 165000,
+      "odległość_od_centrum": 13000,
+      "punkty_widokowe": [
+        {
+          "nazwa": "Szczyt Piramidy Cheopsa",
+          "wysokość": 138.8,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Piramida Chefrena",
+            "Piramida Mykerinosa",
+            "Wielki Sfinks",
+            "Kair",
+            "Pustynia Zachodnia",
+            "Dolina Nilu"
+          ]
+        },
+        {
+          "nazwa": "Plateau widokowe Giza",
+          "wysokość": 60,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Kompleks trzech piramid",
+            "Sfinks",
+            "Kair",
+            "piramidy w Dahszur"
+          ]
+        }
+      ]
+    }
+  }
+,
+"wymiary": {
+    "wysokość": {
+      "całkowita": 146.6,
+      "do_szczytu_dachu": 146.6,
+      "architektoniczna": 146.6,
+      "najwyższa_konstrukcja": "Szczyt piramidy (piramidion)",
+      "aktualna_maksymalna_wysokość": 138.8,
+      "planowana_maksymalna_wysokość": 146.6,
+      "podstawa_wysokość": 60,
+      "różnica_wysokości": 86.6,
+      "ranking_wysokości": {
+        "świat": 1,
+        "afryka": 1,
+        "egipt": 1,
+        "giza": 1,
+        "budynki_starożytne": 1
+      },
+      "wysokości_poszczególnych_elementów": {
+        "piramidion_oryginalny": "9.6m (brak)",
+        "komorka_Króla": 43,
+        "wielka_galeria": 8.6,
+        "komorka_Królowej": 15,
+        "komora_podziemna": -30,
+        "wysokość_przy_wejściu": 17,
+        "nachylenie_ścian": "51°50'40\"",
+        "kąt_nachylenia_korytarzy_wstępujących": "26°26'46\"",
+        "kąt_nachylenia_korytarzy_zstępujących": "26°31'23\""
+      },
+      "symbolika_wysokości": "Wysokość reprezentuje doskonałość matematyczną i astronomiczną starożytnych Egipcjan"
+    },
+    "długość": {
+      "zewnętrzna": 230.4,
+      "wewnętrzna": null,
+      "podstawa_północna": 230.25,
+      "podstawa_południowa": 230.45,
+      "podstawa_wschodnia": 230.39,
+      "podstawa_zachodnia": 230.36,
+      "wielka_galeria": 46.68,
+      "korytarz_wstępujący": 39,
+      "korytarz_zstępujący": 105.15,
+      "korytarz_poziomy": 35.76,
+      "przekątna_podstawy": 325.8
+    },
+    "szerokość": {
+      "zewnętrzna": 230.4,
+      "wewnętrzna": null,
+      "komora_Króla_długość": 10.47,
+      "komora_Króla_szerokość": 5.23,
+      "komora_Królowej_długość": 5.76,
+      "komora_Królowej_szerokość": 5.23,
+      "wielka_galeria_szerokość": 2.09,
+      "korytarze_szerokość": 1.05
+    },
+    "powierzchnia": {
+      "całkowita": 53056,
+      "obrys": 53056,
+      "powierzchnia_użytkowa": 350,
+      "przestrzeń_sakralna": 180,
+      "przestrzeń_komunikacyjna": 120,
+      "strefy_publiczne": 250,
+      "strefy_techniczne": 100,
+      "muzeum": null,
+      "sklep": null,
+      "administracja": null,
+      "krypta": null,
+      "chóry": null,
+      "działka": 750000,
+      "place_wokół": 200000,
+      "szczegółowe_powierzchnie": {
+        "komora_Króla": 54.77,
+        "komora_Królowej": 30.07,
+        "wielka_galeria": 97.58,
+        "komora_podziemna": 192,
+        "korytarze_łącznie": 245,
+        "komnaty_odciążające": 82,
+        "szyby_wentylacyjne": 12
+      }
+    },
+    "objętość": {
+      "całkowita": 2583283,
+      "zamknięta": 2583000,
+      "wewnętrzna": 1200,
+      "ogrzewana": 0,
+      "powietrza": 1200
+    },
+    "kondygnacje": {
+      "nadziemne": 3,
+      "podziemne": 1,
+      "razem": 4,
+      "użytkowe": 3,
+      "techniczne": 1,
+      "szczegóły": [
+        {
+          "poziom": -1,
+          "nazwa": "komora podziemna",
+          "wysokość": 3.5
+        },
+        {
+          "poziom": 0,
+          "nazwa": "podstawa i wejście",
+          "wysokość": 17
+        },
+        {
+          "poziom": 1,
+          "nazwa": "komora Królowej i korytarze",
+          "wysokość": 20
+        },
+        {
+          "poziom": 2,
+          "nazwa": "wielka galeria i komora Króla",
+          "wysokość": 43
+        },
+        {
+          "poziom": 3,
+          "nazwa": "komnaty odciążające",
+          "wysokość": 12
+        }
+      ]
+    },
+    "inne_wymiary": {
+      "liczba_bloków_kamiennych": 2300000,
+      "średnia_masa_bloku": 2.5,
+      "całkowita_masa": 5750000,
+      "masa_największych_bloków": 80,
+      "grubość_okładziny_wapiennej": 0.3,
+      "liczba_komnat": 3,
+      "liczba_korytarzy": 5,
+      "liczba_szybów": 4,
+      "liczba_komnat_odciążających": 5,
+      "liczba_portali": 1,
+      "grubość_ścian_komory_Króla": 5.0,
+      "średnica_szybów_wentylacyjnych": 0.2,
+      "dokładność_orientacji": "0°03'06\" (północ magnetyczna)",
+      "nachylenie_ścian": "51°50'40\"",
+      "stosunek_wysokości_do_obwodu": "dokładnie 2π (z dokładnością 0.05%)"
+    }
+  }
+,
+"architektura": {
+    "styl_architektoniczny": {
+      "główny": "architektura starożytnego Egiptu",
+      "drugorzędny": "architektura monumentalna Starego Państwa",
+      "wpływy": [
+        "architektura grobowa mastab",
+        "symbolika solarna",
+        "geometria sakralna",
+        "kosmologia egipska"
+      ],
+      "ruchy_artystyczne": [
+        "monumentalizm faraoniczny",
+        "architektura wieczności"
+      ],
+      "cechy": [
+        "doskonałość geometryczna",
+        "orientacja astronomiczna",
+        "precyzja konstrukcyjna",
+        "symbolika solarna i stellarna",
+        "monumentalność i trwałość",
+        "symetria osiowa",
+        "złoty podział w proporcjach",
+        "matematyczna precyzja"
+      ],
+      "innowacje": [
+        "pierwsza prawdziwa piramida o gładkich ścianach na taką skalę",
+        "precyzyjne wyrównanie z kierunkami kardynalnymi",
+        "system komór i korytarzy wewnętrznych",
+        "komnaty odciążające nad Komorą Króla",
+        "rampa wewnętrzna Wielkiej Galerii",
+        "system wentylacyjny (szyby stellarne)"
+      ],
+      "okres_architektoniczny": "Stare Państwo, IV dynastia (ok. 2580-2560 p.n.e.)",
+      "nurty_architektoniczne": "architektura grobowa monumentalna,piramidy prawdziwe"
+    },
+    "architekci": {
+      "architekt_główny": {
+        "imię_i_nazwisko": "Hemiunu",
+        "lata_życia": "ok. 2570 p.n.e.",
+        "narodowość": "egipska",
+        "rola": "architekt naczelny, wizyr",
+        "okres": "ok. 2580-2560 p.n.e.",
+        "wkład": "nadzór nad całością budowy, projekt architektoniczny, organizacja prac",
+        "wykształcenie": "szkoła skrybów i kapłanów",
+        "tytuły": [
+          "Wizyr",
+          "Nadzorca Wszystkich Prac Króla",
+          "Kapłan Boga Ra"
+        ],
+        "inne_ważne_realizacje": [
+          "nadzór nad kompleksem grobowym Chufu"
+        ],
+        "filozofia_architektoniczna": "Piramida jako wehikuł wzniesienia faraona do nieba, połączenie ziemi z kosmosem",
+        "metoda_pracy": "precyzyjne pomiary astronomiczne, obliczenia geometryczne, system ramp",
+        "grób": "mastaba G 4000 w Gizie, w pobliżu piramidy",
+        "relacja_z_faraonem": "bratanek faraona Chufu, członek rodziny królewskiej"
+      },
+      "zleceniodawca": {
+        "imię_i_nazwisko": "Chufu (Cheops)",
+        "lata_życia": "ok. 2609-2584 p.n.e.",
+        "panowanie": "ok. 2589-2566 p.n.e. (23 lata)",
+        "dynastia": "IV dynastia",
+        "rola": "faraon, zleceniodawca",
+        "cel_budowy": "grobowiec królewski, miejsce wiecznego spoczynku i przemienienia",
+        "imię_piramidy": "Achet Chufu (Horyzont Chufu)",
+        "symbolika": "faraon jako żywe wcielenie boga Horusa, po śmierci łączący się z Ra"
+      },
+      "następcy": {
+        "kontynuatorzy_tradycji": [
+          {
+            "imię_i_nazwisko": "Chefren (Chafra)",
+            "okres": "ok. 2558-2532 p.n.e.",
+            "wkład": "budowa drugiej piramidy w Gizie",
+            "relacja": "syn Chufu"
+          },
+          {
+            "imię_i_nazwisko": "Mykerinos (Menkaure)",
+            "okres": "ok. 2532-2503 p.n.e.",
+            "wkład": "budowa trzeciej piramidy w Gizie",
+            "relacja": "wnuk Chufu"
+          }
+        ]
+      },
+      "współpracownicy": [
+        {
+          "rola": "nadzorca kamieniarzy",
+          "liczba": "tysiące rzemieślników",
+          "okres": "cała budowa",
+          "wkład": "cięcie i obróbka bloków kamiennych"
+        },
+        {
+          "rola": "inżynierowie i geodeci",
+          "liczba": "setki specjalistów",
+          "okres": "cała budowa",
+          "wkład": "pomiary, wyrównanie, kontrola geometrii"
+        },
+        {
+          "rola": "kapłani-astronomowie",
+          "liczba": "dziesiątki",
+          "okres": "faza planowania i orientacji",
+          "wkład": "orientacja astronomiczna, obliczenia kalendarzowe"
+        },
+        {
+          "rola": "robotnicy sezonowi",
+          "liczba": "20000-30000 rocznie",
+          "okres": "20-23 lata budowy",
+          "wkład": "transport i układanie bloków"
+        }
+      ],
+      "rzeźbiarze": [
+        {
+          "specjalność": "kamieniarze-artyści",
+          "okres": "cała budowa",
+          "dzieło": "precyzyjna obróbka bloków okładzinowych, hieroglify w komorach",
+          "technika": "narzędzia miedziane i kamienne, ścierniwa"
+        }
+      ]
+    },
+    "koncepcja": {
+      "podstawy_koncepcyjne": "piramida jako promień słońca skamieniały, drabina do nieba, miejsce transformacji króla w bóstwo",
+      "filozofia_projektu": "Geometryczna doskonałość jako odzwierciedlenie boskiego porządku; piramida jako wehikuł nieśmiertelności; połączenie ziemi (kwadrat podstawy) z niebem (wierzchołek)",
+      "zasady_geometryczne": [
+        "plan kwadratu w podstawie",
+        "kąt nachylenia ścian 51°50'40\"",
+        "orientacja precyzyjna na kierunki kardynalne",
+        "proporcje złotego podziału",
+        "stosunek wysokości do obwodu ≈ 2π",
+        "geometria sakralna"
+      ],
+      "system_konstrukcyjny": "masywna konstrukcja z bloków wapiennych ułożonych warstwami, bloków granitowych w komorach, system korytarzy i komór wewnętrznych, komnaty odciążające",
+      "symetria": "doskonała symetria osiowa czterokrotna",
+      "proporcje": "oparte na świętej geometrii egipskiej, lokieć królewski (52.36 cm) jako jednostka",
+      "orientacja": "ściany zorientowane dokładnie na północ, południe, wschód i zachód (błąd 0°03'06\")",
+      "symbolika_liczbowa": {
+        "4": "cztery strony świata, cztery żywioły, stabilność",
+        "3": "trójkątne ściany, triada bóstw",
+        "8": "osiem narożników (podstawa + wierzchołek), nowy początek",
+        "pi": "stosunek wysokości do obwodu podstawy",
+        "phi": "złoty podział w proporcjach"
+      },
+      "filozofia_światła": "piramida jako skamieniały promień słońca, biała okładzina odbijająca światło słoneczne jako symbol boskiego blasku",
+      "akustyka": "przypadkowe właściwości akustyczne w Wielkiej Galerii i Komorze Króla"
+    },
+    "fasady": {
+      "fasada_północna": {
+        "orientacja": "północ",
+        "strony_świata_nazwa": "północ - strona gwiazd okołobiegunowych, nieśmiertelność",
+        "tematyka": "wejście do piramidy",
+        "status": "ukończona",
+        "rok_ukończenia": -2560,
+        "architekt": "Hemiunu",
+        "styl": "gładkie ściany wapienne",
+        "nachylenie": "51°50'40\"",
+        "wejście_oryginalne": {
+          "wysokość_nad_ziemią": 17,
+          "szerokość": 1.04,
+          "wysokość": 1.17,
+          "status": "zamknięte w starożytności"
+        },
+        "wejście_współczesne": {
+          "nazwa": "wejście al-Mamuna",
+          "rok": 820,
+          "twórca": "kalif Al-Mamun",
+          "wysokość_nad_ziemią": 7,
+          "charakterystyka": "wyłamane przez poszukiwaczy skarbów"
+        },
+        "materiały": [
+          "wapień z Tury (okładzina)",
+          "wapień lokalny (rdzeń)"
+        ],
+        "kolorystyka": "pierwotnie biała lśniąca okładzina wapienna",
+        "symbolika": "północ jako kierunek gwiazd wiecznych, nieśmiertelności faraona",
+        "stan_zachowania": "okładzina prawie całkowicie usunięta"
+      },
+      "fasada_wschodnia": {
+        "orientacja": "wschód",
+        "strony_świata_nazwa": "wschód - symbol odrodzenia, wschód słońca",
+        "status": "ukończona",
+        "nachylenie": "51°50'40\"",
+        "długość_podstawy": 230.39,
+        "świątynia_dolina": {
+          "lokalizacja": "u stóp fasady wschodniej",
+          "funkcja": "świątynia zaślubin, przygotowanie ciała faraona",
+          "status": "nieznana lokalizacja, prawdopodobnie pod współczesną zabudową"
+        },
+        "grobla": {
+          "długość": 825,
+          "szerokość": 5,
+          "funkcja": "łączenie świątyni doliny ze świątynią grobową",
+          "status": "częściowo zachowana pod ziemią"
+        },
+        "symbolika": "odrodzenie faraona z każdym wschodem słońca"
+      },
+      "fasada_południowa": {
+        "orientacja": "południe",
+        "strony_świata_nazwa": "południe - pełnia światła słonecznego",
+        "status": "ukończona",
+        "nachylenie": "51°50'40\"",
+        "długość_podstawy": 230.45,
+        "piramidy_satelickie": {
+          "liczba": 3,
+          "lokalizacja": "u stopy fasady południowej",
+          "przeznaczenie": "grobowce królowych lub symboliczne grobowce Ka",
+          "wysokość": "około 20 metrów każda"
+        },
+        "symbolika": "Ra w zenicie, pełnia mocy solarnej"
+      },
+      "fasada_zachodnia": {
+        "orientacja": "zachód",
+        "strony_świata_nazwa": "zachód - kierunek zaświatów, zachód słońca",
+        "status": "ukończona",
+        "nachylenie": "51°50'40\"",
+        "długość_podstawy": 230.36,
+        "nekropolia": {
+          "lokalizacja": "po stronie zachodniej",
+          "zawartość": "mastaby dworzan i rodziny królewskiej",
+          "układ": "regularne rzędy grobowców"
+        },
+        "symbolika": "wejście do Duatu (zaświatów), zmierzch życia"
+      }
+    },
+    "wieże": {
+      "nie_dotyczy": "piramida nie posiada wież w tradycyjnym rozumieniu",
+      "wierzchołek_piramidion": {
+        "nazwa": "Benben",
+        "wysokość_elementu": 9.6,
+        "materiał_oryginalny": "przypuszczalnie granit lub bazalt, możliwe pokrycie złotem",
+        "status": "zaginiony",
+        "symbolika": "święty kamień Ben-ben z Heliopolis, pierwszy pagórek z chaosu Nun, promień słońca",
+        "kształt": "mała piramida, replika całej struktury",
+        "funkcja": "zwieńczenie, punkt kulminacyjny, symbol boskiego początku"
+      }
+    },
+    "wnętrze": {
+      "komora_Króla": {
+        "poziom": 43,
+        "wymiary": {
+          "długość": 10.47,
+          "szerokość": 5.23,
+          "wysokość": 5.84
+        },
+        "materiał": "granit z Assuanu",
+        "ściany": "monolityczne bloki granitowe",
+        "podłoga": "granitowe płyty",
+        "sufit": "dziewięć monolitycznych belek granitowych (waga po 50 ton)",
+        "sarkofag": {
+          "materiał": "czerwony granit",
+          "wymiary": {
+            "długość_zewnętrzna": 2.28,
+            "szerokość_zewnętrzna": 0.98,
+            "wysokość_zewnętrzna": 1.05
+          },
+          "stan": "pusty, bez wieka, narożnik uszkodzony",
+          "lokalizacja": "zachodni koniec komory",
+          "charakterystyka": "wykuty z jednego bloku, większy niż wejście - wniesiony podczas budowy"
+        },
+        "szyby_wentylacyjne": {
+          "liczba": 2,
+          "kierunki": [
+            {
+              "orientacja": "północny",
+              "kąt": "32°28'",
+              "cel": "gwiazda Thuban (Alpha Draconis) - ówczesna gwiazda polarna",
+              "symbolika": "dusza faraona wędrująca do gwiazd okołobiegunowych"
+            },
+            {
+              "orientacja": "południowy",
+              "kąt": "45°00'",
+              "cel": "pas Oriona (Sah - Ozyrys)",
+              "symbolika": "połączenie z Ozyrysem, władcą zaświatów"
+            }
+          ],
+          "wymiary": "20x20 cm",
+          "długość": "około 60 metrów"
+        },
+        "komnaty_odciążające": {
+          "liczba": 5,
+          "lokalizacja": "nad Komorą Króla",
+          "funkcja": "rozproszenie ciężaru piramidy, ochrona komory",
+          "materiały": "granit (dolne) i wapień (górne)",
+          "nazwy": [
+            "Komora Davidsona",
+            "Komora Wellingtona",
+            "Komora Nelson",
+            "Komora Lady Arbuthnot",
+            "Komora Campbella"
+          ],
+          "sufit_najwyższy": "trójkątny sufit dwuspadowy z monolitów granitowych",
+          "inskrypcje": "znaki kamieniarskie z imieniem Chufu (jedyne hieroglify w piramidzie)"
+        },
+        "akustyka": "niezwykłe właściwości rezonansowe, częstotliwość około 16 Hz",
+        "dostęp": "Wielka Galeria"
+      },
+      "wielka_galeria": {
+        "wymiary": {
+          "długość": 46.68,
+          "szerokość_dolna": 2.09,
+          "szerokość_górna": 1.04,
+          "wysokość": 8.6
+        },
+        "nachylenie": "26°26'46\"",
+        "konstrukcja": "sklepienie korbusowe (corbelled vault) - siedem warstw bloków wystających",
+        "charakterystyka": "najwspanialsza przestrzeń architektoniczna w piramidzie",
+        "funkcja_oryginalna": "droga do Komory Króla, prawdopodobnie system blokowania wejścia",
+        "bloki_zatyczki": {
+          "liczba": 3,
+          "materiał": "granit",
+          "funkcja": "zablokowanie Korytarza Wstępującego po pogrzebie",
+          "masa_każdego": "około 2 tony"
+        },
+        "szczeliny_boczne": {
+          "liczba": 27,
+          "funkcja": "prawdopodobnie do podpierania systemu blokady lub ramp",
+          "rozmieszczenie": "pary wzdłuż każdej ściany"
+        },
+        "znaczenie": "arcydzieło inżynierii starożytnej, precyzja wykonania",
+        "symbolika": "wznoszenie się duszy ku niebu, droga transformacji"
+      },
+      "komora_Królowej": {
+        "poziom": 15,
+        "nazwa": "błędna nazwa - nie przeznaczona dla królowej",
+        "wymiary": {
+          "długość": 5.76,
+          "szerokość": 5.23,
+          "wysokość": 6.26
+        },
+        "materiał": "wapień",
+        "sufit": "dwuspadowy sufit z wapiennych bloków",
+        "nisza": {
+          "lokalizacja": "ściana wschodnia",
+          "wymiary": {
+            "głębokość": 1.0,
+            "wysokość": 4.6
+          },
+          "funkcja": "prawdopodobnie dla posągu Ka faraona",
+          "szczegóły": "stopniowo zwężająca się"
+        },
+        "szyby": {
+          "liczba": 2,
+          "status": "oryginalne nie przechodziły przez ściany zewnętrzne",
+          "odkrycie": "1872 przez Waynmana Dixona",
+          "orientacja": "północ i południe",
+          "zakończenie": "ślepe zakończenia z małymi 'drzwiami' (odkrycie robota Upuaut 1993)",
+          "symbolika": "dualistyczne kanały dla duszy Ba"
+        },
+        "podłoga": "nierówna, nigdy nie wykończona",
+        "teoria_przeznaczenia": "możliwe pierwotne miejsce przeznaczone na sarkofag, porzucone na rzecz Komory Króla",
+        "dostęp": "korytarz poziomy z Wielkiej Galerii"
+      },
+      "komora_podziemna": {
+        "poziom": "-30 metrów pod poziomem podstawy",
+        "wymiary": {
+          "długość": 16,
+          "szerokość": 8.3,
+          "wysokość": 3.5
+        },
+        "materiał": "wykuta w litej skale",
+        "stan": "niekompletna, chaotyczna",
+        "charakterystyka": "grube, nierówne ściany, niezakończona",
+        "zagłębienie": {
+          "lokalizacja": "podłoga po stronie południowej",
+          "wymiary": "głębokie na 3 metry",
+          "kształt": "kwadratowe",
+          "funkcja": "nieznana, może próba studni lub symboliczny grób"
+        },
+        "korytarz_ślepy": {
+          "lokalizacja": "ściana południowa",
+          "długość": 16,
+          "funkcja": "nieznana, niezakończony",
+          "kierunek": "prowadzi na południe"
+        },
+        "teorie_przeznaczenia": [
+          "pierwotna komora grobowa, porzucona",
+          "symboliczne przedstawienie Duatu (zaświatów)",
+          "celowy element wprowadzający w błąd",
+          "komora techniczna"
+        ],
+        "dostęp": "Korytarz Zstępujący",
+        "wilgotność": "bardzo wysoka, kondensacja"
+      },
+      "korytarz_zstępujący": {
+        "długość": 105.15,
+        "szerokość": 1.05,
+        "wysokość": 1.17,
+        "nachylenie": "26°31'23\" w dół",
+        "punkt_początkowy": "oryginalne wejście na fasadzie północnej, 17 m nad ziemią",
+        "punkt_końcowy": "Komora Podziemna",
+        "materiał": "wapień",
+        "charakterystyka": "ciasny, klaustrofobiczny, prowadzi w dół przez masywa piramidy i dalej przez litą skałę",
+        "długość_w_piramidzie": 28,
+        "długość_w_skale": 77,
+        "funkcja": "pierwotne wejście do piramidy, dostęp do Komory Podziemnej i dalej do Korytarza Wstępującego"
+      },
+      "korytarz_wstępujący": {
+        "długość": 39,
+        "szerokość": 1.05,
+        "wysokość": 1.17,
+        "nachylenie": "26°26'46\" w górę",
+        "połączenia": [
+          "Korytarz Zstępujący (początek)",
+          "Wielka Galeria (koniec)",
+          "Korytarz poziomy do Komory Królowej (odgałęzienie)"
+        ],
+        "materiał": "wapień z precyzyjnie dopasowanymi blokami",
+        "blokada": "zamknięty trzema granitowymi blokami zatyczkowymi po pogrzebie faraona",
+        "obejście": "wejście Al-Mamuna (820 r.) omija blokadę, prowadząc bezpośrednio do górnej części",
+        "funkcja": "główna droga do górnych komór piramidy"
+      },
+      "korytarz_poziomy": {
+        "długość": 35.76,
+        "szerokość": 1.05,
+        "wysokość": 1.17,
+        "nachylenie": "prawie poziomy (lekkie wzniesienie)",
+        "połączenie": "Wielka Galeria z Komorą Królowej",
+        "charakterystyka": "wąski, niski, wymaga schylenia się",
+        "podłoga": "gładka kamienna",
+        "funkcja": "dostęp do Komory Królowej"
+      },
+      "studnia_serwisowa": {
+        "nazwa": "Well Shaft lub Grotto shaft",
+        "długość": 60,
+        "połączenie": "dolna część Wielkiej Galerii z Korytarzem Zstępującym",
+        "charakterystyka": "nieregularny, częściowo przez naturalną grotę w skale",
+        "teoria_funkcji": [
+          "droga ucieczki dla robotników po zamknięciu piramidy",
+          "szyb wentylacyjny",
+          "dostęp serwisowy podczas budowy"
+        ],
+        "grota": {
+          "lokalizacja": "w połowie długości szybu",
+          "charakterystyka": "naturalna jaskinia w skale wapiennej, rozszerzona",
+          "wymiary": "nieregularne, około 3x4 metry"
+        },
+        "dostęp_współczesny": "zwykle zamknięty dla turystów"
+      },
+      "kompleks_grobowy_zewnętrzny": {
+        "świątynia_grobowa": {
+          "lokalizacja": "przy fasadzie wschodniej piramidy",
+          "stan": "zachowane fundamenty",
+          "wymiary": "52.5 x 40 metrów",
+          "materiały": "bazalt, wapień, granit",
+          "funkcja": "ofiary i rytuały dla zmarłego faraona",
+          "elementy": [
+            "dziedziniec otwarty",
+            "magazyny ofiar",
+            "sanktuarium",
+            "pięć nisz dla posągów faraona"
+          ]
+        },
+        "grobla_ceremonialna": {
+          "długość": 825,
+          "szerokość": 5,
+          "stan": "większość zniszczona lub pod ziemią",
+          "funkcja": "łączenie świątyni doliny ze świątynią grobową"
+        },
+        "mur_okalający": {
+          "materiał": "wapień",
+          "wysokość_oryginalna": "około 8 metrów",
+          "stan": "częściowo zachowany",
+          "funkcja": "oddzielenie kompleksu grobowego, ochrona"
+        },
+        "łodzie_ceremonialne": {
+          "liczba_odkrytych": 5,
+          "najsłynniejsza": "Łódź Słoneczna Chufu",
+          "lokalizacja": "wykopy przy piramidzie (strona południowa i wschodnia)",
+          "długość_największej": 43.4,
+          "materiał": "drewno cedrowe",
+          "stan": "zrekonstruowana, muzeum przy piramidzie",
+          "funkcja": "transport duszy faraona po niebie z bogiem Ra"
+        }
+      }
+    }
+  }
+,
+"budowa": {
+    "chronologia": {
+      "2580 p.n.e.": "Rozpoczęcie panowania faraona Chufu (Cheopsa)",
+      "2580 p.n.e.": "Wybór lokalizacji na płaskowyżu Giza",
+      "2580 p.n.e.": "Wyrównanie terenu i przygotowanie fundamentów",
+      "2579 p.n.e.": "Rozpoczęcie wydobycia kamienia z lokalnych kamieniołomów",
+      "2578 p.n.e.": "Układanie pierwszych warstw kamiennych bloków podstawy",
+      "2575 p.n.e.": "Budowa Komory Podziemnej i Korytarza Zstępującego",
+      "2570 p.n.e.": "Zmiana planu - budowa Komory Królowej",
+      "2568 p.n.e.": "Ponowna zmiana planu - budowa Wielkiej Galerii",
+      "2565 p.n.e.": "Budowa Komory Króla i komór odciążających",
+      "2563 p.n.e.": "Osiągnięcie maksymalnej wysokości struktury",
+      "2562 p.n.e.": "Montaż piramidionu (Benben) na szczycie",
+      "2561 p.n.e.": "Układanie okładziny z białego wapienia z Tury",
+      "2560 p.n.e.": "Ukończenie okładziny i wykończenie piramidy",
+      "2560 p.n.e.": "Budowa świątyni grobowej przy wschodniej ścianie",
+      "2559 p.n.e.": "Budowa grobli ceremonialnej",
+      "2558 p.n.e.": "Budowa świątyni doliny",
+      "2557 p.n.e.": "Ukończenie kompleksu piramid satelickich",
+      "2566 p.n.e.": "Śmierć faraona Chufu i ceremonialny pogrzeb",
+      "2566 p.n.e.": "Zamknięcie piramidy - blokada Korytarza Wstępującego",
+      "2558 p.n.e.": "Rozpoczęcie budowy piramidy Chefrena (syn Chufu)",
+      "2532 p.n.e.": "Rozpoczęcie budowy piramidy Mykerinosa (wnuk Chufu)",
+      "820 n.e.": "Kalif Al-Mamun wyłamuje wejście w poszukiwaniu skarbów",
+      "1798": "Kampania napoleońska - pierwsze naukowe pomiary",
+      "1837": "Howard Vyse odkrywa komnaty odciążające",
+      "1872": "Waynman Dixon odkrywa szyby w Komorze Królowej",
+      "1925": "Odkrycie łodzi słonecznej Chufu",
+      "1954": "Odkrycie drugiej łodzi słonecznej w stanie nienaruszonym",
+      "1979": "Wpis kompleksu piramid Gizy na listę UNESCO",
+      "1986": "Rozpoczęcie projektu mikrograwitacyjnego wykrywania ukrytych komór",
+      "1993": "Robot Upuaut2 odkrywa 'drzwi' w szybachnpółnocnym Komory Królowej",
+      "2002": "Robot Pyramid Rover przebija 'drzwi' - znajduje kolejne zamknięcie",
+      "2011": "Robot Djedi wykonuje endoskopię za 'drzwiami'",
+      "2017": "Projekt ScanPyramids wykrywa wielką pustkę nad Wielką Galerią",
+      "2023": "Odkrycie ukrytego korytarza nad głównym wejściem"
+    },
+    "fazy_szczegółowe": [
+      {
+        "faza": "Faza 1 - Planowanie i przygotowanie terenu",
+        "okres": "2580-2579 p.n.e.",
+        "osiągnięcia": "wybór lokalizacji, pomiary astronomiczne, wyrównanie płaskowyżu, przygotowanie infrastruktury",
+        "architekt": "Hemiunu i zespół kapłanów-astronomów"
+      },
+      {
+        "faza": "Faza 2 - Fundamenty i Komora Podziemna",
+        "okres": "2579-2575 p.n.e.",
+        "osiagnięcia": "wykucie Komory Podziemnej w litej skale, budowa Korytarza Zstępującego, fundament",
+        "architekt": "Hemiunu"
+      },
+      {
+        "faza": "Faza 3 - Rdzeń dolny i Komora Królowej",
+        "okres": "2575-2570 p.n.e.",
+        "osiagnięcia": "układanie warstw dolnych do wysokości 20 metrów, budowa Korytarza Wstępującego, pierwsza Komora Królowej",
+        "architekt": "Hemiunu"
+      },
+      {
+        "faza": "Faza 4 - Wielka Galeria i Komora Króla",
+        "okres": "2570-2565 p.n.e.",
+        "osiagnięcia": "budowa Wielkiej Galerii, konstrukcja Komory Króla z granitowych bloków, pięć komór odciążających, montaż sarkofagu",
+        "architekt": "Hemiunu"
+      },
+      {
+        "faza": "Faza 5 - Rdzeń górny",
+        "okres": "2565-2563 p.n.e.",
+        "osiagnięcia": "układanie warstw od 45 do 138 metrów wysokości, zwężanie konstrukcji",
+        "architekt": "Hemiunu"
+      },
+      {
+        "faza": "Faza 6 - Szczyt i piramidion",
+        "okres": "2563-2562 p.n.e.",
+        "osiagnięcia": "montaż ostatnich bloków, umieszczenie piramidionu Benben na szczycie",
+        "architekt": "Hemiunu"
+      },
+      {
+        "faza": "Faza 7 - Okładzina",
+        "okres": "2562-2560 p.n.e.",
+        "osiagnięcia": "układanie 115000 bloków okładziny z białego wapienia turskiego, polerowanie powierzchni",
+        "architekt": "Hemiunu i specjaliści kamieniarze"
+      },
+      {
+        "faza": "Faza 8 - Kompleks grobowy",
+        "okres": "2560-2557 p.n.e.",
+        "osiagnięcia": "budowa świątyni grobowej, grobli, świątyni doliny, piramid satelickich, mastab",
+        "architekt": "Hemiunu i następcy"
+      },
+      {
+        "faza": "Faza 9 - Wykończenie i ceremonial",
+        "okres": "2557-2566 p.n.e.",
+        "osiagnięcia": "wykończenie detali, przygotowanie ceremonii pogrzebowych, konserwacja",
+        "architekt": "kolejni nadzorcy po śmierci Hemiunu"
+      }
+    ],
+    "finansowanie": {
+      "główne_źródło": "skarbiec państwa egipskiego, podatki, dary prowincji",
+      "budżet_całkowity": "niemożliwy do oszacowania w współczesnych walutach",
+      "szacunki_współczesne": "około 5 miliardów dolarów w dzisiejszych kosztach",
+      "system_pracy": "corée - system rotacyjny pracy obywateli podczas wylewów Nilu",
+      "robotnicy_opłacani": "evidence papyrusów z Wadi al-Jarf wskazuje na płace w postaci żywności i piwa",
+      "liczba_robotników_sezonowych": "20000-30000 rocznie",
+      "robotnicy_stali_specjaliści": "około 5000 kamieniarzy, architektów, rzemieślników",
+      "zaopatrzenie": "całe wioski robotników z piekarnią, browarem, rzeźnią",
+      "koszt_żywności": "ogromne ilości chleba, piwa, mięsa, ryb dla dziesiątków tysięcy ludzi przez 20 lat",
+      "filozofia_finansowa": "budowa jako wyraz potęgi państwa i boskiego mandatu faraona"
+    },
+    "technologie": {
+      "historyczne": [
+        "dźwignie i drążki",
+        "sanie do transportu bloków",
+        "liny z włókien lnu i papirusu",
+        "walce drewniane pod ciężkimi blokami",
+        "pomiary za pomocą linii wodnej",
+        "narzędzia miedziane (dłuta, piły)",
+        "narzędzia kamienne (tłuczki z diorytu)",
+        "ścierniwa kwarcowe i piaskowe",
+        "gwiazdy do orientacji astronomicznej",
+        "merkhet - instrument geodezyjny",
+        "bay - narzędzie do pomiaru kątów"
+      ],
+      "metody_transportu": [
+        "transport rzeczny na barkach po Nilu",
+        "sanie ciągnięte przez dziesiątki ludzi",
+        "zwilżanie piasku przed saniami (zmniejszenie tarcia)",
+        "drewniane walce",
+        "drogi transportowe specjalnie przygotowane"
+      ],
+      "metody_podnoszenia": [
+        "rampy zewnętrzne proste",
+        "rampy spiralne wokół piramidy",
+        "rampy wewnętrzne (teoria Jean-Pierre Houdina)",
+        "system przeciwwag",
+        "dźwignie wahadłowe",
+        "platformy drewniane"
+      ],
+      "innowacje_konstrukcyjne": [
+        "dokładna orientacja na północ (błąd tylko 3 minuty kątowe)",
+        "system komór odciążających chroniących Komorę Króla",
+        "precyzyjne dopasowanie bloków (grubość szczeliny < 0.5 mm)",
+        "kąt nachylenia 51°50' dla stabilności konstrukcji",
+        "wewnętrzny system korytarzy bez osłabienia struktury",
+        "szyby wentylacyjne celowane w gwiazdy"
+      ],
+      "przełomy": [
+        {
+          "innowacja": "Pierwsza prawdziwa piramida o gładkich ścianach tej skali",
+          "znaczenie": "kluczowy moment w rozwoju architektury monumentalnej"
+        },
+        {
+          "innowacja": "System komór odciążających",
+          "znaczenie": "ochrona komory grobowej przed ciężarem milionów ton kamienia"
+        },
+        {
+          "innowacja": "Precyzyjna orientacja astronomiczna",
+          "znaczenie": "dokładność wyrównania z kierunkami kardynalnymi"
+        },
+        {
+          "innowacja": "Logistyka budowy na niespotykaną skalę",
+          "znaczenie": "organizacja pracy dziesiątków tysięcy ludzi przez dwie dekady"
+        }
+      ]
+    },
+    "materiały": {
+      "kamień": {
+        "wapień_lokalny": {
+          "źródło": "kamieniołomy na płaskowyżu Giza",
+          "zastosowanie": "rdzeń piramidy - główna masa konstrukcji",
+          "charakterystyka": "stosunkowo miękki, łatwy w obróbce, żółtawy",
+          "ilość": "około 2,3 miliona bloków",
+          "średnia_masa_bloku": "2.5 tony",
+          "łączna_masa": "około 5,75 miliona ton"
+        },
+        "wapień_turski": {
+          "źródło": "kamieniołomy w Turze, 13 km na południe, drugi brzeg Nilu",
+          "zastosowanie": "okładzina zewnętrzna - gładkie, białe płyty",
+          "charakterystyka": "bardzo biały, drobnoziarnisty, wysokiej jakości",
+          "ilość": "około 115000 bloków okładzinowych",
+          "masa": "około 67000 ton",
+          "stan": "prawie całkowicie zrabowana w średniowieczu",
+          "transport": "barkami po Nilu podczas wylewów"
+        },
+        "granit_asuański": {
+          "źródło": "kamieniołomy w Asuanie, 800 km na południe",
+          "zastosowanie": "Komora Króla, komnaty odciążające, zatyczki, sarkofag",
+          "charakterystyka": "czerwony, bardzo twardy, niezwykle trwały",
+          "ilość": "około 8000 ton",
+          "największe_bloki": "do 80 ton (belki stropowe Komory Króla)",
+          "transport": "barkami po Nilu - wymagało wielu miesięcy"
+        },
+        "bazalt": {
+          "źródło": "kamieniołomy w delcie Nilu",
+          "zastosowanie": "posadzki świątyni grobowej",
+          "charakterystyka": "czarny, bardzo twardy",
+          "ilość": "kilkaset ton"
+        },
+        "alabaster": {
+          "źródło": "Hatnub",
+          "zastosowanie": "elementy dekoracyjne świątyń",
+          "charakterystyka": "półprzezroczysty, jasny",
+          "ilość": "kilkadziesiąt ton"
+        }
+      },
+      "drewno": {
+        "typ": "cedr libański, akacja, palma",
+        "zastosowanie": "łodzie ceremonialne, narzędzia, rusztowania, dźwignie, walce",
+        "źródło": "import z Libanu (cedr), lokalne drzewa (akacja, palma)",
+        "ilość": "tysiące ton",
+        "łodzie": "pięć łodzi ceremonialnych, w tym jedna zachowana o długości 43,4 metra"
+      },
+      "metal": {
+        "miedź": {
+          "zastosowanie": "narzędzia tnące - dłuta, piły, świder",
+          "źródło": "kopalnie na Synaju",
+          "ilość": "setki ton",
+          "charakterystyka": "hartowana, nadająca się do obróbki wapienia"
+        },
+        "brąz": {
+          "zastosowanie": "narzędzia wzmocnione",
+          "okres": "późniejsza faza budowy",
+          "stop": "miedź z cyną"
+        },
+        "złoto": {
+          "zastosowanie": "pokrycie piramidionu (teoria)",
+          "ilość": "możliwe kilka kilogramów",
+          "status": "brak pewności"
+        }
+      },
+      "inne": {
+        "gips": {
+          "zastosowanie": "zaprawa w niektórych miejscach, tynki",
+          "ilość": "setki ton"
+        },
+        "piasek": {
+          "zastosowanie": "podkład, ścierniwo, zwilżanie tras transportowych",
+          "ilość": "dziesiątki tysięcy ton"
+        },
+        "liny": {
+          "materiał": "len, papirus",
+          "zastosowanie": "ciągnięcie sań, dźwiganie, pomiary",
+          "ilość": "setki kilometrów"
+        },
+        "ochry": {
+          "zastosowanie": "znaki i oznaczenia na blokach",
+          "kolory": "czerwony, żółty, czarny"
+        }
+      }
+    },
+    "wyzwania_techniczne": {
+      "orientacja": {
+        "problem": "precyzyjne wyrównanie z kierunkami kardynalnymi bez kompasu",
+        "rozwiązanie": "obserwacje gwiazd okołobiegunowych, pomiary cieni słonecznych"
+      },
+      "wyrównanie_podstawy": {
+        "problem": "idealnie pozioma podstawa na powierzchni 5,3 hektara",
+        "rozwiązanie": "system kanałów wodnych jako poziom odniesienia",
+        "dokładność": "różnica wysokości tylko 2,1 cm na całej podstawie"
+      },
+      "transport_bloków": {
+        "problem": "transport 2,3 miliona bloków kamiennych ważących średnio 2,5 tony każdy",
+        "rozwiązanie": "sanie, zwilżanie piasku, rampy, dziesiątki tysięcy robotników"
+      },
+      "transport_granitu": {
+        "problem": "transport bloków granitowych ważących do 80 ton z Asuanu (800 km)",
+        "rozwiązanie": "barki rzeczne podczas wysokiego stanu wody w Nilu"
+      },
+      "podnoszenie_bloków": {
+        "problem": "podniesienie bloków na wysokość prawie 150 metrów",
+        "rozwiązanie": "system ramp (zewnętrznych lub wewnętrznych), dźwignie, platformy"
+      },
+      "precyzja_cięcia": {
+        "problem": "dopasowanie bloków z dokładnością do ułamków milimetra",
+        "rozwiązanie": "miedziane piły z ścierniwami kwarcowymi, kamienne młoty, cierpliwa obróbka"
+      },
+      "stabilność_konstrukcji": {
+        "problem": "zapewnienie stabilności strukturze o masie 5,75 miliona ton",
+        "rozwiązanie": "kąt nachylenia 51°50', warstwowa konstrukcja, blokkada wewnętrzna"
+      },
+      "ochrona_Komory_Króla": {
+        "problem": "ochrona komory grobowej przed ciężarem milionów ton kamienia nad nią",
+        "rozwiązanie": "pięć komór odciążających z granitowymi belkami i trójkątnym stropem"
+      },
+      "logistyka": {
+        "problem": "koordynacja pracy 20000-30000 ludzi przez 20 lat",
+        "rozwiązanie": "hierarchiczna organizacja, wioski robotników, system rotacyjny corée"
+      },
+      "zaopatrzenie": {
+        "problem": "wyżywienie dziesiątków tysięcy ludzi przez dwie dekady",
+        "rozwiązanie": "całe osady z piekarnią, browarem, magazynami, rybołówstwem"
+      }
+    },
+    "zespół_budowlany": {
+      "architekt_naczelny": "Hemiunu - wizyr i krewny faraona",
+      "kapłani_astronomowie": "kilkunastu - orientacja i pomiary astronomiczne",
+      "inżynierowie_nadzorcy": "kilkuset - nadzór nad poszczególnymi sekcjami budowy",
+      "kamieniarze_specjaliści": "około 5000 stałych wykwalifikowanych rzemieślników",
+      "robotnicy_sezonowi": "20000-30000 podczas corée (rotacja co 3 miesiące)",
+      "transportowcy": "tysiące ludzi ciągnących sanie z blokami",
+      "kucharze_piekarze": "setki obsługujących zaplecze logistyczne",
+      "lekarze": "dziesiątki opiekujących się zdrowiem robotników",
+      "skrybowie": "setki prowadzących dokumentację dostaw i prac",
+      "strażnicy": "setki pilnujący porządku i materiałów",
+      "łącznie": "około 100000 ludzi zaangażowanych bezpośrednio lub pośrednio przez 20 lat",
+      "organizacja": {
+        "struktura": "hierarchiczna - faraon, wizyr-architekt, nadzorcy, brygadziści, robotnicy",
+        "zespoły": "phyle - 1000 ludzi, podzielone na dziesiątki po 100 i setki po 10",
+        "nazwy_zespołów": "Przyjaciele Chufu, Zwolennicy Chufu, itp. (znalezione inskrypcje)",
+        "zmianowość": "praca w systemie zmianowym, corée podczas wylewów Nilu (lipiec-listopad)"
+      },
+      "warunki_pracy": {
+        "wynagrodzenie": "żywność (chleb, piwo, mięso, ryby), odzież, mieszkanie",
+        "opieka_medyczna": "evidence złamań leczonych chirurgicznie",
+        "mieszkania": "specjalne osady robotników odkryte w Gizie",
+        "śmiertelność": "cmentarze robotników wskazują na relatywnie dobrą opiekę",
+        "status": "wolni obywatele egipscypracujący dla państwa, NIE niewolnicy"
+      },
+      "osada_robotników": {
+        "lokalizacja": "odkryta na południe od piramidy",
+        "populacja": "około 20000 stałych mieszkańców",
+        "infrastruktura": "piekarnia, browar, rzeźnia, warsztaty, magazyny, domy",
+        "produkcja": "4000 bochnków chleba dziennie, tysiące litrów piwa"
+      }
+    }
+  }
+,
+"znaczenie_kulturowe": {
+    "status_UNESCO": {
+      "wpisanie": "1979",
+      "kategoria": "Dobro Światowego Dziedzictwa UNESCO",
+      "numer_referencyjny": "86",
+      "kryteria": [
+        "Kryterium (i): arcydzieło ludzkiego geniuszu twórczego",
+        "Kryterium (iii): wyjątkowe świadectwo cywilizacji kulturowej",
+        "Kryterium (vi): bezpośrednio związane z wydarzeniami i ideami o uniwersalnym znaczeniu"
+      ],
+      "zakres": "Memphis i jego nekropolia - pola piramid od Gizy do Dahshur",
+      "uzasadnienie": "Najwybitniejsze osiągnięcie architektoniczne starożytnego Egiptu, jedyny zachowany cud starożytnego świata, symbol cywilizacji faraonów"
+    },
+    "symbol_kulturowy": {
+      "Egipt": "najważniejszy symbol kraju, ikona rozpoznawalna na całym świecie",
+      "Afryka": "symbol starożytnej afrykańskiej cywilizacji i jej osiągnięć",
+      "cywilizacja_starożytna": "symbol potęgi i osiągnięć starożytnego Egiptu",
+      "architektura": "ikona architektury monumentalnej, wzór doskonałości konstrukcyjnej",
+      "ludzkość": "symbol ludzkich możliwości, ambicji i nieśmiertelności"
+    },
+    "wpływ_na_sztukę": {
+      "architektura": "inspiracja dla niezliczonych budowli na całym świecie - od starożytności po współczesność",
+      "neoklasycyzm": "wpływ na architekturę obelisków, monumentów, gmachów publicznych XVIII-XIX wieku",
+      "art_deco": "motywy egipskie w projektach lat 20. i 30. XX wieku",
+      "architektura_współczesna": "inspiracja dla projektów piramid, hoteli, budynków biurowych",
+      "urbanistyka": "koncepcja monumentalnych nekropolii i kompleksów ceremonialnych",
+      "sztuki_wizualne": "niezliczone przedstawienia w malarstwie, rzeźbie, fotografii od starożytności"
+    },
+    "cytaty_o_budynku": [
+      {
+        "autor": "Herodot",
+        "cytat": "Wszystko boi się czasu, ale czas boi się piramid",
+        "rok": "około 450 p.n.e.",
+        "kontekst": "grecki historyk opisujący cuda egipskie"
+      },
+      {
+        "autor": "Napoleon Bonaparte",
+        "cytat": "Żołnierze, z wierzchołków tych piramid czterdzieści wieków patrzy na was",
+        "rok": "1798",
+        "okazja": "bitwa pod piramidami"
+      },
+      {
+        "autor": "Abdel Moneim Abu-Bakr",
+        "cytat": "Piramida Cheopsa to najwieksze osiągnięcie w historii budownictwa",
+        "kontekst": "archeolog egipski, XX wiek"
+      },
+      {
+        "autor": "Mark Twain",
+        "cytat": "To najbardziej imponujący stos kamieni, jaki kiedykolwiek widziałem",
+        "rok": "1867",
+        "źródło": "The Innocents Abroad"
+      },
+      {
+        "autor": "Pliniusz Starszy",
+        "cytat": "Bezużyteczny i głupi pokaz bogactwa faraonów",
+        "rok": "77 n.e.",
+        "kontekst": "Historia Naturalna - krytyka marnotrawstwa"
+      }
+    ],
+    "w_kulturze_popularnej": {
+      "filmy": [
+        "The Mummy (1999) - Roland Emmerich",
+        "Transformers: Revenge of the Fallen (2009)",
+        "Stargate (1994) - teorie o pozaziemskim pochodzeniu",
+        "Agatha Christie's Death on the Nile - liczne ekranizacje",
+        "X-Men: Apocalypse (2016)",
+        "10,000 BC (2008)",
+        "The Pyramid (2014) - horror",
+        "niezliczone dokumenty BBC, National Geographic, Discovery"
+      ],
+      "literatura": [
+        "Agatha Christie - Śmierć na Nilu",
+        "Arthur Conan Doyle - opowiadania o mumach",
+        "Anne Rice - The Mummy",
+        "Christian Jacq - seria o Ramzesie",
+        "niezliczone powieści fantasy i science fiction wykorzystujące piramidy"
+      ],
+      "muzyka": [
+        "Iron Maiden - Powerslave (album z piramidą na okładce)",
+        "The Alan Parsons Project - Pyramid (1978)",
+        "Europa - The Final Countdown (teledysk)",
+        "motywy w muzyce ambient i elektronicznej"
+      ],
+      "gry": [
+        "Assassin's Creed Origins - eksploracja piramidy",
+        "Tomb Raider: The Last Revelation",
+        "Civilization (seria) - cud świata",
+        "Age of Empires",
+        "Sphinx and the Cursed Mummy",
+        "Serious Sam",
+        "Pharaoh (strategia)"
+      ],
+      "teorie_spiskowe": [
+        "budowa przez kosmitów lub atlantów",
+        "ukryte komnaty z zaawansowaną technologią",
+        "matematyczne kody i przepowiednie",
+        "mapa gwiazdozbiorów",
+        "źródło energii",
+        "starożytna obserwatorium astronomiczne"
+      ],
+      "sztuki_wizualne": "niezliczone przedstawienia od starożytności po współczesność, symbol w logotypach, reklamach, plakatach"
+    },
+    "nagrody_i_oznaczenia": [
+      {
+        "nazwa": "Dobro Światowego Dziedzictwa UNESCO",
+        "rok": 1979,
+        "jako": "Memphis i jego nekropolia"
+      },
+      {
+        "nazwa": "Siedem Cudów Starożytnego Świata",
+        "nadawca": "Antypater z Sydonu",
+        "rok": "II wiek p.n.e.",
+        "status": "jedyny zachowany z siedmiu cudów"
+      },
+      {
+        "nazwa": "Narodowy skarb Egiptu",
+        "nadawca": "Rząd Egiptu",
+        "status": "od starożytności"
+      },
+      {
+        "nazwa": "Honorowa lista Nowych Siedmiu Cudów Świata",
+        "rok": 2007,
+        "uwaga": "nie brała udziału w głosowaniu jako jedyny zachowany oryginalny cud"
+      }
+    ],
+    "znaczenie_naukowe": {
+      "egiptologia": "fundament badań nad Starym Państwem i IV dynastią",
+      "archeologia": "kluczowe stanowisko dla zrozumienia starożytnych technik budowlanych",
+      "astronomia": "badania orientacji astronomicznej i związków z gwiazdami",
+      "inżynieria": "przedmiot studiów nad starożytnymi technikami konstrukcyjnymi",
+      "matematyka": "analiza proporcji geometrycznych i stałych matematycznych",
+      "fizyka": "badania akustyki, właściwości materiałów, statyki",
+      "geologia": "analiza pochodzenia i właściwości użytych kamieni"
+    },
+    "fenomen_turystyczny": {
+      "liczba_odwiedzających_rocznie": "około 14-15 milionów turystów odwiedzających kompleks Gizy",
+      "wpływ_ekonomiczny": "główne źródło dochodów z turystyki dla Egiptu",
+      "zatrudnienie": "tysiące osób pracujących w obsłudze turystycznej",
+      "infrastruktura": "hotele, restauracje, transport, przewodnicy",
+      "wyzwania": "erozja, wandalizm, nadmierne obciążenie turystyczne"
+    },
+    "znaczenie_religijne_historyczne": {
+      "starożytny_Egipt": "miejsce kultu faraona Chufu jako boga",
+      "islam": "uważana za budowlę przedpotopową lub dzieło proroka Idris (Henocha)",
+      "chrześcijaństwo": "wzmiankowana przez średniowiecznych pielgrzymów",
+      "ezoteryzm": "przedmiot zainteresowania misteriów, kabały, masonerii",
+      "new_age": "miejsce duchowej energii, medytacji, pielgrzymek"
+    },
+    "kontrowersje_i_debaty": {
+      "datowanie": "ciągłe debaty o dokładnej dacie budowy",
+      "metody_budowy": "spory o sposób transportu i podnoszenia bloków",
+      "ukryte_komnaty": "poszukiwania nieodkrytych przestrzeni wewnętrznych",
+      "przeznaczenie": "niektórzy kwestionują funkcję grobową",
+      "konserwacja": "dylematy między dostępnością a ochroną",
+      "teoria_kosmitów": "pseudonaukowe teorie o pomocy obcych cywilizacji"
+    },
+    "wpływ_na_tożsamość_narodową": {
+      "Egipt": "podstawowy symbol egipskiej tożsamości narodowej",
+      "godło": "piramidy na znakach Egyptian Museum, instytucji państwowych",
+      "waluta": "przedstawienie na banknotach i monetach",
+      "dyplomacja": "symbol Egiptu w kontaktach międzynarodowych",
+      "edukacja": "obowiązkowy element nauczania historii w szkołach egipskich"
+    }
+  },
+ "funkcje": {
+    "religijne": {
+      "typ_świątyni": "grobowiec królewski, kompleks pogrzebowy",
+      "przynależność": "starożytny kult państwowy Egiptu",
+      "funkcja_pierwotna": "miejsce wiecznego spoczynku faraona Chufu",
+      "liturgia": "rytuały pogrzebowe starożytnego Egiptu, kult faraona jako boga",
+      "kult_pośmiertny": "codzienne ofiary w świątyni grobowej, rytuały dla Ka faraona",
+      "status_obecny": "nieaktywne miejsce kultu, pomnik historyczny"
+    },
+    "turystyczne": {
+      "otwarcie_publiczne": "codziennie",
+      "godziny_otwarcia": {
+        "lato_kwiecień_wrzesień": "07:00-19:00",
+        "zima_październik_marzec": "08:00-17:00",
+        "ramadan": "07:00-15:00"
+      },
+      "liczba_turystów": {
+        "rocznie": "14000000-15000000 (cały kompleks Gizy)",
+        "rocznie_piramida": "około 300000-500000 (wejście do wnętrza)",
+        "dziennie": "tysiące odwiedzających kompleks, setki wchodzących do środka",
+        "szczyt": "październik-kwiecień (sezon turystyczny w Egipcie)"
+      },
+      "ceny_biletów": {
+        "kompleks_Gizy": "540 EGP (około 17 USD)",
+        "wejście_do_piramidy_Cheopsa": "dodatkowo 400 EGP (około 13 USD)",
+        "łącznie": "około 30 USD",
+        "ulgowy": "50% zniżki dla studentów z ważną kartą ISIC",
+        "dzieci": "poniżej 6 lat gratis",
+        "Egipcjanie": "znacznie niższe ceny dla obywateli"
+      },
+      "rezerwacje": "zalecana wcześniejsza rezerwacja online, ograniczona liczba wejść dziennie do wnętrza piramidy (300 osób)",
+      "limity_wejść": {
+        "rano": "150 biletów o 08:00",
+        "popołudniu": "150 biletów o 13:00",
+        "powód": "ochrona wnętrza przed wilgocią i uszkodzeniami"
+      },
+      "audioprzewodnik": "dostępny w wielu językach, wynajmowany osobno",
+      "przewodnicy": "licencjonowani przewodnicy egipscy (obowiązkowi dla grup), wycieczki w wielu językach",
+      "dostępność_językowa": [
+        "arabski",
+        "angielski",
+        "francuski",
+        "niemiecki",
+        "włoski",
+        "hiszpański",
+        "rosyjski",
+        "chiński",
+        "japoński",
+        "polski",
+        "portugalski",
+        "koreański"
+      ],
+      "ograniczenia": {
+        "wiek": "nie zalecane dla małych dzieci (ciasne korytarze, duszność)",
+        "zdrowie": "nie dla osób z klaustrofobią, problemami z oddychaniem, sercem, stawami",
+        "ubiór": "odpowiednie obuwie, skromny ubiór (ramiona i kolana przykryte)",
+        "fotografowanie": "dozwolone na zewnątrz, ograniczone wewnątrz (zakaz statywów i fleszy)",
+        "zakazy": "jedzenie, picie, palenie wewnątrz piramidy",
+        "zachowanie": "szacunek dla miejsca, cisza",
+        "ograniczenia_fizyczne": "wąskie, strome korytarze wymagające schylania się"
+      },
+      "temperatura_wewnątrz": "około 20°C przez cały rok (naturalna klimatyzacja)",
+      "wilgotność": "wysoka w Komorze Króla z powodu oddechu turystów",
+      "czas_zwiedzania": {
+        "kompleks_zewnętrzny": "2-3 godziny",
+        "wnętrze_piramidy": "30-45 minut",
+        "całość_z_muzeum": "pół dnia do całego dnia"
+      },
+      "sklepy": {
+        "liczba": "dziesiątki straganów wokół kompleksu",
+        "asortyment": "pamiątki, repliki, biżuteria, papirusy, alabastry, koszulki",
+        "lokalizacja": "wokół kompleksu, przy wejściach, w pobliskich wioskach",
+        "targowanie": "obowiązkowe, ceny negocjowalne"
+      },
+      "usługi_dodatkowe": {
+        "przejażdżki_wielbłądami": "popularna atrakcja wokół piramid",
+        "przejażdżki_końmi": "dostępne",
+        "fotografie": "fotografowie oferujący sesje w strojach faraonów",
+        "restauracje": "kilka restauracji z widokiem na piramidy",
+        "hotele": "liczne hotele w Gizie z widokiem na piramidy"
+      },
+      "muzeum_łodzi_słonecznej": {
+        "lokalizacja": "przy południowej ścianie piramidy",
+        "bilet": "osobno, około 100 EGP",
+        "eksponat": "zrekonstruowana łódź Chufu o długości 43,4 metra",
+        "godziny": "09:00-16:00",
+        "status": "czasowo zamknięte (przenoszenie do Wielkiego Muzeum Egipskiego)"
+      }
+    },
+    "edukacyjne": {
+      "muzeum": {
+        "lokalizacja": "Wielkie Muzeum Egipskie (GEM) w Gizie - nowa lokalizacja",
+        "tematyka": "cywilizacja starożytnego Egiptu, budowa piramid, artefakty z grobowców",
+        "ekspozycje": "łódź słoneczna Chufu, narzędzia budowlane, sarkofagi, mumie, skarby",
+        "otwarcie_GEM": "2023 (częściowo), pełne otwarcie w toku",
+        "Muzeum_Egipskie_Kair": "artefakty z piramid, ekspozycja o Starym Państwie"
+      },
+      "programy_edukacyjne": [
+        "wycieczki szkolne z egipskich szkół",
+        "wykłady archeologów i egiptologów",
+        "warsztaty dla studentów archeologii",
+        "programy uniwersyteckie - praktyki wykopaliskowe",
+        "kursy online o starożytnym Egipcie",
+        "webinary muzeów światowych"
+      ],
+      "badania_naukowe": {
+        "współpraca": "uniwersytety międzynarodowe, Egypt Antiquities Organization, instytuty badawcze",
+        "tematy": "archeologia, egiptologia, inżynieria starożytna, geofizyka, konserwacja",
+        "projekty": "ScanPyramids (skanowanie wnętrza), badania robotami, georadar",
+        "publikacje": "tysiące publikacji naukowych od XIX wieku",
+        "ekspedycje": "ciągłe badania archeologiczne wokół piramidy"
+      },
+      "biblioteka": {
+        "lokalizacja": "Biblioteka Instytutu Francuskich Badań Archeologicznych (IFAO) w Kairze",
+        "dostęp": "dla badaczy i naukowców",
+        "zbiór": "dokumentacja wykopalisk, stare raporty, mapy, fotografie archiwalne",
+        "archiwa": "French Institute, German Archaeological Institute, Supreme Council of Antiquities"
+      },
+      "centrum_badawcze": {
+        "nazwa": "Supreme Council of Antiquities Research Center",
+        "funkcja": "koordynacja badań, wydawanie pozwoleń, ochrona zabytków",
+        "działalność": "monitoring stanu piramidy, konserwacja, badania naukowe"
+      }
+    },
+    "społeczne": {
+      "zarządzanie": "Supreme Council of Antiquities (SCA), Ministerstwo Turystyki i Starożytności",
+      "działalność_charytatywna": "część dochodów na edukację i ochronę dziedzictwa",
+      "inicjatywy_społeczne": "programy zatrudnienia lokalnej społeczności",
+      "wolontariat": "wolontariusze międzynarodowi przy projektach konserwatorskich",
+      "wydarzenia": [
+        "celebracje ekwinokcjów",
+        "pokazy świateł i dźwięku (Sound and Light Show)",
+        "koncerty (rzadko, ze względu na ochronę)",
+        "wydarzenia kulturalne w kompleksie Gizy",
+        "obchody rocznic odkryć archeologicznych"
+      ],
+      "pokaz_światła_dźwięku": {
+        "nazwa": "Sound and Light Show at the Pyramids",
+        "częstotliwość": "codziennie wieczorem",
+        "języki": "różne wersje językowe (angielski, arabski, francuski, niemiecki, włoski, hiszpański, rosyjski, japoński)",
+        "czas_trwania": "około 1 godziny",
+        "cena": "około 450-600 EGP",
+        "tematyka": "historia budowy piramid, życie faraonów, cywilizacja egipska"
+      },
+      "wpływ_na_społeczność_lokalną": {
+        "zatrudnienie": "tysiące miejsc pracy dla mieszkańców Gizy",
+        "przewodnicy": "setki licencjonowanych przewodników",
+        "handel": "tysiące osób żyjących z turystyki",
+        "transport": "taksówkarze, kierowcy autobusów, obsługa wielbłądów i koni",
+        "restauracje_hotele": "branża hotelarska i gastronomiczna w Gizie"
+      }
+    },
+    "naukowe": {
+      "obserwatorium_nieformalne": "pierwotnie służyła celom astronomicznym i kalendarzowym",
+      "laboratorium_badawcze": "współczesne badania geofizyczne, skanowanie, analiza materiałów",
+      "centrum_konserwatorskie": "prace nad zachowaniem struktury dla przyszłych pokoleń",
+      "platforma_technologiczna": "testowanie nowych technologii badawczych - roboty, sensory, skanery"
+    },
+    "ceremonial_historical": {
+      "starożytność": "miejsce rytuałów pogrzebowych faraona, codziennych ofiar w świątyni",
+      "średniowiecze": "cel wypraw poszukiwaczy skarbów",
+      "oświecenie": "obiekt badań naukowych i wypraw eksploracyjnych",
+      "współczesność": "symbol dziedzictwa ludzkości, miejsce pamięci narodowej Egiptu"
+    }
+},
+"kontekst_historyczny": {
+    "geneza_projektu": {
+      "inicjator": "Faraon Chufu (Cheops) - drugi władca IV dynastii",
+      "organizacja": "aparat państwowy starożytnego Egiptu, administracja centralna",
+      "inspiracja": "wcześniejsze piramidy - piramida schodkowa Dżesera, piramidy w Dahszur (Czerwona Piramida Snofru)",
+      "cel": "grobowiec królewski, miejsce wiecznego spoczynku faraona i jego transformacji w bóstwo",
+      "kontekst_społeczny": "szczyt potęgi Starego Państwa, absolutna władza faraona jako żywego boga",
+      "filozofia": "faraon jako wcielenie Horusa za życia i Ozyrysa po śmierci, piramida jako wehikuł wzniesienia do nieba"
+    },
+    "epoka_powstania": {
+      "okres": "Stare Państwo, IV dynastia (ok. 2580-2560 p.n.e.) - Złoty Wiek piramid",
+      "kontekst_polityczny": "silna centralizacja władzy, absolutyzm faraonów, stabilność polityczna",
+      "kontekst_kulturowy": "rozkwit kultury egipskiej, rozwój pisma hieroglificznego, sztuki, religii solarnej",
+      "kontekst_artystyczny": "szczyt architektury monumentalnej, doskonalenie technik budowy piramid",
+      "sytuacja_ekonomiczna": "dobrobyt państwa, kontrola nad zasobami całego Egiptu, handel z sąsiadami (Liban - drewno, Nubią - złoto)"
+    },
+    "ważne_wydarzenia_historyczne": {
+      "panowanie_Snofru": {
+        "okres": "ok. 2613-2589 p.n.e.",
+        "wpływ": "ojciec Chufu zbudował trzy piramidy (Meidum, Łamana, Czerwona), doskonalenie technik",
+        "znaczenie": "Chufu odziedziczył doświadczenie i technologie budowy piramid",
+        "innowacje": "przejście od piramid schodkowych do prawdziwych piramid o gładkich ścianach"
+      },
+      "budowa_2580-2560_p.n.e.": {
+        "czas_trwania": "około 20-23 lata",
+        "siła_robocza": "dziesiątki tysięcy robotników w systemie rotacyjnym",
+        "organizacja": "kompleksowa logistyka - wioski robotników, dostaw żywności, transportu",
+        "osiągnięcie": "największa budowla kamienną świata przez kolejne 3800 lat"
+      },
+      "śmierć_Chufu_2566_p.n.e.": {
+        "wydarzenie": "pogrzeb faraona w Komorze Króla",
+        "ceremonial": "rytuały mumifikacji, procesja pogrzebowa, ofiary",
+        "zamknięcie": "zablokowanie Korytarza Wstępującego granitowymi blokami",
+        "kult_pośmiertny": "codzienne ofiary w świątyni grobowej przez stulecia"
+      },
+      "rabunki_starożytne": {
+        "okres": "Pierwszy Okres Przejściowy (ok. 2181-2055 p.n.e.)",
+        "wpływ": "złupienie piramidy, kradzież skarbów i mumii faraona",
+        "skutki": "Komora Króla znaleziona pusta w czasach współczesnych",
+        "kontekst": "upadek centralnej władzy, chaos, grabieże grobowców"
+      },
+      "okres_grecko-rzymski": {
+        "331_p.n.e.": "Aleksander Wielki odwiedza piramidy",
+        "około_450_p.n.e.": "Herodot opisuje piramidy jako jeden z cudów świata",
+        "I-II_w_n.e.": "Piramida Cheopsa uznawana za cud przez autorów antycznych",
+        "wpływ": "początek fascynacji piramidami w świecie śródziemnomorskim"
+      },
+      "okres_arabski": {
+        "820_n.e.": "Kalif Al-Mamun wyłamuje wejście poszukując skarbów",
+        "odkrycie": "znalezienie pustego sarkofagu, brak mumii i skarbów",
+        "wpływ": "rozpoczęcie systematycznej eksploracji wnętrza",
+        "legenda": "arabskie opowieści o ukrytych skarbach i wiedzy"
+      },
+      "kampania_napoleońska_1798": {
+        "wydarzenie": "bitwa pod piramidami, naukowa ekspedycja francuska",
+        "znaczenie": "pierwsze systematyczne pomiary i opisy naukowe",
+        "wpływ": "początek nowoczesnej egiptologii",
+        "publikacja": "Description de l'Égypte - monumentalne dzieło o starożytnym Egipcie"
+      },
+      "wiek_XIX_egiptologia": {
+        "1837": "Howard Vyse i John Perring - odkrycie komór odciążających",
+        "1872": "Waynman Dixon - odkrycie szybów w Komorze Królowej",
+        "1880-1882": "Flinders Petrie - precyzyjne pomiary piramidy",
+        "wpływ": "rozwój egiptologii jako nauki, systematyczne badania"
+      },
+      "wiek_XX_archeologia": {
+        "1925": "Odkrycie pierwszej łodzi słonecznej przez Georges Reisner",
+        "1954": "Kamal el-Mallakh odkrywa drugą łódź w stanie nienaruszonym",
+        "1986": "Projekty mikrograwitacyjne - poszukiwanie ukrytych komór",
+        "1993": "Robot Upuaut2 odkrywa 'drzwi' w szybachKomory Królowej"
+      },
+      "wiek_XXI_technologia": {
+        "2002": "Robot Pyramid Rover penetruje szyby",
+        "2011": "Robot Djedi wykonuje endoskopię",
+        "2017": "ScanPyramids - odkrycie wielkiej pustki nad Wielką Galerią metodą mionów kosmicznych",
+        "2023": "Odkrycie ukrytego korytarza nad głównym wejściem",
+        "wpływ": "nowoczesne technologie rewolucjonizują badania piramidy"
+      },
+      "wpis_UNESCO_1979": {
+        "data": "1979",
+        "tytuł": "Memphis i jego nekropolia - pola piramid od Gizy do Dahshur",
+        "znaczenie": "uznanie uniwersalnej wartości dla ludzkości",
+        "ochrona": "międzynarodowe zobowiązanie do zachowania"
+      }
+    },
+    "kontekst_Chufu": {
+      "wiek_objęcia_tronu": "około 20-25 lat",
+      "długość_panowania": "23 lata według Papirusu Turyńskiego",
+      "dedykacja": "całe panowanie podporządkowane budowie piramidy",
+      "życie": "rezydencja królewska w Memfis, nadzór nad budową w Gizie",
+      "filozofia": "utrwalenie potęgi dynastii, zapewnienie sobie nieśmiertelności, demonstracja boskiego mandatu",
+      "śmierć": "około 2566 p.n.e., mumifikacja i pochówek w piramidzie",
+      "pochówek": "Komora Króla wewnątrz Wielkiej Piramidy",
+      "mumia": "zaginiona, prawdopodobnie zniszczona przez rabusiów grobów w starożytności",
+      "reputacja_historyczna": {
+        "starożytność": "potężny faraon, budowniczy największej piramidy",
+        "Herodot": "opisany jako tyran, który zmusił lud do niewolniczej pracy (prawdopodobnie błędna interpretacja)",
+        "współczesność": "uznany za sprawnego organizatora i wizjonera architektonicznego"
+      },
+      "rodzina": {
+        "ojciec": "Snofru - budowniczy trzech wielkich piramid",
+        "matka": "Hetepheres I",
+        "żony": "kilka żon królewskich, w tym Meritites I, Henutsen",
+        "synowie": "Kawab (najstarszy, zmarł przed ojcem), Dżedefre (następca), Chefren (późniejszy faraon)",
+        "następca": "Dżedefre, potem Chefren - kontynuatorzy tradycji budowy piramid w Gizie"
+      },
+      "osiągnięcia": {
+        "architektoniczne": "budowa największej piramidy wszech czasów",
+        "inżynieryjne": "organizacja największego przedsięwzięcia budowlanego starożytności",
+        "polityczne": "umocnienie władzy centralnej i autorytetu faraona",
+        "ekonomiczne": "sprawna mobilizacja zasobów całego państwa",
+        "kulturowe": "utrwalenie koncepcji faraona-boga"
+      }
+    },
+    "wpływ_na_następców": {
+      "Chefren": "zbudował drugą piramidę w Gizie (136 m) i Wielkiego Sfinksa",
+      "Mykerinos": "zbudował trzecią, mniejszą piramidę w Gizie (65 m)",
+      "późniejsze_dynastie": "próby naśladowania, ale nigdy nie osiągnięto tej skali",
+      "upadek_tradycji": "po V dynastii piramidy stały się mniejsze i gorszej jakości",
+      "dziedzictwo": "Wielka Piramida pozostała wzorem doskonałości przez tysiąclecia"
+    }
+  },
+"szczegółowy_opis": {
+    "tekst_krótki": "Wielka Piramida w Gizie to monumentalny grobowiec faraona Chufu (Cheopsa) z IV dynastii starożytnego Egiptu. Zbudowana około 2560 p.n.e., przez prawie 4000 lat była najwyższą budowlą na świecie. Składa się z około 2,3 miliona bloków kamiennych o łącznej masie 5,75 miliona ton. Zawiera system wewnętrznych korytarzy i komór, w tym Wielką Galerię i Komorę Króla. Jedyny zachowany z Siedmiu Cudów Starożytnego Świata. Obiekt UNESCO od 1979 roku.",
+    "tekst_długi": "Wielka Piramida w Gizie, znana również jako Piramida Cheopsa lub Piramida Chufu, to monumentalne arcydzieło starożytnej architektury i inżynierii, które od ponad 4500 lat góruje nad egipską pustynią jako symbol potęgi i osiągnięć ludzkości. Ta niezwykła budowla, wzniesiona około 2560 roku p.n.e. jako grobowiec dla faraona Chufu, drugiego władcy IV dynastii Starego Państwa, pozostaje jednym z najbardziej intrygujących i zagadkowych monumentów w historii.\n\nBudowa piramidy rozpoczęła się około 2580 roku p.n.e., na początku panowania Chufu, i trwała prawdopodobnie od 20 do 23 lat. Za projekt i realizację odpowiadał Hemiunu, wizyr faraona i jego bratanek, uznawany za jednego z najgenialniejszych architektów starożytności. Przedsięwzięcie wymagało zmobilizowania zasobów całego państwa egipskiego - według współczesnych szacunków w budowie uczestniczyło około 20 000 do 30 000 robotników rocznie, pracujących w systemie rotacyjnym zwanym corée podczas wylewów Nilu, gdy prace rolnicze były niemożliwe.\n\nArchitektoniczna doskonałość piramidy zapiera dech w piersiach. Pierwotnie miała 146,6 metra wysokości (obecnie 138,8 m po utracie piramidionu i erozji), a każda ze stron podstawy mierzy około 230 metrów, tworząc kwadrat o powierzchni ponad 5 hektarów. Podstawa została wyrównana z niewiarygodną precyzją - różnica wysokości między narożnikami wynosi zaledwie 2,1 centymetra. Orientacja względem kierunków kardynalnych jest niemal perfekcyjna, z błędem wynoszącym jedynie 3 minuty i 6 sekund łuku. Kąt nachylenia ścian wynosi dokładnie 51°50'40\", co było optymalnym rozwiązaniem zapewniającym stabilność konstrukcji.\n\nMateriały użyte do budowy pochodziły z różnych źródeł. Główny rdzeń piramidy składa się z około 2,3 miliona bloków lokalnego wapienia wydobytego z kamieniołomów na płaskowyżu Giza, ważących średnio 2,5 tony każdy. Okładzina zewnętrzna, niemal całkowicie zrabowana w średniowieczu, składała się z około 115 000 bloków białego, wysokiej jakości wapienia z Tury, transportowanego barkami po Nilu z kamieniołomów oddalonych o 13 kilometrów. Najcięższe elementy - bloki granitowe użyte w Komorze Króla, w komnatach odciążających i jako zatyczki blokujące korytarze - pochodziły z Asuanu, oddalonego o 800 kilometrów na południe. Niektóre z tych bloków, szczególnie belki stropowe Komory Króla, ważą do 80 ton.\n\nSystem wewnętrznych korytarzy i komór stanowi inżynierskie arcydzieło. Korytarz Zstępujący prowadzi z północnej ściany piramidy w dół przez masywa kamienia i dalej przez litą skałę do Komory Podziemnej, wykutej 30 metrów pod poziomem podstawy, która pozostała niezakończona. Z Korytarza Zstępującego odchodzi Korytarz Wstępujący, prowadzący pod kątem 26° w górę do wnętrza piramidy. Po jego zablokowaniu trzema granitowymi blokami zatyczkowymi po pogrzebie faraona, dostęp do górnych części był niemożliwy - aż do 820 roku n.e., kiedy kalif Al-Mamun kazał wyłamać nowe wejście.\n\nWielka Galeria to najbardziej spektakularna przestrzeń architektoniczna w piramidzie - korytarz o długości 46,68 metra i wysokości 8,6 metra, z genialnym sklepieniem korbusowym, gdzie siedem warstw bloków wystaje kolejno jedna nad drugą, tworząc wąski sufit. Ta konstrukcja nie tylko imponuje estetyką, ale była też elementem systemu blokującego dostęp do Komory Króla po ceremonii pogrzebowej.\n\nKomora Króla, położona na wysokości 43 metrów, to miejsce wiecznego spoczynku faraona. Wykonana w całości z czerwonego granitu asuańskiego, ma wymiary 10,47 × 5,23 × 5,84 metra. Sufit tworzą dziewięć monolitycznych belek granitowych, każda ważąca około 50 ton. Wewnątrz stoi pusty sarkofag granitowy bez wieka - mumia faraona i wszelkie skarby zostały skradzione już w starożytności, prawdopodobnie podczas Pierwszego Okresu Przejściowego (ok. 2181-2055 p.n.e.). Nad Komorą Króla znajduje się pięć komnat odciążających, które rozpraszają ogromny ciężar milionów ton kamienia, chroniąc komorę przed zawaleniem. W najwyższej z nich odkryto jedyne hieroglify w całej piramidzie - znaki kamieniarskie z imieniem Chufu.\n\nFascynujące są również szyby wentylacyjne - wąskie kanały o przekroju 20 × 20 cm, prowadzące z Komory Króla i Komory Królowej. Te z Komory Króla przebijają się przez całą strukturę piramidy na zewnątrz, celowane w konkretne gwiazdy: północny w Thuban (ówczesną gwiazdę polarną), południowy w pas Oriona (utożsamianego z Ozyrysem). Szyby z Komory Królowej kończą się ślepo przed zewnętrzną ścianą, z małymi \"drzwiami\" z miedzianymi uchwytami odkrytymi przez roboty w latach 90. XX wieku - ich przeznaczenie pozostaje tajemnicą.\n\nMetody budowy piramidy są przedmiotem intensywnych debat naukowych. Najprawdopodobniej wykorzystano kombinację technik: zewnętrzne rampy proste lub spiralne do transportu bloków, drewniane sanie ciągnięte przez dziesiątki ludzi po zwilżanych piaskiem drogach (co zmniejsza tarcie o 50%), dźwignie wahadłowe do precyzyjnego ustawiania bloków, oraz ewentualnie wewnętrzne rampy spiralne (teoria Jean-Pierre'a Houdina z 2007 roku, częściowo potwierdzona skanowaniem mikrograwitacyjnym). Odkrycia papirusów w Wadi al-Jarf z 2013 roku - dzienników nadzorcy Merera opisujących transport wapienia z Tury - potwierdziły, że robotnicy byli wolnymi obywatelami otrzymującymi regularne wynagrodzenie w postaci żywności, a nie niewolnikami jak błędnie twierdził Herodot.\n\nPo ukończeniu piramida była pokryta lśniącą białą okładziną wapienną, która odbijała światło słoneczne, czyniąc ją widoczną z odległości dziesiątek kilometrów jako gigantyczny promień słońca - fizyczna manifestacja związku faraona z bogiem Ra. Wierzchołek wieńczył piramidion (Benben), prawdopodobnie z granitu lub bazaltu, możliwe że pokryty złotem, symbolizujący święty kamień z Heliopolis i pierwszy pagórek wyłaniający się z praoceanego chaosu Nun. Niestety, zarówno piramidion jak i niemal cała okładzina zostały zrabowane w średniowieczu - użyto ich do budowy meczetów i pałaców w Kairze.\n\nKompleks grobowy obejmował znacznie więcej niż samą piramidę. U jej wschodniego podnóża stała świątynia grobowa, w której codziennie składano ofiary dla zmarłego faraona. Grobla ceremonialna o długości 825 metrów łączyła ją ze świątynią doliny nad brzegiem Nilu, gdzie odbywały się pierwsze rytuały pogrzebowe. Wokół piramidy wzniesiono trzy mniejsze piramidy satelickie dla królowych oraz regularne rzędy mastab - grobowców dworzan i rodziny królewskiej. W pięciu wykutych w skale jaskiniach ukryto ceremonialne łodzie - najsłynniejsza, odkryta w 1954 roku, to statek cedrowy o długości 43,4 metra, który po rekonstrukcji jest eksponowany w specjalnym muzeum.\n\nZnaczenie Wielkiej Piramidy wykracza daleko poza jej funkcję grobowca. Dla starożytnych Egipcjan była wehikułem transformacji faraona - jego ciało spoczywało w ziemskim wymiarze, podczas gdy dusza (Ba) opuszczała komorę przez szyby stellarne, łącząc się z gwiazdami okołobiegunowymi (ach-ikhu, \"niezniszczalnymi\") i konstelacją Oriona (Sah-Ozyrys), aby faraon mógł narodzić się na nowo jako bóstwo i dołączyć do cyklu wieczności.\n\nDla współczesnego świata piramida jest symbolem ludzkiej ambicji, geniuszu i zdolności do realizacji niemożliwego. Przez prawie 3800 lat - aż do ukończenia katedry w Lincoln w XIV wieku - była najwyższą budowlą stworzoną przez człowieka. Jest jedynym zachowanym z Siedmiu Cudów Starożytnego Świata i najstarszym. W 1979 roku została wpisana na Listę Światowego Dziedzictwa UNESCO jako część kompleksu \"Memphis i jego nekropolia\".\n\nWspółczesne badania z wykorzystaniem najnowszych technologii wciąż przynoszą odkrycia. W 2017 roku międzynarodowy projekt ScanPyramids, wykorzystujący detektory mionów kosmicznych, odkrył wielką pustkę nad Wielką Galerią - przestrzeń o długości co najmniej 30 metrów, której przeznaczenie pozostaje nieznane. W 2023 roku endoskopy ujawniły ukryty korytarz nad oryginalnym wejściem. Te odkrycia dowodzą, że po 4500 latach Wielka Piramida wciąż skrywa tajemnice.\n\nPiramida Cheopsa to nie tylko kamienne monstrum, ale świadectwo cywilizacji, która osiągnęła szczyt doskonałości architektonicznej i organizacyjnej. To dowód, że bez komputerów, dźwigów i współczesnych technologii, dysponując jedynie miedzianymi narzędziami, linami i ludzką determinacją, starożytni Egipcjanie stworzyli coś, co przetrwało tysiąclecia i wciąż inspiruje kolejne pokolenia. Jako symbol wieczności i nieśmiertelności, Wielka Piramida pozostaje najwspanialszym monumentem ambicji ludzkości.",
+    "opis_symboliczny": "Wielka Piramida to skamieniały promień słońca, most między ziemią a niebem, matematyczna modlitwa wyrażona w kamieniu. To wehikuł nieśmiertelności, drabina dusz prowadząca faraona od ziemskiego padołu do gwiazd wiecznych. Każdy blok to modlitwa tysięcy rąk, każda warstwa to krok bliżej bogów, każdy korytarz to droga transformacji. Dla starożytnych była symbolem porządku (Maat) triumfującego nad chaosem (Isfet), górą pierwotną wyłaniającą się z Nun, miejscem gdzie śmiertelny faraon przekształcał się w nieśmiertelne bóstwo. To nie budowla, ale kosmologiczny diagram, mapa nieba odwzorowana na ziemi, gdzie geometria staje się teologią, a architektura - bramą do wieczności. Piramida jest pytaniem zadanym bezczasowi: czy człowiek może osiągnąć nieśmiertelność? I odpowiedzią: tak, poprzez dzieła które przetrwają tysiąclecia.",
+    "ciekawostki": [
+      "Przez prawie 4000 lat była najwyższą budowlą świata - aż do XIV wieku",
+      "Jest jedynym zachowanym z Siedmiu Cudów Starożytnego Świata",
+      "Podstawa jest wyrównana z dokładnością do 2,1 cm na powierzchni ponad 5 hektarów",
+      "Orientacja względem północy ma błąd tylko 3 minuty kątowe - bez użycia kompasu",
+      "Stosunek wysokości do obwodu podstawy wynosi dokładnie 2π (z dokładnością 0,05%)",
+      "Temperatura wewnątrz piramidy jest stała przez cały rok - około 20°C",
+      "Napoleon obliczył, że z kamienia z piramid Gizy można by zbudować mur wokół całej Francji",
+      "Robotnicy budujący piramidę nie byli niewolnikami, ale wolnymi obywatelami otrzymującymi płacę",
+      "Odkryto cmentarz robotników z dowodami opieki medycznej - leczono złamania kości",
+      "Bloki okładzinowe były dopasowane z dokładnością do ułamka milimetra - nie można wsunąć noża między nie",
+      "Oryginalna biała okładzina sprawiała, że piramida lśniła jak diament widoczny z dziesiątek kilometrów",
+      "W średniowieczu arabowie zrabowali okładzinę do budowy meczetów i pałaców w Kairze",
+      "Kalif Al-Mamun w 820 r. wydał fortunę na wyłamanie wejścia, znajdując tylko pusty sarkofag",
+      "Sarkofag w Komorze Króla jest większy niż wejście - został wniesiony podczas budowy",
+      "Akustyka w Komorze Króla rezonuje na częstotliwości około 16 Hz - poniżej progu słyszalności",
+      "W 1992 roku robot Upuaut odkrył małe 'drzwi' z miedzianymi uchwytami w szybachKomory Królowej",
+      "W 2017 roku odkryto wielką pustkę nad Wielką Galerią używając mionów kosmicznych",
+      "Piramida składa się z około 2,3 miliona bloków kamiennych",
+      "Całkowita masa piramidy wynosi około 5,75 miliona ton",
+      "Gdyby rozłożyć wszystkie bloki w linii, ciągnęłyby się one przez 2/3 obwodu Ziemi",
+      "Budowa wymagała przemieszczania średnio 12 bloków na godzinę przez 20 lat",
+      "Herodot błędnie twierdził, że budowa trwała tylko 20 lat i angażowała 100 000 niewolników",
+      "Łódź słoneczna Chufu przetrwała 4500 lat i została zrekonstruowana z 1224 części",
+      "W XIX wieku piramida była miejscem turystycznym - wspinano się na szczyt (dziś zabronione)",
+      "Mark Twain po wizycie napisał: 'najpotężniejszy grób, jaki widziałem'",
+      "W czasie II wojny światowej brytyjskie wojska używały piramid jako punktów orientacyjnych nawigacyjnych",
+      "Piramida znajduje się dokładnie w centrum mas lądowych Ziemi (przypadek czy zamiar?)",
+      "Istnieją teorie, że szyby wentylacyjne służyły do obserwacji gwiazd i rytuałów astronomicznych",
+      "Lokalna legenda głosi, że kto wspina się na piramidę, umrze w ciągu roku (zakaz wspinania)",
+      "W 2013 odkryto papirusy z Wadi al-Jarf - dzienniki nadzorcy transportu kamienia do piramidy"
+    ]
+},
+"dane_techniczne": {
+    "numer_UNESCO": "86",
+    "współrzędne": {
+      "WGS84": {
+        "lat": 29.9792,
+        "lon": 31.1342,
+        "alt": 60
+      },
+      "UTM": {
+        "strefa": "36R",
+        "easting": 287488,
+        "northing": 3318483
+      }
+    },
+    "status_prawny": {
+      "właściciel": "Państwo Egipskie - Supreme Council of Antiquities",
+      "typ_własności": "własność państwowa, skarb narodowy",
+      "zarządca": "Ministry of Tourism and Antiquities",
+      "przeznaczenie": "pomnik archeologiczny, muzeum na wolnym powietrzu, obiekt turystyczny",
+      "ochrona_konserwatorska": "najwyższy stopień ochrony zabytków w Egipcie i UNESCO"
+    },
+    "ubezpieczenie": {
+      "typ": "ubezpieczenie jako dobro narodowe nieocenione",
+      "wartość_ubezpieczenia": "niemożliwa do oszacowania - bezcenne dobro ludzkości",
+      "zakres": "ochrona państwowa, monitoring konserwatorski, zabezpieczenie przed katastrofami naturalnymi",
+      "uwaga": "jako dobro UNESCO podlega międzynarodowej ochronie prawnej"
+    },
+    "certyfikaty_budowlane": {
+      "status_historyczny": "budowla ukończona około 2560 p.n.e. - bez współczesnych certyfikatów budowlanych",
+      "pozwolenia_konserwatorskie": "wszelkie prace konserwatorskie wymagają zgody Supreme Council of Antiquities",
+      "certyfikat_bezpieczeństwa": "regularne przeglądy statyki i bezpieczeństwa turystycznego",
+      "dostępność": "ograniczona dostępność ze względu na wąskie korytarze i strome schody",
+      "limity_obciążenia": "dzienny limit 300 osób wchodzących do wnętrza ze względów konserwatorskich"
+    },
+    "systemy_budynku": {
+      "ogrzewanie": {
+        "typ": "brak - naturalna termoregulacja",
+        "temperatura_wewnętrzna": "stała około 20°C przez cały rok",
+        "izolacja": "naturalna izolacja termiczna przez masę kamienia"
+      },
+      "wentylacja": {
+        "typ": "naturalna przez oryginalne szyby wentylacyjne",
+        "szyby_stellarne": "4 szyby o przekroju 20x20 cm",
+        "problem": "wysoka wilgotność od oddechu turystów",
+        "rozwiązanie": "limity wejść, monitoring wilgotności"
+      },
+      "klimatyzacja": {
+        "typ": "brak sztucznej klimatyzacji",
+        "naturalna": "masa kamienna stabilizuje temperaturę"
+      },
+      "woda": {
+        "dostawca": "brak instalacji wodnej w piramidzie",
+        "wilgoć": "problem kondensacji w Komorze Króla"
+      },
+      "kanalizacja": {
+        "typ": "brak instalacji sanitarnych wewnątrz piramidy",
+        "toalety": "zewnętrzne dla turystów przy wejściu do kompleksu"
+      },
+      "elektryczność": {
+        "oświetlenie_wewnętrzne": "minimalne oświetlenie LED w korytarzach i komorach",
+        "moc": "niska - około 5-10 kW",
+        "zasilanie": "kable doprowadzone z zewnątrz",
+        "oświetlenie_zewnętrzne": "reflektory dla pokazu świateł",
+        "Solar_panels": "brak - chroniony zabytek"
+      },
+      "przeciwpożarowy": {
+        "materiał": "kamień - niepalny",
+        "ryzyko": "minimalne ze względu na brak materiałów palnych",
+        "gaśnice": "przenośne gaśnice przy wejściach",
+        "uwaga": "brak tradycyjnego systemu przeciwpożarowego ze względu na charakter obiektu"
+      },
+      "bezpieczeństwo": {
+        "monitoring": "kamery CCTV przy wejściach i na platformach widokowych",
+        "kontrola_dostępu": "biletowanie elektroniczne, bramki",
+        "ochrona": "całodobowa ochrona przez Egyptian Tourism Police i strażników",
+        "liczba_strażników": "około 50 osób w całym kompleksie Gizy",
+        "drony": "zakaz lotów dronów nad piramidami",
+        "wspinaczka": "surowy zakaz wspinania się na piramidę (kary więzienia)"
+      },
+      "monitoring_strukturalny": {
+        "czujniki": "czujniki sejsmiczne monitorujące ruchy konstrukcji",
+        "georadar": "okresowe skanowania georadarem",
+        "fotogrametria": "regularne skanowanie 3D powierzchni",
+        "monitoring_szczelin": "obserwacja pęknięć i szczelin",
+        "częstotliwość": "przeglądy kwartalne przez inżynierów"
+      }
+    },
+    "zarządzanie_konserwacją": {
+      "czyszczenie": "okresowe czyszczenie kamienia z zanieczyszczeń",
+      "impregnacja": "specjalne impregnaty chroniące przed wilgocią i erozją",
+      "naprawa": "uzupełnianie uszkodzonych bloków",
+      "dokumentacja": "cyfrowa dokumentacja stanu zachowania",
+      "badania": "ciągłe badania naukowe nad metodami konserwacji"
+    },
+    "systemy_turystyczne": {
+      "bilety": "elektroniczny system sprzedaży biletów online i na miejscu",
+      "audioprzewodniki": "dostępne w wielu językach - wypożyczalnia przy wejściu",
+      "przewodnicy": "licencjonowani przewodnicy egipscy",
+      "informacja": "tablice informacyjne w języku arabskim i angielskim",
+      "Wi-Fi": "ograniczone punkty Wi-Fi w strefie wejściowej",
+      "toalety": "toalety publiczne przy wejściu do kompleksu",
+      "sklepy": "kioski z pamiątkami i wodą mineralna",
+      "punkt_medyczny": "podstawowy punkt pierwszej pomocy"
+    },
+    "infrastruktura_zewnętrzna": {
+      "parking": "duży parking dla autokarów i samochodów prywatnych",
+      "pojemność": "około 200 autokarów + 500 samochodów",
+      "drogi_dojazdowe": "asfaltowe drogi wokół kompleksu",
+      "chodniki": "wyznaczone ścieżki dla turystów",
+      "ogrodzenie": "ogrodzenie kompleksu archeologicznego",
+      "brama_główna": "główna kasa biletowa i punkt kontroli"
+    },
+    "muzeum_łodzi": {
+      "lokalizacja": "przy południowej ścianie piramidy",
+      "klimatyzacja": "pełna klimatyzacja dla ochrony drewnianej łodzi",
+      "wilgotność": "kontrolowana wilgotność 50-60%",
+      "temperatura": "stała 20-22°C",
+      "oświetlenie": "specjalne oświetlenie UV-free",
+      "bezpieczeństwo": "system antywłamaniowy i przeciwpożarowy",
+      "status": "czasowo zamknięte - przenoszenie do GEM"
+    },
+    "wielkie_muzeum_egipskie_GEM": {
+      "lokalizacja": "2 km od piramid",
+      "funkcja": "nowe centrum wystawiennicze dla artefaktów z piramid",
+      "powierzchnia": "około 50000 m² powierzchni wystawienniczej",
+      "technologia": "najnowocześniejsze systemy klimatyzacji i konserwacji",
+      "otwarcie": "częściowe od 2023, pełne planowane",
+      "eksponaty": "łódź słoneczna Chufu, artefakty z nekropolii Gizy"
+    },
+    "sound_and_light_show": {
+      "system_nagłośnienia": "system głośników wokół piramid",
+      "moc": "około 50 kW",
+      "oświetlenie": "setki reflektorów LED RGB",
+      "sterowanie": "komputerowy system sterowania pokazem",
+      "języki": "8 różnych wersji językowych",
+      "częstotliwość": "codziennie wieczorem (2 pokazy)"
+    },
+    "badania_naukowe": {
+      "ScanPyramids": "projekt międzynarodowy skanowania wnętrza",
+      "detektory_mionów": "3 stacje detektorów cząstek kosmicznych",
+      "termografia": "kamery termowizyjne do badania anomalii",
+      "georadar": "skanowanie georadarem w poszukiwaniu ukrytych komór",
+      "roboty": "miniaturowe roboty do eksploracji szybów",
+      "skanowanie_3D": "cyfrowe mapowanie całej struktury",
+      "laboratorium": "laboratorium konserwatorskie na miejscu"
+    },
+    "ochrona_środowiska": {
+      "erozja_wietrzna": "monitoring erozji przez wiatr i piasek",
+      "zanieczyszczenie": "monitoring zanieczyszczeń z Kairu",
+      "wilgoć": "problem wilgoci od turystów i smogу",
+      "temperatura": "wzrost temperatury globalnej - ryzyko pęknięć",
+      "działania": "impregnacja, czyszczenie, ograniczenie ruchu turystycznego"
+    },
+    "gospodarka_odpadami": {
+      "segregacja": "pojemniki na śmieci przy ścieżkach turystycznych",
+      "sprzątanie": "codzienne sprzątanie kompleksu",
+      "recykling": "podstawowa segregacja odpadów",
+      "problem": "śmieci pozostawiane przez turystów"
+    },
+    "dostęp_logistyczny": {
+      "drogi_serwisowe": "drogi dla pojazdów konserwatorskich",
+      "magazyny": "magazyny sprzętu konserwatorskiego",
+      "warsztaty": "warsztaty archeologiczne",
+      "biura": "biura Supreme Council of Antiquities na miejscu"
+    },
+    "sezonowość": {
+      "sezon_wysoki": "październik - kwiecień (przyjemna pogoda)",
+      "sezon_niski": "maj - wrzesień (upały do 45°C)",
+      "godziny_szczytowe": "8:00-10:00 rano (przed upałami)",
+      "dni_szczytowe": "weekendy i święta islamskie"
+    }
+  },
+ "kontakt": {
+    "adres_korespondencyjny": "Pyramids of Giza, Al Haram, Nazlet El-Semman, Al Giza Desert, Giza Governorate, Egypt",
+    "adres_pocztowy": "Egyptian Museum, Tahrir Square, Cairo, Egypt (dla korespondencji dotyczącej piramid)",
+    "telefon_kompleks": "+20 2 3383 8823",
+    "telefon_rezerwacje": "+20 2 3377 3222",
+    "e-mail": "info@sca-egypt.org",
+    "e-mail_rezerwacje": "reservations@gizapyramids.gov.eg",
+    "e-mail_badania": "research@mota.gov.eg",
+    "strona_internetowa": "http://www.sca-egypt.org",
+    "rezerwacje_online": "https://egymonuments.gov.eg",
+    "social_media": {
+      "facebook": "@EgyptianAntiquities",
+      "instagram": "@egyptianantiquities",
+      "twitter": "@AntiquitiesOf",
+      "youtube": "Egypt Ministry of Tourism and Antiquities"
+    },
+    "biuro_prasowe": "press@mota.gov.eg",
+    "dział_edukacyjny": "education@egyptianmuseum.gov.eg",
+    "współpraca_akademicka": "academic@mota.gov.eg",
+    "zgłoszenia_badawcze": "permissions@sca-egypt.org",
+    "Supreme_Council_Antiquities": {
+      "adres": "3 Al-Adel Abu Bakr Street, Zamalek, Cairo, Egypt",
+      "telefon": "+20 2 2735 8761",
+      "e-mail": "sca@mota.gov.eg",
+      "kierownik": "Secretary-General of the Supreme Council of Antiquities"
+    },
+    "Ministry_Tourism_Antiquities": {
+      "adres": "Misr Travel Tower, Abbassia Square, Cairo, Egypt",
+      "telefon": "+20 2 2261 5106",
+      "e-mail": "info@mota.gov.eg"
+    },
+    "informacja_turystyczna": {
+      "telefon": "+20 2 2391 3454 (Egyptian Tourist Authority)",
+      "e-mail": "info@egypt.travel",
+      "strona": "https://www.egypt.travel"
+    },
+    "muzeum_łodzi_słonecznej": {
+      "telefon": "+20 2 3383 8823",
+      "uwaga": "czasowo zamknięte - eksponat przeniesiony do GEM"
+    },
+    "Wielkie_Muzeum_Egipskie_GEM": {
+      "adres": "Cairo-Alexandria Desert Road, Giza, Egypt",
+      "telefon": "+20 2 3539 2304",
+      "e-mail": "info@gem.gov.eg",
+      "strona": "https://grandegyptianmuseum.org"
+    },
+    "pogotowie_ratunkowe": {
+      "policja": "122",
+      "pogotowie": "123",
+      "straż_pożarna": "180",
+      "policja_turystyczna": "126"
+    },
+    "przewodnicy_licencjonowani": {
+      "związek": "Egyptian Tour Guides Syndicate",
+      "telefon": "+20 2 2736 1402",
+      "wymaganie": "wymagany licencjonowany przewodnik dla grup"
+    },
+    "taxi_i_transport": {
+      "taxi_oficjalne": "+20 2 3383 8823 (przy piramidach)",
+      "uber_careem": "dostępne przez aplikacje mobilne",
+      "autobusy": "linia 355, 357 z centrum Kairu"
+    },
+    "najbliższe_szpitale": {
+      "Al_Haram_Hospital": "+20 2 3385 6030 (3 km od piramid)",
+      "Giza_General_Hospital": "+20 2 3570 2468 (7 km)"
+    },
+    "godziny_kontaktu": {
+      "biuro": "niedziela-czwartek 9:00-15:00 (weekend w piątek-sobotę)",
+      "rezerwacje": "codziennie 8:00-17:00",
+      "kompleks": "codziennie 7:00-19:00 (lato), 8:00-17:00 (zima)"
+    },
+    "języki_obsługi": {
+      "główne": ["arabski", "angielski"],
+      "dodatkowe": ["francuski", "niemiecki", "włoski", "hiszpański", "rosyjski", "chiński", "japoński"]
+    }
+},
+ 
+  "porady_praktyczne": {
+    "co_zabrać": [
+      "wygodne obuwie",
+      "wodę (minimum 1L)",
+      "kapelusz i krem z filtrem",
+      "aparat/telefon z naładowaną baterią",
+      "gotówka na pamiątki"
+    ],
+    "czego_unikać": [
+      "pory południowej w lecie (najgorętsze)",
+      "weekendy w sezonie (tłumy)",
+      "wciskających sprzedawców selfie-sticków",
+      "nielegalnych przewodników"
+    ],
+    "insiderskie_tipy": [
+      "Kup bilety online z wyprzedzeniem - ominiesz kolejki",
+      "Przyjdź o otwarciu lub 2h przed zamknięciem",
+      "Roma Pass daje pierwszeństwo wejścia",
+      "Bezpłatne Wi-Fi w okolicy - hasło w punkcie info",
+      "Najlepsze zdjęcia z Wzgórza Palatyn o zachodzie"
+    ],
+    "błędy_turystów": [
+      "Przyjście bez rezerwacji w sezonie",
+      "Niedocenianie czasu zwiedzania",
+      "Brak wody i ochrony przed słońcem",
+      "Próba zobaczenia wszystkiego w 1h",
+      "Kupowanie pamiątek od ulicznych sprzedawców (droższe)"
+    ]
+  },
+  
+ 
+  "ciekawostki_praktyczne": [
+    "W podziemiach (hypogeum) temperatura jest o 5-8°C niższa - zabierz bluzę",
+    "Darmowe wejście w pierwszą niedzielę każdego miesiąca (długie kolejki!)",
+    "Młodzież do 18 lat (UE) ma wstęp bezpłatny",
+    "Audioguide dostępne w 10 językach - warto wynająć",
+    "Arena jest oświetlona nocą - piękne widoki z zewnątrz za darmo",
+    "W pobliżu są publiczne toalety - przy Via dei Fori Imperiali",
+    "Punkt pierwszej pomocy znajduje się przy wejściu głównym"
+  ],
+  
+  "FAQ": [
+    {
+      "pytanie": "Czy mogę wejść z plecakiem?",
+      "odpowiedź": "Tak, ale będzie sprawdzany. Duże plecaki (>40x35x15cm) mogą być zabronione."
+    },
+    {
+      "pytanie": "Czy jest klimatyzacja?",
+      "odpowiedź": "Nie, Koloseum jest otwarte, bez klimatyzacji. Latem bardzo gorąco."
+    },
+    {
+      "pytanie": "Czy można robić zdjęcia?",
+      "odpowiedź": "Tak, dozwolone bez flesza i statywów. Drony zabronione."
+    },
+    {
+      "pytanie": "Czy jest dostępne dla wózków?",
+      "odpowiedź": "Częściowo. Winda dostępna, ale nie wszystkie poziomy są osiągalne."
+    },
+    {
+      "pytanie": "Gdzie kupić bilety?",
+      "odpowiedź": "Online na coopculture.it (zalecane) lub na miejscu (długie kolejki)."
+    }
+  ],
+
+  "historia_w_pigułce": {
+    "krotki_opis": "Największy amfiteatr starożytnego świata, zbudowany przez dynastię Flawiuszy w latach 72-80 n.e. Miejsce walk gladiatorów i polowań na dzikie zwierzęta.",
+    "dlaczego_warto_zobaczyc": "Symbol Rzymu i jeden z najlepiej zachowanych zabytków starożytności. Arcydzieło inżynierii, które przetrwało 2000 lat.",
+    "najciekawsze_fakty": [
+      "Mogło pomieścić 50-80 tysięcy widzów",
+      "Wszystkich można było ewakuować w 5-10 minut",
+      "Pod areną był labirynt korytarzy i 28 wind",
+      "Arena była zalewana wodą do bitew morskich"
+    ]
+  },
+
+  "multimedia": {
+    "wirtualny_spacer_url": "https://example.com/virtual-tour",
+    "drone_video_url": "https://youtube.com/...",
+    "dokumenty_filmowe": [
+      {
+        "tytuł": "Engineering an Empire: Rome",
+        "url": "https://...",
+        "czas": "45 min"
+      }
+    ],
+    "podcast_odcinki": []
+  }
+}

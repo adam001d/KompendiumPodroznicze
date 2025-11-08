@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir)",
+      "Bash(start chrome kraje.html)",
+      "Bash(dir:*)",
+      "Bash(start chrome \"H:\\Piaskownica\\!!Githubownik\\GaleriaTools\\src\\Bazy i galerie\\Kompendium pod 2\\index.html\")",
+      "Bash(start chrome \"H:\\Piaskownica\\!!Githubownik\\GaleriaTools\\src\\Bazy i galerie\\Kompendium pod 2\\atrakcje.html\")",
+      "Bash(start chrome \"H:\\Piaskownica\\!!Githubownik\\GaleriaTools\\src\\Bazy i galerie\\Kompendium pod 2\\atrakcje.html?building=koloseum\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

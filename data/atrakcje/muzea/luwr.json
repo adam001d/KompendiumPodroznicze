@@ -1,0 +1,357 @@
+{
+  "id": "ATR-MUZ-FR-PAR-001",
+  "typ": "atrakcja",
+  "kategoria": "muzeum",
+  
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Musée du Louvre",
+      "lokalna": "Le Louvre",
+      "tlumaczenia": {
+        "polski": "Luwr",
+        "angielski": "Louvre Museum"
+      }
+    },
+    "lokalizacja": {
+      "kraj_id": "KRAJ-FR-001",
+      "miasto_id": "MIASTO-FR-PAR-001",
+      "adres": {
+        "ulica": "Rue de Rivoli",
+        "kod_pocztowy": "75001",
+        "dzielnica": "1er arrondissement"
+      },
+      "wspolrzedne": {
+        "lat": 48.8606,
+        "lon": 2.3376
+      }
+    },
+    "status": {
+      "aktywne": true,
+      "otwarte_publicznie": true
+    }
+  },
+  
+  "charakterystyka": {
+    "typ_muzeum": "muzeum sztuki i archeologii",
+    "powierzchnia_m2": 72735,
+    "powierzchnia_wystawiennicza_m2": 60600,
+    "liczba_eksponatow": 380000,
+    "liczba_eksponatow_wystawianych": 35000,
+    "rok_otwarcia": 1793,
+    "budynek": {
+      "opis": "Dawny pałac królewski, obecnie muzeum",
+      "architektura": "renesansowa, klasycystyczna",
+      "piramida_szklana": {
+        "rok_budowy": 1989,
+        "architekt": "I.M. Pei",
+        "wysokosc_m": 21.6
+      }
+    }
+  },
+  
+  "kolekcje": [
+    {
+      "nazwa": "Malarstwo francuskie",
+      "okres": "XIV-XIX wiek",
+      "liczba_dziel": 7500,
+      "arcydziela": ["Wolność wiodąca lud na barykady - Delacroix"]
+    },
+    {
+      "nazwa": "Malarstwo włoskie",
+      "okres": "XIII-XVIII wiek",
+      "liczba_dziel": 1200,
+      "arcydziela": ["Mona Lisa - Leonardo da Vinci", "Wesele w Kanie Galilejskiej - Veronese"]
+    },
+    {
+      "nazwa": "Starożytności egipskie",
+      "okres": "4000 p.n.e. - IV w. n.e.",
+      "liczba_dziel": 50000,
+      "arcydziela": ["Pisarz przysiadły", "Mumie"]
+    },
+    {
+      "nazwa": "Starożytności greckie i rzymskie",
+      "arcydziela": ["Wenus z Milo", "Nike z Samotraki"]
+    },
+    {
+      "nazwa": "Sztuka islamska",
+      "liczba_dziel": 18000
+    }
+  ],
+  
+  "najslynniejsze_eksponaty": [
+    {
+      "nazwa": "Mona Lisa (La Gioconda)",
+      "artysta": "Leonardo da Vinci",
+      "rok": "1503-1519",
+      "sala": "Denon, sala 711",
+      "opis": "Najsłynniejszy obraz świata"
+    },
+    {
+      "nazwa": "Wenus z Milo",
+      "okres": "ok. 100 p.n.e.",
+      "sala": "Sully, sala 345",
+      "opis": "Grecka rzeźba bogini"
+    },
+    {
+      "nazwa": "Nike z Samotraki",
+      "okres": "ok. 190 p.n.e.",
+      "sala": "Denon, klatka schodowa Daru",
+      "opis": "Monumentalna rzeźba bogini zwycięstwa"
+    }
+  ],
+  
+  "informacje_turystyczne": {
+    "liczba_odwiedzajacych_rocznie": 8900000,
+    "ranking_swiat": 1,
+    "godziny_otwarcia": {
+      "poniedzialek": "09:00-18:00",
+      "wtorek": "zamkniete",
+      "sroda": "09:00-21:45",
+      "czwartek": "09:00-18:00",
+      "piatek": "09:00-21:45",
+      "sobota": "09:00-18:00",
+      "niedziela": "09:00-18:00"
+    },
+    "ceny_biletow": {
+      "normalny_eur": 22,
+      "online_z_godzina_eur": 22,
+      "ulgowy_eur": 0,
+      "do_18_lat_UE": "gratis",
+      "pierwsza_niedziela_miesiaca": "gratis (X-III)",
+      "wieczory_piatek_sroda_eur": 22
+    },
+    "czas_zwiedzania": {
+      "minimum": "2 godziny",
+      "zalecany": "4-6 godzin",
+      "pelny_dzien": "8 godzin"
+    },
+    "jak_dojechac": {
+      "metro": ["Linia 1 - Palais Royal-Musée du Louvre", "Linia 7 - Palais Royal"],
+      "autobus": ["21", "24", "27", "39", "48", "68", "69", "72", "81", "95"]
+    }
+  },
+  
+  "praktyczne_informacje": {
+    "rezerwacje": {
+      "zalecane": true,
+      "link": "https://www.louvre.fr/",
+      "opis": "Obowiązkowa rezerwacja online z wybraną godziną wejścia"
+    },
+    "wejscia": [
+        {
+        "nazwa": "Piramida (wejście główne)",
+        "dostepnosc": "wszyscy odwiedzający",
+        "kolejki": "długie bez rezerwacji"
+      },
+      {
+        "nazwa": "Passage Richelieu",
+        "dostepnosc": "posiadacze biletów online",
+        "kolejki": "krótsze"
+      },
+      {
+        "nazwa": "Porte des Lions",
+        "dostepnosc": "wszyscy",
+        "uwagi": "najmniej zatłoczone"
+      }
+    ],
+    "dostepnosc": {
+      "niepelnosprawni": true,
+      "windy": true,
+      "wozki_inwalidzkie_wynajem": true,
+      "opis": "Pełna dostępność, windy do wszystkich poziomów"
+    },
+    "udogodnienia": {
+      "szatnia": true,
+      "przechowalnia_bagazu": true,
+      "restauracje": [
+        {
+          "nazwa": "Café Mollien",
+          "typ": "kawiarnia",
+          "ceny": "średnie"
+        },
+        {
+          "nazwa": "Angelina",
+          "typ": "tearoom",
+          "specjalnosc": "czekolada na gorąco"
+        }
+      ],
+      "sklepy": 5,
+      "wifi": true,
+      "audioguide": {
+        "dostepny": true,
+        "cena_eur": 5,
+        "jezyki": ["francuski", "angielski", "hiszpański", "niemiecki", "włoski", "polski", "japoński", "koreański", "chiński"]
+      }
+    },
+    "zakazane": [
+      "duże plecaki (>55x35x20cm)",
+      "walizki",
+      "jedzenie i picie (poza butelką wody)",
+      "flash i statywy",
+      "selfie-stick"
+    ]
+  },
+  
+  "porady_zwiedzajacych": {
+    "najlepszy_czas": {
+      "godzina": "09:00 otwarcie lub 18:00 przed zamknięciem",
+      "dzien": "środa/piątek wieczorem (mniej tłumów)",
+      "sezon": "listopad-marzec"
+    },
+    "strategia_zwiedzania": [
+      {
+        "plan": "Highlights - 2h",
+        "trasa": "Mona Lisa → Wenus z Milo → Nike → Apartamenty Napoleona III",
+        "dla_kogo": "pierwszy raz, mało czasu"
+      },
+      {
+        "plan": "Malarstwo europejskie - 4h",
+        "trasa": "Włoskie renesansowe → Francuskie XIX w. → Flamandzkie XVII w.",
+        "dla_kogo": "miłośnicy malarstwa"
+      },
+      {
+        "plan": "Starożytności - 4h",
+        "trasa": "Egipskie → Greckie → Rzymskie → Mezopotamskie",
+        "dla_kogo": "pasjonaci archeologii"
+      }
+    ],
+    "insider_tips": [
+      "Kup bilet online z konkretną godziną - ominiesz kolejki",
+      "Zacznij od Mony Lisy rano (mniej tłoku) lub wieczorem",
+      "Pobierz aplikację Louvre - mapy i przewodnik",
+      "Weź wodę i przekąski - jedzenie wewnątrz drogie",
+      "W środy i piątki po 18:00 mniej ludzi",
+      "Darmowe toalety na każdym poziomie",
+      "Ogród Tuileries obok - idealny na odpoczynek"
+    ],
+    "bledy_turystow": [
+      "Przychodzenie bez rezerwacji",
+      "Próba zobaczenia wszystkiego w 2h",
+      "Brak wody i wygodnych butów",
+      "Ignorowanie innych skrzydeł poza Moną Lisą",
+      "Zakup biletów od przekupniów (droższych)"
+    ]
+  },
+  
+  "w_poblizu": {
+    "atrakcje": [
+      {
+        "nazwa": "Jardin des Tuileries",
+        "odleglosc_m": 0,
+        "czas_wizyty_min": 30
+      },
+      {
+        "nazwa": "Musée de l'Orangerie",
+        "odleglosc_m": 300,
+        "czas_wizyty_min": 90
+      },
+      {
+        "nazwa": "Palais Royal",
+        "odleglosc_m": 400,
+        "czas_wizyty_min": 45
+      }
+    ],
+    "restauracje": [
+      {
+        "nazwa": "Angelina Paris",
+        "odleglosc_m": 200,
+        "specjalnosc": "Mont-Blanc, czekolada",
+        "ceny": "średnie-wysokie"
+      },
+      {
+        "nazwa": "Le Fumoir",
+        "odleglosc_m": 150,
+        "kuchnia": "francuska współczesna",
+        "ceny": "średnie"
+      }
+    ]
+  },
+  
+  "historia": {
+    "krotki_opis": "Dawny pałac królewski przekształcony w muzeum narodowe w 1793 roku podczas rewolucji francuskiej.",
+    "wazne_daty": [
+      {
+        "rok": 1190,
+        "wydarzenie": "Filip II August buduje fortecę"
+      },
+      {
+        "rok": 1546,
+        "wydarzenie": "Franciszek I przekształca w renesansową rezydencję"
+      },
+      {
+        "rok": 1793,
+        "wydarzenie": "Otwarcie jako muzeum publiczne"
+      },
+      {
+        "rok": 1989,
+        "wydarzenie": "Otwarcie Piramidy I.M. Pei"
+      }
+    ]
+  },
+  
+  "wydarzenia_specjalne": {
+    "wystawy_czasowe": {
+      "liczba_rocznie": "3-5",
+      "opis": "Sprawdź kalendarz na stronie muzeum"
+    },
+    "nocne_otwarcia": {
+      "kiedy": "środa, piątek do 21:45",
+      "specjalne_wydarzenia": "Nocturnes - wydarzenia kulturalne wieczorem"
+    },
+    "warsztaty": {
+      "dla_dzieci": true,
+      "dla_doroslych": true,
+      "rezerwacja": "wymagana online"
+    }
+  },
+  
+  "dla_rodzin": {
+    "przyjazny_dzieciom": true,
+    "wiek_zalecany": "8+",
+    "atrakcje_dla_dzieci": [
+      "Mumie egipskie",
+      "Rzeźby egipskie - sfinksy",
+      "Komnaty Napoleona III",
+      "Średniowieczne fundamenty"
+    ],
+    "udogodnienia": [
+      "przewijaki",
+      "krzesełka do karmienia w kawiarniach",
+      "wózki dostępne do wypożyczenia"
+    ],
+    "materialy_edukacyjne": {
+      "broszury_dla_dzieci": true,
+      "questy": true,
+      "aplikacja_dziecieca": true
+    }
+  },
+  
+  "multimedia": {
+    "galeria_ids": ["GAL-MUZ-LOU-001"],
+    "oficjalna_strona": "https://www.louvre.fr/",
+    "wirtualna_wycieczka": "https://www.louvre.fr/en/visite-virtuelle",
+    "aplikacja_mobilna": "Louvre (iOS, Android)",
+    "social_media": {
+      "instagram": "@museelouvre",
+      "twitter": "@MuseeLouvre",
+      "facebook": "MuseeLouvre"
+    }
+  },
+  
+  "powiazania": {
+    "kraj_id": "KRAJ-FR-001",
+    "miasto_id": "MIASTO-FR-PAR-001",
+    "kategoria": "muzeum",
+    "pobliske_atrakcje_ids": [
+      "ATR-MUZ-FR-PAR-002",
+      "ATR-PAR-FR-PAR-001"
+    ]
+  },
+  
+  "metadata": {
+    "utworzono": "2025-01-15T10:00:00Z",
+    "zaktualizowano": "2025-01-15T10:00:00Z",
+    "wersja": "1.0",
+    "zrodla": ["louvre.fr", "Wikipedia"]
+  }
+}

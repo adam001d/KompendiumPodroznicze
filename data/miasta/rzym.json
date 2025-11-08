@@ -1,0 +1,509 @@
+{
+  "id": "MIASTO-IT-ROM-001",
+  "typ": "miasto",
+  
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Roma Capitale",
+      "lokalna": "Roma",
+      "popularna": "Rzym",
+      "przydomki": ["Wieczne Miasto", "Caput Mundi"],
+      "pochodzenie_nazwy": "Od legendarnego założyciela Romulusa"
+    },
+    "kraj_id": "KRAJ-IT-001",
+    "region": "Lacjum",
+    "status": "stolica państwa",
+    "herb": {
+      "opis": "Czerwona tarcza z akronimem SPQR",
+      "symbolika": "Senatus Populusque Romanus - Senat i Lud Rzymski"
+    }
+  },
+  
+  "geografia": {
+    "wspolrzedne": {
+      "lat": 41.9028,
+      "lon": 12.4964,
+      "wysokosc_npm": 21
+    },
+    "powierzchnia_km2": 1285,
+    "klimat": {
+      "typ": "śródziemnomorski",
+      "temperatura_srednia_roczna": 15.5,
+      "opady_mm_rok": 800
+    },
+    "rzeki": [
+      {
+        "nazwa": "Tyber",
+        "dlugosc_km": 405,
+        "znaczenie": "Główna rzeka przepływająca przez miasto"
+      }
+    ],
+    "wzgorza": [
+      "Kapitol", "Palatyn", "Awentyn", "Kwirynał", 
+      "Wiminal", "Eskwilinski", "Caelius"
+    ]
+  },
+  
+  "demografia": {
+    "populacja": 2872000,
+    "rok_danych": 2024,
+    "gestosc_na_km2": 2232,
+    "aglomeracja": 4342000,
+    "grupa_wiekowa_dominujaca": "25-64 lat"
+  },
+  
+  "historia": {
+    "zalozone": "-753",
+    "opis_krotki": "Legendarnie założony przez Romulusa w 753 r. p.n.e. Stolica Imperium Rzymskiego, centrum chrześcijaństwa, siedziba papieży.",
+    "wazne_wydarzenia": [
+      {
+        "rok": "-753",
+        "wydarzenie": "Legendarne założenie Rzymu przez Romulusa"
+      },
+      {
+        "rok": "-509",
+        "wydarzenie": "Początek Republiki Rzymskiej"
+      },
+      {
+        "rok": "-27",
+        "wydarzenie": "Początek Cesarstwa Rzymskiego"
+      },
+      {
+        "rok": "313",
+        "wydarzenie": "Edykt mediolański - tolerancja religijna dla chrześcijan"
+      },
+      {
+        "rok": "476",
+        "wydarzenie": "Upadek Cesarstwa Zachodniorzymskiego"
+      },
+      {
+        "rok": "1871",
+        "wydarzenie": "Rzym stolicą zjednoczonego Królestwa Włoch"
+      }
+    ],
+    "epoki": [
+      {
+        "nazwa": "Starożytny Rzym",
+        "okres": "-753 do 476",
+        "znaczenie": "Centrum imperium"
+      },
+      {
+        "nazwa": "Średniowiecze",
+        "okres": "476 do 1500",
+        "znaczenie": "Siedziba papieży"
+      },
+      {
+        "nazwa": "Renesans",
+        "okres": "1400-1600",
+"znaczenie": "Rozkwit sztuki i architektury"
+      },
+      {
+        "nazwa": "Współczesność",
+        "okres": "1871-dziś",
+        "znaczenie": "Stolica Włoch i Watykanu"
+      }
+    ]
+  },
+  
+  "administracja": {
+    "burmistrz": "Roberto Gualtieri",
+    "rada_miejska_liczba_radnych": 48,
+    "dzielnice": [
+      {"nazwa": "Centro Storico", "powierzchnia_km2": 22},
+      {"nazwa": "Parioli", "powierzchnia_km2": 18},
+      {"nazwa": "Trastevere", "powierzchnia_km2": 3.5},
+      {"nazwa": "Ostia", "powierzchnia_km2": 35}
+    ],
+    "budzet_roczny_mln_eur": 5400
+  },
+  
+  "ekonomia": {
+    "PKB_mld_eur": 143,
+    "glowne_sektory": [
+      "turystyka",
+      "administracja publiczna",
+      "media i film",
+      "usługi finansowe",
+      "moda"
+    ],
+    "najwieksi_pracodawcy": [
+      "Rząd włoski",
+      "Poste Italiane",
+      "Telecom Italia",
+      "ENI",
+      "Leonardo S.p.A"
+    ],
+    "bezrobocie_procent": 8.9
+  },
+  
+  "turystyka": {
+    "liczba_turystow_rocznie": 10000000,
+    "ranking_swiat": 3,
+    "obiekty_unesco": 5,
+    "najwazniejsze_atrakcje_ids": [
+      "ATR-BUD-IT-ROM-001",
+      "ATR-BUD-IT-ROM-002",
+      "ATR-BUD-IT-ROM-003",
+      "ATR-MUZ-IT-ROM-001",
+      "ATR-PLA-IT-ROM-001"
+    ],
+    "najlepszy_czas_wizyty": {
+      "najlepsze_miesiace": ["kwiecień", "maj", "wrzesień", "październik"],
+      "unikaj": ["sierpień (bardzo gorąco, zamknięte sklepy)", "grudzień-luty (zimno)"],
+      "wydarzenia_sezonowe": [
+        {
+          "nazwa": "Wielkanoc",
+          "opis": "Uroczystości religijne z papieżem"
+        },
+        {
+          "nazwa": "Estate Romana",
+          "okres": "czerwiec-wrzesień",
+          "opis": "Letni festiwal kultury"
+        }
+      ]
+    },
+    "sredni_czas_pobytu_dni": 3.5,
+    "sredni_koszt_pobytu_dzien_eur": {
+      "budzet": "50-80",
+      "sredni": "100-150",
+      "luksus": "250+"
+    }
+  },
+  
+  "kultura": {
+    "muzea": {
+      "liczba": 150,
+      "najwazniejsze_ids": [
+        "ATR-MUZ-IT-ROM-001",
+        "ATR-MUZ-IT-ROM-002"
+      ]
+    },
+    "teatry": [
+      {
+        "nazwa": "Teatro dell'Opera",
+        "specjalizacja": "opera, balet"
+      },
+      {
+        "nazwa": "Teatro Argentina",
+        "specjalizacja": "dramat"
+      }
+    ],
+    "kina": {
+      "multipleksy": 15,
+      "kina_studyjne": 8,
+      "festiwale_filmowe": ["Festa del Cinema di Roma"]
+    },
+    "biblioteki": {
+      "glowna": "Biblioteca Nazionale Centrale di Roma",
+      "liczba": 45
+    },
+    "uniwersytety": [
+      {
+        "nazwa": "Università La Sapienza",
+        "ranking_krajowy": 1,
+        "studenci": 115000
+      },
+      {
+        "nazwa": "Università Roma Tre",
+        "studenci": 35000
+      }
+    ],
+    "dziedzictwo_niematerialne": [
+      "kuchnia rzymska",
+      "dialect romanesco",
+      "tradycje religijne"
+    ]
+  },
+  
+  "transport": {
+    "lotniska": [
+      {
+        "nazwa": "Fiumicino (Leonardo da Vinci)",
+        "kod_IATA": "FCO",
+        "odleglosc_od_centrum_km": 30,
+        "polaczenia": "Leonardo Express 32 min, autobus 50 min, taxi 40 min"
+      },
+      {
+        "nazwa": "Ciampino",
+        "kod_IATA": "CIA",
+        "odleglosc_od_centrum_km": 15,
+        "polaczenia": "autobus 40 min, taxi 30 min"
+      }
+    ],
+    "metro": {
+      "liczba_linii": 3,
+      "linie": [
+        {"nazwa": "Linia A", "kolor": "pomarańczowa", "stacje": 27},
+        {"nazwa": "Linia B", "kolor": "niebieska", "stacje": 26},
+        {"nazwa": "Linia C", "kolor": "zielona", "stacje": 21}
+      ],
+      "cena_biletu_eur": 1.5,
+      "czas_waznosci_min": 100
+    },
+    "autobusy_tramwaje": {
+      "linie_autobusowe": 350,
+      "linie_tramwajowe": 6,
+      "operator": "ATAC"
+    },
+    "rowery": {
+      "sciezki_rowerowe_km": 250,
+      "wypozyczalnie": "bike sharing - municipale"
+    },
+    "taxi": {
+      "numer_telefonu": "+39 06 3570",
+      "stawka_startowa_eur": 3,
+      "aplikacje": ["Free Now", "Uber", "It Taxi"]
+    }
+  },
+  
+  "gastronomia": {
+    "specjalnosci_lokalne": [
+      {
+        "nazwa": "Carbonara",
+        "opis": "Pasta z guanciale, jajkami, pecorino, pieprzem",
+        "cena_srednia_eur": "10-15"
+      },
+      {
+        "nazwa": "Cacio e pepe",
+        "opis": "Pasta z serem pecorino i czarnym pieprzem",
+        "cena_srednia_eur": "8-12"
+      },
+      {
+        "nazwa": "Amatriciana",
+        "opis": "Pasta z pomidorami, guanciale, pecorino",
+        "cena_srednia_eur": "10-14"
+      },
+      {
+        "nazwa": "Supplì",
+        "opis": "Smażone kulki ryżowe z mozzarellą",
+        "cena_srednia_eur": "2-3"
+      },
+      {
+        "nazwa": "Carciofi alla giudia",
+        "opis": "Karczochysmażone w głębokim oleju po żydowsku",
+        "cena_srednia_eur": "8-12"
+      },
+      {
+        "nazwa": "Maritozzo",
+        "opis": "Słodka bułka z bitą śmietaną",
+        "cena_srednia_eur": "3-5"
+      }
+    ],
+    "rynki_spozywcze": [
+      {
+        "nazwa": "Campo de' Fiori",
+        "lokalizacja": "Centro Storico",
+        "godziny": "07:00-14:00",
+        "dni": "pon-sob"
+      },
+      {
+        "nazwa": "Mercato di Testaccio",
+        "lokalizacja": "Testaccio",
+        "godziny": "07:00-15:30",
+        "dni": "pon-sob"
+      }
+    ],
+    "food_tours": {
+      "dostepne": true,
+      "cena_srednia_eur": "60-100",
+      "czas_trwania_h": "3-4"
+    }
+  },
+  
+  "zakwaterowanie": {
+    "liczba_hoteli": 1200,
+    "liczba_lozek": 85000,
+    "dzielnice_popularne": [
+      {
+        "nazwa": "Centro Storico",
+        "opis": "Blisko wszystkiego, drogo, głośno",
+        "cena_noc_srednia_eur": "120-200"
+      },
+      {
+        "nazwa": "Trastevere",
+        "opis": "Klimatyczna dzielnica, wiele restauracji",
+        "cena_noc_srednia_eur": "80-150"
+      },
+      {
+        "nazwa": "Monti",
+        "opis": "Modna, artystyczna, blisko Koloseum",
+        "cena_noc_srednia_eur": "90-160"
+      },
+      {
+        "nazwa": "Prati",
+        "opis": "Elegancka, blisko Watykanu",
+        "cena_noc_srednia_eur": "100-180"
+      }
+    ],
+    "airbnb": {
+      "dostepne_obiekty": 15000,
+      "cena_srednia_noc_eur": "70-120"
+    }
+  },
+  
+  "bezpieczenstwo": {
+    "ogolna_ocena": 4,
+    "uwagi": "Bezpieczne miasto, uwaga na kieszonkowców w metrze i przy atrakcjach",
+    "rejony_uwaza": [
+      "Stacja Termini (wieczorem)",
+      "Metro linia A (kieszonkowcy)",
+      "Okolice Colosseo (naciągacze)"
+    ],
+    "numery_alarmowe": {
+      "policja": "112",
+      "pogotowie": "118",
+      "straz_pozarna": "115"
+    },
+    "szpitale": [
+      {
+        "nazwa": "Policlinico Umberto I",
+        "adres": "Viale del Policlinico, 155",
+        "telefon": "+39 06 49971"
+      }
+    ]
+  },
+  
+  "praktyczne_informacje": {
+    "strefa_czasowa": "CET (UTC+1), CEST latem (UTC+2)",
+    "napiecie_elektryczne": "230V, 50Hz, wtyczka typu C, F, L",
+    "woda_z_kranu": {
+      "pitna": true,
+      "opis": "Doskonałej jakości, pij z nasone (fontanny)"
+    },
+    "wifi": {
+      "dostepnosc": "powszechne w hotelach, kawiarniach",
+      "darmowe_hotspoty": "Roma WiFi Metropolitano"
+    },
+    "karty_miejskie": {
+      "roma_pass": {
+        "cena_48h_eur": 32,
+        "cena_72h_eur": 52,
+        "korzyści": [
+          "1-2 bezpłatne wejścia do muzeów",
+          "zniżki w innych atrakcjach",
+          "nielimitowany transport publiczny"
+        ]
+      }
+    },
+    "jezyk": {
+      "oficjalny": "włoski",
+      "angielski": "średnio rozpowszechniony, lepiej w centrach turystycznych"
+    },
+    "sklepy_godziny": {
+      "typowe": "10:00-19:30",
+      "przerwa_poludniowa": "13:00-15:30 (niektóre)",
+      "niedziela": "zamknięte (centrum otwarte)"
+    }
+  },
+  
+  "atrakcje_glowne": {
+    "top_10_ids": [
+      "ATR-BUD-IT-ROM-001",
+      "ATR-BUD-IT-ROM-002",
+      "ATR-BUD-IT-ROM-003",
+      "ATR-MUZ-IT-ROM-001",
+      "ATR-PLA-IT-ROM-001",
+      "ATR-BUD-IT-ROM-004",
+      "ATR-BUD-IT-ROM-005",
+      "ATR-PLA-IT-ROM-002",
+      "ATR-MON-IT-ROM-001",
+      "ATR-BUD-IT-ROM-006"
+    ],
+    "ukryte_perły_ids": [
+      "ATR-BUD-IT-ROM-020",
+      "ATR-MUZ-IT-ROM-015"
+    ]
+  },
+  
+  "dzien_w_miescie": {
+    "plan_1_dzien": [
+      {
+        "czas": "09:00",
+        "miejsce_id": "ATR-BUD-IT-ROM-001",
+        "czas_wizyty": "2h"
+      },
+      {
+        "czas": "12:00",
+        "aktywnosc": "Lunch w Monti"
+      },
+      {
+        "czas": "14:00",
+        "miejsce_id": "ATR-BUD-IT-ROM-002",
+        "czas_wizyty": "2h"
+      },
+      {
+        "czas": "17:00",
+        "miejsce_id": "ATR-PLA-IT-ROM-001",
+        "czas_wizyty": "1h"
+      },
+      {
+        "czas": "19:00",
+        "aktywnosc": "Kolacja w Trastevere"
+      }
+    ],
+    "plan_3_dni": {
+      "opis": "Dzień 1: Starożytny Rzym, Dzień 2: Watykan, Dzień 3: Centra artystyczne i hidden gems",
+      "szczegoly_url": "link-do-planu"
+    }
+  },
+  
+  "pogoda_miesieczna": [
+    {
+      "miesiac": "styczeń",
+      "temp_srednia_C": 8,
+      "opady_dni": 7,
+      "ocena_turystyczna": 2
+    },
+    {
+      "miesiac": "kwiecień",
+      "temp_srednia_C": 14,
+      "opady_dni": 8,
+      "ocena_turystyczna": 5
+    },
+    {
+      "miesiac": "lipiec",
+      "temp_srednia_C": 25,
+      "opady_dni": 2,
+      "ocena_turystyczna": 3
+    },
+    {
+      "miesiac": "październik",
+      "temp_srednia_C": 17,
+      "opady_dni": 8,
+      "ocena_turystyczna": 5
+    }
+  ],
+  
+  "multimedia": {
+    "galeria_ids": ["GAL-MIASTO-ROM-001"],
+    "oficjalna_strona": "https://www.comune.roma.it/",
+    "turystyka_strona": "https://www.turismoroma.it/",
+    "wirtualny_spacer_url": null,
+    "webcams": [
+      {
+        "nazwa": "Koloseum Live",
+        "url": "https://example.com/webcam1"
+      }
+    ]
+  },
+  
+  "powiazania": {
+    "kraj_id": "KRAJ-IT-001",
+    "region_id": "REG-IT-LAZ-001",
+    "atrakcje_ids": [
+      "ATR-BUD-IT-ROM-001",
+      "ATR-BUD-IT-ROM-002"
+    ],
+    "pobliske_miasta_ids": [
+      "MIASTO-IT-OST-001",
+      "MIASTO-IT-TIV-001"
+    ]
+  },
+  
+  "metadata": {
+    "utworzono": "2025-01-15T10:00:00Z",
+    "zaktualizowano": "2025-01-15T10:00:00Z",
+    "wersja": "1.0",
+    "zrodla": ["Wikipedia", "Turismo Roma", "Comune di Roma"]
+  }
+}

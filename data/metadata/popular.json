@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "paryz",
+      "name": "Paryż",
+      "location": "Francja, Europa",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600",
+      "visitors": "30 mln/rok",
+      "url": "miasta.html?id=paryz"
+    },
+    {
+      "id": "rzym",
+      "name": "Rzym",
+      "location": "Włochy, Europa",
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600",
+      "visitors": "25 mln/rok",
+      "url": "miasta.html?id=rzym"
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "location": "Hiszpania, Europa",
+      "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=600",
+      "visitors": "20 mln/rok",
+      "url": "miasta.html?id=barcelona"
+    },
+    {
+      "id": "londyn",
+      "name": "Londyn",
+      "location": "Wielka Brytania, Europa",
+      "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=600",
+      "visitors": "28 mln/rok",
+      "url": "miasta.html?id=londyn"
+    },
+    {
+      "id": "nowy-jork",
+      "name": "Nowy Jork",
+      "location": "USA, Ameryka Północna",
+      "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=600",
+      "visitors": "65 mln/rok",
+      "url": "miasta.html?id=nowy-jork"
+    },
+    {
+      "id": "tokio",
+      "name": "Tokio",
+      "location": "Japonia, Azja",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=600",
+      "visitors": "15 mln/rok",
+      "url": "miasta.html?id=tokio"
+    },
+    {
+      "id": "dubaj",
+      "name": "Dubaj",
+      "location": "ZEA, Azja",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=600",
+      "visitors": "16 mln/rok",
+      "url": "miasta.html?id=dubaj"
+    },
+    {
+      "id": "singapur",
+      "name": "Singapur",
+      "location": "Singapur, Azja",
+      "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600",
+      "visitors": "14 mln/rok",
+      "url": "miasta.html?id=singapur"
+    }
+  ]
+}

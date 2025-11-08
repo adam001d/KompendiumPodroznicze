@@ -1,0 +1,229 @@
+{
+  "id": "ATR-PAR-US-YEL-001",
+  "typ": "atrakcja",
+  "kategoria": "park_narodowy",
+  
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Yellowstone National Park",
+      "lokalna": "Yellowstone",
+      "tlumaczenia": {
+        "polski": "Park Narodowy Yellowstone"
+      }
+    },
+    "lokalizacja": {
+      "kraj_id": "KRAJ-US-001",
+      "stany": ["Wyoming", "Montana", "Idaho"],
+      "wspolrzedne": {
+        "lat": 44.428,
+        "lon": -110.5885
+      }
+    },
+    "status": {
+      "aktywny": true,
+      "otwarty_publicznie": true,
+      "unesco": true
+    }
+  },
+  
+  "charakterystyka": {
+    "powierzchnia_km2": 8983,
+    "rok_utworzenia": 1872,
+    "typ_parku": "park narodowy, rezerwat biosfery",
+    "glowne_atrakcje": [
+      "gejzery (w tym Old Faithful)",
+      "gorące źródła",
+      "kanionu Yellowstone",
+      "jezior",
+      "dzikiej przyrody"
+    ],
+    "fauna": [
+      "bizony",
+      "łosie",
+      "niedźwiedzie grizzly",
+      "wilki",
+      "orły"
+    ],
+    "flora": [
+      "lasy sosnowe",
+      "łąki alpejskie",
+      "termofilne bakterie"
+    ],
+    "geologia": {
+      "typ": "kaldera wulkaniczna",
+      "aktywnosc": "superwulkan aktywny",
+      "gejzery_liczba": 500,
+      "zrodla_gorace_liczba": 10000
+    }
+  },
+  
+  "informacje_turystyczne": {
+    "liczba_odwiedzajacych_rocznie": 4000000,
+    "najlepszy_czas_wizyty": {
+      "okresy": ["maj-czerwiec", "wrzesień-październik"],
+      "opis": "Wiosna: dzika przyroda, wodospady. Jesień: mniej turystów, kolory."
+    },
+    "wejscia": [
+      {
+        "nazwa": "North Entrance (Gardiner, MT)",
+        "czynne_caly_rok": true
+      },
+      {
+        "nazwa": "West Entrance (West Yellowstone, MT)",
+        "sezononowe": "kwiecień-listopad"
+      },
+      {
+        "nazwa": "South Entrance (Grand Teton)",
+        "sezonowe": "maj-listopad"
+      }
+    ],
+    "opłaty": {
+      "pojazd_prywatny_7dni_usd": 35,
+      "motocykl_7dni_usd": 30,
+      "osoba_piesza_rower_7dni_usd": 20,
+      "roczna_karta_usd": 70
+    },
+    "czas_zwiedzania": {
+      "minimum": "1 dzień",
+      "zalecany": "3-4 dni",
+      "petla_drogi_km": 230
+    }
+  },
+  
+  "infrastruktura": {
+    "hotele_lodges": [
+      {
+        "nazwa": "Old Faithful Inn",
+        "lokalizacja": "Upper Geyser Basin",
+        "cena_od_usd": 150
+      },
+      {
+        "nazwa": "Lake Yellowstone Hotel",
+        "lokalizacja": "Lake Village",
+        "cena_od_usd": 200
+      }
+    ],
+    "kemping": {
+      "liczba_kempingow": 12,
+      "miejsca_razem": 2000,
+      "rezerwacje": "recreation.gov",
+      "cena_noc_usd": "15-32"
+    },
+    "restauracje_sklepy": {
+      "general_stores": 12,
+      "restauracje": 15
+    },
+    "osrodki_gosci": [
+      {
+        "nazwa": "Old Faithful Visitor Center",
+        "lokalizacja": "Upper Geyser Basin"
+      },
+      {
+        "nazwa": "Canyon Visitor Center",
+        "lokalizacja": "Canyon Village"
+      }
+    ]
+  },
+  
+  "atrakcje_w_parku": [
+    {
+      "nazwa": "Old Faithful Geyser",
+      "typ": "gejzer",
+      "opis": "Najsłynniejszy gejzer, erupcje co 60-110 min",
+      "wysokosc_erupcji_m": 55,
+      "czas_erupcji_min": 5
+    },
+    {
+      "nazwa": "Grand Prismatic Spring",
+      "typ": "gorące źródło",
+      "opis": "Największe gorące źródło w USA, tęczowe kolory",
+      "srednica_m": 112,
+      "temperatura_C": 70
+    },
+    {
+      "nazwa": "Grand Canyon of Yellowstone",
+      "typ": "kanion",
+      "opis": "Malowniczy kanion z wodospadami",
+      "glebokosc_m": 366,
+      "dlugosc_km": 32
+    },
+    {
+      "nazwa": "Mammoth Hot Springs",
+      "typ": "tarasy wapienne",
+      "opis": "Tarasy trawertynowe z gorących źródeł"
+    }
+  ],
+  
+  "szlaki": [
+    {
+      "nazwa": "Uncle Tom's Trail",
+      "dlugosc_km": 1.2,
+      "trudnosc": "umiarkowana",
+      "czas_h": 1,
+      "atrakcje": "widok na wodospad Lower Falls"
+    },
+    {
+      "nazwa": "Mount Washburn Trail",
+      "dlugosc_km": 10,
+      "trudnosc": "trudna",
+      "czas_h": 5,
+      "atrakcje": "panorama parku, obserwacja dzikich zwierząt"
+    }
+  ],
+  
+  "praktyczne_informacje": {
+    "dojazd": {
+      "najbliższe_lotniska": [
+        {
+          "nazwa": "Bozeman (BZN)",
+          "odleglosc_km": 145
+        },
+        {
+          "nazwa": "Jackson Hole (JAC)",
+          "odleglosc_km": 90
+        }
+      ],
+      "wynajem_samochodu": "konieczny"
+    },
+    "bezpieczenstwo": {
+      "niedzwiedzie": "Zachowaj odległość min. 90m, noś spray pieprzowy",
+      "bizony": "Nie zbliżaj się, potrafią biegać 55 km/h",
+      "geotermia": "Nie schodź ze ścieżek - gorące źródła są śmiertelnie niebezpieczne"
+    },
+    "co_zabrac": [
+      "lornetka",
+      "spray na niedźwiedzie",
+      "warstwowe ubrania",
+      "dużo wody",
+      "aparat z teleobiektywem"
+    ],
+    "internet_telefon": {
+      "zasieg_komorki": "ograniczony",
+      "wifi": "tylko w niektórych lodges"
+    }
+  },
+  
+  "multimedia": {
+    "galeria_ids": ["GAL-PAR-YEL-001"],
+    "oficjalna_strona": "https://www.nps.gov/yell/",
+    "webcams": [
+      {
+        "nazwa": "Old Faithful Webcam",
+        "url": "https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm"
+      }
+    ]
+  },
+  
+  "powiazania": {
+    "kraj_id": "KRAJ-US-001",
+    "pobliske_atrakcje_ids": [
+      "ATR-PAR-US-GTE-001"
+    ]
+  },
+  
+  "metadata": {
+    "utworzono": "2025-01-15T10:00:00Z",
+    "zaktualizowano": "2025-01-15T10:00:00Z",
+    "wersja": "1.0"
+  }
+}

@@ -1,0 +1,48 @@
+
+project/
+├── index.html (nowa strona główna)
+├── kraje.html
+├── miasta.html
+├── atrakcje.html
+├── galeria.html
+├── css/
+│   ├── styles.css (rozszerzony)
+│   └── home.css (nowy - dla strony głównej)
+├── js/
+│   ├── app.js (refaktoryzacja)
+│   ├── home.js (nowy)
+│   ├── countries.js (nowy)
+│   ├── cities.js (nowy)
+│   ├── attractions.js (nowy)
+│   ├── gallery.js (nowy)
+│   └── search.js (nowy - globalna wyszukiwarka)
+├── data/
+│   ├── kraje/
+│   │   ├── polska.json
+│   │   ├── wlochy.json
+│   │   └── ...
+│   ├── miasta/
+│   │   ├── warszawa.json
+│   │   ├── rzym.json
+│   │   └── ...
+│   ├── atrakcje/
+│   │   ├── budynki/
+│   │   │   ├── koloseum.json
+│   │   │   └── ...
+│   │   ├── parki/
+│   │   │   └── ...
+│   │   ├── muzea/
+│   │   │   └── ...
+│   │   ├── pomniki/
+│   │   │   └── ...
+│   │   ├── mosty/
+│   │   │   └── ...
+│   │   └── place/
+│   │       └── ...
+│   ├── zdjecia/
+│   │   └── photos.json (wszystkie zdjęcia z powiązaniami)
+│   └── metadata/
+│       ├── categories.json
+│       └── relations.json
+└── assets/
+    └── images/

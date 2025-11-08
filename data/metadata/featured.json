@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "koloseum",
+      "name": "Koloseum",
+      "description": "Starożytny amfiteatr w Rzymie, symbol potęgi Cesarstwa Rzymskiego",
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800",
+      "badge": "UNESCO",
+      "url": "atrakcje.html?id=koloseum"
+    },
+    {
+      "id": "wieża-eiffla",
+      "name": "Wieża Eiffla",
+      "description": "Ikoniczny symbol Paryża i Francji, najczęściej odwiedzany płatny zabytek świata",
+      "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?w=800",
+      "badge": "Ikona",
+      "url": "atrakcje.html?id=wieżaeifflea"
+    },
+    {
+      "id": "tadz-mahal",
+      "name": "Tadż Mahal",
+      "description": "Mauzoleum w Agrze, arcydzieło architektury mogolskiej",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800",
+      "badge": "UNESCO",
+      "url": "atrakcje.html?id=tadżmahal"
+    },
+    {
+      "id": "wielki-mur-chinski",
+      "name": "Wielki Mur Chiński",
+      "description": "Najdłuższa budowla obronna świata, rozciągająca się na tysiące kilometrów",
+      "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800",
+      "badge": "UNESCO",
+      "url": "atrakcje.html?category=budynki"
+    },
+    {
+      "id": "statua-wolnosci",
+      "name": "Statua Wolności",
+      "description": "Symbol wolności i demokracji, dar Francji dla Stanów Zjednoczonych",
+      "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800",
+      "badge": "UNESCO",
+      "url": "atrakcje.html?id=statua_wolnosci"
+    }
+  ]
+}

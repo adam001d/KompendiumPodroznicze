@@ -1,0 +1,272 @@
+{
+  "id": "ATR-MON-US-NYC-001",
+  "typ": "atrakcja",
+  "kategoria": "pomnik",
+  
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Statue of Liberty",
+      "lokalna": "Liberty Enlightening the World",
+      "tlumaczenia": {
+        "polski": "Statua Wolności",
+        "francuski": "Statue de la Liberté"
+      },
+      "przydomki": ["Lady Liberty"]
+    },
+    "lokalizacja": {
+      "kraj_id": "KRAJ-US-001",
+      "miasto_id": "MIASTO-US-NYC-001",
+      "wyspa": "Liberty Island",
+      "wspolrzedne": {
+        "lat": 40.6892,
+        "lon": -74.0445
+      }
+    },
+    "status": {
+      "aktywny": true,
+      "otwarty_publicznie": true,
+      "unesco": true,
+      "unesco_rok": 1984
+    }
+  },
+  
+  "charakterystyka": {
+    "typ": "pomnik, rzeźba kolossalna",
+    "material": "miedź, żelazo, beton",
+    "wysokosc": {
+      "figura_m": 46.05,
+      "z_cokołem_m": 93,
+      "całkowita_z_fundamentem_m": 93
+    },
+    "waga": {
+      "miedz_kg": 31000,
+      "konstrukcja_zelazna_kg": 113000,
+      "calkowita_kg": 225000
+    },
+    "projektant": {
+      "rzezbiarz": "Frédéric Auguste Bartholdi",
+      "inzynier": "Gustave Eiffel (konstrukcja wewnętrzna)",
+      "architekt_cokolu": "Richard Morris Hunt"
+    },
+    "odsłonięcie": "1886-10-28",
+    "symbolika": {
+      "postac": "Libertas - rzymska bogini wolności",
+      "pochodnia": "światło oświecające świat",
+      "tablice": "Deklaracja Niepodległości (4 lipca 1776)",
+      "łańcuchy_u_stop": "przełamanie tyranii i niewoli",
+      "korona_kolców": "7 mórz i kontynentów"
+    }
+  },
+  
+  "historia": {
+    "pomysl": "Prezent od Francji dla USA z okazji 100. rocznicy niepodległości",
+    "budowa": {
+      "rozpoczecie": 1875,
+      "zakonczenie": 1884,
+      "miejsce_budowy": "Paryż, Francja",
+      "transport": "rozebrana i wysłana w 350 częściach"
+    },
+    "renowacje": [
+      {
+        "rok": "1984-1986",
+        "zakres": "kompleksowa renowacja na 100. rocznicę",
+        "koszt_mln_usd": 87
+      },
+      {
+        "rok": 2011,
+        "zakres": "nowe schody, windy, systemy bezpieczeństwa",
+        "koszt_mln_usd": 30
+      }
+    ]
+  },
+  
+  "informacje_turystyczne": {
+    "liczba_odwiedzajacych_rocznie": 4000000,
+    "godziny_otwarcia": {
+      "wyspa": "09:30-17:00 codziennie",
+      "wieża_dostęp": "09:30-17:00 (ograniczona liczba biletów)",
+      "zamkniete": "25 grudnia"
+    },
+    "ceny_biletow": {
+      "ferry_i_wyspa_usd": 24,
+      "z_dostepem_do_cokolu_usd": 24.30,
+      "z_dostepem_do_korony_usd": 24.30,
+      "dzieci_4_12_lat_usd": 12,
+      "seniorzy_62_usd": 18
+    },
+    "bilety_specjalne": {
+      "korona": {
+        "dostepnosc": "bardzo ograniczona - rezerwuj 3-6 miesięcy wcześniej",
+        "limit_dziennie": 240,
+        "schody": 377,
+        "bez_windy": true
+      },
+      "cokoł": {
+        "dostepnosc": "ograniczona - rezerwuj 2-4 tygodnie wcześniej",
+        "winda": "do poziomów 2-4, schody do 6",
+        "widok": "panorama na NYC i zatokę"
+      }
+    },
+    "jak_dojechac": {
+      "ferry": {
+        "operator": "Statue Cruises (monopol)",
+        "odpływ_z": "Battery Park (Manhattan) lub Liberty State Park (New Jersey)",
+        "czas_przeprawy_min": 15,
+        "czestotliwosc": "co 20-30 min",
+        "wlaczone_w_bilet": true
+      },
+      "metro_do_ferry": [
+        "1 do South Ferry",
+        "4, 5 do Bowling Green",
+        "R, W do Whitehall St"
+      ]
+    },
+    "czas_wizyty": {
+      "tylko_wyspa": "2 godziny",
+      "z_cokolem": "3 godziny",
+      "z_korona": "4-5 godzin"
+    }
+  },
+  
+  "praktyczne_informacje": {
+    "rezerwacje": {
+      "obowiazkowe": true,
+      "link": "https://www.statueoflibertytickets.com/",
+      "zalecenia": "Rezerwuj minimum 2-4 tygodnie wcześniej, dla korony 3-6 miesięcy"
+    },
+    "bezpieczenstwo": {
+      "kontrola": "Kontrola bezpieczeństwa jak na lotnisku",
+      "zakazane": [
+        "duże plecaki",
+        "jedzenie (poza butelką wody)",
+        "alkohol",
+        "broń",
+        "nożyczki, noże"
+      ],
+      "przechowalnia": "Płatne szafki na Battery Park ($2)"
+    },
+    "dostepnosc": {
+      "winda": "do poziomu cokołu",
+      "wozek_inwalidzki": "dostęp do wyspy i cokołu, nie do korony",
+      "audioguide": "dostępne w wielu językach"
+    },
+    "udogodnienia": {
+      "restauracja": "Crown Café na wyspie",
+      "toalety": true,
+      "sklep_z_pamiatkami": "Statue of Liberty Museum Gift Shop",
+      "wifi": "ograniczone"
+    }
+  },
+  
+  "dodatkowe_atrakcje": {
+    "muzeum": {
+      "nazwa": "Statue of Liberty Museum",
+      "otwarcie": 2019,
+      "powierzchnia_m2": 2400,
+      "eksponaty": [
+        "oryginalna pochodnia (zastąpiona w 1986)",
+        "replika twarzy",
+        "historia budowy",
+        "multimedia interaktywne"
+      ],
+      "wstep": "wliczony w bilet ferry"
+    },
+    "ellis_island": {
+      "opis": "Dawny punkt imigracyjny (1892-1954)",
+      "muzeum": "Ellis Island National Museum of Immigration",
+      "wstep": "wliczony w bilet ferry",
+      "czas_wizyty": "2-3 godziny",
+      "rodzinne_poszukiwanie": "baza danych przodków imigrantów"
+    }
+  },
+  
+  "porady_zwiedzajacych": {
+    "najlepszy_czas": {
+      "godzina": "Pierwszy prom rano (09:30) - najmniej tłumów",
+      "dzien": "wtorek-czwartek",
+      "sezon": "wrzesień-maj (mniej turystów)"
+    },
+    "insider_tips": [
+      "Kup bilety online z wyprzedzeniem - wyprzedają się",
+      "Pierwszy prom rano = mniej ludzi + lepsze światło do zdjęć",
+      "Weź lekki plecak - duże bagaże zabronione",
+      "Butelka wody dozwolona - zaoszczędzisz",
+      "Wejście do korony = 377 schodów w ciasnej przestrzeni (klaustrofobia?)",
+      "Ferry zatrzymuje się na Ellis Island - warto zwiedzić",
+      "Widok na statuę z ferry często lepszy niż z korony",
+      "Bezpłatny Staten Island Ferry - świetny widok bez lądowania"
+    ],
+    "bledy_turystow": [
+      "Przyjście bez rezerwacji - nie wejdziesz",
+      "Za późna rezerwacja na koronę - brak miejsc",
+      "Duży plecak - zostawisz na Battery Park za $",
+      "Niedocenianie czasu wizyty (z kolejkami 4-6h)",
+      "Pomijanie Ellis Island - warte zobaczenia"
+    ]
+  },
+  
+  "widoki_i_zdjecia": {
+    "najlepsze_punkty_fotograficzne": [
+      {
+        "miejsce": "Battery Park",
+        "odleglosc": "przed wsiadnięciem na prom",
+        "widok": "frontalny z Manhattan"
+      },
+      {
+        "miejsce": "Z promu",
+        "czas": "podczas przeprawy",
+        "widok": "klasyczny widok z wody"
+      },
+      {
+        "miejsce": "Brooklyn Bridge Park",
+        "widok": "Statua z mostem w tle"
+      },
+      {
+        "miejsce": "Staten Island Ferry",
+        "koszt": "bezpłatny",
+        "widok": "z dystansu, ale darmowy"
+      }
+    ],
+    "najlepsze_swiatlo": {
+      "poranek": "światło od wschodu, mniej tłumów",
+      "zachod_slonca": "piękne światło, ale promów może nie być"
+    }
+  },
+  
+  "ciekawostki": [
+    "Miedź zielenieje przez utlenianie - proces trwał ok. 30 lat",
+    "Pochodnia została pozłocona 24-karatowym złotem w 1986",
+    "W koronie 25 okien symbolizujących kamienie szlachetne",
+    "377 schodów od cokołu do korony",
+    "Brak wind do korony - tylko schody",
+    "Wiatr może poruszać statuę o 7.5 cm, pochodnia o 15 cm",
+    "Buty Statui to rozmiar 879 (25 metrów)",
+    "Tablet w lewej ręce: 'JULY IV MDCCLXXVI' (4 lipca 1776)",
+    "Zerwane łańcuchy u stóp - symbol wolności od tyranii"
+  ],
+  
+  "multimedia": {
+    "galeria_ids": ["GAL-MON-NYC-001"],
+    "oficjalna_strona": "https://www.nps.gov/stli/",
+    "rezerwacje": "https://www.statueoflibertytickets.com/",
+    "wirtualna_wycieczka": "https://www.nps.gov/stli/learn/photosmultimedia/virtualtour.htm",
+    "webcam": "https://www.earthcam.com/usa/newyork/statueofliberty/"
+  },
+  
+  "powiazania": {
+    "kraj_id": "KRAJ-US-001",
+    "miasto_id": "MIASTO-US-NYC-001",
+    "kategoria": "pomnik",
+    "pobliske_atrakcje_ids": [
+      "ATR-MON-US-NYC-002",
+      "ATR-MUZ-US-NYC-005"
+    ]
+  },
+  
+  "metadata": {
+    "utworzono": "2025-01-15T10:00:00Z",
+    "zaktualizowano": "2025-01-15T10:00:00Z",
+    "wersja": "1.0",
+    "zrodla": ["nps.gov", "Statue Cruises"]
+  }
+}

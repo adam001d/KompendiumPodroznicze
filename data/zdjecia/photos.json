@@ -1,0 +1,37 @@
+{
+  "zdjecia": [
+    {
+      "id": "FOTO-001",
+      "miniatura": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg",
+      "pelny_rozmiar": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/2560px-Colosseo_2020.jpg",
+      "tytul": "Koloseum w 2020 roku",
+      "opis": "Ikoniczny widok Koloseum z ciepłym światłem zachodzącego słońca podkreślającym trawertynu",
+      "autor": "John Doe",
+      "data": "2024-06-15",
+      "licencja": "CC BY-SA 4.0",
+      "wymiary": {
+        "szerokosc": 4000,
+        "wysokosc": 3000
+      },
+      "tagi": ["koloseum", "zachód słońca", "rzym", "starożytność"],
+      "powiazania": {
+        "obiekty_ids": ["BUD-ITA-001"],
+        "miasta_ids": ["MIASTO-IT-ROM-001"],
+        "kraje_ids": ["KRAJ-IT-001"]
+      },
+      "exif": {
+        "aparat": "Canon EOS R5",
+        "ogniskowa_mm": 24,
+        "przeslona": "f/8",
+        "iso": 200,
+        "czas_naswietlania": "1/250"
+      }
+    }
+  ],
+  
+  "metadata": {
+    "wersja": "1.0",
+    "liczba_zdjec": 1,
+    "ostatnia_aktualizacja": "2025-01-15T10:00:00Z"
+  }
+}

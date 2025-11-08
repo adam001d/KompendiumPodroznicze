@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "updated": "2025-01-15T10:00:00Z",
+  "items": [
+    {
+      "id": "ATR-BUD-IT-ROM-001",
+      "name": "Koloseum",
+      "alternativeNames": ["Colosseum", "Colosseo", "Amphitheatrum Flavium"],
+      "description": "Największy amfiteatr starożytnego świata",
+      "thumbnail": "https://example.com/thumbnails/colosseum.jpg",
+      "category": "budynki",
+      "city": "Rzym",
+      "cityId": "MIASTO-IT-ROM-001",
+      "country": "Włochy",
+      "countryId": "KRAJ-IT-001",
+      "unesco": true,
+      "popularity": 100
+    },
+    {
+      "id": "ATR-MUZ-FR-PAR-001",
+      "name": "Luwr",
+      "alternativeNames": ["Louvre", "Musée du Louvre"],
+      "description": "Największe muzeum sztuki na świecie",
+      "thumbnail": "https://example.com/thumbnails/louvre.jpg",
+      "category": "muzea",
+      "city": "Paryż",
+      "cityId": "MIASTO-FR-PAR-001",
+      "country": "Francja",
+      "countryId": "KRAJ-FR-001",
+      "unesco": false,
+      "popularity": 98
+    }
+  ]
+}

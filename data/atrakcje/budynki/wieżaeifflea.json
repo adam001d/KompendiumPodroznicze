@@ -1,0 +1,1904 @@
+{
+  "id": "BUD-FRA-001",
+  "ikona_font_awesome": "fa-tower-observation",
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Tour Eiffel",
+      "potoczna": "Wieża Eiffla",
+      "lokalna": "La Tour Eiffel",
+      "tłumaczenia": {
+        "polski": "Wieża Eiffla",
+        "angielski": "Eiffel Tower",
+        "niemiecki": "Eiffelturm",
+        "francuski": "Tour Eiffel",
+        "włoski": "Torre Eiffel",
+        "rosyjski": "Эйфелева башня",
+        "hiszpański": "Torre Eiffel"
+      },
+      "nazwy_alternatywne": [
+        "La Dame de Fer",
+        "Iron Lady",
+        "Żelazna Dama"
+      ],
+      "skróty": [
+        "TE"
+      ],
+      "nazwa_historyczna": "Tour de 300 mètres"
+    },
+    "typ_budynku": {
+      "kategoria_główna": "wieża",
+      "kategoria_drugorzędna": "wieża kratownicowa",
+      "kategoria_trzecia": "punkt widokowy",
+      "podkategorie": [
+        "atrakcja turystyczna",
+        "pomnik",
+        "symbol narodowy",
+        "obiekt techniczny"
+      ],
+      "funkcje": [
+        "platforma widokowa",
+        "wieża telekomunikacyjna",
+        "obiekt dziedzictwa",
+        "miejsce eventów",
+        "symbol kulturowy",
+        "restauracje"
+      ],
+      "klasyfikacja_UNESCO": "bez wpisu UNESCO",
+      "typologia_architektoniczna": "konstrukcja stalowa kratownicowa"
+    },
+    "status": {
+      "obecny": "ukończona",
+      "czynnościowo_operacyjny": true,
+      "procent_ukończenia": 100,
+      "faza_budowy": "eksploatacja i konserwacja",
+      "przewidywane_ukończenie": {
+        "rok_optymistyczny": null,
+        "rok_realistyczny": null,
+        "rok_pesymistyczny": null,
+        "niepewność": "obiekt ukończony w 1889 roku"
+      },
+      "dostępność_publiczna": true,
+      "aktywne_wykorzystanie": true,
+      "status_konserwatorski": "pod ochroną konserwatora zabytków",
+      "wpis_do_rejestru": "Monument historique (1964)"
+    },
+    "certyfikaty_oznaczenia": {
+      "UNESCO": {
+        "status": "Brak wpisu indywidualnego",
+        "rok_wpisu": null,
+        "kryteria": [],
+        "numer_referencyjny": null,
+        "zakres": "Część panoramy Paryża nad Sekwaną (kandydatura rozważana)"
+      },
+      "inne_certyfikaty": [
+        {
+          "nazwa": "Monument historique",
+          "instytucja": "Ministère de la Culture (Francja)",
+          "rok_nadania": 1964
+        },
+        {
+          "nazwa": "Site patrimonial remarquable",
+          "instytucja": "État français",
+          "rok_nadania": 1975
+        }
+      ]
+    }
+  },
+"lokalizacja": {
+    "adres": {
+      "ulica": "Champ de Mars",
+      "numer": "5 Avenue Anatole France",
+      "dzielnica": "7e arrondissement",
+      "osiedle": "Gros-Caillou",
+      "miasto": "Paryż",
+      "prowincja": "Île-de-France",
+      "region": "Île-de-France",
+      "kraj": "Francja",
+      "kod_kraju": "FR",
+      "kod_pocztowy": "75007",
+      "pełny_adres": "5 Avenue Anatole France, 75007 Paris, Francja"
+    },
+    "współrzędne": {
+      "szerokość_geograficzna": 48.8584,
+      "długość_geograficzna": 2.2945,
+      "wysokość_n.p.m.": 33
+    },
+    "otoczenie": {
+      "gestość": "wysoka zabudowa miejska",
+      "typ_zabudowy": "reprezentacyjno-parkowa",
+      "dominująca_funkcja": "turystyczna z funkcją rekreacyjną",
+      "odległość_od_morza": 200000,
+      "odległość_od_centrum": 3500,
+      "punkty_widokowe": [
+        {
+          "nazwa": "Pierwsza platforma",
+          "wysokość": 57,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Champ de Mars",
+            "Trocadéro",
+            "Seine",
+            "Invalides"
+          ]
+        },
+        {
+          "nazwa": "Druga platforma",
+          "wysokość": 115,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Łuk Triumfalny",
+            "Sacré-Cœur",
+            "Notre-Dame",
+            "La Défense",
+            "panorama Paryża"
+          ]
+        },
+        {
+          "nazwa": "Szczyt",
+          "wysokość": 276,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "cały Paryż",
+            "przedmieścia",
+            "w dobrej pogodzie do 70 km"
+          ]
+        }
+      ]
+    }
+  },
+"wymiary": {
+    "wysokość": {
+      "całkowita": 330,
+      "do_szczytu_dachu": 300,
+      "architektoniczna": 300,
+      "najwyższa_konstrukcja": "Antena telewizyjna",
+      "aktualna_maksymalna_wysokość": 330,
+      "planowana_maksymalna_wysokość": 330,
+      "podstawa_wysokość": 33,
+      "różnica_wysokości": 297,
+      "ranking_wysokości": {
+        "świat": 324,
+        "europa": 45,
+        "francja": 2,
+        "paryż": 2,
+        "budynki_sakralne": null
+      },
+      "wysokości_poszczególnych_elementów": {
+        "pierwsza_platforma": 57.63,
+        "druga_platforma": 115.73,
+        "trzecia_platforma": 276.13,
+        "szczyt_konstrukcji": 300,
+        "antena": 330,
+        "podstawa_łuków": 91,
+        "łuki_pierwszego_poziomu": 39.47,
+        "sala_mechanizmów": 57,
+        "apartament_Eiffla": 276
+      },
+      "symbolika_wysokości": "300m - najwyższa konstrukcja świata do 1930 roku"
+    },
+    "długość": {
+      "zewnętrzna": 124.9,
+      "podstawa_krawędź": 124.9,
+      "przekątna_podstawy": 176.6,
+      "pierwsza_platforma_bok": 70,
+      "druga_platforma_bok": 40.96,
+      "trzecia_platforma_bok": 18.65,
+      "łuk_podstawy": 91,
+      "rozstaw_filarów": 74.24
+    },
+    "szerokość": {
+      "zewnętrzna": 124.9,
+      "podstawa_krawędź": 124.9,
+      "pierwsza_platforma": 70,
+      "druga_platforma": 40.96,
+      "trzecia_platforma": 18.65,
+      "grubość_konstrukcji_u_podstawy": 4,
+      "grubość_konstrukcji_na_szczycie": 2.4
+    },
+    "powierzchnia": {
+      "całkowita": 15625,
+      "obrys": 15625,
+      "powierzchnia_użytkowa": 4200,
+      "przestrzeń_sakralna": null,
+      "przestrzeń_komunikacyjna": 800,
+      "strefy_publiczne": 3100,
+      "strefy_techniczne": 1100,
+      "muzeum": 0,
+      "sklep": 420,
+      "administracja": 280,
+      "krypta": null,
+      "chóry": null,
+      "działka": 15625,
+      "place_wokół": 45000,
+      "szczegółowe_powierzchnie": {
+        "pierwsza_platforma": 4200,
+        "druga_platforma": 1650,
+        "trzecia_platforma": 350,
+        "restauracje": 1200,
+        "pawilony": 380,
+        "klatki_schodowe": 600,
+        "szyby_wind": 220
+      }
+    },
+    "objętość": {
+      "całkowita": 165000,
+      "zamknięta": 8500,
+      "wewnętrzna": 7200,
+      "ogrzewana": 2800,
+      "powietrza": 155000
+    },
+    "kondygnacje": {
+      "nadziemne": 3,
+      "podziemne": 1,
+      "razem": 4,
+      "użytkowe": 3,
+      "techniczne": 1,
+      "szczegóły": [
+        {
+          "poziom": -1,
+          "nazwa": "fundamenty i podziemia techniczne",
+          "wysokość": 5
+        },
+        {
+          "poziom": 0,
+          "nazwa": "podstawa i parter",
+          "wysokość": 57.63
+        },
+        {
+          "poziom": 1,
+          "nazwa": "pierwsza platforma",
+          "wysokość": 58.1
+        },
+        {
+          "poziom": 2,
+          "nazwa": "druga platforma",
+          "wysokość": 160.4
+        },
+        {
+          "poziom": 3,
+          "nazwa": "trzecia platforma (szczyt)",
+          "wysokość": 53.87
+        }
+      ]
+    },
+    "inne_wymiary": {
+      "liczba_wież": {
+        "ukończone": 1,
+        "w_budowie": 0,
+        "planowane": 1,
+        "razem": 1,
+        "szczegóły": "konstrukcja jednowieżowa"
+      },
+      "liczba_fasad": 4,
+      "liczba_portali": 4,
+      "liczba_kolumn": {
+        "nawa_główna": null,
+        "absyda": null,
+        "krużganki": null,
+        "razem": 4,
+        "szczegóły": "4 główne filary nośne"
+      },
+      "liczba_okien": 0,
+      "liczba_witraży": 0,
+      "liczba_schodów": 1665,
+      "liczba_kaplic": 0,
+      "liczba_ołtarzy": 0,
+      "średnice_kolumn": "filary od 26m u podstawy do 4m u góry",
+      "grubość_ścian": null,
+      "masa_konstrukcji": 10100000,
+      "masa_metalowa": 7300000,
+      "liczba_nitów": 2500000,
+      "liczba_elementów_metalowych": 18038,
+      "powierzchnia_malowania": 250000,
+      "liczba_wind": 5,
+      "liczba_restauracji": 3,
+      "liczba_platform": 3
+    }
+  },
+"architektura": {
+    "styl_architektoniczny": {
+      "główny": "architektura żelazna",
+      "drugorzędny": "konstruktywizm",
+      "wpływy": [
+        "inżynieria mostowalnych konstrukcji stalowych",
+        "architektura przemysłowa",
+        "ekspozycje światowe XIX wieku"
+      ],
+      "ruchy_artystyczne": [
+        "rewolucja przemysłowa",
+        "inżynieria strukturalna",
+        "racjonalizm techniczny"
+      ],
+      "cechy": [
+        "ażurowa konstrukcja kratownicowa",
+        "eksponowanie struktury nośnej",
+        "prefabrykacja elementów",
+        "precyzja inżynieryjna",
+        "minimalizm ornamentacyjny",
+        "funkcjonalność konstrukcyjna",
+        "geometria parabolicznych łuków",
+        "symmetria czterostronnej podstawy"
+      ],
+      "innowacje": [
+        "pionowa konstrukcja kratownicowa na bezprecedensową skalę",
+        "wykorzystanie nitowania na masową skalę",
+        "prefabrykacja i montaż na miejscu",
+        "redukcja oporu wiatru przez ażurową strukturę",
+        "wykorzystanie wind pasażerskich",
+        "obliczenia wytrzymałościowe metodami matematycznymi"
+      ],
+      "okres_architektoniczny": "koniec XIX wieku (1887-1889)",
+      "nurty_architektoniczne": "architektura inżynierska, konstrukcje metalowe"
+    },
+    "architekci": {
+      "architekt_główny": {
+        "imię_i_nazwisko": "Gustave Eiffel",
+        "lata_życia": "1832-1923",
+        "narodowość": "francuska",
+        "rola": "inżynier projektant i główny realizator",
+        "okres": "1887-1889",
+        "wkład": "koncepcja całości, obliczenia statyczne, nadzór budowy, marketing projektu",
+        "wykształcenie": "École Centrale Paris",
+        "nagrody": [
+          "Legii Honoru Wielki Oficer (1889)",
+          "uznanie międzynarodowe"
+        ],
+        "inne_ważne_realizacje": [
+          "Statua Wolności (konstrukcja wewnętrzna)",
+          "Most Maria Pia w Porto",
+          "Wiadukt Garabit",
+          "Dworzec Budapest Nyugati"
+        ],
+        "filozofia_architektoniczna": "Inżynieria może być sztuką; piękno wynika z funkcjonalności i prawdy konstrukcji",
+        "metoda_pracy": "precyzyjne obliczenia matematyczne, rysunki warsztatowe, kontrola jakości",
+        "śmierć": "27 grudnia 1923, Paryż, pochowany na cmentarzu Levallois-Perret"
+      },
+      "architekt_początkowy": null,
+      "następcy": [],
+      "współpracownicy": [
+        {
+          "imię_i_nazwisko": "Maurice Koechlin",
+          "rola": "główny inżynier konstrukcyjny",
+          "okres": "1884-1889",
+          "wkład": "pierwsze szkice koncepcyjne wieży, obliczenia statyczne, projekt konstrukcji"
+        },
+        {
+          "imię_i_nazwisko": "Émile Nouguier",
+          "rola": "inżynier konstruktor",
+          "okres": "1884-1889",
+          "wkład": "współpraca przy projektowaniu konstrukcji, obliczenia"
+        },
+        {
+          "imię_i_nazwisko": "Stephen Sauvestre",
+          "rola": "architekt, konsultant estetyczny",
+          "okres": "1886-1889",
+          "wkład": "projekt estetyczny łuków, pawilonów, detali dekoracyjnych"
+        },
+        {
+          "imię_i_nazwisko": "Jean Compagnon",
+          "rola": "kierownik budowy",
+          "okres": "1887-1889",
+          "wkład": "nadzór nad montażem, zarządzanie pracownikami"
+        }
+      ],
+      "rzeźbiarze_współcześni": []
+    },
+    "koncepcja": {
+      "podstawy_koncepcyjne": "demonstracja możliwości technicznych francuskiego przemysłu, symboliczne wejście na Wystawę Światową 1889",
+      "filozofia_projektu": "Architektura inżynierska może być monumentalna i piękna; struktura jako ozdoba; technologia jako symbol postępu",
+      "zasady_geometryczne": [
+        "podstawa kwadratowa",
+        "łuki paraboliczne",
+        "krzywa wykładnicza zwężania",
+        "symmetria czworoboczna",
+        "proporcje złotego podziału (dyskusyjne)"
+      ],
+      "system_konstrukcyjny": "cztery masywne filary łączące się w jednolitą konstrukcję; kratownica stalowa nitowana; oddzielne fundamenty pod każdym filarem",
+      "symetria": "pełna symmetria czworoboczna",
+      "proporcje": "wykładnicze zwężanie ku górze dla redukcji oporu wiatru",
+      "orientacja": "osie równoległe do osi kompasu",
+      "symbolika_liczbowa": {
+        "4": "cztery filary, cztery strony",
+        "3": "trzy platformy publiczne",
+        "300": "wysokość w metrach jako okrągła liczba symboliczna",
+        "1889": "rok Wystawy Światowej i setna rocznica Rewolucji Francuskiej"
+      },
+      "filozofia_światła": "minimalne znaczenie - konstrukcja ażurowa przepuszcza światło; współcześnie iluminacja nocna",
+      "akustyka": "nieistotna - konstrukcja otwarta"
+    },
+    "fasady": {
+      "konstrukcja_czterostronnie_identyczna": {
+        "orientacja": "cztery identyczne fasady na północ, południe, wschód, zachód",
+        "strony_świata_nazwa": "brak dedykacji kierunkowych",
+        "tematyka": "demonstracja technologii",
+        "status": "ukończona",
+        "rok_ukończenia": 1889,
+        "architekt": "Gustave Eiffel z zespołem",
+        "styl": "kratownica stalowa ażurowa",
+        "charakterystyka": "cztery masywne filary łączące się łukami",
+        "łuki_podstawy": {
+          "wysokość": 39.47,
+          "rozpiętość": 74.24,
+          "funkcja": "estetyczna i konstrukcyjna",
+          "projekt": "Stephen Sauvestre"
+        },
+        "pawilony_podstawy": {
+          "liczba": 4,
+          "funkcja": "sale ekspozycyjne, kasy, wejścia",
+          "styl": "ozdobne detale Belle Époque",
+          "materiał": "kamień i szkło"
+        },
+        "inskrypcje": {
+          "lokalizacja": "pierwszy poziom, obwód",
+          "treść": "72 nazwiska wybitnych francuskich naukowców, inżynierów i matematyków",
+          "wysokość_liter": 60,
+          "wykonanie": "złocone litery",
+          "odrestaurowane": "1986-1987"
+        },
+        "materiały": [
+          "stal kutna",
+          "żelazo",
+          "nity stalowe"
+        ],
+        "kolorystyka": "brązowo-złoty odcień (Tour Eiffel Brown), regularnie odnawiany",
+        "symbolika": "postęp techniczny, nowoczesność, geniusz inżynierski",
+        "oświetlenie_nocne": {
+          "typ": "20000 lamp LED",
+          "rok_instalacji": "1985 (pierwsze), 2000 (obecne)",
+          "efekty": "migoczące światła co godzinę",
+          "specjalne_okazje": "kolorowe iluminacje"
+        }
+      }
+    },
+    "wieże": {
+      "konstrukcja_jednolita": {
+        "liczba": 1,
+        "opis": "Wieża Eiffla to jednolita konstrukcja bez oddzielnych wież",
+        "ukończona": true,
+        "wysokość_całkowita": 330,
+        "sekcje_konstrukcyjne": [
+          {
+            "nazwa": "Pierwszy poziom (pierwszy segment)",
+            "wysokość_od_podstawy": "0-57.63m",
+            "charakterystyka": "cztery masywne filary zbiegające się",
+            "konstrukcja": "najgrubsza i najmasywniejsza część"
+          },
+          {
+            "nazwa": "Drugi poziom (drugi segment)",
+            "wysokość_od_podstawy": "57.63-115.73m",
+            "charakterystyka": "cztery filary zespolone w jednolitą strukturę",
+            "konstrukcja": "zwężenie konstrukcji"
+          },
+          {
+            "nazwa": "Trzeci poziom (trzeci segment)",
+            "wysokość_od_podstawy": "115.73-276.13m",
+            "charakterystyka": "pojedyncza smukła kolumna",
+            "konstrukcja": "najbardziej zwężona część"
+          },
+          {
+            "nazwa": "Szczyt z anteną",
+            "wysokość_od_podstawy": "276.13-330m",
+            "charakterystyka": "maszt anteny i latarnia",
+            "konstrukcja": "stalowy maszt z urządzeniami technicznymi"
+          }
+        ],
+        "fundamenty": {
+          "liczba": 4,
+          "typ": "fundamenty betonowe pod każdym filarem",
+          "głębokość_północ_wschód": 14,
+          "głębokość_południe_zachód": 9,
+          "różnica": "ze względu na nachylenie terenu i bliskość Sekwany",
+          "powierzchnia_każdego": 400,
+          "masa_każdego": 8000000
+        }
+      }
+    },
+    "wnętrze": {
+      "platformy": {
+        "pierwsza_platforma": {
+          "wysokość": 57.63,
+          "powierzchnia": 4200,
+          "pojemność": 3000,
+          "dostęp": "schody (347 stopni) lub windy",
+          "atrakcje": [
+            "restauracja 58 Tour Eiffel",
+            "sala konferencyjna",
+            "sklepy pamiątkowe",
+            "podłoga szklana z widokiem w dół",
+            "ekspozycje historyczne"
+          ],
+          "charakterystyka": "największa platforma, częściowo zadaszona",
+          "restauracje": "58 Tour Eiffel (casual dining)"
+        },
+        "druga_platforma": {
+          "wysokość": 115.73,
+          "powierzchnia": 1650,
+          "pojemność": 1600,
+          "dostęp": "schody (kolejne 674 stopnie) lub windy",
+          "atrakcje": [
+            "restauracja Jules Verne (Michelin)",
+            "sklepy",
+            "najlepsze widoki panoramiczne",
+            "makieta szczytu wieży",
+            "lunety widokowe"
+          ],
+          "charakterystyka": "najbardziej popularna wśród turystów",
+          "restauracje": "Le Jules Verne (gastronomia haute)"
+        },
+        "trzecia_platforma": {
+          "wysokość": 276.13,
+          "powierzchnia": 350,
+          "pojemność": 400,
+          "dostęp": "tylko windy",
+          "atrakcje": [
+            "bar szampański",
+            "rekonstrukcja biura Gustave'a Eiffla z figurami woskowymi",
+            "najwyższy punkt widokowy dostępny publicznie",
+            "widoki do 70 km w dobrej pogodzie"
+          ],
+          "charakterystyka": "najbardziej ekskluzywny poziom, kameralny",
+          "biuro_Eiffla": "zachowane i odrestaurowane pomieszczenie"
+        }
+      },
+      "windy": {
+        "liczba_systemów": 5,
+        "liczba_kabin": 8,
+        "typu": [
+          {
+            "trasa": "parter - pierwsza platforma",
+            "liczba": 4,
+            "pojemność_każdej": 92,
+            "typ": "hydrauliczne (oryginalne z modernizacją)"
+          },
+          {
+            "trasa": "pierwsza - druga platforma",
+            "liczba": 2,
+            "typ": "hydrauliczne"
+          },
+          {
+            "trasa": "druga platforma - szczyt",
+            "liczba": 2,
+            "pojemność_każdej": 25,
+            "typ": "elektryczne"
+          }
+        ],
+        "producent_oryginalny": "Otis, Roux Combaluzier & Lepape, Edoux",
+        "modernizacje": "1983-1987, 2008-2014",
+        "przewóz_rocznie": "7 milionów osób"
+      },
+      "schody": {
+        "liczba_stopni_razem": 1665,
+        "szczegóły": [
+          {
+            "odcinek": "parter - pierwsza platforma",
+            "stopnie": 347
+          },
+          {
+            "odcinek": "pierwsza - druga platforma",
+            "stopnie": 674
+          },
+          {
+            "odcinek": "druga platforma - szczyt",
+            "stopnie": 644,
+            "dostęp": "zamknięty dla publiczności"
+          }
+        ],
+        "dostępność": "otwarty do drugiej platformy",
+        "maraton_schodowy": "coroczne zawody biegowe"
+      },
+      "restauracje": {
+        "58_Tour_Eiffel": {
+          "poziom": "pierwsza platforma",
+          "typ": "brasserie współczesna",
+          "pojemność": 200,
+          "kuchnia": "francuska nowoczesna",
+          "rezerwacje": "zalecane",
+          "styl": "casual chic"
+        },
+        "Le_Jules_Verne": {
+          "poziom": "druga platforma",
+          "typ": "restauracja haute cuisine",
+          "pojemność": 95,
+          "gwiazdki_Michelin": 1,
+          "szef_kuchni": "Frédéric Anton (od 2019)",
+          "rezerwacje": "obowiązkowe, z dużym wyprzedzeniem",
+          "styl": "luksusowy, widok panoramiczny"
+        },
+        "bar_szampański": {
+          "poziom": "trzecia platforma",
+          "typ": "bar",
+          "oferta": "szampan, przekąski",
+          "charakterystyka": "kameralny, ekskluzywny"
+        }
+      },
+      "sklepy_pamiątkowe": {
+        "liczba": 3,
+        "lokalizacje": [
+          "pierwsza platforma",
+          "druga platforma",
+          "parter"
+        ],
+        "asortyment": "pamiątki, książki, zabawki, moda, artykuły premium"
+      },
+      "biuro_Eiffla": {
+        "lokalizacja": "szczyt wieży",
+        "powierzchnia": 40,
+        "funkcja_historyczna": "prywatne biuro i laboratorium Gustave'a Eiffla",
+        "funkcja_obecna": "muzeum, rekonstrukcja z figurami woskowymi",
+        "ekspozycja": "Eiffel, jego córka Claire, Thomas Edison (wizyta 1889)",
+        "dostęp": "zwiedzanie w ramach biletu na szczyt"
+      },
+      "oświetlenie_wewnętrzne": {
+        "typ": "LED energooszczędne",
+        "funkcja": "bezpieczeństwo, orientacja, estetyka",
+        "charakterystyka": "dyskretne, funkcjonalne"
+      }
+    }
+  },
+"budowa": {
+    "chronologia": {
+      "1884": "Koncepcja budowy wieży na Wystawę Światową 1889",
+      "1886": "Zatwierdzenie projektu Gustave'a Eiffla przez komisję wystawy",
+      "1887-01-28": "Rozpoczęcie budowy - wykopywanie fundamentów",
+      "1887-07": "Ukończenie fundamentów pod cztery filary",
+      "1887-12": "Rozpoczęcie montażu konstrukcji stalowej",
+      "1888-03": "Ukończenie pierwszego poziomu (57m)",
+      "1888-08": "Ukończenie drugiego poziomu (115m)",
+      "1889-03-31": "Ukończenie budowy wieży - 2 lata, 2 miesiące, 5 dni",
+      "1889-05-06": "Oficjalne otwarcie podczas Wystawy Światowej",
+      "1889-05-15": "Otwarcie dla publiczności",
+      "1889": "10 milionów odwiedzających podczas Wystawy Światowej",
+      "1909": "Planowana rozbiórka po 20 latach - anulowana ze względu na wartość jako wieża radiowa",
+      "1925": "Instalacja świetlnej reklamy Citroën (najwyższa reklama świata)",
+      "1940-1944": "Okupacja niemiecka - flaga nazistowska, ograniczony dostęp",
+      "1944-08-25": "Wyzwolenie Paryża - podniesienie flagi francuskiej",
+      "1957": "Dodanie anteny telewizyjnej - zwiększenie wysokości do 320.75m",
+      "1964": "Wpisanie na listę zabytków historycznych Francji",
+      "1980-1983": "Gruntowna renowacja i modernizacja",
+      "1986": "Instalacja nowego oświetlenia",
+      "2000": "System 20000 lamp migoczących co godzinę",
+      "2004": "Dodanie anteny cyfrowej - wysokość 324m (później 330m)",
+      "2008": "Remont pierwszej platformy",
+      "2014-2015": "Modernizacja wind i platform",
+      "2019": "Instalacja nowych wind szklanych na drugiej platformie",
+      "2024": "Renowacja przed Igrzyskami Olimpijskimi w Paryżu",
+      "2025": "Ciągła eksploatacja i konserwacja"
+    },
+    "fazy_szczegółowe": [
+      {
+        "faza": "Faza 1 - Fundamenty",
+        "okres": "styczeń-lipiec 1887",
+        "osiągnięcia": "wykopanie i zalanie fundamentów betonowych pod cztery filary",
+        "wyzwania": "praca pod wodą przy filarach nad Sekwaną, kajsony pneumatyczne",
+        "czas_trwania": "7 miesięcy"
+      },
+      {
+        "faza": "Faza 2 - Pierwszy poziom",
+        "okres": "lipiec 1887 - marzec 1888",
+        "osiągnięcia": "montaż czterech filarów do wysokości 57m, łuki podstawy, pierwsza platforma",
+        "wyzwania": "precyzyjne połączenie czterech niezależnych struktur",
+        "czas_trwania": "8 miesięcy"
+      },
+      {
+        "faza": "Faza 3 - Drugi poziom",
+        "okres": "marzec-sierpień 1888",
+        "osiągnięcia": "połączenie filarów w jednolitą strukturę, druga platforma",
+        "wyzwania": "praca na dużej wysokości, zespolenie czterech struktur",
+        "czas_trwania": "5 miesięcy"
+      },
+      {
+        "faza": "Faza 4 - Szczyt",
+        "okres": "sierpień 1888 - marzec 1889",
+        "osiągnięcia": "budowa trzeciego poziomu, szczytu, windy, apartament Eiffla",
+        "wyzwania": "ekstremalna wysokość, warunki wietrzne, montaż wind",
+        "czas_trwania": "7 miesięcy"
+      },
+      {
+        "faza": "Faza 5 - Wykończenie",
+        "okres": "marzec-kwiecień 1889",
+        "osiągnięcia": "instalacja oświetlenia, latarni, finalne detale",
+        "czas_trwania": "1 miesiąc"
+      },
+      {
+        "faza": "Faza 6 - Ekspozycja Światowa",
+        "okres": "maj-listopad 1889",
+        "osiągnięcia": "obsługa milionów zwiedzających, prezentacja wynalazków",
+        "sukces": "10 milionów odwiedzających w 6 miesięcy"
+      },
+      {
+        "faza": "Faza 7 - Przetrwanie",
+        "okres": "1889-1909",
+        "osiągnięcia": "udowodnienie wartości jako wieża radiowa, anulowanie rozbiórki",
+        "znaczenie": "od atrakcji tymczasowej do trwałego symbolu"
+      },
+      {
+        "faza": "Faza 8 - Modernizacje XX wieku",
+        "okres": "1910-2000",
+        "osiągnięcia": "modernizacje wind, anteny radiowe i telewizyjne, oświetlenie, renowacje",
+        "kluczowe_momenty": "1957 (antena TV), 1980-83 (wielka renowacja), 2000 (iluminacja milenijna)"
+      },
+      {
+        "faza": "Faza 9 - XXI wiek",
+        "okres": "2000-obecnie",
+        "osiągnięcia": "cyfryzacja, nowe windy, modernizacja platform, zwiększone bezpieczeństwo",
+        "status": "7 milionów turystów rocznie, ciągła konserwacja"
+      }
+    ],
+    "finansowanie": {
+      "główne_źródło": "prywatne finansowanie Gustave'a Eiffla (80%) + dotacja państwowa (20%)",
+      "koszt_budowy": "7.8 miliona złotych franków (1889)",
+      "dotacja_państwowa": "1.5 miliona franków",
+      "wkład_własny_Eiffla": "około 6.3 miliona franków",
+      "zwrot_kosztów": "Eiffel otrzymał prawa do eksploatacji przez 20 lat",
+      "dochód_z_Wystawy_1889": "wystarczający do pokrycia większości kosztów",
+      "pełny_zwrot_inwestycji": "przed końcem Wystawy Światowej 1889",
+      "model_biznesowy": "bilety wstępu, restauracje, koncesje",
+      "obecny_budżet_roczny": "około 80-100 mln euro przychodów",
+      "koszty_eksploatacji": "około 20-30 mln euro rocznie",
+      "liczba_turystów_rocznie": "około 7 milionów",
+      "cena_wstępu": "18-28 euro (zależnie od opcji)",
+      "dochód_roczny_z_turystyki": "około 70-90 mln euro",
+      "właściciel": "Ville de Paris (miasto Paryż)",
+      "operator": "Société d'Exploitation de la Tour Eiffel (SETE)",
+      "filozofia_finansowa": "samodzielność finansowa, eksploatacja komercyjna, inwestycja prywatna zwrócona z zyskiem"
+    },
+    "technologie": {
+      "historyczne": [
+        "konstrukcje stalowe mostów jako wzór",
+        "nity stalowe - 2.5 miliona sztuk",
+        "prefabrykacja precyzyjna - elementy montowane na miejscu",
+        "kajsony pneumatyczne - fundamenty pod wodą",
+        "dźwigi parowe Otis - pierwsze windy pasażerskie na taką wysokość",
+        "obliczenia wytrzymałościowe metodą analityczną",
+        "rysunki warsztatowe - 5329 szczegółowych rysunków technicznych",
+        "tolerancja montażu - 0.1mm precyzji",
+        "stalowe rusztowania tymczasowe"
+      ],
+      "współczesne": [
+        "systemy monitoringu strukturalnego",
+        "czujniki wibracji i przemieszczenia",
+        "windy elektryczne najnowszej generacji",
+        "systemy oświetlenia LED energooszczędnego",
+        "fotogrametria i skanowanie 3D dla konserwacji",
+        "modelowanie CAD dla planowania remontów",
+        "systemy bezpieczeństwa biometryczne",
+        "panele fotowoltaiczne (2015)",
+        "turbiny wiatrowe (2015) - odnawialne źródła energii",
+        "zbiorniki deszczówki",
+        "inteligentne systemy zarządzania budynkiem (BMS)"
+      ],
+      "innowacje_konstrukcyjne": [
+        "kratownica stalowa na bezprecedensową skalę",
+        "system równomiernego rozkładu obciążeń",
+        "elastyczność konstrukcji - ruch wierzchołka do 15cm w wietrze",
+        "rozszerzalność termiczna - różnica do 18cm między zimą a latem",
+        "aerodynamiczny kształt redukujący opór wiatru",
+        "brak spawania - tylko nity (technologia XIX wieku)",
+        "modularna konstrukcja - 18038 elementów metalowych",
+        "precyzyjne dopasowanie na ziemi - montaż bez korekt",
+        "system wind hydraulicznych (pierwotnie)"
+      ],
+      "przełomy": [
+        {
+          "rok": 1889,
+          "innowacja": "najwyższa konstrukcja świata",
+          "znaczenie": "przekroczenie bariery 300 metrów, wcześniej niemożliwe"
+        },
+        {
+          "rok": 1889,
+          "innowacja": "windy pasażerskie na wysokość 300m",
+          "znaczenie": "rewolucja w transporcie pionowym"
+        },
+        {
+          "rok": 1898,
+          "innowacja": "pierwsza radiowa stacja nadawcza",
+          "znaczenie": "uratowanie przed rozbiórką"
+        },
+        {
+          "rok": 1925,
+          "innowacja": "największa reklama świetlna świata (Citroën)",
+          "znaczenie": "wykorzystanie jako nośnik reklamowy"
+        },
+        {
+          "rok": 1957,
+          "innowacja": "antena telewizyjna zwiększająca wysokość",
+          "znaczenie": "kontynuacja funkcji telekomunikacyjnej"
+        },
+        {
+          "rok": 1986,
+          "innowacja": "nowoczesne oświetlenie sodowe 336 lamp",
+          "znaczenie": "ikona nocnego Paryża"
+        },
+        {
+          "rok": 2000,
+          "innowacja": "20000 lamp LED migoczących",
+          "znaczenie": "efekt wizualny rozpoznawalny na całym świecie"
+        },
+        {
+          "rok": 2015,
+          "innowacja": "instalacje ekologiczne (wiatr, słońce, deszcz)",
+          "znaczenie": "modernizacja w duchu zrównoważonego rozwoju"
+        }
+      ]
+    },
+    "materiały": {
+      "metal": {
+        "żelazo_kute_pudlowane": {
+          "źródło": "zakłady metalurgiczne Pompey, Lotaryngia",
+          "zastosowanie": "cała konstrukcja kratownicowa",
+          "charakterystyka": "wytrzymałe, plastyczne, odporne na korozję",
+          "ilość": "7300 ton czystego metalu",
+          "całkowita_masa_konstrukcji": "10100 ton (z fundamentami)"
+        },
+        "nity_stalowe": {
+          "liczba": "około 2.5 miliona",
+          "średnica": "różne od 10mm do 30mm",
+          "masa": "łącznie około 1000 ton",
+          "temperatura_montażu": "nabijane na gorąco",
+          "charakterystyka": "ręcznie nitowane przez 4-osobowe zespoły"
+        },
+        "stal": {
+          "zastosowanie": "niektóre elementy konstrukcyjne, wzmocnienia",
+          "ilość": "około 300 ton"
+        }
+      },
+      "farba": {
+        "typ": "specjalna farba ochronna przeciwkorozyjna",
+        "kolor": "Tour Eiffel Brown - trzy odcienie (ciemniejszy u dołu, jaśniejszy u góry)",
+        "ilość_na_malowanie": "około 60 ton",
+        "powierzchnia": "około 250000 m²",
+        "częstotliwość_malowania": "co 7 lat",
+        "liczba_warstw": "3 warstwy",
+        "liczba_przemalowań": "19 razy od 1889",
+        "czas_malowania": "15-18 miesięcy",
+        "koszt_malowania": "około 4 miliony euro",
+        "kolory_historyczne": [
+          "1889: czerwono-brązowy",
+          "1899-1954: różne odcienie ochry",
+          "1968-obecnie: brązowy z trzema gradientami"
+        ]
+      },
+      "beton": {
+        "typ": "beton kamienny dla fundamentów",
+        "zastosowanie": "fundamenty pod cztery filary",
+        "ilość": "około 25000 m³",
+        "głębokość_fundamentów": "9-14 metrów",
+        "masa_fundamentów": "około 2800 ton na filar"
+      },
+      "szkło": {
+        "typ_historyczny": "szkło tradycyjne w pawilon ach i oknach",
+        "typ_współczesny": "szkło bezpieczne laminowane, podłogi szklane",
+        "zastosowanie": "podłogi szklane pierwszej platformy (2014), windy panoramiczne",
+        "powierzchnia_podłóg_szklanych": "około 300 m²",
+        "grubość": "kilkuwarstwowe 6-8cm"
+      },
+      "drewno": {
+        "zastosowanie_historyczne": "rusztowania, pomosty robocze",
+        "ilość_użyta": "tysiące metrów sześciennych (tymczasowo)",
+        "zastosowanie_obecne": "minimalne - elementy dekoracyjne restauracji"
+      },
+      "inne": {
+        "oświetlenie_LED": {
+          "liczba_lamp": "20000 lamp błyskowych + 336 projektorów sodowych",
+          "moc": "około 320 kW łącznie",
+          "instalacja": "2000 (migoczące), 1985 (podświetlenie)",
+          "czas_działania": "5 minut co godzinę po zmroku"
+        },
+        "windy": {
+          "typ_historyczny": "hydrauliczne Otis i Roux-Combaluzier",
+          "typ_obecny": "elektryczne, szklane panoramiczne",
+          "liczba_kabin": 8,
+          "kable": "kilometry stalowych lin nośnych"
+        },
+        "anteny": {
+          "materiał": "stal, włókna optyczne, elektronika",
+          "wysokość_anteny": "30m nad konstrukcją",
+          "funkcja": "nadajniki radiowe, telewizyjne, cyfrowe"
+        }
+      }
+    },
+    "wyzwania_techniczne": {
+      "fundamenty": {
+        "problem": "filary południowe przy Sekwanie - grunt nasycony wodą",
+        "rozwiązanie": "kajsony pneumatyczne - szczelne komory robocze z nadciśnieniem powietrza"
+      },
+      "precyzja": {
+        "problem": "połączenie czterech niezależnych filarów na wysokości 57m",
+        "rozwiązanie": "rusztowania hydrauliczne z regulacją poziomu, tolerancja 0.1mm"
+      },
+      "wysokość": {
+        "problem": "praca na bezprecedensowej wysokości 300m",
+        "rozwiązanie": "system bezpieczeństwa, doświadczeni monterzy mostów, rusztowania"
+      },
+      "wiatr": {
+        "problem": "ogromne siły wiatru na wysokości",
+        "rozwiązanie": "ażurowa konstrukcja przepuszczająca 95% wiatru, elastyczność"
+      },
+      "temperatura": {
+        "problem": "rozszerzalność termiczna - różnica do 18cm",
+        "rozwiązanie": "odpowiednie złącza kompensacyjne, elastyczne mocowania"
+      },
+      "protesty": {
+        "problem": "protesty artystów i intelektualistów (petycja '300')",
+        "rozwiązanie": "kontynuacja budowy, sukces publiczny przekonał krytyków"
+      },
+      "czas": {
+        "problem": "bardzo krótki termin - 2 lata do Wystawy Światowej",
+        "rozwiązanie": "prefabrykacja, 300 robotników, praca w dzień i w nocy"
+      },
+      "korozja": {
+        "problem": "korozja stalowej konstrukcji",
+        "rozwiązanie": "regularne malowanie co 7 lat, 60 ton farby ochronnej"
+      },
+      "bezpieczeństwo_pracy": {
+        "problem": "ryzyko wypadków na wielkiej wysokości",
+        "rozwiązanie": "innowacyjne siatki bezpieczeństwa - tylko 1 śmiertelny wypadek podczas budowy (rekord jak na tamte czasy)"
+      }
+    },
+    "zespół_budowlany": {
+      "budowa_1887-1889": {
+        "robotnicy_szczyt": "około 300 osób jednocześnie",
+        "robotnicy_łącznie": "około 300-400 osób przez 2 lata",
+        "monterzy": "50 doświadczonych monterów konstrukcji mostowych",
+        "nitownicy": "zespoły 4-osobowe (rozgrzewacz, podający, przytrzymujący, nabijający)",
+        "inżynierowie_nadzorujący": "około 15 osób",
+        "ofiary_śmiertelne": "1 (rekordowo niski wynik jak na XIX wiek)"
+      },
+      "obecna_eksploatacja": {
+        "zatrudnienie_stałe": "około 500-600 osób",
+        "personel_turystyczny": "około 300 osób (bilety, informacja, bezpieczeństwo)",
+        "personel_techniczny": "około 100 osób (konserwacja, windy, instalacje)",
+        "restauracje": "około 100 osób (kucharze, kelnerzy)",
+        "administracja": "około 50 osób",
+        "ochrona": "około 50 osób (całodobowa)",
+        "zespoły_malarskie": "około 25 malarzy podczas renowacji co 7 lat",
+        "specjaliści": [
+          "inżynierowie konstrukcyjni",
+          "elektrycy",
+          "operatorzy wind",
+          "monterzy alpiniści",
+          "malarze przemysłowi",
+          "przewodnicy",
+          "kasjerzy",
+          "szefowie kuchni"
+        ]
+      },
+      "współpraca": {
+        "Société d'Exploitation de la Tour Eiffel (SETE)": "operator wieży",
+        "Ville de Paris": "właściciel",
+        "firmy konserwatorskie": "specjalistyczne firmy remontowe",
+        "uniwersytety": "monitoring strukturalny, badania"
+      }
+    }
+  },
+"znaczenie_kulturowe": {
+    "status_UNESCO": {
+      "wpisanie": "brak indywidualnego wpisu",
+      "kategoria": "nie dotyczy",
+      "numer_referencyjny": null,
+      "kryteria": [],
+      "zakres": "Wieża Eiffla nie posiada statusu UNESCO",
+      "uzasadnienie": "Mimo globalnej rozpoznawalności, Wieża Eiffla nie została wpisana na listę UNESCO. Paryż ma inne obiekty UNESCO (brzegi Sekwany od 1991), ale sama wieża pozostaje bez tego statusu",
+      "kontrowersje": "Wielokrotnie rozważano wpis, ale wieża jest postrzegana jako konstrukcja techniczna XX wieku, nie zabytek historyczny w klasycznym sensie"
+    },
+    "symbol_kulturowy": {
+      "Paryż": "absolutny symbol miasta, najbardziej rozpoznawalna ikona Paryża na świecie",
+      "Francja": "narodowy symbol Francji, emblemat kraju obok flagi i koguta",
+      "Europa": "jedna z najważniejszych ikon europejskich",
+      "świat": "globalny symbol romantyzmu, miłości, kultury francuskiej i Belle Époque",
+      "postęp": "symbol rewolucji przemysłowej, triumf technologii i inżynierii XIX wieku",
+      "turystyka": "najbardziej odwiedzany płatny zabytek świata"
+    },
+    "wpływ_na_sztukę": {
+      "architektura": "inspiracja dla konstrukcji stalowych na całym świecie, wieże w Tokyo, Las Vegas, Blackpool",
+      "malarstwo": "Robert Delaunay - seria obrazów 'Wieża Eiffla', Georges Seurat, Marc Chagall, Raoul Dufy",
+      "fotografia": "jeden z najczęściej fotografowanych obiektów świata",
+      "film": "niezliczone filmy z Wieżą jako tłem lub motywem (ponad 1000 filmów)",
+      "literatura": "opisywana przez Guy de Maupassant, Guillaume Apollinaire, François Coppée",
+      "design": "repliki, miniatury, inspiracje w dizajnie produktów na całym świecie"
+    },
+    "cytaty_o_budynku": [
+      {
+        "autor": "Guy de Maupassant",
+        "cytat": "Obiaduję w restauracji wieży, bo to jedyne miejsce w Paryżu, skąd jej nie widać",
+        "kontekst": "1890, krytyka wieży",
+        "uwaga": "słynna anegdota, Maupassant był jednym z największych krytyków"
+      },
+      {
+        "autor": "Manifesto przeciwko wieży (1887)",
+        "cytat": "Ta wieża zawstydzi nasze miasto. Nawet komercyjna Ameryka nie chciałaby takiego horroru",
+        "autorzy": "300 artystów, pisarzy i architektów (Maupassant, Dumas młodszy, Gounod)",
+        "rok": 1887
+      },
+      {
+        "autor": "Gustave Eiffel",
+        "cytat": "Czy można sądzić, że skoro jesteśmy inżynierami, piękno nie interesuje nas w naszych konstrukcjach?",
+        "rok": 1889,
+        "kontekst": "odpowiedź na krytyków"
+      },
+      {
+        "autor": "Le Corbusier",
+        "cytat": "Wieża Eiffla jest czysta jak kryształ",
+        "rok": 1923
+      },
+      {
+        "autor": "Roland Barthes",
+        "cytat": "Wieża Eiffla to uniwersalny symbol Paryża... widzimy ją ze wszystkich stron, we wszystkich kontekstach",
+        "rok": 1964,
+        "dzieło": "La Tour Eiffel"
+      },
+      {
+        "autor": "Jean Cocteau",
+        "cytat": "Królowa Paryża",
+        "kontekst": "poezja"
+      }
+    ],
+    "w_kulturze_popularnej": {
+      "filmy": [
+        "Casablanca (1942)",
+        "An American in Paris (1951)",
+        "French Kiss (1995)",
+        "Ratatouille (2007) - Pixar",
+        "Midnight in Paris (2011) - Woody Allen",
+        "The Bourne Identity (2002)",
+        "Mission: Impossible - Fallout (2018)",
+        "Emily in Paris (serial 2020-)",
+        "Inception (2010)",
+        "Rush Hour 3 (2007)",
+        "Ponad 1000 filmów fabularnych i dokumentalnych"
+      ],
+      "literatura": [
+        "Guillaume Apollinaire - 'Zone' (wiersz, 1913)",
+        "Blaise Cendrars - 'Tour' (wiersz, 1913)",
+        "François Coppée - wiersze",
+        "Vicente Huidobro - 'Tour Eiffel' (wiersz, 1918)",
+        "Niezliczone powieści detektywistyczne i romantyczne z Paryżem"
+      ],
+      "muzyka": [
+        "Josephine Baker - występy i piosenki",
+        "Charles Trenet - 'Y'a d'la joie'",
+        "Edith Piaf - kontekst Paryża",
+        "Modern Talking - 'Cheri Cheri Lady' (wideoclip)",
+        "Niezliczone piosenki o Paryżu"
+      ],
+      "gry": [
+        "Call of Duty: Modern Warfare 3 - misja w Paryżu",
+        "Assassin's Creed Unity - eksploracja Paryża",
+        "SimCity - budowla unikalna",
+        "Civilization VI - cud świata",
+        "Microsoft Flight Simulator - punkt orientacyjny"
+      ],
+      "sztuki_wizualne": [
+        "Robert Delaunay - seria 30+ obrazów 'Wieża Eiffla' (1909-1928)",
+        "Georges Seurat - 'La Tour Eiffel' (1889)",
+        "Marc Chagall - 'Paris Through the Window' (1913)",
+        "Raoul Dufy - liczne prace",
+        "Henri Rousseau - obrazy z wieżą",
+        "Niezliczone fotografie artystyczne",
+        "Andy Warhol - grafiki Pop Art"
+      ],
+      "reklamy": [
+        "Citroën (1925-1934) - największa reklama świetlna świata",
+        "Niezliczone kampanie reklamowe marek luksusowych",
+        "Plakaty turystyczne Air France, SNCF"
+      ],
+      "wydarzenia": [
+        "Fajerwerki Dzień Bastylii (14 lipca) - coroczne",
+        "Sylwester - pokazy świetlne",
+        "Iluminacje okolicznościowe (Euro, Olimpiada, wydarzenia)",
+        "Bicie rekordu świata w wejściach schodami"
+      ]
+    },
+    "nagrody_i_oznaczenia": [
+      {
+        "nazwa": "Monument historique de France",
+        "nadawca": "Ministère de la Culture",
+        "rok": 1964,
+        "znaczenie": "ochrona jako zabytek historyczny Francji"
+      },
+      {
+        "nazwa": "Najbardziej odwiedzany płatny zabytek świata",
+        "rok": "corocznie od lat 90.",
+        "liczba_odwiedzających": "około 7 milionów rocznie"
+      },
+      {
+        "nazwa": "Jedna z 7 Nowych Cudów Świata (kandydatura)",
+        "rok": 2007,
+        "status": "finalistka, ale nie weszła do ostatecznej siódemki"
+      },
+      {
+        "nazwa": "100 Most Influential Images of All Time - TIME Magazine",
+        "rok": 2016,
+        "zdjęcie": "fotografia wieży jako ikona"
+      },
+      {
+        "nazwa": "Symbol Paryża i Francji",
+        "status": "nieformalny, powszechnie uznany",
+        "rozpoznawalność": "99% globalnie"
+      },
+      {
+        "nazwa": "Najwyższa konstrukcja świata",
+        "okres": "1889-1930 (41 lat)",
+        "rekord": "przekroczona przez Chrysler Building w Nowym Jorku"
+      },
+      {
+        "nazwa": "Site patrimonial remarquable",
+        "nadawca": "État français",
+        "rok": 1975
+      }
+    ],
+    "znaczenie_historyczne": {
+      "Wystawa_Światowa_1889": "centralne dzieło Wystawy, symbol postępu",
+      "Rewolucja_Francuska": "budowa w setną rocznicę rewolucji (1789-1889)",
+      "Belle_Époque": "symbol epoki prosperity i optymizmu",
+      "I_wojna_światowa": "punkt obserwacyjny, nadajnik radiowy (przechwycono wiadomość o ataku na Paryż 1914)",
+      "II_wojna_światowa": "Hitler przed wieżą (1940), wyzwolenie Paryża (1944) - podniesienie flagi",
+      "zimna_wojna": "symbol wolnego świata zachodniego",
+      "współczesność": "miejsce manifestacji solidarności (iluminacje w narodowych kolorach po zamachach)"
+    },
+    "wpływ_ekonomiczny": {
+      "turystyka": "generator 400-500 milionów euro rocznie dla gospodarki Paryża",
+      "zatrudnienie": "bezpośrednio 600 osób, pośrednio tysiące w branży turystycznej",
+      "wartość_marki": "szacunkowa wartość niematerialna ponad 400 miliardów euro",
+      "merchandising": "miliardy produktów rocznie z wizerunkiem wieży na całym świecie"
+    },
+    "kontrowersje": {
+      "początkowa_krytyka": "petycja 300 artystów przeciw budowie (1887)",
+      "planowana_rozbiórka": "miała być rozebrana w 1909 - uratowana dzięki funkcji radiowej",
+      "prawa_autorskie": "oświetlenie nocne chronione prawami autorskimi (fotografie komercyjne wymagają zgody)",
+      "turystyka_masowa": "problemy z kolejkami, zatłoczeniem",
+      "bezpieczeństwo": "cel potencjalnych ataków terrorystycznych - wzmocniona ochrona"
+    }
+  },
+"funkcje": {
+    "religijne": {
+      "typ_świątyni": "brak - obiekt świecki",
+      "przynależność": "brak",
+      "parafia": "nie dotyczy",
+      "liturgia": "brak",
+      "uwaga": "Wieża Eiffla jest konstrukcją inżynieryjną i punktem widokowym, nie pełni żadnych funkcji religijnych"
+    },
+    "turystyczne": {
+      "otwarcie_publiczne": "codziennie przez cały rok (z wyjątkiem sytuacji nadzwyczajnych)",
+      "godziny_otwarcia": {
+        "cały_rok": "09:30-23:45 (ostatnie wejście 22:45 na szczyt, 23:00 na 2. poziom)",
+        "lato_przedłużone": "w lipcu-sierpniu do 00:45",
+        "schody": "09:30-18:30 (ostatnie wejście)",
+        "elastyczne": "godziny mogą się różnić w zależności od sezonu i pogody"
+      },
+      "liczba_turystów": {
+        "rocznie": "7000000",
+        "dziennie": "20000-25000",
+        "szczyt": "lipiec-sierpień, weekendy",
+        "rekord_historyczny": "ponad 7 milionów w roku (wielokrotnie)",
+        "łącznie_od_1889": "ponad 300 milionów odwiedzających"
+      },
+      "ceny_biletów": {
+        "szczyt_windy": "28.30 EUR (dorośli)",
+        "drugi_poziom_windy": "18.10 EUR",
+        "drugi_poziom_schody": "11.30 EUR",
+        "młodzież_12-24": "od 7.10 EUR do 25.50 EUR",
+        "dzieci_4-11": "od 2.80 EUR do 7.10 EUR",
+        "niepełnosprawni": "zniżki dostępne",
+        "dzieci_do_4_lat": "gratis",
+        "uwaga": "ceny mogą się różnić w zależności od sezonu i opcji"
+      },
+      "rezerwacje": "zalecana rezerwacja online (często bilety na miejscu wyprzedane)",
+      "audioprzewodnik": "dostępny w aplikacji mobilnej w wielu językach",
+      "przewodnicy": "wycieczki z przewodnikiem dostępne, ale nie obowiązkowe",
+      "dostępność_językowa": [
+        "francuski",
+        "angielski",
+        "hiszpański",
+        "niemiecki",
+        "włoski",
+        "portugalski",
+        "rosyjski",
+        "chiński",
+        "japoński",
+        "koreański",
+        "arabski",
+        "polski",
+        "niderlandzki",
+        "i inne"
+      ],
+      "ograniczenia": {
+        "ubiór": "brak szczególnych wymagań",
+        "fotografowanie": "dozwolone (ale nocne oświetlenie chronione prawami autorskimi do użytku komercyjnego)",
+        "zachowanie": "zakaz niebezpiecznych zachowań, palenia",
+        "bezpieczeństwo": "kontrole bezpieczeństwa na wejściu",
+        "pogoda": "zamknięcie w przypadku ekstremalnych warunków pogodowych",
+        "wysokość": "nie zalecane osobom z lękiem wysokości"
+      },
+      "sklepy": {
+        "liczba": 3,
+        "asortyment": "pamiątki, miniatury wieży, książki, pocztówki, gadżety, biżuteria, odzież",
+        "lokalizacja": "parter, pierwsza i druga platforma",
+        "znane_produkty": "miniaturowe repliki wieży (bestseller)"
+      },
+      "dostępność_dla_niepełnosprawnych": {
+        "windy": "dostępne dla wózków inwalidzkich do 2. poziomu",
+        "trzeci_poziom": "ograniczony dostęp - małe windy",
+        "toalety_dostosowane": "dostępne na platformach"
+      }
+    },
+    "edukacyjne": {
+      "muzeum": {
+        "lokalizacja": "nie dotyczy - brak tradycyjnego muzeum",
+        "tematyka": "historia budowy przedstawiona na platformach",
+        "ekspozycje": "panele informacyjne, zdjęcia historyczne, makiety na platformach",
+        "apartament_Eiffla": "rekonstrukcja na szczycie z figurami woskowymi (Eiffel, córka, Edison)"
+      },
+      "programy_edukacyjne": [
+        "warsztaty dla szkół o inżynierii i konstrukcjach",
+        "przewodniki edukacyjne dla dzieci",
+        "aplikacje mobilne interaktywne",
+        "broszury edukacyjne o historii i konstrukcji"
+      ],
+      "badania_naukowe": {
+        "współpraca": "instytuty inżynieryjne, uniwersytety techniczne",
+        "tematy": "konstrukcje stalowe, aerodynamika, monitoring strukturalny, konserwacja zabytków",
+        "publikacje": "liczne publikacje techniczne i historyczne",
+        "badania_materiałowe": "analiza zmęczenia materiału, korozji"
+      },
+      "centrum_dokumentacji": {
+        "dostęp": "dla badaczy (na specjalne zamówienie)",
+        "zbiór": "archiwum historyczne, plany konstrukcyjne, dokumentacja techniczna"
+      },
+      "znaczenie_dydaktyczne": "przykład w podręcznikach inżynierii, architektury, historii techniki na całym świecie"
+    },
+    "społeczne": {
+      "fundacja": "nie dotyczy",
+      "właściciel": "Ville de Paris (miasto Paryż)",
+      "operator": "Société d'Exploitation de la Tour Eiffel (SETE)",
+      "działalność_charytatywna": "okazjonalne wydarzenia charytatywne",
+      "inicjatywy_społeczne": [
+        "iluminacje solidarnościowe (kolory narodowe po zamachach)",
+        "kampanie ekologiczne (turbiny wiatrowe, panele słoneczne)",
+        "dostępność dla wszystkich grup społecznych"
+      ],
+      "wolontariat": "minimalny - profesjonalna obsługa",
+      "wydarzenia": [
+        "fajerwerki Dzień Bastylii (14 lipca)",
+        "sylwester - pokazy świetlne",
+        "koncerty u stóp wieży (na Champ de Mars)",
+        "wydarzenia sportowe (bieganie po schodach, skok na linie)",
+        "pokazy mody",
+        "eventy korporacyjne",
+        "transmisje telewizyjne"
+      ],
+      "imprezy_specjalne": {
+        "wynajem": "możliwość wynajęcia przestrzeni na eventy prywatne i korporacyjne",
+        "restauracje": "kolacje w Jules Verne (ekskluzywne)",
+        "śluby": "ceremonie na pierwszej platformie (bardzo rzadkie, prestiżowe)"
+      }
+    },
+    "komunikacyjne": {
+      "funkcja_historyczna": "wieża radiowa i telegraficzna (od 1898)",
+      "nadajniki_radiowe": "stacje radiowe i telewizyjne",
+      "anteny": {
+        "radio": "wielokrotne nadajniki radiowe",
+        "telewizja": "DVB-T, DVB-T2",
+        "telekomunikacja": "infrastruktura telekomunikacyjna"
+      },
+      "zasięg": "pokrycie całego regionu paryskiego",
+      "znaczenie_strategiczne": "kluczowa infrastruktura komunikacyjna dla Paryża",
+      "historia_wojskowa": [
+        "I wojna światowa - przechwytywanie komunikatów wroga",
+        "radio wojskowe",
+        "punkt obserwacyjny"
+      ]
+    },
+    "komercyjne": {
+      "restauracje": {
+        "58_Tour_Eiffel": {
+          "poziom": "pierwszy (57m)",
+          "typ": "brasserie",
+          "kuchnia": "francuska współczesna",
+          "cena": "30-60 EUR za danie główne"
+        },
+        "Le_Jules_Verne": {
+          "poziom": "drugi (115m)",
+          "typ": "gastronomia haute cuisine",
+          "gwiazdki_Michelin": 1,
+          "cena": "menu od 190-290 EUR",
+          "rezerwacje": "miesiące wcześniej"
+        },
+        "bar_szampański": {
+          "poziom": "trzeci (276m)",
+          "oferta": "szampan 12-25 EUR, przekąski",
+          "atmosfera": "ekskluzywna"
+        },
+        "bufety": "na wszystkich poziomach - przekąski, napoje"
+      },
+      "catering": "możliwość organizacji bankietów i przyjęć",
+      "merchandising": "miliony produktów rocznie na całym świecie",
+      "prawa_do_wizerunku": "ścisła kontrola użycia wizerunku wieży",
+      "licensing": "licencje na produkty, repliki, użycie w mediach"
+    },
+    "naukowe": {
+      "eksperymenty_historyczne": [
+        "Gustave Eiffel - badania aerodynamiczne (tunel aerodynamiczny na wieży)",
+        "pomiary meteorologiczne",
+        "eksperymenty fizyczne Léona Foucaulta",
+        "pierwsze transmisje radiowe"
+      ],
+      "monitoring": "ciągły monitoring strukturalny, sejsmiczny, meteo",
+      "stacje_pomiarowe": "czujniki temperatury, wilgotności, wiatru, zanieczyszczeń",
+      "badania_współczesne": "materiałoznawstwo, korozja, zmęczenie konstrukcji"
+    },
+    "symboliczne": {
+      "funkcja_reprezentacyjna": "symbol Francji, Paryża, postępu",
+      "iluminacje_okolicznościowe": [
+        "kolory narodowe krajów (solidarność)",
+        "różowy (walka z rakiem piersi)",
+        "zielony (Porozumienie Paryskie - klimat)",
+        "tęczowy (prawa LGBT)",
+        "specjalne animacje (Euro, Olimpiada, wydarzenia)"
+      ],
+      "punkt_orientacyjny": "główny punkt nawigacyjny w Paryżu",
+      "miejsce_spotkań": "Trocadéro, Champ de Mars - popularne miejsce spotkań"
+    }
+  },
+
+"kontekst_historyczny": {
+    "geneza_projektu": {
+      "inicjator": "Gustave Eiffel - inżynier, Maurice Koechlin i Émile Nouguier - inżynierowie z firmy Eiffla",
+      "organizacja": "Compagnie des Établissements Eiffel - firma inżynieryjna Gustave'a Eiffla",
+      "inspiracja": "konstrukcje mostów stalowych, wieże obserwacyjne, Wystawa Światowa",
+      "cel": "stworzenie monumentalnej bramy wejściowej na Wystawę Światową 1889, demonstracja możliwości inżynierii francuskiej",
+      "kontekst_społeczny": "rewolucja przemysłowa, wiara w postęp techniczny, rywalizacja międzynarodowa",
+      "filozofia": "triumf nauki i inżynierii, demonstracja potęgi przemysłowej Francji"
+    },
+    "epoka_powstania": {
+      "okres": "koniec XIX wieku - apogeum rewolucji przemysłowej i Belle Époque",
+      "kontekst_polityczny": "III Republika Francuska, stabilizacja polityczna po wojnie 1870-71, rywalizacja z Niemcami i Wielką Brytanią",
+      "kontekst_kulturowy": "Belle Époque - okres prosperity, optymizmu, rozwoju sztuki i nauki",
+      "kontekst_artystyczny": "impresjonizm, secesja, ale też silny nurt konserwatywny broniący klasycznej estetyki",
+      "sytuacja_ekonomiczna": "wzrost gospodarczy, industrializacja, rozwój metalurgii i konstrukcji stalowych",
+      "kontekst_techniczny": "era wielkich konstrukcji stalowych - mosty (Brooklyn Bridge 1883), budynki, koleje"
+    },
+    "ważne_wydarzenia_historyczne": {
+      "Wystawa_Światowa_1889": {
+        "wpływ": "bezpośredni powód budowy wieży",
+        "znaczenie": "setna rocznica Rewolucji Francuskiej (1789-1889)",
+        "temat": "postęp techniczny, przemysł, nauka",
+        "konkurencja": "107 projektów zgłoszonych - wybrany projekt Eiffla",
+        "sukces": "10 milionów zwiedzających wieżę podczas wystawy",
+        "zwrot_kosztów": "Eiffel odzyskał inwestycję jeszcze podczas wystawy"
+      },
+      "petycja_artystów_1887": {
+        "wpływ": "300 artystów, pisarzy, architektów protestowało przeciw budowie",
+        "sygnatariusze": "Guy de Maupassant, Alexandre Dumas młodszy, Charles Gounod, Charles Garnier",
+        "określenia": "'potworność', 'hańba Paryża', 'wieża Babel'",
+        "reakcja_Eiffla": "obrona projektu, argumenty estetyczne i techniczne",
+        "rozwiązanie": "protesty ucichły po ukończeniu - sukces publiczny przekonał krytyków"
+      },
+      "planowana_rozbiórka_1909": {
+        "wpływ": "wieża miała być rozebrana po 20 latach (koniec koncesji)",
+        "zagrożenie": "miasto Paryż chciało odzyskać teren",
+        "ratunkiem": "funkcja jako wieża radiowa (pierwsze transmisje od 1898)",
+        "znaczenie_militarne": "użycie w I wojnie światowej do przechwytywania komunikatów",
+        "rezultat": "anulowanie planów rozbiórki, przedłużenie koncesji"
+      },
+      "I_wojna_światowa_1914-1918": {
+        "wpływ": "strategiczne znaczenie militarne",
+        "funkcja": "punkt obserwacyjny, stacja radiowa wojskowa",
+        "przechwycenie": "przechwycono niemieckie depesze (w tym o ataku na Marną 1914)",
+        "wkład": "przyczyniła się do zwycięstwa aliantów",
+        "rezultat": "ugruntowanie statusu jako niezbędnej infrastruktury"
+      },
+      "II_wojna_światowa_1940-1944": {
+        "okupacja": "Hitler przed wieżą (czerwiec 1940) - słynne zdjęcie",
+        "sabotaż": "Francuzi uszkodzili windy - Hitler nie wszedł na szczyt",
+        "flaga_nazistowska": "wisiała przez całą okupację",
+        "wyzwolenie": "25 sierpnia 1944 - podniesienie flagi francuskiej przez bombowych paryskiej",
+        "znaczenie_symboliczne": "symbol okupacji i wyzwolenia"
+      },
+      "modernizacje_XX_wieku": {
+        "1957": "dodanie anteny telewizyjnej - wzrost wysokości do 320.75m",
+        "1964": "wpis na listę zabytków historycznych Francji",
+        "1980-1983": "wielka renowacja - wymiana 1300 ton elementów stalowych",
+        "1986": "nowe oświetlenie sodowe - 336 projektorów",
+        "2000": "instalacja 20000 lamp błyskowych - iluminacja milenijna"
+      },
+      "XXI_wiek": {
+        "2004": "rozszerzenie anteny - wysokość 324m (później 330m)",
+        "2008-2014": "modernizacja platform i wind",
+        "2015": "instalacje ekologiczne - turbiny wiatrowe, panele fotowoltaiczne",
+        "2024": "przygotowania do Igrzysk Olimpijskich Paryż 2024",
+        "iluminacje_solidarnościowe": "kolory narodowe po zamachach (Francja, Belgia, Ukraina, etc.)"
+      }
+    },
+    "kontekst_Eiffla": {
+      "wiek_budowy": "57 lat (urodzony 1832, budowa 1887-1889)",
+      "doświadczenie": "wcześniej zbudował dziesiątki mostów, wiaduktów, konstrukcję Statuy Wolności",
+      "dedykacja": "projekt był kulminacją kariery, osobista inwestycja",
+      "życie": "mieszkał w apartamencie na szczycie wieży",
+      "filozofia": "'Francja będzie jedynym krajem z 300-metrową flagą' - o symbolice wieży",
+      "eksperymenty": "prowadził badania aerodynamiczne w tunelu wiatru na wieży",
+      "krytyka": "znosił protesty artystów z godnością, bronił projektu",
+      "triumf": "dożył uznania - wieża stała się ukochana przez Paryżan",
+      "śmierć": "27 grudnia 1923 (91 lat), zmarł jako uznany inżynier i bohater narodowy",
+      "pochówek": "cmentarz Levallois-Perret, nie w krypcie wieży",
+      "spadkobiercy": "rodzina czerpała dochody z koncesji przez dziesięciolecia"
+    },
+    "rola_w_historii_techniki": {
+      "rekordy": [
+        "najwyższa konstrukcja świata (1889-1930) - 41 lat",
+        "pierwsza konstrukcja powyżej 300 metrów",
+        "największa konstrukcja stalowa epoki",
+        "najszybciej zbudowana monumentalna konstrukcja (2 lata)"
+      ],
+      "przełomy_techniczne": [
+        "demonstracja możliwości konstrukcji stalowych kratownicowych",
+        "prefabrykacja i precyzyjny montaż na masową skalę",
+        "wykorzystanie wind pasażerskich na bezprecedensową wysokość",
+        "obliczenia wytrzymałościowe metodą analityczną",
+        "kajsony pneumatyczne przy fundamentach"
+      ],
+      "wpływ_na_inżynierię": [
+        "inspiracja dla drapaczy chmur w USA (szkielet stalowy)",
+        "wzór dla wież na całym świecie (Tokyo, Blackpool, Las Vegas)",
+        "rozwój metalurgii i technik nitowania",
+        "podręcznikowy przykład konstrukcji kratownicowej"
+      ]
+    },
+    "kontekst_społeczny": {
+      "reakcje_początkowe": {
+        "entuzjazm_mas": "miliony zwiedzających, zachwyt publiczności",
+        "krytyka_elit": "protesty artystów, intelektualistów, architektów",
+        "obawa": "strach przed katastrofą, 'zbrukaniem' Paryża",
+        "przemiana": "od pogardy do uwielbienia w ciągu kilku lat"
+      },
+      "symbol_postępu": {
+        "wiara_w_naukę": "ucieleśnienie triumfu rozumu i technologii",
+        "nowoczesność": "symbol nowoczesnego, postępowego Paryża",
+        "konkurencja": "dowód przewagi francuskiej inżynierii nad innymi narodami"
+      },
+      "demokratyzacja": {
+        "dostępność": "każdy mógł wejść za niewielką opłatą",
+        "równość": "robotnicy i arystokraci w tych samych windach",
+        "turystyka_masowa": "początek masowej turystyki w Paryżu"
+      }
+    },
+    "kontekst_artystyczny": {
+      "spór_estetyczny": {
+        "tradycjonaliści": "obrona klasycznej architektury kamiennej, potępienie 'żelaznej potworności'",
+        "moderniści": "entuzjazm dla czystej formy, funkcjonalności, nowej estetyki",
+        "rozwiązanie": "akceptacja estetyki inżynieryjnej jako pełnoprawnej formy sztuki"
+      },
+      "wpływ_na_sztukę": {
+        "kubizm": "inspiracja dla geometrycznych form",
+        "futuryzm": "symbol prędkości, nowoczesności, dynamizmu",
+        "art_deco": "wpływ na styl lat 20. XX wieku"
+      }
+    },
+    "znaczenie_dla_Paryża": {
+      "transformacja_wizerunku": "od 'miasta muzeów' do 'miasta nowoczesności'",
+      "turystyka": "główna atrakcja turystyczna od 130+ lat",
+      "tożsamość": "nieodłączny element tożsamości Paryża i Francji",
+      "panorama": "definiuje skyline Paryża, punkt orientacyjny"
+    }
+  },
+
+"szczegółowy_opis": {
+    "tekst_krótki": "Wieża Eiffla to ikoniczna stalowa wieża kratownicowa w Paryżu, zaprojektowana przez inżyniera Gustave'a Eiffla. Wzniesiona w latach 1887-1889 jako brama na Wystawę Światową, początkowo krytykowana, stała się globalnym symbolem Francji. Osiągająca 330 metrów wysokości konstrukcja z żelaza kutego posiada trzy platformy widokowe, restauracje i funkcje telekomunikacyjne. Najczęściej odwiedzany płatny zabytek świata z 7 milionami turystów rocznie.",
+    "tekst_długi": "Wieża Eiffla (Tour Eiffel) w Paryżu to monumentalna konstrukcja inżynierska, która stała się jednym z najbardziej rozpoznawalnych symboli na świecie. Ta stalowa wieża kratownicowa, wznosząca się na wysokość 330 metrów, została zaprojektowana przez wybitnego francuskiego inżyniera Gustave'a Eiffla i jego zespół (Maurice Koechlin, Émile Nouguier, Stephen Sauvestre) jako monumentalna brama wejściowa na Wystawę Światową w Paryżu w 1889 roku, organizowaną z okazji setnej rocznicy Rewolucji Francuskiej.\n\nHistoria wieży rozpoczęła się w 1884 roku, gdy dwaj inżynierowie z firmy Eiffla - Maurice Koechlin i Émile Nouguier - opracowali wstępne szkice 300-metrowej wieży metalowej. Gustave Eiffel początkowo nie był entuzjastycznie nastawiony, ale ostatecznie wykupił prawa do projektu i przedstawił go na konkurs związany z Wystawą Światową 1889. Spośród 107 zgłoszonych projektów, komisja wybrała projekt Eiffla, uznając jego realizowalność techniczną i monumentalny charakter.\n\nBudowa rozpoczęła się 28 stycznia 1887 roku i trwała jedynie 2 lata, 2 miesiące i 5 dni - niezwykłe osiągnięcie jak na skalę projektu. Prace wymagały precyzyjnej prefabrykacji 18 038 elementów metalowych, połączonych 2,5 miliona nitów, montowanych przez około 300 robotników. Co niezwykłe, podczas budowy zginęła tylko jedna osoba - rekordowo niski wynik jak na XIX-wieczne standardy bezpieczeństwa. Fundamenty wymagały szczególnie skomplikowanych prac, zwłaszcza przy filarach południowych znajdujących się blisko Sekwany, gdzie zastosowano innowacyjne kajsony pneumatyczne - szczelne komory robocze z nadciśnieniem powietrza umożliwiające pracę pod wodą.\n\nKonstrukcja składa się z czterech masywnych filarów u podstawy, które łączą się na wysokości 57 metrów w jednolitą strukturę. Podstawa ma kształt kwadratu o boku 124,9 metra, a cała konstrukcja zwęża się wykładniczo ku górze, tworząc elegancką sylwetkę zaprojektowaną dla minimalizacji oporu wiatru. Ażurowa struktura przepuszcza 95% wiatru, co czyni wieżę niezwykle odporną na warunki atmosferyczne. Mimo imponujących rozmiarów, gdyby stopić całą konstrukcję metalową (7300 ton żelaza), wypełniłaby ona jedynie podstawę wieży o głębokości 6 cm - dowód na genialność efektywności konstrukcyjnej.\n\nWieża posiada trzy platformy widokowe dostępne dla publiczności. Pierwsza platforma na wysokości 57,63 metra oferuje powierzchnię 4200 m² z restauracją 58 Tour Eiffel, sklepami i szklana podłogą pozwalającą spojrzeć w dół. Druga platforma (115,73 m) jest najbardziej popularna wśród turystów i mieści prestiżową restaurację Le Jules Verne z jedną gwiazdką Michelin. Trzecia platforma na wysokości 276,13 metra to najbardziej ekskluzywny poziom z barem szampańskim i zrekonstruowanym biurem Gustave'a Eiffla z figurami woskowymi przedstawiającymi Eiffla, jego córkę Claire i Thomasa Edisona podczas wizyty w 1889 roku. Dostęp możliwy jest schodami (1665 stopni, choć dla publiczności otwarte tylko do drugiego poziomu) lub windami - system pięciu różnych wind przewozi rocznie około 7 milionów pasażerów.\n\nPoczątkowa reakcja na wieżę była głęboko podzielona. W 1887 roku grupa 300 wybitnych artystów, pisarzy i architektów - w tym Guy de Maupassant, Alexandre Dumas młodszy i kompozytor Charles Gounod - opublikowała słynny protest nazwany 'Petycją przeciwko Wieży Eiffla', określając ją jako 'potworność', 'wieżę Babel' i 'hańbę Paryża'. Maupassant podobno regularnie jadał w restauracji wieży, twierdząc, że to jedyne miejsce w Paryżu, skąd jej nie widać. Jednak sukces publiczny podczas Wystawy Światowej 1889, gdy wieżę odwiedziło 10 milionów osób, uciszył krytyków. W ciągu kilku lat przekształciła się z krytykowanej 'żelaznej potworności' w ukochany symbol Paryża - najbardziej dramatyczna przemiana wizerunkowa w historii architektury.\n\nWieża miała być tymczasowa - zgodnie z umową, miała zostać rozebrana w 1909 roku, 20 lat po budowie. Jej ocalenie zawdzięcza funkcji jako wieża radiowa. Już w 1898 roku Eugène Ducretet przeprowadził pierwsze udane transmisje radiowe z wieży. Podczas I wojny światowej (1914-1918) wieża odegrała kluczową rolę militarną - jako punkt obserwacyjny i stacja radiowa przechwytująca niemieckie depesze, w tym kluczową wiadomość o planowanym ataku na Marną w 1914 roku. To strategiczne znaczenie uratowało ją przed rozbiórką i ugruntowało status niezbędnej infrastruktury.\n\nPodczas II wojny światowej wieża stała się symbolem okupacji i oporu. Gdy Hitler odwiedził Paryż w czerwcu 1940, francuscy technicy sabotowali windy, uniemożliwiając mu wejście na szczyt - symboliczny akt oporu. Przez całą okupację wisiała na niej flaga nazistowska, a 25 sierpnia 1944 roku, podczas wyzwolenia Paryża, podniesienie flagi francuskiej stało się ikonicznym momentem wolności.\n\nW XX i XXI wieku wieża przeszła liczne modernizacje. W 1957 roku dodano antenę telewizyjną, zwiększając wysokość do 320,75 m. Wielka renowacja w latach 1980-1983 wymieniła 1300 ton elementów stalowych. W 1986 roku zainstalowano nowoczesne oświetlenie sodowe z 336 projektorami, a w 2000 roku system 20 000 lamp błyskowych tworzących magiczny efekt migoczący co godzinę po zmroku. W 2015 roku dodano instalacje ekologiczne - turbiny wiatrowe i panele fotowoltaiczne, czyniąc wieżę bardziej zrównoważoną.\n\nWieża wymaga niezwykłej konserwacji. Co 7 lat jest całkowicie przemalowywana przez około 25 malarzy przez 15-18 miesięcy, zużywając 60 ton specjalnej farby ochronnej 'Tour Eiffel Brown' w trzech odcieniach (ciemniejszy u dołu, jaśniejszy u góry). Od 1889 była przemalowana 19 razy, początkowo na czerwono-brązowo, potem na różne odcienie ochry, a od 1968 w obecnym charakterystycznym brązowym kolorze. Powierzchnia malowania wynosi około 250 000 m² - ekwiwalent 30 boisk piłkarskich.\n\nZnaczenie kulturowe Wieży Eiffla jest nieprzemijające. Mimo że nie została wpisana na listę UNESCO (Paryż ma inne obiekty UNESCO, ale sama wieża pozostaje bez tego statusu), jest absolutnym symbolem Francji i jednym z najbardziej fotografowanych obiektów świata. Pojawiła się w ponad 1000 filmach, niezliczonych obrazach (słynna seria 30+ dzieł Roberta Delaunaya), fotografiach artystycznych i piosenkach. Inspirowała repliki na całym świecie - w Tokyo, Las Vegas, Blackpool i dziesiątkach innych miast.\n\nFunkcjonalnie wieża pełni role turystyczną (7 milionów gości rocznie), telekomunikacyjną (nadajniki radiowe i telewizyjne dla całego regionu), komercyjną (trzy restauracje, sklepy) i symboliczną. Iluminacje okolicznościowe w kolorach narodowych różnych krajów po zamachach terrorystycznych czy kryzysach stały się globalnym symbolem solidarności.\n\nWieża Eiffla to triumf inżynierii XIX wieku, który przekroczył swoją pierwotną funkcję utylitarną, stając się dziełem sztuki i globalną ikoną. Od krytykowanej 'potworności' przez zagrożoną rozbiórką konstrukcję tymczasową, po najczęściej odwiedzany płatny zabytek świata - jej historia to opowieść o sile wizji, wytrwałości i zdolności ludzkości do zmiany perspektywy. Gustave Eiffel, który zmarł w 1923 roku w wieku 91 lat jako uznany bohater narodowy, dożył triumfu swojego arcydzieła i pozostawił światu trwały dowód, że inżynieria może być sztuką, a funkcjonalność - pięknem.",
+    "opis_symboliczny": "Wieża Eiffla to żelazna poezja wzniesiona ku niebu, hymn ku czci ludzkiego geniuszu i nieustępliwości. To nie jest po prostu konstrukcja - to manifest wiary w postęp, w moc rozumu, w zdolność człowieka do przekraczania granic możliwego. Każda z 2,5 miliona nitów to świadectwo precyzji, każda kratownica to triumf matematyki nad grawitacją, każdy metr wysokości to przekraczanie barier uznawanych za nieprzekraczalne. Eiffel stworzył nie budynek, ale wykrzyknik wpisany w panoramę Paryża - deklarację, że piękno może wynikać z czystej funkcjonalności, że stal może być tak poruszająca jak marmur, że inżynieria może wzruszać jak poezja. To Żelazna Dama, która z początku odrzucona, stała się ukochaną królową Paryża - symbol tego, że wielkie dzieła często muszą przetrwać nierozumienie, by ostatecznie zawładnąć sercami ludzkości. To monument dla odwagi - odwagi patrzenia w przyszłość, gdy inni trzymają się przeszłości.",
+    "ciekawostki": [
+      "Wieża miała być rozebrana w 1909 roku - funkcja radiowa uratowała ją przed zniszczeniem",
+      "300 artystów podpisało petycję przeciw budowie, nazywając ją 'potworością' - później wszyscy zmienili zdanie",
+      "Guy de Maupassant jadał w restauracji wieży, bo to 'jedyne miejsce w Paryżu, skąd jej nie widać'",
+      "Gustave Eiffel miał prywatny apartament na szczycie - przyjmował tam Thomasa Edisona",
+      "Podczas budowy zginęła tylko JEDNA osoba - rekord jak na XIX wiek",
+      "Wieża 'rośnie' o 15 cm latem przez rozszerzalność termiczną metalu",
+      "Wierzchołek wieży może przesunąć się do 18 cm w silnym wietrze",
+      "Hitler rozkazał wysadzić wieżę podczas odwrotu w 1944 - rozkaz nie został wykonany",
+      "Francuscy technicy sabotowali windy w 1940, by Hitler nie mógł wejść na szczyt",
+      "Victor Lustig 'sprzedał' wieżę na złom dwukrotnie oszukując kupców (1925)",
+      "Franz Reichelt zginął w 1912, testując spadochron skacząc z pierwszej platformy",
+      "W 1944 pilot myśliwca P-51 Mustang przeleci ał POD wieżą przez łuki",
+      "Wieża jest przemalowywana co 7 lat - proces trwa 15-18 miesięcy i kosztuje 4 miliony euro",
+      "Gdyby stopić całą konstrukcję, wypełniłaby podstawę wieży tylko na 6 cm",
+      "W 1925-1934 wieża była największą reklamą świata - neon Citroën z 250 000 żarówek",
+      "Każdego roku około 1 500 par zaręcza się na wieży",
+      "Wieża odchyla się o 18 cm od słońca - ogrzane żelazo po jednej stronie się rozszerza",
+      "72 nazwiska wybitnych francuskich naukowców i inżynierów jest wygrawerowanych u podstawy",
+      "Nocne oświetlenie jest chronione prawami autorskimi - komercyjne zdjęcia wymagają zgody",
+      "Przez 41 lat (1889-1930) była najwyższą konstrukcją świata - przekroczyła ją dopiero Chrysler Building",
+      "Wieża została zbudowana w 2 lata, 2 miesiące i 5 dni - szybciej niż wiele współczesnych budów",
+      "Nad 300 milionów ludzi odwiedziło wieżę od 1889 roku",
+      "Eiffel prowadził na wieży badania aerodynamiczne - testował opory powietrza",
+      "W 1923 dziennikarz Pierre Labric zjechał na rowerze po schodach z pierwszego poziomu",
+      "Wieża przetrwała I wojnę światową dzięki przechwyceniu niemieckiej depeszy o ataku na Marną"
+    ]
+  },
+"dane_techniczne": {
+    "numer_UNESCO": null,
+    "współrzędne": {
+      "WGS84": {
+        "lat": 48.8584,
+        "lon": 2.2945,
+        "alt": 33
+      },
+      "UTM": {
+        "strefa": "31U",
+        "easting": 448252,
+        "northing": 5411920
+      }
+    },
+    "status_prawny": {
+      "właściciel": "Ville de Paris (Miasto Paryż)",
+      "typ_własności": "własność publiczna - majątek miasta",
+      "operator": "Société d'Exploitation de la Tour Eiffel (SETE) - koncesja",
+      "przeznaczenie": "obiekt użyteczności publicznej, atrakcja turystyczna, infrastruktura telekomunikacyjna",
+      "ochrona_konserwatorska": "Monument historique (zabytek narodowy Francji od 1964)"
+    },
+    "ubezpieczenie": {
+      "typ": "kompleksowe ubezpieczenie obiektu publicznego",
+      "wartość_ubezpieczenia": "nieujawniana - szacunkowo miliardy euro",
+      "zakres": "szkody konstrukcyjne, OC (odpowiedzialność cywilna), ubezpieczenie turystów, zdarzenia nadzwyczajne, terroryzm",
+      "ubezpieczyciel": "konsorcjum ubezpieczeniowe"
+    },
+    "certyfikaty_budowlane": {
+      "pozwolenia_na_budowę": "nie dotyczy - obiekt historyczny z 1889",
+      "pozwolenia_modernizacyjne": "wydawane dla każdej modernizacji przez władze zabytków",
+      "certyfikat_bezpieczeństwa": "coroczne szczegółowe przeglądy techniczne przez Bureau Veritas",
+      "certyfikat_pożarowy": "najwyższa klasa bezpieczeństwa pożarowego ERP (Établissement Recevant du Public)",
+      "certyfikat_wind": "windy certyfikowane co 6 miesięcy",
+      "dostępność": "częściowa dostępność dla osób niepełnosprawnych (do 2. poziomu)"
+    },
+    "systemy_budynku": {
+      "ogrzewanie": {
+        "typ": "elektryczne ogrzewanie w pomieszczeniach zamkniętych",
+        "źródło": "energia elektryczna",
+        "moc": "około 800 kW",
+        "strefy": "restauracje, biura, pomieszczenia techniczne (platformy otwarte bez ogrzewania)",
+        "ogrzewanie_przeciwoblodzeniowe": "kable grzewcze na schodach i platformach"
+      },
+      "wentylacja": {
+        "typ": "naturalna wentylacja przez ażurową konstrukcję + mechaniczna w pomieszczeniach",
+        "wydajność": "15000 m³/h w restauracjach",
+        "charakterystyka": "konstrukcja otwarta - naturalna cyrkulacja powietrza"
+      },
+      "klimatyzacja": {
+        "typ": "klimatyzacja tylko w restauracjach i pomieszczeniach biurowych",
+        "moc": "300 kW chłodzenia",
+        "strefy": "Le Jules Verne, 58 Tour Eiffel, biura, pomieszczenia techniczne"
+      },
+      "woda": {
+        "dostawca": "Eau de Paris",
+        "zbiorniki": "zbiorniki na każdej platformie - łącznie 80 m³",
+        "zużycie_dzienne": "około 50 m³",
+        "system": "pompowanie na wysokość - pompy na każdym poziomie",
+        "zbieranie_deszczówki": "system zbierania wody deszczowej (od 2015) - 3 m³/dzień"
+      },
+      "kanalizacja": {
+        "typ": "grawitacyjna + pompowanie z platform",
+        "pompownie": 3,
+        "separator": "separatory tłuszczu w restauracjach"
+      },
+      "elektryczność": {
+        "przyłącze": "główne przyłącze 20 kV + 2 rezerwowe",
+        "moc": "7.5 MW zainstalowana (oświetlenie + urządzenia)",
+        "napięcie": "400V / 230V",
+        "transformatory": 8,
+        "agregat": "awaryjny agregat dieslowski 1 MW",
+        "UPS": "dla systemów bezpieczeństwa, telekomunikacji, wind",
+        "oświetlenie_nocne": "336 projektorów sodowych + 20000 lamp LED błyskowych",
+        "moc_oświetlenia": "320 kW"
+      },
+      "fotowoltaika": {
+        "status": "zainstalowane panele (2015)",
+        "moc": "10 kWp",
+        "lokalizacja": "dachy pawilonów na pierwszej platformie",
+        "produkcja": "niewielki wkład w całkowite zużycie"
+      },
+      "turbiny_wiatrowe": {
+        "status": "zainstalowane (2015)",
+        "liczba": 2,
+        "moc": "łącznie 10 kW",
+        "lokalizacja": "druga platforma",
+        "wysokość": "turbiny pionowe VAwT"
+      },
+      "przeciwpożarowy": {
+        "hydranty": 32,
+        "tryskacze": "system tryskaczowy w restauracjach i pomieszczeniach zamkniętych",
+        "czujniki": "czujniki dymu i ciepła - około 300",
+        "gaśnice": 85,
+        "drogi_ucieczki": "schody (3 klatki) + windy awaryjne",
+        "pompy": "pompy pożarowe na każdej platformie",
+        "systemy_zarządzania": "centralny system alarmowy z automatycznym powiadomieniem straży pożarnej",
+        "drużyny": "przeszkolone zespoły strażnicze na każdej zmianie"
+      },
+      "bezpieczeństwo": {
+        "monitoring": "około 150 kamer CCTV HD",
+        "kontrola_dostępu": "bramki elektroniczne, skanery biletów, kontrola bezpieczeństwa",
+        "wykrywacze_metalu": "na każdym wejściu (po 2015)",
+        "skanery_bagażowe": 8,
+        "alarm": "system alarmowy podłączony do Préfecture de Police",
+        "ochrona": "całodobowa ochrona - około 50 pracowników ochrony",
+        "monitoring_strukturalny": "czujniki wibracji, przemieszczenia, temperatury - około 200 czujników",
+        "bariera_ochronna": "szklana bariera ochronna wokół podstawy (od 2018) - ochrona przed atakami pojazdami"
+      },
+      "dzwony": {
+        "typ": "nie dotyczy - brak dzwonów",
+        "historia": "w przeszłości były sygnały dźwiękowe dla turystów"
+      },
+      "akustyka": {
+        "system": "minimalne systemy nagłośnienia",
+        "głośniki": "około 40 głośników do komunikatów bezpieczeństwa i informacyjnych",
+        "charakterystyka": "konstrukcja otwarta - naturalna akustyka"
+      },
+      "multimedia": {
+        "wyświetlacze": "ekrany informacyjne LED na platformach - 12 sztuk",
+        "przewodniki": "aplikacja mobilna w wielu językach",
+        "Wi-Fi": "darmowe Wi-Fi na wszystkich platformach",
+        "panoramy_interaktywne": "ekrany dotykowe pokazujące panoramę z opisami (druga platforma)"
+      },
+      "telekomunikacja": {
+        "nadajniki_radiowe": "20+ stacji radiowych FM",
+        "nadajniki_TV": "DVB-T, DVB-T2 - pokrycie całego regionu",
+        "nadajniki_cyfrowe": "DAB+, 4G, 5G",
+        "anteny": "ponad 100 anten na szczycie i maszcie",
+        "zasięg": "do 70 km dla TV, 30-40 km dla radia",
+        "wysokość_masztu": "30 metrów anteny nad konstrukcją (szczyt 330m)"
+      }
+    },
+    "zarządzanie_energią": {
+      "zużycie_roczne": "około 6.7 GWh elektryczności (w tym oświetlenie nocne 580 MWh/rok)",
+      "szczyt_zapotrzebowania": "zima - oświetlenie + ogrzewanie",
+      "efektywność_energetyczna": "program modernizacji LED (2015-2020) - redukcja zużycia o 30%",
+      "OZE": "panele solarne 10 kWp + turbiny wiatrowe 10 kW = około 0.3% zużycia",
+      "monitoring": "system BMS do optymalizacji - sterowanie oświetleniem, ogrzewaniem w czasie rzeczywistym",
+      "ślad_węglowy": "około 3200 ton CO2/rok (redukcja planowana do 2030)"
+    },
+    "gospodarka_odpadami": {
+      "segregacja": "pełna segregacja - 5 frakcji głównych",
+      "recykling": "około 65% odpadów recyklingowanych",
+      "odpady_niebezpieczne": "oleje, farby - specjalne zarządzanie",
+      "odpady_gastronomiczne": "segregacja bio z restauracji - około 40% całości",
+      "ilość_roczna": "około 400 ton odpadów rocznie (głównie z turystyki)",
+      "kompostowanie": "część odpadów organicznych kompostowana"
+    },
+    "konserwacja_konstrukcji": {
+      "malowanie": "co 7 lat - 15-18 miesięcy prac",
+      "farba": "60 ton farby ochronnej przeciwkorozyjnej",
+      "kolor": "Tour Eiffel Brown - 3 odcienie (gradient)",
+      "koszty_malowania": "około 4 miliony euro",
+      "malarze": "25 specjalistów alpinistów",
+      "monitoring_korozji": "ciągły monitoring korozji - 50 punktów pomiarowych",
+      "wymiana_elementów": "wymiana nitów i elementów według potrzeb - około 50 elementów rocznie",
+      "przeglądy": "szczegółowe przeglądy konstrukcyjne co 2 lata"
+    },
+    "dostawa": {
+      "platformy_dostaw": "podstawa wieży - 4 punkty dostaw",
+      "dźwigi": "dźwigi towarowe w konstrukcji",
+      "windy_towarowe": "windy hydrauliczne do transportu materiałów",
+      "udźwig": "maksymalnie 2 tony na windę towarową",
+      "transport_pionowy": "system podciągów lin stalowych dla ciężkich materiałów",
+      "godziny_dostaw": "6:00-9:00 przed otwarciem dla publiczności"
+    },
+    "windy": {
+      "liczba_systemów": 5,
+      "liczba_kabin": 8,
+      "typ_historyczny": "hydrauliczne Otis (1889) - zmodernizowane",
+      "typ_współczesny": "elektryczne (szczyt), hydrauliczne (niższe poziomy)",
+      "prędkość": "1-2 m/s",
+      "pojemność": "25-92 osoby (zależnie od windy)",
+      "ruch_rocznie": "około 7 milionów pasażerów",
+      "konserwacja": "przeglądy co 6 miesięcy + codzienna konserwacja",
+      "awaria_średnia": "niezawodność 99.5%"
+    },
+    "dane_meteorologiczne": {
+      "wiatr_maksymalny": "wytrzymuje wiatr do 220 km/h",
+      "amplituda_wiatru": "wierzchołek może przesunąć się do 15 cm",
+      "rozszerzalność_termiczna": "różnica wysokości zima-lato do 18 cm",
+      "temperatura_ekstremalna": "od -20°C do +40°C",
+      "obciążenie_śniegiem": "konstrukcja wytrzymuje obciążenie śniegiem do 500 kg/m²",
+      "piorunochrony": "wieża działa jako naturalny piorunochron - około 5 uderzeń rocznie"
+    }
+  },
+"kontakt": {
+    "adres_korespondencyjny": "5 Avenue Anatole France, 75007 Paris, France",
+    "adres_siedziby_SETE": "Tour Eiffel, 5 Avenue Anatole France, 75007 Paris",
+    "telefon_główny": "+33 (0)8 92 70 12 39",
+    "telefon_rezerwacje": "+33 (0)8 92 70 12 39",
+    "telefon_grupy": "+33 (0)1 44 11 23 45",
+    "e-mail": "contact@toureiffel.paris",
+    "e-mail_rezerwacje": "reservation@toureiffel.paris",
+    "e-mail_grupy": "groupes@toureiffel.paris",
+    "e-mail_wydarzenia": "evenements@toureiffel.paris",
+    "strona_internetowa": "www.toureiffel.paris",
+    "rezerwacje_online": "www.toureiffel.paris/billetterie",
+    "social_media": {
+      "facebook": "@LaTourEiffel",
+      "instagram": "@toureiffelofficielle",
+      "twitter": "@LaTourEiffel",
+      "youtube": "La Tour Eiffel Officielle",
+      "tiktok": "@toureiffelofficielle",
+      "linkedin": "Société d'Exploitation de la Tour Eiffel"
+    },
+    "biuro_prasowe": "presse@toureiffel.paris",
+    "dział_eventowy": "evenements@toureiffel.paris",
+    "wynajem_przestrzeni": "locations@toureiffel.paris",
+    "współpraca_biznesowa": "partenariats@toureiffel.paris",
+    "restauracje": {
+      "58_Tour_Eiffel": {
+        "telefon": "+33 (0)1 72 76 18 46",
+        "e-mail": "restaurant-58@restaurants-toureiffel.com",
+        "rezerwacje": "online lub telefoniczne"
+      },
+      "Le_Jules_Verne": {
+        "telefon": "+33 (0)1 45 55 61 44",
+        "e-mail": "lejulesverne@alain-ducasse.com",
+        "rezerwacje": "obowiązkowe z dużym wyprzedzeniem (miesiące)",
+        "strona": "www.lejulesverne-paris.com"
+      },
+      "bar_szampański": {
+        "rezerwacje": "nie są wymagane - first come, first served"
+      },
+      "bufety": {
+        "rezerwacje": "brak - obsługa na miejscu"
+      }
+    },
+    "operator": {
+      "nazwa": "Société d'Exploitation de la Tour Eiffel (SETE)",
+      "forma_prawna": "Société d'économie mixte locale",
+      "właściciel_koncesji": "Ville de Paris (60%) + partner prywatny (40%)",
+      "adres": "Tour Eiffel, 75007 Paris",
+      "e-mail_korporacyjny": "contact@sete.toureiffel.fr"
+    },
+    "godziny_kontaktu": {
+      "call_center": "09:00-18:00 (7 dni w tygodniu)",
+      "e-mail": "odpowiedzi w ciągu 48 godzin",
+      "biuro_rezerwacji": "09:00-17:30 (poniedziałek-piątek)"
+    },
+    "języki_obsługi": [
+      "francuski",
+      "angielski",
+      "hiszpański",
+      "niemiecki",
+      "włoski",
+      "portugalski",
+      "rosyjski",
+      "chiński",
+      "japoński"
+    ],
+    "pomoc_turystyczna": {
+      "informacja_na_miejscu": "punkty informacyjne na każdej platformie",
+      "zaginione_rzeczy": "+33 (0)1 45 55 20 04",
+      "służby_medyczne": "punkt pierwszej pomocy na pierwszej platformie",
+      "pomoc_niepełnosprawnym": "dedykowany personel + winda priorytetowa"
+    },
+    "media_kontakt": {
+      "dział_PR": "Service Communication SETE",
+      "telefon_prasowy": "+33 (0)1 44 11 23 56",
+      "e-mail_prasowy": "communication@toureiffel.paris",
+      "akredytacje_medialne": "media@toureiffel.paris",
+      "zdjęcia_prasowe": "dostępne na stronie w sekcji presse"
+    },
+    "edukacja": {
+      "wizyty_szkolne": "scolaires@toureiffel.paris",
+      "programy_edukacyjne": "education@toureiffel.paris",
+      "warsztaty": "ateliers@toureiffel.paris"
+    },
+    "współpraca": {
+      "sponsoring": "partenariats@toureiffel.paris",
+      "licensing": "licences@toureiffel.paris",
+      "eventy_korporacyjne": "evenements@toureiffel.paris",
+      "wynajem_sal": "locations@toureiffel.paris"
+    },
+    "skargi_i_reklamacje": {
+      "e-mail": "reclamations@toureiffel.paris",
+      "formularz_online": "dostępny na stronie www.toureiffel.paris",
+      "czas_odpowiedzi": "do 15 dni roboczych"
+    },
+    "aplikacja_mobilna": {
+      "nazwa": "La Tour Eiffel Officielle",
+      "dostępność": "iOS, Android",
+      "funkcje": "przewodnik, historia, AR, rezerwacje, mapy"
+    },
+    "dostęp": {
+      "metro": "Bir-Hakeim (linia 6), Trocadéro (linie 6, 9), École Militaire (linia 8)",
+      "RER": "Champ de Mars - Tour Eiffel (linia C)",
+      "autobus": "linie 82, 42, 69, 87",
+      "parking": "Parking Tour Eiffel (Quai Branly)",
+      "rowery_Vélib": "stacje wokół Champ de Mars",
+      "taksówki": "postój przy Avenue Gustave Eiffel"
+    },
+    "adres_siedziby_Ville_de_Paris": {
+      "właściciel": "Mairie de Paris, Hôtel de Ville, 75004 Paris",
+      "département": "Direction du Patrimoine et de l'Architecture"
+    }
+  },
+ 
+  "porady_praktyczne": {
+    "co_zabrać": [
+      "wygodne obuwie",
+      "wodę (minimum 1L)",
+      "kapelusz i krem z filtrem",
+      "aparat/telefon z naładowaną baterią",
+      "gotówka na pamiątki"
+    ],
+    "czego_unikać": [
+      "pory południowej w lecie (najgorętsze)",
+      "weekendy w sezonie (tłumy)",
+      "wciskających sprzedawców selfie-sticków",
+      "nielegalnych przewodników"
+    ],
+    "insiderskie_tipy": [
+      "Kup bilety online z wyprzedzeniem - ominiesz kolejki",
+      "Przyjdź o otwarciu lub 2h przed zamknięciem",
+      "Roma Pass daje pierwszeństwo wejścia",
+      "Bezpłatne Wi-Fi w okolicy - hasło w punkcie info",
+      "Najlepsze zdjęcia z Wzgórza Palatyn o zachodzie"
+    ],
+    "błędy_turystów": [
+      "Przyjście bez rezerwacji w sezonie",
+      "Niedocenianie czasu zwiedzania",
+      "Brak wody i ochrony przed słońcem",
+      "Próba zobaczenia wszystkiego w 1h",
+      "Kupowanie pamiątek od ulicznych sprzedawców (droższe)"
+    ]
+  },
+  
+ 
+  "ciekawostki_praktyczne": [
+    "W podziemiach (hypogeum) temperatura jest o 5-8°C niższa - zabierz bluzę",
+    "Darmowe wejście w pierwszą niedzielę każdego miesiąca (długie kolejki!)",
+    "Młodzież do 18 lat (UE) ma wstęp bezpłatny",
+    "Audioguide dostępne w 10 językach - warto wynająć",
+    "Arena jest oświetlona nocą - piękne widoki z zewnątrz za darmo",
+    "W pobliżu są publiczne toalety - przy Via dei Fori Imperiali",
+    "Punkt pierwszej pomocy znajduje się przy wejściu głównym"
+  ],
+  
+  "FAQ": [
+    {
+      "pytanie": "Czy mogę wejść z plecakiem?",
+      "odpowiedź": "Tak, ale będzie sprawdzany. Duże plecaki (>40x35x15cm) mogą być zabronione."
+    },
+    {
+      "pytanie": "Czy jest klimatyzacja?",
+      "odpowiedź": "Nie, Koloseum jest otwarte, bez klimatyzacji. Latem bardzo gorąco."
+    },
+    {
+      "pytanie": "Czy można robić zdjęcia?",
+      "odpowiedź": "Tak, dozwolone bez flesza i statywów. Drony zabronione."
+    },
+    {
+      "pytanie": "Czy jest dostępne dla wózków?",
+      "odpowiedź": "Częściowo. Winda dostępna, ale nie wszystkie poziomy są osiągalne."
+    },
+    {
+      "pytanie": "Gdzie kupić bilety?",
+      "odpowiedź": "Online na coopculture.it (zalecane) lub na miejscu (długie kolejki)."
+    }
+  ],
+
+  "historia_w_pigułce": {
+    "krotki_opis": "Największy amfiteatr starożytnego świata, zbudowany przez dynastię Flawiuszy w latach 72-80 n.e. Miejsce walk gladiatorów i polowań na dzikie zwierzęta.",
+    "dlaczego_warto_zobaczyc": "Symbol Rzymu i jeden z najlepiej zachowanych zabytków starożytności. Arcydzieło inżynierii, które przetrwało 2000 lat.",
+    "najciekawsze_fakty": [
+      "Mogło pomieścić 50-80 tysięcy widzów",
+      "Wszystkich można było ewakuować w 5-10 minut",
+      "Pod areną był labirynt korytarzy i 28 wind",
+      "Arena była zalewana wodą do bitew morskich"
+    ]
+  },
+
+  "multimedia": {
+    "wirtualny_spacer_url": "https://example.com/virtual-tour",
+    "drone_video_url": "https://youtube.com/...",
+    "dokumenty_filmowe": [
+      {
+        "tytuł": "Engineering an Empire: Rome",
+        "url": "https://...",
+        "czas": "45 min"
+      }
+    ],
+    "podcast_odcinki": []
+  }
+}

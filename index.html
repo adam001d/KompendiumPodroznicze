@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kompendium Podróżnicze - Odkryj Świat</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+    <!-- Theme Toggle (floating button) -->
+    <button class="theme-toggle-fab" id="themeToggle" title="Przełącz motyw" aria-label="Przełącz między trybem jasnym a ciemnym">
+        <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+        </svg>
+        <svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        </svg>
+    </button>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Kompendium Podróżnicze</h1>
+<p>Twój kompleksowy przewodnik po najpiękniejszych miejscach świata</p>
+            
+            <!-- Globalna wyszukiwarka -->
+            <div class="global-search">
+                <div class="search-input-wrapper">
+                    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                    <input type="text" id="globalSearch" placeholder="Szukaj krajów, miast, atrakcji..." autocomplete="off">
+                    <div class="search-filters">
+                        <button class="filter-chip active" data-filter="all">Wszystko</button>
+                        <button class="filter-chip" data-filter="country">Kraje</button>
+                        <button class="filter-chip" data-filter="city">Miasta</button>
+                        <button class="filter-chip" data-filter="attraction">Atrakcje</button>
+                    </div>
+                </div>
+                
+                <!-- Dropdown z wynikami -->
+                <div class="search-results-dropdown" id="searchResults" style="display: none;">
+                    <div class="results-container">
+                        <!-- Wyniki będą dynamicznie wstawiane tutaj -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Animowane tło z mapą świata -->
+        <div class="hero-background">
+            <canvas id="worldMap"></canvas>
+        </div>
+    </section>
+
+    <!-- Główne sekcje -->
+    <section class="main-sections">
+        <div class="container">
+            <h2 class="section-heading">Eksploruj Świat</h2>
+            <div class="sections-grid">
+                
+                <!-- Kraje -->
+                <a href="kraje.html" class="section-card card-countries">
+                    <div class="card-background">
+                        <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=800&q=80" alt="Kraje">
+                    </div>
+                    <div class="card-content">
+                        <div class="card-icon">🌍</div>
+                        <h3>Kraje</h3>
+                        <p>Odkryj kultury, historię i geografię krajów całego świata</p>
+                        <div class="card-stats">
+                            <span class="stat-big"><strong id="countriesCount">0</strong> krajów</span>
+                            <span><strong id="unescoCount">0</strong> obiektów UNESCO</span>
+                        </div>
+                        <div class="card-arrow">→</div>
+                    </div>
+                </a>
+
+                <!-- Miasta -->
+                <a href="miasta.html" class="section-card card-cities">
+                    <div class="card-background">
+                        <img src="https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&q=80" alt="Miasta">
+                    </div>
+                    <div class="card-content">
+                        <div class="card-icon">🏙️</div>
+                        <h3>Miasta</h3>
+                        <p>Poznaj najpiękniejsze metropolie i ukryte perły świata</p>
+                        <div class="card-stats">
+                            <span class="stat-big"><strong id="citiesCount">0</strong> miast</span>
+                            <span><strong>Praktyczne</strong> porady</span>
+                        </div>
+                        <div class="card-arrow">→</div>
+                    </div>
+                </a>
+
+                <!-- Atrakcje -->
+                <a href="atrakcje.html" class="section-card card-attractions">
+                    <div class="card-background">
+                        <img src="https://images.unsplash.com/photo-1549144511-f099e773c147?w=800&q=80" alt="Atrakcje">
+                    </div>
+                    <div class="card-content">
+                        <div class="card-icon">🏛️</div>
+                        <h3>Atrakcje</h3>
+                        <p>Zabytki, muzea, parki i cuda architektury z całego świata</p>
+                        <div class="card-stats">
+                            <span class="stat-big"><strong id="attractionsCount">0</strong> atrakcji</span>
+                            <span><strong>6</strong> kategorii</span>
+                        </div>
+                        <div class="card-arrow">→</div>
+                    </div>
+                </a>
+
+                <!-- Galeria -->
+                <a href="galeria.html" class="section-card card-gallery">
+                    <div class="card-background">
+                        <img src="https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?w=800&q=80" alt="Galeria">
+                    </div>
+                    <div class="card-content">
+                        <div class="card-icon">📸</div>
+                        <h3>Galeria</h3>
+                        <p>Tysiące zdjęć z najpiękniejszych zakątków świata</p>
+                        <div class="card-stats">
+                            <span class="stat-big"><strong id="photosCount">0</strong> zdjęć</span>
+                            <span><strong>HD</strong> jakość</span>
+                        </div>
+                        <div class="card-arrow">→</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Popularne miejsca -->
+    <section class="popular-section">
+        <div class="container">
+            <h2 class="section-heading">Popularne Miejsca</h2>
+            <p class="section-subtitle">Odkryj najczęściej odwiedzane kraje i miasta świata</p>
+            <div class="popular-grid" id="popularDestinations">
+                <!-- Dynamicznie ładowane popularne miejsca -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Kontynenty -->
+    <section class="continents-section">
+        <div class="container">
+            <h2 class="section-heading">Podróżuj po Kontynentach</h2>
+            <div class="continents-map">
+                <svg viewBox="0 0 1000 600" class="world-continents">
+                    <!-- Interaktywna mapa kontynentów -->
+                    <g id="europe" class="continent" data-continent="europe">
+                        <path d="..." fill="#3b82f6" opacity="0.7"/>
+                        <text x="..." y="...">Europa</text>
+                    </g>
+                    <!-- Inne kontynenty... -->
+                </svg>
+            </div>
+            <div class="continents-list">
+                <button class="continent-btn" data-continent="europa">
+                    <span class="continent-icon">🗺️</span>
+                    <div class="continent-info">
+                        <span class="continent-name">Europa</span>
+                        <span class="continent-count">(45 krajów)</span>
+                    </div>
+                </button>
+                <button class="continent-btn" data-continent="azja">
+                    <span class="continent-icon">🌏</span>
+                    <div class="continent-info">
+                        <span class="continent-name">Azja</span>
+                        <span class="continent-count">(48 krajów)</span>
+                    </div>
+                </button>
+                <button class="continent-btn" data-continent="afryka">
+                    <span class="continent-icon">🌍</span>
+                    <div class="continent-info">
+                        <span class="continent-name">Afryka</span>
+                        <span class="continent-count">(54 kraje)</span>
+                    </div>
+                </button>
+                <button class="continent-btn" data-continent="ameryka-polnocna">
+                    <span class="continent-icon">🌎</span>
+                    <div class="continent-info">
+                        <span class="continent-name">Ameryka Północna</span>
+                        <span class="continent-count">(23 kraje)</span>
+                    </div>
+                </button>
+                <button class="continent-btn" data-continent="ameryka-poludniowa">
+                    <span class="continent-icon">🗺️</span>
+                    <div class="continent-info">
+                        <span class="continent-name">Ameryka Południowa</span>
+                        <span class="continent-count">(12 krajów)</span>
+                    </div>
+                </button>
+                <button class="continent-btn" data-continent="oceania">
+                    <span class="continent-icon">🏝️</span>
+                    <div class="continent-info">
+                        <span class="continent-name">Oceania</span>
+                        <span class="continent-count">(14 krajów)</span>
+                    </div>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Rozpocznij Swoją Podróż</h2>
+                <p>Odkryj tysiące miejsc, zaplanuj wycieczkę i zainspiruj się</p>
+                <div class="cta-buttons">
+                    <a href="atrakcje.html" class="btn btn-primary">Przeglądaj Atrakcje</a>
+                    <a href="kraje.html" class="btn btn-secondary">Zobacz Kraje</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4>Kompendium Podróżnicze</h4>
+                    <p>Twój przewodnik po najpiękniejszych miejscach świata</p>
+                </div>
+                <div class="footer-col">
+                    <h5>Eksploruj</h5>
+                    <ul>
+                        <li><a href="kraje.html">Kraje</a></li>
+                        <li><a href="miasta.html">Miasta</a></li>
+                        <li><a href="atrakcje.html">Atrakcje</a></li>
+                        <li><a href="galeria.html">Galeria</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h5>Kategorie</h5>
+                    <ul>
+                        <li><a href="atrakcje.html?category=budynki">Budynki</a></li>
+                        <li><a href="atrakcje.html?category=muzea">Muzea</a></li>
+                        <li><a href="atrakcje.html?category=parki">Parki</a></li>
+                        <li><a href="atrakcje.html?category=pomniki">Pomniki</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h5>O Projekcie</h5>
+                    <ul>
+                        <li><a href="#about">O nas</a></li>
+                        <li><a href="#contact">Kontakt</a></li>
+                        <li><a href="#sources">Źródła</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Kompendium Podróżnicze. Dane z UNESCO, Wikipedia i innych źródeł.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/theme.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/search.js"></script>
+</body>
+</html>

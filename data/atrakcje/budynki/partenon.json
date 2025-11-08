@@ -1,0 +1,1695 @@
+{
+  "id": "BUD-GRC-001",
+  "ikona_font_awesome": "fa-landmark",
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Παρθενώνας",
+      "potoczna": "Partenon",
+      "lokalna": "Παρθενώνας",
+      "tłumaczenia": {
+        "polski": "Partenon",
+        "angielski": "Parthenon",
+        "niemiecki": "Parthenon",
+        "francuski": "Parthénon",
+        "włoski": "Partenone",
+        "rosyjski": "Парфенон",
+        "grecki": "Παρθενώνας"
+      },
+      "nazwy_alternatywne": [
+        "Świątynia Ateny Partenos",
+        "Naos tēs Athēnas Parthenou",
+        "Temple of Athena Parthenos"
+      ],
+      "skróty": [],
+      "nazwa_historyczna": "Ναός της Αθηνάς Παρθένου"
+    },
+    "typ_budynku": {
+      "kategoria_główna": "budynek sakralny",
+      "kategoria_drugorzędna": "świątynia",
+      "kategoria_trzecia": "ruiny archeologiczne",
+      "podkategorie": [
+        "świątynia perypetryczna",
+        "świątynia doryjska",
+        "skarb miejski",
+        "atrakcja turystyczna",
+        "pomnik starożytności"
+      ],
+      "funkcje": [
+        "dawne miejsce kultu religijnego",
+        "obiekt dziedzictwa UNESCO",
+        "arcydzieło architektury klasycznej",
+        "muzeum pod gołym niebem",
+        "symbol cywilizacji greckiej"
+      ],
+      "klasyfikacja_UNESCO": "Dobro Światowe UNESCO",
+      "typologia_architektoniczna": "świątynia perypetryczna oktastylowa"
+    },
+    "status": {
+      "obecny": "ruina w trakcie konserwacji",
+      "czynnościowo_operacyjny": false,
+      "procent_ukończenia": 100,
+      "faza_budowy": "prace konserwatorskie i restauracyjne",
+      "przewidywane_ukończenie": {
+        "rok_optymistyczny": null,
+        "rok_realistyczny": null,
+        "rok_pesymistyczny": null,
+        "niepewność": "trwająca konserwacja bez daty zakończenia"
+      },
+      "dostępność_publiczna": true,
+      "aktywne_wykorzystanie": false,
+      "status_konserwatorski": "pod ścisłą ochroną konserwatora zabytków",
+      "wpis_do_rejestru": "Acropolis of Athens (UNESCO 1987)"
+    },
+    "certyfikaty_oznaczenia": {
+      "UNESCO": {
+        "status": "Obiekt Światowego Dziedzictwa",
+        "rok_wpisu": 1987,
+        "kryteria": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "vi"
+        ],
+        "numer_referencyjny": "404",
+        "zakres": "Akropol Ateński"
+      },
+      "inne_certyfikaty": [
+        {
+          "nazwa": "Europejskie Dziedzictwo Kulturowe",
+          "instytucja": "Unia Europejska",
+          "rok_nadania": 2007
+        },
+        {
+          "nazwa": "Archeologiczne Dziedzictwo Grecji",
+          "instytucja": "Ministerstwo Kultury Grecji",
+          "rok_nadania": 1975
+        }
+      ]
+    }
+  },
+"lokalizacja": {
+    "adres": {
+      "ulica": null,
+      "numer": null,
+      "dzielnica": "Akropol",
+      "osiedle": "Plaka",
+      "miasto": "Ateny",
+      "prowincja": "Ateny",
+      "region": "Attyka",
+      "kraj": "Grecja",
+      "kod_kraju": "GR",
+      "kod_pocztowy": "105 58",
+      "pełny_adres": "Akropol, 105 58 Ateny, Grecja"
+    },
+    "współrzędne": {
+      "szerokość_geograficzna": 37.9715,
+      "długość_geograficzna": 23.7267,
+      "wysokość_n.p.m.": 156
+    },
+    "otoczenie": {
+      "gestość": "wysoka zabudowa miejska z strefą archeologiczną",
+      "typ_zabudowy": "strefa archeologiczna otoczona zabudową mieszkalno-turystyczną",
+      "dominująca_funkcja": "archeologiczna i turystyczna",
+      "odległość_od_morza": 7800,
+      "odległość_od_centrum": 500,
+      "punkty_widokowe": [
+        {
+          "nazwa": "Plateau Akropolu",
+          "wysokość": 156,
+          "zasięg_widoku": "360°",
+          "widoczne_obiekty": [
+            "Wzgórze Likawitos",
+            "Morze Egejskie",
+            "Pireus",
+            "Centrum Aten",
+            "Agora Ateńska",
+            "Wzgórze Filopapos"
+          ]
+        },
+        {
+          "nazwa": "Tarasy zachodnie Partenonu",
+          "wysokość": 156,
+          "zasięg_widoku": "270°",
+          "widoczne_obiekty": [
+            "Pireus",
+            "Morze Egejskie",
+            "Wzgórze Filopapos",
+            "Starożytna Agora"
+          ]
+        }
+      ]
+    }
+},
+"wymiary": {
+    "wysokość": {
+      "całkowita": 13.72,
+      "do_szczytu_dachu": 13.72,
+      "architektoniczna": 13.72,
+      "najwyższa_konstrukcja": "szczyt frontonu wschodniego",
+      "aktualna_maksymalna_wysokość": 13.72,
+      "planowana_maksymalna_wysokość": null,
+      "podstawa_wysokość": 156,
+      "różnica_wysokości": 13.72,
+      "ranking_wysokości": {
+        "świat": null,
+        "europa": null,
+        "grecja": null,
+        "ateny": null,
+        "budynki_sakralne": "najważniejsza świątynia starożytnej Grecji"
+      },
+      "wysokości_poszczególnych_elementów": {
+        "kolumny": "10.43m",
+        "fronton_wschodni": "3.29m (wysokość)",
+        "fronton_zachodni": "3.29m (wysokość)",
+        "baza_stylobatu": "1.5m",
+        "stereobat": "1.5m (trzy stopnie)",
+        "entablament": "3.29m",
+        "architraw": "1.01m",
+        "fryz": "1.02m",
+        "gzyms": "1.26m"
+      },
+      "symbolika_wysokości": "proporcje oparte na złotym podziale i zasadach harmonii matematycznej"
+    },
+    "długość": {
+      "zewnętrzna": 69.5,
+      "wewnętrzna": 59.0,
+      "stylobat": 69.5,
+      "cella": 59.0,
+      "opisthodomos": 19.0,
+      "naos": 29.8,
+      "pronaos": 19.0
+    },
+    "szerokość": {
+      "zewnętrzna": 30.9,
+      "wewnętrzna": 21.7,
+      "stylobat": 30.9,
+      "cella": 21.7,
+      "szerokość_fasady": 30.9,
+      "odstęp_między_kolumnami": "4.28m (osie centralne)"
+    },
+    "powierzchnia": {
+      "całkowita": 2147,
+      "obrys": 2147,
+      "powierzchnia_użytkowa": 1281,
+      "przestrzeń_sakralna": 1281,
+      "przestrzeń_komunikacyjna": null,
+      "strefy_publiczne": null,
+      "strefy_techniczne": null,
+      "muzeum": null,
+      "sklep": null,
+      "administracja": null,
+      "krypta": null,
+      "chóry": null,
+      "działka": null,
+      "place_wokół": null,
+      "szczegółowe_powierzchnie": {
+        "cella": 1281,
+        "pronaos": 586,
+        "naos": 888,
+        "opisthodomos": 586,
+        "peristaza": 866
+      }
+    },
+    "objętość": {
+      "całkowita": 29475,
+      "zamknięta": 17580,
+      "wewnętrzna": 17580,
+      "ogrzewana": null,
+      "powietrza": 17580
+    },
+    "kondygnacje": {
+      "nadziemne": 1,
+      "podziemne": 0,
+      "razem": 1,
+      "użytkowe": 1,
+      "techniczne": 0,
+      "szczegóły": [
+        {
+          "poziom": 0,
+          "nazwa": "platforma stylobatu",
+          "wysokość": 1.5
+        },
+        {
+          "poziom": 1,
+          "nazwa": "cella z perystazą",
+          "wysokość": 13.72
+        }
+      ]
+    },
+    "inne_wymiary": {
+      "liczba_kolumn": {
+        "perystaza": 46,
+        "fasada_frontowa": 8,
+        "fasada_tylna": 8,
+        "boki_długie": 17,
+        "cella_wewnętrzne": 23,
+        "razem": 69,
+        "szczegóły": "układ oktastylowy perypetryczny (8×17 kolumn)"
+      },
+      "liczba_metop": 92,
+      "liczba_tryglifów": 92,
+      "liczba_stopni_stylobatu": 3,
+      "średnica_kolumn_dolna": 1.905,
+      "średnica_kolumn_górna": 1.485,
+      "wysokość_rzeźb_frontonowych": 3.4,
+      "długość_fryzu": 160,
+      "wysokość_fryzu": 1.02,
+      "grubość_ścian_celli": 0.6,
+      "entasis_kolumn": "0.017m (wybrzuszenie)"
+    }
+  },
+"architektura": {
+    "styl_architektoniczny": {
+      "główny": "architektura klasyczna grecka",
+      "drugorzędny": "styl dорyjski",
+      "wpływy": [
+        "architektura egipska",
+        "architektura przedklasyczna",
+        "proporcje matematyczne",
+        "optyka architektoniczna"
+      ],
+      "ruchy_artystyczne": [
+        "klasycyzm grecki",
+        "wysoki klasycyzm ateński"
+      ],
+      "cechy": [
+        "proporcje harmoniczne oparte na matematyce",
+        "refinement - subtelne krzywiżny optyczne",
+        "entasis kolumn",
+        "perystaza oktastylowa",
+        "fryz ciągły jonicki wewnątrz peristylu",
+        "metopy i trygllify w porządku doryckim",
+        "złoty podział",
+        "symetria i równowaga",
+        "doskonałość wykonania"
+      ],
+      "innowacje": [
+        "korekty optyczne - lekkie wypukłości stylobatu",
+        "entasis kolumn dla efektu prostości",
+        "nieznaczne pochylenie kolumn do wewnątrz",
+        "nierównomierne odstępy między kolumnami narożnymi",
+        "chryselephantine - posąg z kości słoniowej i złota wewnątrz",
+        "integracja rzeźby i architektury"
+      ],
+      "okres_architektoniczny": "wysoki klasycyzm grecki, wiek Peryklesa",
+      "nurty_architektoniczne": "architektura sakralna klasyczna, peripteros doryjski"
+    },
+    "architekci": {
+      "architekt_główny": {
+        "imię_i_nazwisko": "Iktinos (Ἰκτῖνος)",
+        "lata_życia": "ok. 450-420 p.n.e.",
+        "narodowość": "grecka (ateńska)",
+        "rola": "architekt naczelny",
+        "okres": "447-438 p.n.e.",
+        "wkład": "projekt całości, system konstrukcyjny, proporcje, refinements optyczne",
+        "wykształcenie": "nieznane, prawdopodobnie szkoła architektoniczna ateńska",
+        "nagrody": [
+          "uznanie jako jeden z najwybitniejszych architektów starożytności"
+        ],
+        "inne_ważne_realizacje": [
+          "Świątynia Apollina w Bassae",
+          "Telesterion w Eleusis (współpraca)"
+        ],
+        "filozofia_architektoniczna": "doskonałość matematyczna, harmonia proporcji, refinement optyczny",
+        "metoda_pracy": "precyzyjne obliczenia matematyczne, wykorzystanie złotego podziału",
+        "śmierć": "nieznana"
+      },
+      "architekt_początkowy": [],
+      "następcy": [],
+      "współpracownicy": [
+        {
+          "imię_i_nazwisko": "Kallikrates (Καλλικράτης)",
+          "rola": "współarchitekt",
+          "okres": "447-438 p.n.e.",
+          "wkład": "współprojekt, realizacja techniczna, nadzór budowy",
+          "inne_realizacje": [
+            "Świątynia Ateny Nike na Akropolu",
+            "Długie Mury ateńskie"
+          ]
+        },
+        {
+          "imię_i_nazwisko": "Karpion",
+          "rola": "współpracownik architektów",
+          "okres": "447-438 p.n.e.",
+          "wkład": "pomoc techniczna"
+        }
+      ],
+      "rzeźbiarze_współcześni": [
+        {
+          "imię_i_nazwisko": "Fidiasz (Φειδίας)",
+          "specjalność": "rzeźbiarz, nadzorca artystyczny",
+          "okres": "447-432 p.n.e.",
+          "dzieło": "program rzeźbiarski całej świątyni, posąg Ateny Partenos",
+          "styl": "klasycyzm wysoki, idealizm",
+          "rola": "generalny nadzorca projektu artystycznego",
+          "posąg_Ateny": {
+            "wysokość": 12,
+            "materiał": "chryzelfantyna - złoto i kość słoniowa",
+            "wartość": "40-44 talenty złota",
+            "los": "zaginął w starożytności"
+          }
+        },
+        {
+          "imię_i_nazwisko": "Agorakritos",
+          "specjalność": "rzeźbiarz",
+          "okres": "447-432 p.n.e.",
+          "dzieło": "współpraca przy rzeźbach frontonowych",
+          "relacja": "uczeń Fidiasza"
+        },
+        {
+          "imię_i_nazwisko": "Alkamenes",
+          "specjalność": "rzeźbiarz",
+          "okres": "447-432 p.n.e.",
+          "dzieło": "współpraca przy dekoracjach rzeźbiarskich",
+          "relacja": "uczeń Fidiasza"
+        }
+      ],
+      "zleceniodawca": {
+        "imię_i_nazwisko": "Perykles (Περικλῆς)",
+        "rola": "strateg ateński, inicjator programu budowlanego",
+        "okres": "447-429 p.n.e.",
+        "wkład": "finansowanie z kasy Związku Delickiego, koncepcja polityczna",
+        "cel": "manifestacja potęgi Aten, centrum kultu Ateny"
+      }
+    },
+    "koncepcja": {
+      "podstawy_koncepcyjne": "doskonałość matematyczna, harmonia proporji, manifest potęgi Aten, dom bogini Ateny",
+      "filozofia_projektu": "Synteza architektury i rzeźby; każdy element podporządkowany harmonii całości; budowla jako symbol demokracji ateńskiej i perfekcji",
+      "zasady_geometryczne": [
+        "złoty podział (phi = 1.618)",
+        "proporcje 4:9 w planie",
+        "moduł oparty na średnicy kolumny dolnej",
+        "refinements - subtelne krzywiżny",
+        "symetria osiowa"
+      ],
+      "system_konstrukcyjny": "konstrukcja belkowa post-and-lintel, kolumny doryjskie bez baz, kapitele ехінусовые, entablament z metopami i tryglifami",
+      "symetria": "ściśle symetryczna z subtelynymi korektami optycznymi",
+      "proporcje": "oparte na złotym podziale, stosunek szerokości do długości 4:9",
+      "orientacja": "wschód-zachód z wejściem głównym od wschodu",
+      "symbolika_liczbowa": {
+        "8": "kolumny na fasadach krótszych (oktastylos)",
+        "17": "kolumny na bokach długich",
+        "46": "kolumny zewnętrzne peristylu",
+        "23": "kolumny wewnętrzne (pronaos + opisthodomos)",
+        "92": "metopy na zewnętrznym fryzie"
+      },
+      "filozofia_światła": "światło naturalne podkreślające rzeźby i proporcje, brak dużych okien - oświetlenie przez drzwi",
+      "akustyka": "akustyka naturalna dla ceremonii na zewnątrz"
+    },
+    "fasady": {
+      "fasada_wschodnia": {
+        "orientacja": "wschód",
+        "strony_świata_nazwa": "wschód - wejście główne, wschód słońca",
+        "tematyka": "fronton: narodziny Ateny z głowy Zeusa",
+        "status": "ruiny, częściowo zachowane",
+        "rok_ukończenia": -438,
+        "architekt": "Iktinos i Kallikrates",
+        "styl": "doryjski oktastylowy",
+        "kolumny": 8,
+        "metopy": 14,
+        "fronton": {
+          "wysokość": 3.29,
+          "szerokość_u_podstawy": 25.6,
+          "tematyka": "Narodziny Ateny",
+          "rzeźby_centralne": "Zeus na tronie, Atena wyłaniająca się w pełnym uzbrojeniu",
+          "rzeźby_boczne": "bogowie olimpijscy jako świadkowie",
+          "rzeźbiarz": "Fidiasz i warsztat",
+          "zachowanie": "wiele figur w British Museum (Elgin Marbles)",
+          "polichromia_oryginalna": "kolorowe tła (niebieski, czerwony), detale malowane i pozłacane"
+        },
+        "materiały": [
+          "marmur penteli cкий",
+          "drewno (dach - nie zachowane)",
+          "ceramika (dachówki)"
+        ],
+        "kolorystyka": "biały marmur, oryginalne polichromie (niebieski, czerwony, złoty) - obecnie zatracone",
+        "symbolika": "chwała Ateny, potęga intelektu",
+        "pronaos": {
+          "głębokość": 19,
+          "kolumny": 6,
+          "funkcja": "przedsionek przed cellą"
+        }
+      },
+      "fasada_zachodnia": {
+        "orientacja": "zachód",
+        "strony_świata_nazwa": "zachód",
+        "tematyka": "fronton: spór Ateny i Posejdona o patronat nad Atenami",
+        "status": "ruiny, częściowo zachowane",
+        "rok_ukończenia": -432,
+        "architekt": "Iktinos i Kallikrates",
+        "styl": "doryjski oktastylowy",
+        "kolumny": 8,
+        "metopy": 14,
+        "fronton": {
+          "wysokość": 3.29,
+          "szerokość_u_podstawy": 25.6,
+          "tematyka": "Spór Ateny i Posejdona",
+          "rzeźby_centralne": "Atena i Posejdon w dynamicznej pozie",
+          "rzeźby_boczne": "bohaterowie attyccy, węże, konie",
+          "rzeźbiarz": "Fidiasz i warsztat",
+          "zachowanie": "fragmenty w Muzeum Akropolu i British Museum",
+          "symbolika": "zwycięstwo Ateny - dar drzewa oliwnego nad darem źródła Posejdona"
+        },
+        "materiały": [
+          "marmur pentelicki"
+        ],
+        "opisthodomos": {
+          "głębokość": 19,
+          "kolumny": 6,
+          "funkcja": "tylna komora, skarbiec Związku Deliickiego"
+        }
+      }
+    },
+    "kolumnada": {
+      "perystaza": {
+        "typ": "peripteros - świątynia otoczona kolumnami ze wszystkich stron",
+        "układ": "oktastylos (8 kolumn na fasadach) × 17 kolumn na bokach",
+        "liczba_kolumn": 46,
+        "porządek": "doryjski",
+        "wysokość_kolumn": 10.43,
+        "średnica_dolna": 1.905,
+        "średnica_górna": 1.485,
+        "entasis": 0.017,
+        "interkolumnium": 4.28,
+        "baza": "brak (charakterystyczne dla porządku doryckiego)",
+        "trzony": "20 bębnów kamiennych, żlobkowanie 20 kanelur",
+        "kapitele": "echinus i abakus",
+        "materiał": "marmur pentelicki",
+        "refinements": [
+          "lekkie pochylenie kolumn do wewnątrz (1.5°)",
+          "entasis - wypukłość trzonu",
+          "narożne kolumny grubsze o 1/40",
+          "narożne interkolumnia węższe"
+        ]
+      },
+      "entablament": {
+        "wysokość_całkowita": 3.29,
+        "architraw": {
+          "wysokość": 1.01,
+          "pasy": 3,
+          "funkcja": "belka spoczywająca na kolumnach"
+        },
+        "fryz": {
+          "wysokość": 1.02,
+          "typ": "doryjski z metopami i tryglifami",
+          "metopy": 92,
+          "tryglify": 92,
+          "tematyka_metop": {
+            "strona_południowa": "Centauromahia - walka Lapitów z Centaurami",
+            "strona_północna": "Iliupersis - zdobycie Troi",
+            "strona_wschodnia": "Gigantomahia - walka bogów z Gigantami",
+            "strona_zachodnia": "Amazonoomahia - walka Ateńczyków z Amazonkami"
+          },
+          "wymiary_metopy": "1.2 × 1.25 m",
+          "relief": "wysoki relief",
+          "zachowanie": "wiele metop w British Museum"
+        },
+        "gzyms": {
+          "wysokość": 1.26,
+          "mutule": "płyty z guttae",
+          "funkcja": "zwieńczenie, okapnik"
+        }
+      }
+    },
+    "fryz_wewnętrzny": {
+      "typ": "fryz jonicki ciągły",
+      "długość": 160,
+      "wysokość": 1.02,
+      "lokalizacja": "wokół zewnętrznych ścian celli, pod stropem peristylu",
+      "tematyka": "procesja Wielkich Panatenajów",
+      "opis": "540 postaci ludzkich, 200 zwierząt (konie, woły, owce), bogowie na ścianie wschodniej",
+      "sceny": [
+        "przygotowania do procesji",
+        "jeźdźcy na koniach",
+        "wozy",
+        "ofiary zwierzęce",
+        "hydriafory (niosące dzbany)",
+        "kanefory (niosące kosze)",
+        "starcy z gałązkami oliwnymi",
+        "muzycy",
+        "scena centralna: peplos dla Ateny"
+      ],
+      "styl": "relief płaski, wysoka jakość artystyczna",
+      "rzeźbiarz": "warsztat Fidiasza",
+      "zachowanie": "75% w British Museum (Elgin Marbles), reszta w Muzeum Akropolu i Luwrze",
+      "innowacja": "nietypowe dla świątyni doryckiej zastosowanie fryzu jońskiego",
+      "symbolika": "lud ateński w procesji ku bogini"
+    },
+    "wnętrze": {
+      "cella": {
+        "typ_rozplanowania": "prostokątna komora z kolumnadą wewnętrzną",
+        "wymiary": "29.8 × 19 m (naos)",
+        "podział": "pronaos (przedsionek) + naos (główna komora) + opisthodomos (tylna komora)",
+        "kolumny_wewnętrzne": {
+          "układ": "dwupiętrowa kolumnada doryjska w kształcie Pi (Π)",
+          "liczba_dolna": 10,
+          "liczba_górna": 23,
+          "funkcja": "podtrzymywanie stropu, stworzenie nawy centralnej i bocznych",
+          "porządek": "doryjski mniejszy"
+        },
+        "posąg_Ateny_Partenos": {
+          "lokalizacja": "centralna część naosu",
+          "rzeźbiarz": "Fidiasz",
+          "wysokość": 12,
+          "technika": "chryzelfantyna - złoto (1000 kg) i kość słoniowa",
+          "opis": "Atena stojąca z Nike w prawej ręce, tarcza przy lewej nodze, włócznia przy lewym ramieniu",
+          "tarcza": "relief z Amazonoomachią po zewnętrznej stronie",
+          "podstawa": "reliefy z narodzinami Pandory",
+          "oczy": "kamienie szlachetne",
+          "hełm": "sfinks i dwa Pegazy",
+          "los": "zniszczona/zagrabiona w starożytności, nie zachowała się",
+          "repliki": "kopie rzymskie w mniejszej skali (Atena Varvakeion)",
+          "wartość": "40-44 talenty złota (~1200 kg)",
+          "symbolika": "Atena Partenos - Atena Dziewica, patronka miasta"
+        },
+        "strop": {
+          "typ": "drewniany belkowy",
+          "ozdoby": "kasety z rozętami malowanymi",
+          "wysokość": "około 13-14 m",
+          "los": "nie zachował się"
+        },
+        "podłoga": {
+          "materiał": "marmurowe płyty",
+          "zachowanie": "częściowo oryginalne"
+        },
+        "oświetlenie": {
+          "źródło": "drzwi wschodnie",
+          "szerokość_drzwi": 4.3,
+          "wysokość_drzwi": 10,
+          "efekt": "światło padające na posąg Ateny przy wschodzie słońca",
+          "dodatkowe": "lampy oliwne, pochodnie podczas ceremonii"
+        },
+        "funkcja": "przechowywanie posągu Ateny, miejsce kultu, dostęp tylko dla kapłanów"
+      },
+      "pronaos": {
+        "głębokość": 19,
+        "szerokość": 19,
+        "kolumny": 6,
+        "funkcja": "przedsionek przed naosem",
+        "drzwi": "wielkie brązowe drzwi do naosu",
+        "dostęp": "dla wyższych kapłanów i urzędników"
+      },
+      "opisthodomos": {
+        "głębokość": 13,
+        "szerokość": 19,
+        "kolumny": 4,
+        "funkcja": "skarbiec Związku Deliickiego, przechowywanie ofiar i skarbów",
+        "oddzielenie": "brak bezpośredniego połączenia z naosem",
+        "zabezpieczenie": "kratowane drzwi",
+        "zawartość_historyczna": "skarby Aten i sprzymierzonych miast, złoto, srebro, dary wotywne"
+      },
+      "parthenon_jako_świątynia": {
+        "dedykacja": "Atena Partenos (Athena Parthenos - Atena Dziewica)",
+        "typ_kultu": "kult państwowy Aten",
+        "główne_święto": "Wielkie Panatenaje (co 4 lata)",
+        "ceremonię": "procesja z miasta na Akropol, złożenie peplos (szaty) Atenie",
+        "ofiary": "hekatom­ba - ofiara 100 wołów",
+        "dostęp": "ograniczony - tylko kapłani wchodzili do celli",
+        "kapłanka": "arcykapłanka Ateny Polias (odrębna świątynia)"
+      }
+    },
+    "refinements_optyczne": {
+      "stylobat_curvature": {
+        "opis": "wypukłość stylobatu",
+        "wielkość_środek_długość": 0.06,
+        "wielkość_środek_szerokość": 0.11,
+        "cel": "korekcja iluzji optycznej wklęsłości linii poziomych"
+      },
+      "kolumny_pochylenie": {
+        "kąt": "1.5° do wewnątrz",
+        "cel": "zwiększenie stabilności wizualnej, uniknięcie wrażenia wywracania się na zewnątrz"
+      },
+      "entasis": {
+        "wielkość": 17,
+        "lokalizacja": "wypukłość na 1/3 wysokości kolumny od dołu",
+        "cel": "korekcja iluzji optycznej wklęsłości prostych kolumn"
+      },
+      "kolumny_narożne": {
+        "poszerzenie": "o 1/40 średnicy",
+        "cel": "kompensacja jasnego tła nieba - wzmocnienie narożników"
+      },
+      "interkolumnia_narożne": {
+        "zwężenie": "o około 0.06 m",
+        "cel": "wzmocnienie rytmu kolumnady na narożnikach"
+      },
+      "cel_ogólny": "osiągnięcie doskonałej harmonii wizualnej pomimo naturalnych zniekształceń optycznych ludzkiego oka"
+    }
+  },
+ "budowa": {
+    "chronologia": {
+      "447 p.n.e.": "Decyzja Peryklesa o budowie nowej świątyni Ateny i rozpoczęcie prac budowlanych, wmurowanie fundamentów",
+      "446 p.n.e.": "Wznoszenie krepidomy (platformy trójstopniowej)",
+      "445 p.n.e.": "Rozpoczęcie stawiania kolumn",
+      "443 p.n.e.": "Ukończenie kolumnady peristylu",
+      "442 p.n.e.": "Montaż architrawu i fryzu",
+      "440 p.n.e.": "Wznoszenie frontonów",
+      "438 p.n.e.": "Ukończenie konstrukcji architektonicznej budynku",
+      "438 do 432 p.n.e.": "Prace rzeźbiarskie - metopy, fryz, frontony i tworzenie posągu Ateny Partenos przez Fidiasza",
+      "432 p.n.e.": "Uroczyste otwarcie i konsekracja świątyni podczas Wielkich Panatenajów",
+      "296 p.n.e.": "Tyran Lachares zrywa złote płyty z posągu Ateny",
+      "III-V w. n.e.": "Przekształcenie w kościół chrześcijański - usunięcie posągu",
+      "435 n.e.": "Rozbiórka wschodniego przedsionka, dodanie apsydy",
+      "1204": "Przekształcenie w kościół katolicki (IV krucjata)",
+      "1456": "Przekształcenie w meczet po zajęciu Aten przez Turków osmańskich",
+      "1687": "Eksplozja - trafienie weneckim pociskiem w skład prochu w Partenonie",
+      "1801-1812": "Lord Elgin wywozi rzeźby do Wielkiej Brytanii",
+      "1834": "Grecja odzyskuje niepodległość - początek ochrony ruin",
+      "1898-1902": "Pierwsza systematyczna restauracja",
+      "1922-1933": "Anastyloza - odbudowa kolumnady północnej",
+      "1984": "Rozpoczęcie wielkiego projektu konserwatorskiego",
+      "1987": "Wpis na listę UNESCO",
+      "2002-2010": "Demontaż i konserwacja frontonów",
+      "2020-obecnie": "Kontynuacja prac konserwatorskich"
+    },
+    "fazy_szczegółowe": [
+      {
+        "faza": "Faza 1 - Fundament i krepidoma",
+        "okres": "-447 do -445 p.n.e.",
+        "osiągnięcia": "trójstopniowa platforma (stereobat), fundamenty, stylobat z refinements",
+        "architekt": "Iktinos i Kallikrates"
+      },
+      {
+        "faza": "Faza 2 - Kolumnada",
+        "okres": "-445 do -443 p.n.e.",
+        "osiągnięcia": "wzniesienie 46 kolumn zewnętrznych peristylu, kolumny wewnętrzne celli",
+        "architekt": "Iktinos i Kallikrates"
+      },
+      {
+        "faza": "Faza 3 - Entablament i dach",
+        "okres": "-443 do -440 p.n.e.",
+        "osiągnięcia": "architraw, fryz z metopami, gzymsy, konstrukcja dachu, frontony",
+        "architekt": "Iktinos i Kallikrates"
+      },
+      {
+        "faza": "Faza 4 - Program rzeźbiarski",
+        "okres": "-440 do -432 p.n.e.",
+        "osiągnięcia": "92 metopy, fryz panatenajski (160m), rzeźby frontonowe, akroteria",
+        "architekt": "Fidiasz (nadzór artystyczny)"
+      },
+      {
+        "faza": "Faza 5 - Posąg Ateny",
+        "okres": "-440 do -432 p.n.e.",
+        "osiągnięcia": "stworzenie chryselephantine posągu Ateny Partenos",
+        "architekt": "Fidiasz"
+      },
+      {
+        "faza": "Faza 6 - Okres chrześcijański",
+        "okres": "V-XV w. n.e.",
+        "osiągnięcia": "przekształcenie w kościół, dodanie apsydy, usunięcie posągu",
+        "straty": "posąg Ateny, zmiany wnętrza, dodatkowe drzwi"
+      },
+      {
+        "faza": "Faza 7 - Okres osmański",
+        "okres": "1456-1832",
+        "osiągnięcia": "przekształcenie w meczet, dodanie minaretu",
+        "straty": "eksplozja 1687 - zniszczenie naos, celli i większości kolumn południowych"
+      },
+      {
+        "faza": "Faza 8 - Restauracja współczesna",
+        "okres": "1834-obecnie",
+        "osiągnięcia": "anastyloza, konserwacja, stabilizacja, usunięcie późniejszych dobudówek",
+        "architekt": "komitety konserwatorskie greckie i międzynarodowe"
+      }
+    ],
+    "finansowanie": {
+      "główne_źródło_antyczne": "skarb Związku Deliickiego, podatki ateńskie",
+      "budżet_antyczny": "około 469 talentów srebra (budowa) + 700-1000 talentów (posąg Ateny)",
+      "budżet_roczny_współczesny": "około 4-6 mln euro (konserwacja)",
+      "dotacje_państwowe": "Ministerstwo Kultury Grecji",
+      "datki": "brak - finansowanie państwowe i z UE",
+      "bilet_wstępu": "główne źródło finansowania utrzymania",
+      "cena_wstępu": "20 euro (bilet łączony Akropol)",
+      "liczba_turystów_rocznie": "około 3-4 mln",
+      "dochód_roczny_z_turystyki": "około 60-80 mln euro (cały Akropol)",
+      "historia_finansowania": "budowa finansowana z kontrybucji członków Związku Deliickiego",
+      "fundusze_UE": "programy ochrony dziedzictwa kulturowego",
+      "kampanie_międzynarodowe": "UNESCO, fundacje ochrony zabytków"
+    },
+    "technologie": {
+      "historyczne_antyczne": [
+        "dźwigi z blokami i linami",
+        "kliny metalowe i drewniane do łączenia bloków",
+        "precyzyjne cięcie kamienia",
+        "anathyrosis - dokładne dopasowanie powierzchni styku",
+        "empolion - drewniane bolce bez zaprawy",
+        "żelazne klamry w kształcie litery Pi",
+        "ołów do zalewania klamer"
+      ],
+      "współczesne": [
+        "laserowe skanowanie 3D całej struktury",
+        "fotogrametria",
+        "analiza strukturalna FEM",
+        "tytanowe elementy łączące (zamiana żelaza)",
+        "monitoring sejsmiczny",
+        "czujniki wilgotności i temperatury",
+        "drony do inspekcji",
+        "cyfrowa dokumentacja BIM"
+      ],
+      "innowacje_antyczne": [
+        "refinements optyczne - krzywiźny kompensujące iluzje optyczne",
+        "budowa bez zaprawy - suche złącza",
+        "precyzja cięcia marmuru do 0.01 mm",
+        "transport 20-tonowych bloków z kamieniołomu odległego o 16 km",
+        "system dźwigowy z blockami wielokrążkowymi"
+      ],
+      "przełomy_konserwatorskie": [
+        {
+          "rok": 1898,
+          "innowacja": "pierwsza naukowa anastyloza",
+          "znaczenie": "podniesienie i ponowne ustawienie kolumn"
+        },
+        {
+          "rok": 1984,
+          "innowacja": "kompleksowy program konserwatorski",
+          "znaczenie": "wymiana żelaznych klamer na tytanowe (żelazo rdzewiało i pękało marmur)"
+        },
+        {
+          "rok": 2002,
+          "innowacja": "cyfrowe skanowanie 3D każdego bloku",
+          "znaczenie": "precyzyjna dokumentacja i możliwość wirtualnej rekonstrukcji"
+        },
+        {
+          "rok": 2020,
+          "innowacja": "zaawansowany monitoring strukturalny i sejsmiczny",
+          "znaczenie": "ochrona przed trzęsieniami ziemi"
+        }
+      ]
+    },
+    "materiały": {
+      "marmur_pentelicki": {
+        "źródło": "Góra Pentelikon, 16 km od Aten",
+        "zastosowanie": "cała konstrukcja świątyni",
+        "charakterystyka": "biały marmur z zawartością żelaza (żółknie z wiekiem)",
+        "ilość": "około 22000-30000 ton",
+        "wielkość_bloków": "do 10 ton każdy",
+        "transport": "wozy ciągnione przez woły, ślizgi",
+        "wydobycie": "kamieniołom aktywny od VII w. p.n.e.",
+        "jakość": "najwyższej klasy, drobnoziarnisty",
+        "obróbka": "cięcie, szlifowanie, polerowanie",
+        "status_współczesny": "materiał do restauracji z tego samego kamieniołomu"
+      },
+      "drewno": {
+        "typ": "cedr libański, cyprys",
+        "zastosowanie": "konstrukcja dachu, drzwi, stropy",
+        "ilość_szacunkowa": "około 500-800 m³",
+        "los": "nie zachowało się - zniszczone w pożarach i eksplozji 1687"
+      },
+      "metal": {
+        "żelazo": {
+          "zastosowanie": "klamry łączące bloki marmurowe (kształt Pi)",
+          "ilość": "około 12-15 ton",
+          "obróbka": "zalewane ołowiem",
+          "los": "większość wyrwana w średniowieczu i starożytności, współcześnie wymieniane na tytan"
+        },
+        "brąz": {
+          "zastosowanie": "drzwi, dekoracje, elementy posągu Ateny",
+          "los": "nie zachowały się - przetopione"
+        },
+        "złoto": {
+          "zastosowanie": "posąg Ateny Partenos - płyty złote na drewnianej konstrukcji",
+          "ilość": "40-44 talenty (1140-1254 kg)",
+          "los": "zrabowane i przetopione w starożytności"
+        }
+      },
+      "kość_słoniowa": {
+        "zastosowanie": "posąg Ateny Partenos - ciało i twarz bogini",
+        "źródło": "import z Afryki i Indii",
+        "los": "zniszczona lub zagrabiona w starożytności"
+      },
+      "ceramika": {
+        "dachówki": {
+          "typ": "marmurowe (nie ceramiczne!)",
+          "zastosowanie": "pokrycie dachu",
+          "ilość": "około 13000 dachówek",
+          "waga": "około 400 ton",
+          "los": "nie zachowały się"
+        }
+      },
+      "farby_i_pozłota": {
+        "kolory_oryginalne": "niebieski, czerwony, złoty, zielony",
+        "zastosowanie": "metopy, tryglify, tła frontonów, detale rzeźb",
+        "pigmenty": "naturalne - lazuryt, cynober, ochra, malachit",
+        "los": "zatarte przez czas, ślady wykryte badaniami spektroskopowymi"
+      }
+    },
+    "wyzwania_techniczne_antyczne": {
+      "transport": {
+        "problem": "przewóz 22000 ton marmuru z kamieniołomu odległego o 16 km",
+        "rozwiązanie": "drogi transportowe, wozy, ślizgi, zwierzęta pociągowe"
+      },
+      "precyzja": {
+        "problem": "dopasowanie bloków bez zaprawy",
+        "rozwiązanie": "anathyrosis - precyzyjne szlifowanie powierzchni styku"
+      },
+      "podnoszenie": {
+        "problem": "podnoszenie bloków do wysokości 13+ metrów",
+        "rozwiązanie": "dźwigi z wielokrążkami, rampy, lewary"
+      },
+      "refinements": {
+        "problem": "wprowadzenie subtelnych krzywizn optycznych",
+        "rozwiązanie": "precyzyjne obliczenia i cięcie każdego bloku indywidualnie"
+      }
+    },
+    "wyzwania_współczesne": {
+      "zachowanie": {
+        "problem": "postępująca degradacja marmuru przez zanieczyszczenia i wilgoć",
+        "rozwiązanie": "czyszczenie laserowe, impregnaty, monitoring środowiskowy"
+      },
+      "sejsmiczne": {
+        "problem": "zagrożenie trzęsieniami ziemi",
+        "rozwiązanie": "wzmocnienia strukturalne, monitoring sejsmiczny 24/7"
+      },
+      "turystyka": {
+        "problem": "nadmierna liczba turystów (4 mln rocznie) niszcząca marmury",
+        "rozwiązanie": "ograniczenie liczby zwiedzających, drewniane kładki, ochrona powierzchni"
+      },
+      "klamry": {
+        "problem": "rdzewiejące żelazne klamry antyczne pękają marmur",
+        "rozwiązanie": "wymiana wszystkich klamer na tytanowe - projekt od 1984"
+      },
+      "brakujące_elementy": {
+        "problem": "wiele oryginalnych rzeźb w British Museum (Elgin Marbles)",
+        "rozwiązanie": "trwające negocjacje o zwrot, użycie kopii w miejscach pustych"
+      }
+    },
+    "zespół_konserwatorski": {
+      "zatrudnienie_stałe": "około 60-80 osób (archeolodzy, konserwatorzy, inżynierowie)",
+      "zatrudnienie_kontraktowe": "około 100-150 osób (restauratorzy, kamieniarze, technicy)",
+      "specjaliści": [
+        "archeologowie",
+        "architekci-konserwatorzy",
+        "inżynierowie konstrukcyjni",
+        "kamieniarze specjaliści od marmuru",
+        "chemicy konserwatorzy",
+        "geodeci",
+        "specjaliści od skanowania 3D",
+        "historycy sztuki starożytnej"
+      ],
+      "współpraca_akademicka": [
+        "Ministerstwo Kultury Grecji - Ephorate of Antiquities of Athens",
+        "Acropolis Restoration Service (YSMA)",
+        "Uniwersytet Ateński",
+        "Politechnika Ateńska",
+        "Getty Conservation Institute",
+        "UNESCO"
+      ],
+      "konsultanci_międzynarodowi": [
+        "eksperci od architektury klasycznej",
+        "specjaliści od konserwacji marmuru",
+        "inżynierowie strukturalni",
+        "archeolodzy",
+        "eksperci od rekonstrukcji cyfrowych"
+      ],
+      "organizacja_główna": {
+        "nazwa": "Committee for the Conservation of the Acropolis Monuments (ESMA)",
+        "założenie": 1975,
+        "rola": "koordynacja wszystkich prac konserwatorskich na Akropolu"
+      }
+    },
+    "czas_budowy": {
+      "budowa_konstrukcji": "15 lat (447-432 p.n.e.)",
+      "same_prace_architektoniczne": "9 lat (447-438 p.n.e.)",
+      "prace_rzeźbiarskie": "6 lat (438-432 p.n.e.)",
+      "konserwacja_współczesna": "41+ lat (1984-obecnie, bez planowanego zakończenia)"
+    }
+  },
+"znaczenie_kulturowe": {
+    "status_UNESCO": {
+      "wpisanie": "1987",
+      "kategoria": "Dobro Światowego Dziedzictwa UNESCO",
+      "numer_referencyjny": "404",
+      "kryteria": [
+        "Kryterium (i): arcydzieło ludzkiego geniuszu twórczego",
+        "Kryterium (ii): znaczący wpływ na rozwój architektury na przestrzeni czasu",
+        "Kryterium (iii): wyjątkowe świadectwo cywilizacji kulturowej",
+        "Kryterium (iv): wybitny przykład typu budowli architektonicznej",
+        "Kryterium (vi): bezpośrednio związany z ideami i przekonaniami o uniwersalnym znaczeniu"
+      ],
+      "zakres": "Akropol Ateński jako całość",
+      "uzasadnienie": "Symbole ideałów klasycznej cywilizacji, narodzin demokracji, filozofii i teatru; arcydzieło architektury klasycznej"
+    },
+    "symbol_kulturowy": {
+      "Ateny": "najważniejszy symbol miasta, ikona rozpoznawalna na całym świecie",
+      "Grecja": "narodowy symbol kraju, emblem greckiej tożsamości",
+      "świat_zachodni": "symbol narodzin demokracji i cywilizacji zachodniej",
+      "architektura": "ikona klasycyzmu i doskonałości architektonicznej",
+      "filozofia": "symbol Złotego Wieku Aten, wieku Peryklesa i rozkwitu filozofii"
+    },
+    "wpływ_na_sztukę": {
+      "architektura": "podstawa porządku doryckiego, wzór dla niezliczonych budowli na całym świecie przez 2500 lat",
+      "rzeźba": "kanon klasyczny rzeźby greckiej, wzór harmonii i proporcji",
+      "neoklasycyzm": "bezpośrednia inspiracja dla architektury XVIII-XIX wieku",
+      "美学": "definicja piękna klasycznego, złotego podziału",
+      "edukacja": "podstawa nauczania historii sztuki i architektury"
+    },
+    "repliki_i_inspiracje": [
+      {
+        "nazwa": "Walhalla",
+        "lokalizacja": "Ratyzbona, Niemcy",
+        "rok": "1830-1842",
+        "architekt": "Leo von Klenze"
+      },
+      {
+        "nazwa": "Lincoln Memorial",
+        "lokalizacja": "Waszyngton, USA",
+        "rok": "1914-1922",
+        "architekt": "Henry Bacon"
+      },
+      {
+        "nazwa": "Supreme Court",
+        "lokalizacja": "Waszyngton, USA",
+        "rok": "1935",
+        "styl": "inspirowany Partenonem"
+      },
+      {
+        "nazwa": "Kongres Narodowy Argentyny",
+        "lokalizacja": "Buenos Aires, Argentyna",
+        "rok": "1906",
+        "elementy": "kopuła inspirowana Partenonem"
+      },
+      {
+        "nazwa": "Pełnowymiarowa replika",
+        "lokalizacja": "Nashville, Tennessee, USA",
+        "rok": "1897, rekonstrukcja 1920-1931",
+        "uwagi": "jedyna pełnowymiarowa replika z rekonstrukcją posągu Ateny"
+      }
+    ],
+    "cytaty_o_budynku": [
+      {
+        "autor": "Plutarch",
+        "cytat": "Dzieła wznosiły się z niezrównaną wspaniałością formy i wdziękiem",
+        "rok": "I-II w. n.e.",
+        "kontekst": "Żywot Peryklesa"
+      },
+      {
+        "autor": "Pauzaniasz",
+        "cytat": "Posąg Ateny wykonany jest ze złota i kości słoniowej",
+        "rok": "II w. n.e.",
+        "kontekst": "Opis Grecji"
+      },
+      {
+        "autor": "Johann Wolfgang von Goethe",
+        "cytat": "Ucieleśnienie doskonałości",
+        "rok": "XVIII w."
+      },
+      {
+        "autor": "Lord Byron",
+        "cytat": "Starożytna piękność w ruinach",
+        "rok": "1810-1811",
+        "kontekst": "Pielgrzymka Childe Harolda"
+      },
+      {
+        "autor": "Le Corbusier",
+        "cytat": "Partenon jest produktem selekcji zastosowanej do ustalonego standardu",
+        "rok": "1923",
+        "kontekst": "Vers une architecture"
+      }
+    ],
+    "w_kulturze_popularnej": {
+      "filmy": [
+        "Boy on a Dolphin (1957) - sceny na Akropolu",
+        "For Your Eyes Only (1981) - James Bond",
+        "The Two Faces of January (2014)",
+        "Niezliczone dokumenty BBC, National Geographic"
+      ],
+      "literatura": [
+        "Mary Renault - powieści o starożytnej Grecji",
+        "Madeline Miller - mitologia grecka",
+        "Setki przewodników i książek historycznych"
+      ],
+      "muzyka": [
+        "Vangelis - Mythodea (muzyka dla misji NASA Mars Odyssey, inspirowana mitologią grecką)",
+        "Koncerty klasyczne na Odeonie Heroda Attyka u stóp Akropolu"
+      ],
+      "gry": [
+        "Assassin's Creed Odyssey - odtworzony Partenon",
+        "Age of Empires - jako cud świata",
+        "Civilization - jako cud świata",
+        "Total War - budowla w grach strategicznych"
+      ],
+      "sztuki_wizualne": "niezliczone malowidła od XVIII w., fotografie, plakaty, symbole olimpijskie"
+    },
+    "nagrody_i_oznaczenia": [
+      {
+        "nazwa": "Dobro Światowego Dziedzictwa UNESCO",
+        "rok": 1987,
+        "nadawca": "UNESCO"
+      },
+      {
+        "nazwa": "Europejskie Dziedzictwo Kulturowe",
+        "rok": 2007,
+        "nadawca": "Unia Europejska"
+      },
+      {
+        "nazwa": "Siedem Cudów Starożytnego Świata",
+        "uwaga": "chociaż sam Partenon nie był na liście, posąg Zeusa w Olimpii (dzieło Fidiasza) był jednym z Siedmiu Cudów"
+      },
+      {
+        "nazwa": "100 najważniejszych miejsc świata",
+        "nadawca": "różne publikacje turystyczne i kulturalne"
+      }
+    ],
+    "znaczenie_historyczne": {
+      "demokracja": "zbudowany w czasach pierwszej demokracji, symbol demokratycznych ideałów",
+      "filozofia": "współczesny Sokratesowi, Platonowi, Arystotelesowi",
+      "teatr": "zbudowany w czasach Ajschylosa, Sofoklesa, Eurypidesa",
+      "matematyka": "ucieleśnienie matematycznej harmonii i złotego podziału",
+      "polityka": "manifest imperializmu ateńskiego i potęgi Związku Deliickiego"
+    },
+    "kontrowersje": {
+      "Elgin_Marbles": {
+        "problem": "Rzeźby z Partenonu wywiezione przez Lorda Elgina (1801-1812) do Wielkiej Brytanii",
+        "aktualna_lokalizacja": "British Museum, Londyn",
+        "żądania": "Grecja od 1983 żąda zwrotu rzeźb",
+        "status": "trwający spór dyplomatyczny",
+        "znaczenie": "około 50% zachowanych rzeźb frontonów i fryzu znajduje się w Londynie"
+      },
+      "finansowanie_budowy": {
+        "kontrowersja_antyczna": "budowa finansowana ze skarbu Związku Deliickiego - pieniądze przeznaczone na obronę przed Persami",
+        "krytycy": "Tukidydes i inni krytykowali Peryklesa za sprzeniewierzenie funduszy"
+      }
+    },
+    "wpływ_na_współczesność": {
+      "turystyka": "4 mln turystów rocznie, podstawa gospodarki turystycznej Aten",
+      "tożsamość_narodowa": "centralny element greckiej tożsamości narodowej",
+      "symbol_olimpijski": "ikona Igrzysk Olimpijskich, szczególnie Ateny 2004",
+      "waluta": "obecny na greckich monetach euro (10, 20, 50 centów)",
+      "edukacja": "obowiązkowy element programów nauczania historii i sztuki na całym świecie"
+    }
+  },
+"funkcje": {
+    "religijne": {
+      "typ_świątyni": "ruiny starożytnej świątyni pogańskiej",
+      "przynależność_historyczna": "polis Ateny, kult państwowy",
+      "dedykacja": "Atena Partenos (Atena Dziewica)",
+      "liturgia_historyczna": "starożytny kult grecki, ofiary zwierzęce, procesje",
+      "status_obecny": "monument archeologiczny, nie pełni funkcji religijnych",
+      "przekształcenia_historyczne": [
+        "V-XV w. n.e. - kościół prawosławny bizantyjski",
+        "1204-1456 - kościół katolicki",
+        "1456-1832 - meczet osmański"
+      ]
+    },
+    "turystyczne": {
+      "otwarcie_publiczne": "codziennie",
+      "godziny_otwarcia": {
+        "kwiecień-październik": "08:00-20:00 (ostatnie wejście 19:30)",
+        "listopad-marzec": "08:00-17:00 (ostatnie wejście 16:30)",
+        "dni_zamknięcia": "1 stycznia, 25 marca, 1 maja, Wielkanoc, 25-26 grudnia"
+      },
+      "liczba_turystów": {
+        "rocznie": "3000000",
+        "dziennie": "10000-15000",
+        "szczyt": "maj-wrzesień, godziny poranne"
+      },
+      "ceny_biletów": {
+        "pełny_Akropol": "20 EUR (kwiecień-październik)",
+        "pełny_Akropol_zima": "10 EUR (listopad-marzec)",
+        "ulgowy": "10 EUR / 5 EUR (studenci spoza UE)",
+        "bezpłatny": "obywatele UE do 25 lat, dzieci",
+        "bilet_łączony": "30 EUR (Akropol + 6 innych stanowisk archeologicznych, ważny 5 dni)"
+      },
+      "rezerwacje": "zalecana rezerwacja online, możliwość zakupu na miejscu (długie kolejki)",
+      "audioprzewodnik": "dostępny za dodatkową opłatą, około 5 EUR",
+      "przewodnicy": "wycieczki z przewodnikiem w wielu językach, licencjonowani przewodnicy",
+      "dostępność_językowa": [
+        "grecki",
+        "angielski",
+        "francuski",
+        "niemiecki",
+        "włoski",
+        "hiszpański",
+        "rosyjski",
+        "chiński",
+        "japoński",
+        "polski",
+        "koreański"
+      ],
+      "ograniczenia": {
+        "ubiór": "zalecane odpowiednie obuwie (marmurowe powierzchnie mogą być śliskie)",
+        "fotografowanie": "dozwolone bez statywów i profesjonalnego sprzętu (wymaga pozwolenia)",
+        "zachowanie": "zakaz dotykania marmurów, zakaz palenia, zakaz jedzenia i picia",
+        "dostęp_dla_niepełnosprawnych": "ograniczony - dostępna winda, ale większość terenu trudno dostępna"
+      },
+      "infrastruktura": {
+        "wejście": "od strony zachodniej Akropolu",
+        "muzeum": "Nowe Muzeum Akropolu u podnóża wzgórza (osobny bilet 10 EUR)",
+        "toalety": "przy wejściu",
+        "sklep": "przy wejściu i w muzeum",
+        "kawiarnia": "w Muzeum Akropolu"
+      },
+      "zalecenia": {
+        "pora_dnia": "wczesne godziny poranne (8:00-9:00) lub wieczorne przed zamknięciem",
+        "czas_zwiedzania": "2-3 godziny",
+        "sezon": "wiosna (kwiecień-maj) lub jesień (wrzesień-październik) - mniej tłumów, lepsza pogoda"
+      }
+    },
+    "edukacyjne": {
+      "muzeum": {
+        "nazwa": "Nowe Muzeum Akropolu",
+        "otwarcie": 2009,
+        "lokalizacja": "u podnóża Akropolu, ul. Dionysiou Areopagitou",
+        "architekt": "Bernard Tschumi",
+        "tematyka": "rzeźby i znaleziska z Akropolu, historia Partenonu",
+        "ekspozycje": [
+          "galeria zboczy - votiva i obiekty codzienne",
+          "galeria archaiczna - kory i kuroi",
+          "galeria Partenonu - fryz panatenajski (oryginały + kopie Elgin Marbles)",
+          "galeria kariatyd z Erechtejon"
+        ],
+        "powierzchnia": "14000 m²",
+        "liczba_eksponatów": "około 4000",
+        "innowacja": "galeria Partenonu w dokładnej orientacji i wymiarach oryginalnego budynku"
+      },
+      "programy_edukacyjne": [
+        "warsztaty dla dzieci o starożytnej Grecji",
+        "lekcje archeologii",
+        "wykłady o architekturze klasycznej",
+        "programy dla szkół",
+        "kursy letnie o cywilizacji greckiej",
+        "konferencje naukowe"
+      ],
+      "badania_naukowe": {
+        "organizacja": "Acropolis Restoration Service (YSMA)",
+        "współpraca": "uniwersytety greckie i międzynarodowe, Getty Institute, UNESCO",
+        "tematy": "konserwacja marmuru, anastyloza, historia architektury, archeologia",
+        "publikacje": "liczne publikacje naukowe, raporty konserwatorskie",
+        "laboratoria": "laboratoria konserwacji i analizy materiałów"
+      },
+      "biblioteka_archiwum": {
+        "lokalizacja": "Muzeum Akropolu i archiwa YSMA",
+        "dostęp": "dla badaczy na umówienie",
+        "zbiór": "dokumentacja archeologiczna, plany, fotografie historyczne, publikacje naukowe"
+      },
+      "wystawy_czasowe": {
+        "lokalizacja": "Muzeum Akropolu",
+        "tematyka": "różne aspekty starożytnej kultury greckiej, nowe odkrycia archeologiczne"
+      }
+    },
+    "społeczne": {
+      "zarządzanie": "Ministerstwo Kultury Grecji - Ephorate of Antiquities of Athens",
+      "organizacja_konserwatorska": "Acropolis Restoration Service (YSMA)",
+      "status_prawny": "własność państwa greckiego, chroniona przez prawo",
+      "wydarzenia": [
+        "Festiwal Ateński - koncerty i przedstawienia w Odeonie Heroda Attyka",
+        "uroczystości państwowe",
+        "obchody Dnia Niepodległości (25 marca)",
+        "European Heritage Days (wrzesień) - darmowe wejście"
+      ],
+      "znaczenie_symboliczne": [
+        "miejsce uroczystości państwowych",
+        "symbol tożsamości narodowej Grecji",
+        "scena podniesienia flagi podczas oswobodzenia spod okupacji tureckiej (1833)",
+        "miejsce pamięci narodowej"
+      ],
+      "kampanie_społeczne": {
+        "zwrot_Elgin_Marbles": "międzynarodowa kampania o zwrot rzeźb z British Museum",
+        "ochrona_dziedzictwa": "edukacja społeczna o znaczeniu ochrony zabytków"
+      }
+    },
+    "naukowe": {
+      "projekty_badawcze": [
+        "projekt konserwatorski rozpoczęty w 1975",
+        "monitoring strukturalny i sejsmiczny",
+        "badania nad korozją marmuru",
+        "cyfrowa rekonstrukcja 3D",
+        "badania polichromii oryginalnej"
+      ],
+      "współpraca_międzynarodowa": [
+        "UNESCO",
+        "Getty Conservation Institute",
+        "uniwersytety europejskie i amerykańskie",
+        "instytuty archeologiczne"
+      ]
+    },
+    "funkcje_historyczne": {
+      "antyczne": [
+        "świątynia Ateny Partenos - główne miejsce kultu",
+        "skarbiec Związku Deliickiego (opisthodomos)",
+        "miejsce przechowywania skarbów państwowych Aten",
+        "centrum procesji Panatenajskich",
+        "symbol potęgi i prestiżu Aten"
+      ],
+      "bizantyjskie": [
+        "kościół Parthenou Maria (Matki Bożej)",
+        "centrum chrześcijańskie Aten"
+      ],
+      "osmańskie": [
+        "meczet z minaretem",
+        "skład prochu (doprowadził do eksplozji 1687)"
+      ]
+    }
+  },
+"kontekst_historyczny": {
+    "geneza_projektu": {
+      "inicjator": "Perykles - strateg ateński, przywódca demokratyczny",
+      "decyzja_polityczna": "program budowy monumentów na Akropolu",
+      "inspiracja": "wcześniejsze świątynie Ateny zniszczone przez Persów (480 p.n.e.)",
+      "cel": "manifestacja potęgi Aten, centrum kultu Ateny Partenos, skarbiec",
+      "kontekst_społeczny": "rozkwit demokracji ateńskiej, szczyt potęgi Aten",
+      "filozofia": "Ateny jako centrum cywilizacji greckiej, przywództwo kulturalne i militarne",
+      "finansowanie": "skarb Związku Deliickiego - kontrybucje sojuszniczych polis",
+      "kontrowersje": "oskarżenia o sprzeniewierzenie funduszy obronnych na cele prestiżowe"
+    },
+    "epoka_powstania": {
+      "okres": "Złoty Wiek Aten, wiek Peryklesa (V w. p.n.e.)",
+      "kontekst_polityczny": "demokracja ateńska u szczytu władzy, Ateny hegemonem Związku Deliickiego",
+      "kontekst_kulturowy": "rozkwit filozofii (Sokrates), dramatu (Sofokles, Eurypides, Ajschylos), historii (Herodot, Tukidydes)",
+      "kontekst_artystyczny": "wysoki klasycyzm grecki, szczyt rozwoju rzeźby i architektury",
+      "sytuacja_ekonomiczna": "dobrobyt po zwycięstwach nad Persami, kontrola szlaków handlowych na Morzu Egejskim",
+      "sytuacja_militarna": "pokój z Persją (449 p.n.e.), przed wybuchem wojny peloponeskiej (431 p.n.e.)"
+    },
+    "ważne_wydarzenia_historyczne": {
+      "zniszczenie_poprzedniej_świątyni_480_p.n.e.": {
+        "wpływ": "Persowie spalili i zniszczyli starszą świątynię Ateny podczas najazdu Kserksesa",
+        "przysięga": "Ateńczycy złożyli przysięgę nie odbudowywać świątyń do czasu zemsty",
+        "pamięć": "ruiny pozostawiono jako memento barbarzyństwa perskiego",
+        "czas": "30 lat ruin przed rozpoczęciem budowy Partenonu"
+      },
+      "konsekracja_432_p.n.e.": {
+        "wydarzenie": "uroczyste otwarcie podczas Wielkich Panatenajów",
+        "ceremonia": "procesja z miasta, hekatomb (ofiara 100 wołów)",
+        "umieszczenie_posągu": "instalacja chryselephantine posągu Ateny Partenos"
+      },
+      "wojna_peloponeska_431-404_p.n.e.": {
+        "wpływ": "Partenon ukończony tuż przed wybuchem wojny",
+        "funkcja": "symbol potęgi Aten podczas konfliktu ze Spartą",
+        "straty_wojenne": "wyczerpanie skarbu ateńskiego, demontaż złota z posągu (296 p.n.e.)"
+      },
+      "okres_rzymski_146_p.n.e.-330_n.e.": {
+        "status": "Ateny częścią imperium rzymskiego",
+        "ochrona": "Rzymianie szanowali i chronili Partenon",
+        "kradzieże": "Neron wywiózł niektóre rzeźby do Rzymu"
+      },
+      "chrystianizacja_V_w.": {
+        "data": "około 435 n.e.",
+        "przekształcenie": "zamiana na kościół Hagia Sophia (Mądrość Boża), później Parthenou Maria",
+        "zmiany": "usunięcie posągu Ateny, dodanie apsydy, zamurowanie niektórych wejść",
+        "zniszczenia": "uszkodzenie rzeźb pogańskich",
+        "czas_trwania": "ponad 1000 lat jako kościół"
+      },
+      "IV_krucjata_1204": {
+        "wpływ": "frankońskie panowanie, zamiana na kościół katolicki",
+        "grabieże": "wywóz niektórych dzieł sztuki"
+      },
+      "podbój_osmański_1456": {
+        "przekształcenie": "zamiana na meczet, dodanie minaretu",
+        "okres": "ponad 370 lat jako meczet",
+        "stan": "względnie dobry, Turcy szanowali budowlę"
+      },
+      "eksplozja_1687": {
+        "przyczyna": "pociski weneckie podczas oblężenia Aten, trafienie w skład prochu tureckiego",
+        "zniszczenia": "eksplozja zniszczyła cellę, naos, 14 kolumn południowych, większość rzeźb, dach",
+        "straty": "około 300 osób zabitych, strata bezcenna dla sztuki",
+        "dowódca_wenecki": "Francesco Morosini",
+        "skutki": "budynek w ruinie, nigdy nie odbudowany do pełnej formy"
+      },
+      "Lord_Elgin_1801-1812": {
+        "osoby": "Thomas Bruce, 7. hrabia Elgin, brytyjski ambasador w Konstantynopolu",
+        "działania": "wywóz połowy zachowanych rzeźb do Wielkiej Brytanii",
+        "firman": "kontrowersyjne pozwolenie sułtana osmańskiego",
+        "liczba": "około 247 stóp fryzu (75 m), 15 metop, 17 figur frontonowych, 1 kariatyda",
+        "sprzedaż": "1816 - sprzedaż brytyjskiemu rządowi za 35000 funtów",
+        "umiejscowienie": "British Museum od 1817",
+        "kontrowersje": "trwający do dziś spór o legalność i żądania zwrotu"
+      },
+      "niepodległość_Grecji_1832": {
+        "znaczenie": "Partenon stał się symbolem wolnej Grecji",
+        "usunięcia": "rozebranie minaretu, usunięcie osmańskich dobudówek",
+        "pierwsze_prace": "rozpoczęcie działań ochronnych i konserwatorskich"
+      },
+      "I_wojna_światowa": {
+        "wpływ": "niewielki, Grecja neutralna początkowo"
+      },
+      "II_wojna_światowa_1941-1944": {
+        "okupacja": "niemiecka i włoska okupacja Grecji",
+        "ochrona": "Niemcy chronili zabytki",
+        "symbol": "zerwanie flagi hitlerowskiej z Akropolu (30 maja 1941) przez Manolisa Glezosa - akt oporu"
+      },
+      "wielki_projekt_konserwatorski_1975": {
+        "inicjatywa": "utworzenie Committee for the Conservation of the Acropolis Monuments",
+        "powód": "postępująca degradacja, rdzewiące klamry żelazne",
+        "działania": "wymiana klamer na tytanowe, anastyloza, czyszczenie, wzmocnienia",
+        "czas_trwania": "od 1975 do dziś (ponad 50 lat)"
+      },
+      "wpis_UNESCO_1987": {
+        "data": "1987",
+        "znaczenie": "uznanie uniwersalnej wartości dla ludzkości",
+        "ochrona": "międzynarodowe wsparcie konserwatorskie"
+      },
+      "Nowe_Muzeum_Akropolu_2009": {
+        "otwarcie": "20 czerwca 2009",
+        "cel": "godne wyeksponowanie rzeźb z Partenonu",
+        "kampania": "argument w negocjacjach o zwrot Elgin Marbles"
+      }
+    },
+    "kontekst_architektów": {
+      "Iktinos": {
+        "rola": "główny architekt",
+        "filozofia": "matematyczna harmonia, refinements optyczne",
+        "inne_dzieła": "Świątynia Apollina w Bassae (również z refinements)",
+        "spuścizna": "jeden z najsłynniejszych architektów starożytności"
+      },
+      "Kallikrates": {
+        "rola": "współarchitekt",
+        "doświadczenie": "wcześniejsze prace na Akropolu",
+        "specjalizacja": "realizacja techniczna"
+      },
+      "Fidiasz": {
+        "rola": "nadzorca artystyczny, główny rzeźbiarz",
+        "wiek": "około 50 lat podczas rozpoczęcia prac",
+        "filozofia": "idealizm klasyczny, harmonia i doskonałość",
+        "los": "oskarżony o sprzeniewierzenie złota z posągu i bezbożność (umieścił swój wizerunek na tarczy Ateny), wygnany lub uwięziony, zmarł około 430 p.n.e.",
+        "spuścizna": "uznawany za największego rzeźbiarza starożytności"
+      },
+      "Perykles": {
+        "rola": "inicjator i patron polityczny",
+        "wiek": "około 48 lat przy rozpoczęciu projektu",
+        "filozofia": "Ateny jako 'szkoła Hellady', wielkość przez sztukę",
+        "mowa": "słynna mowa pogrzebowa opisująca ideały Aten",
+        "los": "zmarł podczas zarazy w 429 p.n.e.",
+        "kontrowersje": "oskarżany o marnotrawstwo funduszy sojuszniczych"
+      }
+    },
+    "kontekst_religijny": {
+      "kult_Ateny": "najważniejszy kult państwowy Aten",
+      "Panatenaje": "coroczne święto urodzin Ateny (28 Hekatombaiona - lipiec/sierpień)",
+      "Wielkie_Panatenaje": "co 4 lata, większe uroczystości, procesja przedstawiona na fryzie",
+      "peplos": "święta szata tkana dla Ateny, niesiona w procesji",
+      "hekatomb": "ofiara 100 wołów, mięso dzielone między obywateli",
+      "dostęp": "tylko kapłani wchodzili do celli, ogół na zewnątrz"
+    }
+  },
+"szczegółowy_opis": {
+    "tekst_krótki": "Partenon to starożytna grecka świątynia doryjska na Akropolu w Atenach, zbudowana w latach 447-432 p.n.e. jako miejsce kultu bogini Ateny Partenos. Zaprojektowana przez Iktinosa i Kallikratesa, z programem rzeźbiarskim Fidiasza, reprezentuje szczyt klasycznej architektury greckiej. Charakteryzuje się doskonałymi proporcjami matematycznymi, subtelnymi refinements optycznymi i bogatym wystrojem rzeźbiarskim. Obecnie w stanie ruiny, pozostaje symbolem starożytnej demokracji ateńskiej i zachodniej cywilizacji. Obiekt UNESCO od 1987 roku.",
+    "tekst_długi": "Partenon to monumentalna świątynia doryjska wzniesiona na Akropolu w Atenach w latach 447-432 p.n.e., będąca najdoskonalszym osiągnięciem klasycznej architektury greckiej i symbolem narodzin zachodniej cywilizacji. Ta niezwykła budowla, mimo że obecnie znajduje się w stanie częściowej ruiny, pozostaje jednym z najbardziej rozpoznawalnych i wpływowych dzieł architektonicznych w historii ludzkości.\n\nHistoria Partenonu rozpoczyna się w kontekście triumfu Aten nad Persją. Po zniszczeniu wcześniejszych świątyń przez Persów w 480 p.n.e., Ateńczycy złożyli przysięgę pozostawienia ruin jako memento barbarzyństwa najeźdźców. Dopiero po trzydziestu latach, w 447 p.n.e., przywódca demokratycznych Aten Perykles zainicjował ambitny program budowy monumentów na Akropolu, którego koroną miał być nowy Partenon. Projekt był manifestacją potęgi Aten u szczytu ich władzy jako hegemona Związku Deliickiego oraz centrum kulturalnego i intelektualnego świata greckiego.\n\nArchitektoniczny geniusz budowli zawdzięczamy dwóm wybitnym architektom - Iktinosowi i Kallikratesowi, którzy stworzyli konstrukcję łączącą matematyczną precyzję z subtelnym artystycznym wyczuciem. Nadzór artystyczny sprawował Fidiasz, uznawany za największego rzeźbiarza starożytności, który zaprojektował cały program rzeźbiarski oraz stworzył monumentalny posąg Ateny Partenos. Budowa była dziełem niezwykłej logistyki - przewieziono około 22000-30000 ton marmuru pentelinckiego z kamieniołomów odległych o 16 km, a budowę ukończono w zaledwie 15 lat, co jak na ówczesne standardy było osiągnięciem niezwykłym.\n\nArchitektura Partenonu reprezentuje porządek doryjski w jego najczystszej i najbardziej wyrafinowanej formie. Świątynia typu peripteros (otoczona kolumnami ze wszystkich stron) ma układ oktastylowy - osiem kolumn na fasadach krótszych i siedemnaście na bokach dłuższych, łącznie 46 kolumn zewnętrznych. Plan budowli opiera się na złotym podziale i proporcjach 4:9, tworząc harmonię matematyczną, którą starożytni Grecy uważali za odbicie boskiego porządku wszechświata.\n\nNajbardziej rewolucyjnym aspektem Partenonu są tzw. refinements - subtelne odchylenia od idealnej geometrii wprowadzone dla korekcji zniekształceń optycznych. Stylobat (podstawa) nie jest idealnie płaski, lecz wypukły w centrum o około 6 cm na długości i 11 cm na szerokości, co zapobiega iluzji wklęsłości długich linii poziomych. Kolumny nie są idealnie proste - posiadają entasis, subtelne wypukłości na 1/3 wysokości, co eliminuje wrażenie wklęsłości prostych pionów. Kolumny są lekko pochylone do wewnątrz o 1,5 stopnia, co zwiększa stabilność wizualną. Kolumny narożne są grubsze o 1/40, kompensując jasne tło nieba. Te wszystkie korekty, niewidoczne dla oka, tworzą perfekcyjne wrażenie harmonii i prostoty.\n\nProgram rzeźbiarski Partenonu był najbogatszym w historii architektury greckiej. Obejmował 92 metopy (płaskorzeźby) przedstawiające cztery wielkie mity: walkę Lapitów z Centaurami, zdobycie Troi, walkę bogów z Gigantami oraz Ateńczyków z Amazonkami. Dwa frontony (tympanony) przedstawiały narodziny Ateny z głowy Zeusa (wschód) oraz spór Ateny i Posejdona o patronat nad miastem (zachód). Unikalny był ciągły fryz joński o długości 160 metrów, przedstawiający procesję Wielkich Panatenajów - corocznego święta ku czci Ateny, z ponad 540 postaciami ludzkimi i 200 zwierzętami. Rzeźby te, wykonane w najwyższym klasycznym stylu, reprezentowały ideał harmonii, proporcji i doskonałości ludzkiego ciała.\n\nWewnątrz celli (głównej komory) znajdował się monumentalny posąg Ateny Partenos (Atena Dziewica) wykonany w technice chryzelfantyny - ciało z płyt kości słoniowej, szaty z 1000-1200 kg czystego złota na drewnianej konstrukcji. Posąg o wysokości 12 metrów przedstawiał boginię stojącą z Nike (Zwycięstwem) w prawej ręce, tarczą przy lewej nodze i włócznią. Był to nie tylko obiekt kultu, ale także strategiczna rezerwa złota państwa ateńskiego - płyty mogły być zdjęte i przetopione w razie potrzeby, co faktycznie uczyniono w 296 p.n.e.\n\nTurbulentna historia Partenonu odzwierciedla dzieje samej Europy. Przez prawie tysiąc lat funkcjonował jako pogańska świątynia. Około 435 n.e. przekształcono go w chrześcijański kościół - usunięto posąg Ateny, dodano apsydę, zniszczono wiele rzeźb pogańskich. W 1456 roku, po podboju osmańskim, stał się meczetem z minaretem. Ta adaptacja paradoksalnie uratowała budowlę przed dewastacją. Katastrofa przyszła 26 września 1687 roku, gdy podczas oblężenia weneckiego pocisk trafił w budynek używany przez Turków jako skład prochu. Eksplozja zniszczyła cellę, większość kolumn południowych i bezcennych rzeźb, zabijając około 300 osób. Od tego czasu Partenon pozostaje w ruinie.\n\nDalsze straty przyniosły działania Lorda Elgina, brytyjskiego ambasadora w Konstantynopolu, który w latach 1801-1812 wywiózł około połowę zachowanych rzeźb do Wielkiej Brytanii. Te 'Elgin Marbles', obecnie w British Museum, są przedmiotem trwającego od 1983 roku sporu - Grecja domaga się ich zwrotu, argumentując, że zostały zrabowane, Wielka Brytania twierdzi, że zostały legalnie nabyte i są lepiej zachowane w Londynie. Kontrowersja ta pozostaje jednym z najgłośniejszych sporów o restytucję dóbr kultury.\n\nWspółczesne prace konserwatorskie, prowadzone od 1975 roku przez Committee for the Conservation of the Acropolis Monuments, wykorzystują najnowsze technologie. Każdy blok został zeskanowany w 3D, wszystkie rdzewiące żelazne klamry z XIX-wiecznych restauracji wymieniono na tytanowe, przeprowadzono anastylozę (ponowne złożenie) kolumn. Marmur jest czyszczony laserem, a konstrukcja monitorowana sejsmicznie 24/7. Te prace, kosztujące setki milionów euro, mają na celu zachowanie Partenonu dla przyszłych pokoleń.\n\nZnaczenie kulturowe Partenonu jest nie do przecenienia. Wpisany na Listę Światowego Dziedzictwa UNESCO w 1987 roku, jest symbolem narodzin demokracji, filozofii, teatru i zachodniej cywilizacji. Zbudowany w czasach Sokratesa, współczesny Platonowi i Arystotelesowi, Ajschylosowi i Eurypidesowi, reprezentuje Złoty Wiek Aten, gdy miasto było intelektualną stolicą świata. Jego wpływ na architekturę jest niezmierzony - niezliczone budynki od XVIII wieku naśladują jego formy: od Kapitolu w Waszyngtonie, przez Lincoln Memorial, po gmach Sądu Najwyższego USA. Pełnowymiarowa replika w Nashville, Tennessee, świadczy o ponadczasowej fascynacji tym dziełem.\n\nPartenon pozostaje żywym symbolem. Dla Greków jest to narodowa ikona, emblem na monetach euro, miejsce uroczystości państwowych. Dla świata zachodniego to kolebka demokratycznych ideałów i racjonalnego myślenia. W erze globalizacji, gdy 3-4 miliony turystów rocznie wspina się na Akropol, Partenon przypomina, że wielkie idee - demokracja, sprawiedliwość, piękno, harmonia - mogą przetrwać tysiąclecia wojen, zniszczeń i zmian cywilizacyjnych. Po 2500 latach ruiny na ateńskim wzgórzu nadal inspirują, prowokują debaty i przypominają o potędze ludzkiego ducha i geniuszu.",
+    "opis_symboliczny": "Partenon to utkany w białym marmurze hymn ku czci rozumu, manifest przekonania, że człowiek poprzez harmonię matematyczną może dotknąć boskiego ładu. To świątynia nie tylko Ateny, ale samej idei doskonałości - gdzie każda linia, każda krzywizna, każda proporcja śpiewa pieśń o złotym podziale i wiecznej harmonii. W jego kolumnach zapisano alfabet zachodniej cywilizacji, w jego frontonach wyrzeźbiono narodziny filozofii. To miejsce, gdzie kamień transcenduje swoją materialność, stając się czystą geometrią, czystą myślą, czystym pięknem. Dla starożytnych Greków był domem bogini, dla współczesności jest świątynią samego człowieczeństwa - pomnikiem wiary w potęgę ludzkiego umysłu i triumfem idei nad przemijaniem.",
+    "ciekawostki": [
+      "Partenon nigdy nie był nazywany 'Partenonem' w starożytności - potoczna nazwa to po prostu 'Naos' (świątynia)",
+      "Budowa trwała tylko 15 lat (447-432 p.n.e.) - szybciej niż wiele współczesnych projektów budowlanych",
+      "Nie użyto ani grama zaprawy - wszystkie bloki połączone są na sucho dzięki precyzyjnemu cięciu",
+      "Całkowity koszt budowy: około 469 talentów srebra (plus 700-1000 talentów na posąg Ateny) - równowartość około 7 miliardów dolarów dzisiejszych",
+      "Marmur pentelicki żółknie z wiekiem przez zawartość żelaza - stąd charakterystyczny miodowy odcień",
+      "W starożytności Partenon był pomalowany jaskrawymi kolorami - niebieski, czerwony, złoty. Współczesna biała wersja to efekt starcia farb",
+      "Fidiasz ukrył swój autoportret i wizerunek Peryklesa na tarczy Ateny - został za to oskarżony o bezbożność",
+      "Złoto z posągu Ateny było regularnie zdejmowane, ważone i sprawdzane - jako forma audytu finansowego",
+      "Eksplozja z 1687 roku była słyszalna w promieniu 20 km, a odłamki rzeźb rozrzucone na setki metrów",
+      "Lord Elgin potrzebował 300 skrzyń do przewiezienia rzeźb, jeden statek z rzeźbami zatonął (później wydobyty)",
+      "W XIX wieku turyści odłupywali kawałki marmuru jako pamiątki - praktyka zatrzymana dopiero w XX wieku",
+      "Podczas II wojny światowej Niemcy chronili Partenon, ale Grecy użyli go jako miejsca ukrycia flag oporu",
+      "Nowe Muzeum Akropolu ma galerię Partenonu w dokładnej orientacji i wymiarach oryginału",
+      "Współczesne prace konserwatorskie używają kamienia z tego samego kamieniołomu co 2500 lat temu",
+      "Na budowie Partenonu pracowało jednocześnie około 200-400 robotników",
+      "Każdy blok marmuru był indywidualnie ciosanym - nie ma dwóch identycznych",
+      "Refinements optyczne były tak subtelne, że zostały 'odkryte' dopiero w XIX wieku",
+      "W średniowieczu Partenon służył jako bank - w jego podziemiach przechowywano skarby",
+      "Ateńczycy mogli zobaczyć błysk złotego posągu Ateny z odległości kilku kilometrów od miasta",
+      "Trwa spór o autentyczność farmanów Lorda Elgina - niektórzy twierdzą, że były sfałszowane",
+      "W 2004 roku podczas Igrzysk Olimpijskich w Atenach medal olimpijski zawierał wizerunek Partenonu",
+      "Gdyby kolumny były idealnie proste (bez entasis), wyglądałyby na wklęsłe z odległości",
+      "Partenon przetrwał poważne trzęsienia ziemi dzięki sprężystym połączeniom bloków",
+      "Proces beatyfikacyjny nie dotyczy Partenonu, ale Fidiasza kiedyś uważano za półboga sztuki"
+    ]
+  },
+"dane_techniczne": {
+    "numer_UNESCO": "404",
+    "współrzędne": {
+      "WGS84": {
+        "lat": 37.9715,
+        "lon": 23.7267,
+        "alt": 156
+      },
+      "UTM": {
+        "strefa": "34S",
+        "easting": 729784,
+        "northing": 4202663
+      }
+    },
+    "status_prawny": {
+      "właściciel": "Państwo Greckie - Ministerstwo Kultury",
+      "typ_własności": "własność publiczna państwowa",
+      "przeznaczenie": "stanowisko archeologiczne, obiekt muzealny, monument narodowy",
+      "ochrona_konserwatorska": "najwyższy stopień ochrony zabytków w Grecji i UNESCO",
+      "zarządzanie": "Ephorate of Antiquities of Athens, Acropolis Restoration Service (YSMA)"
+    },
+    "ubezpieczenie": {
+      "typ": "ubezpieczenie państwowe jako narodowe dziedzictwo",
+      "wartość_ubezpieczenia": "niepoliczalna - bezcenna wartość kulturowa",
+      "zakres": "odpowiedzialność państwa greckiego, wsparcie UNESCO"
+    },
+    "certyfikaty_budowlane": {
+      "pozwolenia_konserwatorskie": "szczegółowe pozwolenia dla każdej interwencji konserwatorskiej",
+      "certyfikat_bezpieczeństwa": "ciągły monitoring strukturalny",
+      "certyfikat_sejsmiczny": "system monitoringu sejsmicznego 24/7",
+      "dostępność": "ograniczona dostępność dla osób niepełnosprawnych - winda dostępna, ale większość terenu niedostępna"
+    },
+    "systemy_stanowiska": {
+      "oświetlenie": {
+        "typ": "LED - oświetlenie nocne dla efektów wizualnych",
+        "moc": "około 150 kW",
+        "sterowanie": "automatyczne sterowanie czasowe i świetlne",
+        "liczba_punktów": "około 300 punktów oświetleniowych wokół Akropolu"
+      },
+      "monitoring_strukturalny": {
+        "czujniki_sejsmiczne": "8 stacji sejsmicznych na Akropolu",
+        "czujniki_przechyłu": "czujniki przechyłu na kolumnach",
+        "czujniki_pęknięć": "monitoring pęknięć w marmurze",
+        "monitoring_wilgoci": "czujniki wilgotności i temperatury",
+        "stacje_pogodowe": "2 automatyczne stacje meteorologiczne"
+      },
+      "bezpieczeństwo": {
+        "monitoring": "około 80 kamer CCTV",
+        "kontrola_dostępu": "bramki elektroniczne, bilety z kodami",
+        "alarm": "system alarmowy podłączony do policji",
+        "ochrona": "całodobowa ochrona - około 30 strażników Archaeological Police"
+      },
+      "przeciwpożarowy": {
+        "hydranty": 15,
+        "gaśnice": "rozmieszczone w budynkach służbowych",
+        "czujniki": "czujniki dymu w pomieszczeniach zamkniętych",
+        "drogi_dostępu": "dedykowane drogi dla straży pożarnej",
+        "monitoring": "24/7 monitoring przeciwpożarowy"
+      },
+      "woda": {
+        "studnie": "historyczne studnie i cysterny (nieużywane)",
+        "dostawca": "przyłącze miejskie dla budynków służbowych",
+        "nawadnianie": "system nawadniania dla zieleni wokół Akropolu"
+      },
+      "elektryczność": {
+        "przyłącze": "główne przyłącze + rezerwowe",
+        "moc": "około 200 kW",
+        "napięcie": "400V / 230V",
+        "agregat": "awaryjny agregat dla systemów monitoringu",
+        "UPS": "dla systemów krytycznych (monitoring, bezpieczeństwo)"
+      },
+      "komunikacja": {
+        "internet": "światłowód dla systemów monitoringu",
+        "Wi-Fi": "ograniczone Wi-Fi w strefach służbowych",
+        "radio": "łączność radiowa dla służb"
+      }
+    },
+    "infrastruktura_turystyczna": {
+      "wejścia": {
+        "główne": "wejście zachodnie przez Propyleje",
+        "winda": "dostęp windą dla osób niepełnosprawnych (ograniczony)",
+        "wyjścia_awaryjne": 4
+      },
+      "ścieżki": {
+        "typ": "drewniane kładki ochronne na marmurowych powierzchniach",
+        "długość": "około 800 m",
+        "szerokość": "1.5-2.5 m",
+        "barierki": "barierki ochronne wokół niebezpiecznych krawędzi"
+      },
+      "oznakowanie": {
+        "tablice_informacyjne": "około 50 tablic w języku greckim i angielskim",
+        "mapa_terenu": "mapy przy wejściach",
+        "zakazy": "oznakowanie zakazów (palenie, jedzenie, dotykanie)"
+      },
+      "toalety": {
+        "lokalizacja": "przy wejściu głównym",
+        "liczba_kabin": 20,
+        "dostępność": "toaleta dla osób niepełnosprawnych"
+      },
+      "pierwsza_pomoc": {
+        "punkty": 2,
+        "wyposażenie": "pełne wyposażenie pierwszej pomocy",
+        "personel": "przeszkolony personel medyczny w sezonie"
+      },
+      "sklepy": {
+        "liczba": 2,
+        "lokalizacja": "przy wejściu i wyjściu",
+        "asortyment": "książki, repliki, pamiątki"
+      }
+    },
+    "konserwacja": {
+      "zespół_stały": "około 60-80 konserwatorów i specjalistów",
+      "zespół_sezonowy": "do 150 osób w szczycie sezonu prac",
+      "sprzęt": {
+        "dźwigi": "mobilne dźwigi do 50 ton",
+        "rusztowania": "specjalistyczne rusztowania aluminiowe",
+        "narzędzia": "narzędzia laserowe do cięcia i czyszczenia marmuru",
+        "laboratoria": "laboratorium konserwatorskie na miejscu"
+      },
+      "materiały": {
+        "marmur_pentelicki": "dostawa z oryginalnego kamieniołomu",
+        "tytan": "klamry i elementy łączące",
+        "chemia": "impregnaty i środki konserwatorskie"
+      },
+      "budżet_roczny": "około 4-6 mln euro"
+    },
+    "monitoring_środowiskowy": {
+      "jakość_powietrza": "ciągły monitoring zanieczyszczeń SO2, NOx, pyłów",
+      "wilgotność": "monitoring wilgotności marmuru",
+      "temperatura": "monitoring temperatury powierzchni",
+      "wiatr": "anemometry na wzgórzu",
+      "opady": "monitoring opadów i ich wpływu",
+      "wibracje": "monitoring wibracji od ruchu ulicznego"
+    },
+    "gospodarka_odpadami": {
+      "segregacja": "pełna segregacja w strefach turystycznych",
+      "pojemniki": "około 50 koszy na odpady",
+      "wywóz": "codziennie w godzinach nocnych",
+      "odpady_konserwatorskie": "specjalne zarządzanie odpadami kamiennymi i chemicznymi"
+    },
+    "dostęp_techniczny": {
+      "drogi_dojazdowe": "droga techniczna dla pojazdów konserwatorskich",
+      "parking": "parking służbowy dla 15 pojazdów",
+      "magazyny": "pomieszczenia magazynowe w podziemiach",
+      "warsztaty": "warsztaty konserwatorskie na terenie"
+    },
+    "parametry_historyczne": {
+      "masa_konstrukcji": "około 22000-30000 ton marmuru",
+      "liczba_bloków": "około 13400 bloków",
+      "liczba_klamer_antycznych": "około 10000 żelaznych klamer (wymieniane na tytanowe)",
+      "liczba_klamer_nowych": "około 8500 klamer tytanowych zainstalowanych od 1984"
+    },
+    "dane_geologiczne": {
+      "podłoże": "skała wapienna Akropolu",
+      "fundament": "bezpośrednio na skale",
+      "aktywność_sejsmiczna": "strefa sejsmiczna IV (średnie ryzyko)",
+      "odporność_sejsmiczna": "budowla przetrwała liczne trzęsienia ziemi przez 2500 lat"
+    }
+  },
+"kontakt": {
+    "adres_korespondencyjny": "Acropolis, 105 58 Athens, Greece",
+    "adres_zarządzania": "Ephorate of Antiquities of Athens, Makrygianni 2-4, 117 42 Athens, Greece",
+    "telefon_informacje": "+30 210 321 4172",
+    "telefon_rezerwacje": "+30 210 923 1665",
+    "telefon_biuro": "+30 210 321 0219",
+    "e-mail_informacje": "info@theacropolismuseum.gr",
+    "e-mail_grupy": "groups@culture.gr",
+    "e-mail_badania": "ysma@culture.gr",
+    "strona_internetowa": "http://odysseus.culture.gr",
+    "strona_muzeum": "https://www.theacropolismuseum.gr",
+    "social_media": {
+      "facebook": "@AcropolisMuseum",
+      "instagram": "@acropolismuseum",
+      "twitter": "@AcropolisMus",
+      "youtube": "Acropolis Museum"
+    },
+    "biuro_prasowe": "press@culture.gr",
+    "dział_edukacyjny": "education@theacropolismuseum.gr",
+    "współpraca_akademicka": "ysma@culture.gr",
+    "rezerwacje_online": "https://etickets.tap.gr",
+    "ministerstwo_kultury": {
+      "adres": "Ministry of Culture and Sports, Bouboulinas 20-22, 106 82 Athens, Greece",
+      "telefon": "+30 213 214 1000",
+      "e-mail": "info@culture.gr"
+    },
+    "acropolis_restoration_service": {
+      "nazwa": "YSMA (Υπηρεσία Συντήρησης Μνημείων Ακρόπολης)",
+      "adres": "Polygnotou 10, Plaka, 105 55 Athens, Greece",
+      "telefon": "+30 210 321 4172",
+      "e-mail": "ysma@culture.gr"
+    }
+  },
+ 
+  "porady_praktyczne": {
+    "co_zabrać": [
+      "wygodne obuwie",
+      "wodę (minimum 1L)",
+      "kapelusz i krem z filtrem",
+      "aparat/telefon z naładowaną baterią",
+      "gotówka na pamiątki"
+    ],
+    "czego_unikać": [
+      "pory południowej w lecie (najgorętsze)",
+      "weekendy w sezonie (tłumy)",
+      "wciskających sprzedawców selfie-sticków",
+      "nielegalnych przewodników"
+    ],
+    "insiderskie_tipy": [
+      "Kup bilety online z wyprzedzeniem - ominiesz kolejki",
+      "Przyjdź o otwarciu lub 2h przed zamknięciem",
+      "Roma Pass daje pierwszeństwo wejścia",
+      "Bezpłatne Wi-Fi w okolicy - hasło w punkcie info",
+      "Najlepsze zdjęcia z Wzgórza Palatyn o zachodzie"
+    ],
+    "błędy_turystów": [
+      "Przyjście bez rezerwacji w sezonie",
+      "Niedocenianie czasu zwiedzania",
+      "Brak wody i ochrony przed słońcem",
+      "Próba zobaczenia wszystkiego w 1h",
+      "Kupowanie pamiątek od ulicznych sprzedawców (droższe)"
+    ]
+  },
+  
+ 
+  "ciekawostki_praktyczne": [
+    "W podziemiach (hypogeum) temperatura jest o 5-8°C niższa - zabierz bluzę",
+    "Darmowe wejście w pierwszą niedzielę każdego miesiąca (długie kolejki!)",
+    "Młodzież do 18 lat (UE) ma wstęp bezpłatny",
+    "Audioguide dostępne w 10 językach - warto wynająć",
+    "Arena jest oświetlona nocą - piękne widoki z zewnątrz za darmo",
+    "W pobliżu są publiczne toalety - przy Via dei Fori Imperiali",
+    "Punkt pierwszej pomocy znajduje się przy wejściu głównym"
+  ],
+  
+  "FAQ": [
+    {
+      "pytanie": "Czy mogę wejść z plecakiem?",
+      "odpowiedź": "Tak, ale będzie sprawdzany. Duże plecaki (>40x35x15cm) mogą być zabronione."
+    },
+    {
+      "pytanie": "Czy jest klimatyzacja?",
+      "odpowiedź": "Nie, Koloseum jest otwarte, bez klimatyzacji. Latem bardzo gorąco."
+    },
+    {
+      "pytanie": "Czy można robić zdjęcia?",
+      "odpowiedź": "Tak, dozwolone bez flesza i statywów. Drony zabronione."
+    },
+    {
+      "pytanie": "Czy jest dostępne dla wózków?",
+      "odpowiedź": "Częściowo. Winda dostępna, ale nie wszystkie poziomy są osiągalne."
+    },
+    {
+      "pytanie": "Gdzie kupić bilety?",
+      "odpowiedź": "Online na coopculture.it (zalecane) lub na miejscu (długie kolejki)."
+    }
+  ],
+
+  "historia_w_pigułce": {
+    "krotki_opis": "Największy amfiteatr starożytnego świata, zbudowany przez dynastię Flawiuszy w latach 72-80 n.e. Miejsce walk gladiatorów i polowań na dzikie zwierzęta.",
+    "dlaczego_warto_zobaczyc": "Symbol Rzymu i jeden z najlepiej zachowanych zabytków starożytności. Arcydzieło inżynierii, które przetrwało 2000 lat.",
+    "najciekawsze_fakty": [
+      "Mogło pomieścić 50-80 tysięcy widzów",
+      "Wszystkich można było ewakuować w 5-10 minut",
+      "Pod areną był labirynt korytarzy i 28 wind",
+      "Arena była zalewana wodą do bitew morskich"
+    ]
+  },
+
+  "multimedia": {
+    "wirtualny_spacer_url": "https://example.com/virtual-tour",
+    "drone_video_url": "https://youtube.com/...",
+    "dokumenty_filmowe": [
+      {
+        "tytuł": "Engineering an Empire: Rome",
+        "url": "https://...",
+        "czas": "45 min"
+      }
+    ],
+    "podcast_odcinki": []
+  }
+}

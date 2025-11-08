@@ -1,0 +1,266 @@
+{
+  "id": "ATR-PLA-RU-MOS-001",
+  "typ": "atrakcja",
+  "kategoria": "plac",
+  
+  "podstawowe_informacje": {
+    "nazwa": {
+      "oficjalna": "Красная площадь",
+      "lokalna": "Krasnaja płoszczad",
+      "angielska": "Red Square",
+      "tlumaczenia": {
+        "polski": "Plac Czerwony"
+      },
+      "pochodzenie": "krasnaja = piękny (w starorosyjskim), nie od koloru"
+    },
+    "lokalizacja": {
+      "kraj_id": "KRAJ-RU-001",
+      "miasto_id": "MIASTO-RU-MOS-001",
+      "dzielnica": "Kitaj-gorod",
+      "wspolrzedne": {
+        "lat": 55.7539,
+        "lon": 37.6208
+      }
+    },
+    "status": {
+      "aktywny": true,
+      "otwarty_publicznie": true,
+      "unesco": true,
+      "unesco_rok": 1990
+    }
+  },
+  
+  "charakterystyka": {
+    "powierzchnia_m2": 23100,
+    "wymiary": {
+      "dlugosc_m": 330,
+      "szerokosc_m": 70
+    },
+    "nawierzchnia": "kostka brukowa (bulat - diabaz)",
+    "otoczone_przez": [
+      "Kreml (zachód)",
+      "GUM (wschód)",
+      "Sobór Wasyla Błogosławionego (południe)",
+      "Muzeum Historyczne (północ)"
+    ],
+    "funkcja": "plac ceremonialny, miejsce wydarzeń państwowych"
+  },
+  
+  "historia": {
+    "powstanie": "XV wiek",
+    "pierwotna_nazwa": "Požar (pożar) - częste pożary",
+    "wazne_wydarzenia": [
+      {
+        "rok": 1661,
+        "wydarzenie": "Zmiana nazwy na Krasnaja płoszczad"
+      },
+      {
+        "rok": 1812,
+        "wydarzenie": "Wielki pożar podczas najazdu Napoleona"
+      },
+      {
+        "rok": 1918,
+        "wydarzenie": "Pierwsze parady Armii Czerwonej"
+      },
+      {
+        "rok": 1945,
+        "wydarzenie": "Parada zwycięstwa po II wojnie"
+      },
+      {
+        "rok": 1990,
+        "wydarzenie": "Wpis na listę UNESCO"
+      }
+    ],
+    "funkcje_historyczne": [
+      "rynek (XV-XVII wiek)",
+      "miejsce egzekucji publicznych",
+      "centrum życia publicznego Moskwy",
+      "miejsce parad wojskowych (od 1918)"
+    ]
+  },
+  
+  "atrakcje_na_placu": [
+    {
+      "nazwa": "Sobór Wasyla Błogosławionego",
+      "id": "ATR-BUD-RU-MOS-001",
+      "opis": "Ikoniczny sobór z kolorowymi kopułami",
+      "rok": 1561,
+      "cena_wstep_rub": 1000
+    },
+    {
+      "nazwa": "Mauzoleum Lenina",
+      "id": "ATR-BUD-RU-MOS-002",
+      "opis": "Grób Włodzimierza Lenina",
+      "wstep": "bezpłatny",
+      "godziny": "wtorek-czwartek, sobota-niedziela 10:00-13:00",
+      "kolejki": "długie"
+    },
+    {
+      "nazwa": "Kreml Moskiewski",
+      "id": "ATR-BUD-RU-MOS-003",
+      "opis": "Rezydencja prezydenta, zespół pałacowy",
+      "wstep_do_terenow": "płatny",
+      "uwagi": "część zamknięta dla turystów"
+    },
+    {
+      "nazwa": "GUM",
+      "id": "ATR-BUD-RU-MOS-004",
+      "opis": "Luksusowy dom towarowy w XIX-wiecznym budynku",
+      "wstep": "bezpłatny",
+      "sklepy": "luksusowe marki, kawiarnie"
+    },
+    {
+      "nazwa": "Państwowe Muzeum Historyczne",
+      "id": "ATR-MUZ-RU-MOS-001",
+      "opis": "Historia Rosji od czasów prehistorycznych",
+      "cena_wstep_rub": 400
+    },
+    {
+      "nazwa": "Kazan Cathedral",
+      "opis": "Odbudowany sobór prawosławny",
+      "wstep": "bezpłatny"
+    },
+    {
+      "nazwa": "Pomnik Minina i Pożarskiego",
+      "opis": "Pierwszy pomnik świecki w Moskwie (1818)"
+    }
+  ],
+  
+  "informacje_turystyczne": {
+    "liczba_odwiedzajacych_rocznie": 15000000,
+    "dostep": {
+      "czynne": "24/7",
+      "wstep": "bezpłatny",
+      "kontrola_bezpieczenstwa": "tak, na wejściach"
+    },
+    "jak_dojechac": {
+      "metro": [
+        "Охотный Ряд (Ochotnyj Rjad) - czerwona linia",
+        "Площадь Революции (Płoszczad Riewolucji) - niebieska",
+        "Театральная (Tieatralnaja) - zielona"
+      ],
+      "dojscie": "5 minut od stacji metra"
+    },
+    "czas_wizyty": {
+      "tylko_plac": "30 minut",
+      "z_atrakcjami": "3-4 godziny",
+      "pelny_dzien": "6-8 godzin (Kreml, muzea)"
+    }
+  },
+  
+  "praktyczne_informacje": {
+    "najlepszy_czas": {
+      "pora_roku": "wrzesień-październik, maj-czerwiec",
+      "unikaj": "styczeń-luty (bardzo zimno, -20°C)",
+      "pora_dnia": "wczesny poranek (mniej turystów), wieczór (podświetlenie)"
+    },
+    "co_zabrac": [
+      "ciepłe ubrania (nawet latem wieczory chłodne)",
+      "wygodne buty (dużo chodzenia)",
+      "aparat",
+      "gotówkę (ruble - nie wszędzie karty)"
+    ],
+    "bezpieczenstwo": {
+      "ogolnie": "bezpieczny, dużo policji",
+      "uwaga": "kieszonkowcy w tłumie",
+      "zakazy": [
+        "demonstracje polityczne",
+        "drony",
+        "duże plecaki (kontrola)"
+      ]
+    },
+    "jezyk": {
+      "angielski": "podstawowy w hotelach/restauracjach",
+      "alfabet_cyrylica": "polecane podstawy"
+    }
+  },
+  
+  "wydarzenia": {
+    "parady_wojskowe": {
+      "9_maja": "Dzień Zwycięstwa - największa parada",
+      "7_listopada": "Rocznica Rewolucji Październikowej (historycznie)"
+    },
+    "jarmark_bozonarodzeniowy": {
+      "kiedy": "grudzień-styczeń",
+      "atrakcje": "lodowisko, stoiska z jedzeniem, pamiątki"
+    },
+    "koncerty": {
+      "czestotliwosc": "okazjonalnie - duże wydarzenia państwowe"
+    }
+  },
+  
+  "porady_zwiedzajacych": {
+    "insider_tips": [
+      "Przyjdź wieczorem - plac pięknie podświetlony",
+      "Mauzoleum bezpłatne, ale kolejki długie - przyjedź o otwarciu",
+      "GUM - drogie sklepy, ale piękna architektura, warto wejść",
+      "Kreml wymaga osobnego biletu - kup online",
+      "Sobór Wasyla Błogosławionego najpiękniejszy na zdjęciach o zachodzie",
+      "Metro stacja Площадь Революции ma piękne rzeźby - pogłaszcz psa dla szczęścia"
+    ],
+    "bledy_turystow": [
+      "Próba wejścia do Mauzoleum w poniedziałek/piątek - zamknięte",
+      "Brak ciepłych ubrań zimą - ekstremalne zimno",
+      "Zakładanie że wszyscy mówią po angielsku",
+      "Fotografowanie bez pozwolenia w niektórych budynkach",
+      "Niedocenianie wielkości - można spędzić cały dzień"
+    ]
+  },
+  
+  "ciekawostki": [
+    "Nazwa 'czerwony' pochodzi od 'piękny', nie od komunizmu",
+    "Bruk wymieniono w 1930 roku - użyto kamieniakrymskiego",
+    "W czasie II wojny ukrywano Mauzoleum i pomniki",
+    "Parady wojskowe oglądane przez miliony na TV",
+    "Pod placem tunele i bunkry z czasów zimnej wojny",
+    "Jest mniejszy niż Plac Tiananmen i Times Square"
+  ],
+  
+  "gastronomia_w_poblizu": {
+    "w_gum": [
+      {
+        "nazwa": "Stolovaya 57",
+        "typ": "bar samoobsługowy w stylu sowieckim",
+        "ceny": "przystępne (500-1000 RUB)",
+        "specjalnosc": "borsch, pierogi, bliny"
+      },
+      {
+        "nazwa": "GUM Ice Cream",
+        "specjalnosc": "lody w stylu ZSRR",
+        "cena_rub": 100
+      }
+    ],
+    "w_poblizu": [
+      {
+        "nazwa": "Café Pushkin",
+        "odleglosc_m": 800,
+        "kuchnia": "rosyjska haute cuisine",
+        "ceny": "wysokie"
+      }
+    ]
+  },
+  
+  "multimedia": {
+    "galeria_ids": ["GAL-PLA-MOS-001"],
+    "oficjalna_strona": null,
+    "webcam": "https://www.earthcam.com/world/russia/moscow/",
+    "wirtualny_spacer": "Google Street View"
+  },
+  
+  "powiazania": {
+    "kraj_id": "KRAJ-RU-001",
+    "miasto_id": "MIASTO-RU-MOS-001",
+    "kategoria": "plac",
+    "atrakcje_na_placu_ids": [
+      "ATR-BUD-RU-MOS-001",
+      "ATR-BUD-RU-MOS-002",
+      "ATR-BUD-RU-MOS-003"
+    ]
+  },
+  
+  "metadata": {
+    "utworzono": "2025-01-15T10:00:00Z",
+    "zaktualizowano": "2025-01-15T10:00:00Z",
+    "wersja": "1.0"
+  }
+}
